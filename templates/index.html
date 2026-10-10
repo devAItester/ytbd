@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} — индекс YouTube</title>
+  <style>
+    body { max-width: 64rem; margin: 2rem auto; padding: 0 1rem; font: 1rem/1.55 system-ui, sans-serif; }
+    li { margin: .3rem 0; }
+    .muted { color: #666; }
+  </style>
+</head>
+<body>
+<h1>{{ title }}</h1>
+<p><a href="{{ channel_url }}">Канал на YouTube</a>{% if channel_id %} · ID: {{ channel_id }}{% endif %}</p>
+<p class="muted">Краткий индекс · проверено: {{ checked_at }}</p>
+{% for section in sections %}
+<h2>{{ section.title }} ({{ section.archive_count }})</h2>
+<ul>
+{% for item in section.items %}
+<li>{% if item.display_url %}<a href="{{ item.display_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}{% if item.upload_date %} <span class="muted">— {{ item.upload_date }}</span>{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+{% if errors %}
+<h2>Предупреждения</h2>
+<ul>{% for error in errors %}<li>{{ error }}</li>{% endfor %}</ul>
+{% endif %}
+</body>
+</html>
