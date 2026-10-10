@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CHANNEL_URL = "https://www.youtube.com/@RTFMurych"
-TEMPLATES = ("outline.md", "archive.md", "index.md")
+TEMPLATES = ("outline.md", "archive.md", "index.md", "full.md")
 
 
 def copy_evidence(temp: Path, artifacts: Path | None, template_name: str) -> None:
@@ -26,9 +26,11 @@ def copy_evidence(temp: Path, artifacts: Path | None, template_name: str) -> Non
         ("data/RTFMurych/status.json", destination / "status.json"),
         ("data/RTFMurych/tabs.json", destination / "tabs.json"),
         ("data/RTFMurych/archive", destination / "archive"),
+        ("data/RTFMurych/raw/video-details", destination / "raw/video-details"),
     ):
         source = temp / name
         if source.is_dir():
+            target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copytree(source, target, dirs_exist_ok=True)
         elif source.is_file():
             target.parent.mkdir(parents=True, exist_ok=True)
@@ -44,6 +46,8 @@ def check_output(template_name: str, output: str, tabs: list[dict]) -> list[str]
         title = tab["title"]
         if template_name == "outline.md":
             marker = f"<summary>{title} —"
+        elif template_name == "full.md":
+            marker = f"## {title} —"
         else:
             marker = f"## {title}"
         if marker not in output:
@@ -55,6 +59,13 @@ def check_output(template_name: str, output: str, tabs: list[dict]) -> list[str]
         failures.append("соседние пункты списка склеены")
     if any(line.strip() != "</details>" for line in output.splitlines() if "</details>" in line):
         failures.append("закрывающий тег details приклеен к содержимому карточки")
+    if template_name == "full.md":
+        if "Метаданные канала" not in output:
+            failures.append("в полном представлении отсутствуют метаданные канала")
+        if '"_type"' not in output and '"id"' not in output:
+            failures.append("в полном представлении не обнаружены поля JSON-метаданных")
+        if "Локальные файлы" not in output:
+            failures.append("в полном представлении отсутствует раздел о локальных файлах")
     if template_name == "outline.md" and "<details>" not in output:
         failures.append("в обзоре отсутствуют раскрывающиеся разделы")
     if template_name == "archive.md" and "<details>" not in output:
@@ -79,6 +90,7 @@ def main() -> int:
         args.artifacts.mkdir(parents=True, exist_ok=True)
 
     failures: list[str] = []
+    detail_skipped = False
     with tempfile.TemporaryDirectory(prefix="ytbd-live-smoke-") as temporary:
         root = Path(temporary)
         input_path = root / "channels.txt"
@@ -96,6 +108,8 @@ def main() -> int:
                 "--data", str(data_root),
                 "--output", str(output_root),
             ]
+            if template_name == "full.md":
+                command.extend(["--detail-limit", "3", "--download-media"])
             result = subprocess.run(
                 command, cwd=ROOT, capture_output=True, text=True, check=False
             )
@@ -128,6 +142,31 @@ def main() -> int:
                 f"{template_name}: {message}"
                 for message in check_output(template_name, output, tabs)
             )
+            if template_name == "full.md":
+                detail_dir = data_root / "RTFMurych" / "raw" / "video-details"
+                detailed = list(detail_dir.glob("*.json")) if detail_dir.is_dir() else []
+                if status.get("detail_errors"):
+                    print(f"Замечания подробного сбора: {len(status['detail_errors'])}")
+                    for message in status["detail_errors"][:10]:
+                        print(f"  - {message}")
+                detail_errors = status.get("detail_errors", [])
+                blocked_by_youtube = any("not a bot" in str(error).lower() for error in detail_errors)
+                if not detailed:
+                    if blocked_by_youtube:
+                        detail_skipped = True
+                        print(
+                            "ПРОПУСК подробного сбора: YouTube блокирует IP GitHub Actions "
+                            "проверкой «Sign in to confirm you're not a bot»."
+                        )
+                    else:
+                        failures.append(
+                            "full.md: подробный JSON ни одного видео не сохранён; "
+                            f"ошибки: detail_errors[:10]={detail_errors[:10]!r}"
+                        )
+                if "--detail-limit" not in command or "Локальные файлы" not in output:
+                    failures.append("full.md: параметры подробного сбора или раздел локальных файлов отсутствуют")
+                if not (output_root / "RTFMurych" / "media" / "videos").is_dir() and not blocked_by_youtube:
+                    failures.append("full.md: каталог локальных материалов не создан")
             print(
                 f"Проверен {template_name}: вкладки "
                 f"{[tab['key'] for tab in tabs]}; "
@@ -140,7 +179,14 @@ def main() -> int:
             print(f"- {failure}", file=sys.stderr)
         return 1
 
-    print("УСПЕХ: все три шаблона прошли live-сбор и структурную проверку Markdown.")
+    if detail_skipped:
+        print(
+            "УСПЕХ: базовый live-сбор и все четыре шаблона проверены. "
+            "Подробное извлечение видео пропущено из-за антибот-блокировки GitHub Actions; "
+            "его нужно проверить локально."
+        )
+    else:
+        print("УСПЕХ: все четыре шаблона прошли live-сбор; full.md проверил подробные метаданные и локальные материалы.")
     return 0
 
 

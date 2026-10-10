@@ -8,13 +8,17 @@ from unittest.mock import patch
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from scripts.process_channels import (
+    build_command,
     discover_tabs,
+    fetch_video_details,
     folder_name,
     merge_archive,
     normalize_channel_url,
     prepare_items,
     process_channel,
     read_channel_urls,
+    subtitle_to_text,
+    video_folder_name,
     write_json_if_changed,
 )
 
@@ -92,6 +96,9 @@ class TemplateTests(unittest.TestCase):
             "channel_id": "UC1",
             "checked_at": "2026-10-10 12:00:00 UTC",
             "template_name": "outline.md",
+            "channel_data": {"id": "UC1", "title": "Test <channel>", "_type": "channel"},
+            "local_media": {},
+            "detail_errors": [],
             "errors": ["temporary <error>"],
             "sections": [{
                 "key": "videos",
@@ -109,12 +116,17 @@ class TemplateTests(unittest.TestCase):
                 }],
             }],
         }
-        for name in ("outline.md", "archive.md", "index.md"):
+        for name in ("outline.md", "archive.md", "index.md", "full.md"):
             rendered = env.get_template(name).render(**context)
             self.assertIn("Test &lt;channel&gt;", rendered)
             self.assertIn("Title &lt;script&gt;", rendered)
             self.assertIn("temporary &lt;error&gt;", rendered)
             self.assertIn("video1", rendered)
+        full = env.get_template("full.md").render(**context)
+        self.assertIn("Метаданные канала", full)
+        self.assertIn('"_type": "channel"', full)
+        self.assertIn('"id": "video1"', full)
+        self.assertIn("Локальные файлы", full)
         self.assertIn("<details>", env.get_template("outline.md").render(**context))
         self.assertIn("<details>", env.get_template("archive.md").render(**context))
         outline = env.get_template("outline.md").render(**context)
@@ -124,6 +136,55 @@ class TemplateTests(unittest.TestCase):
 
 
 class ArchiveTests(unittest.TestCase):
+    def test_video_folder_name_uses_utc_timestamp_and_title(self):
+        from datetime import datetime, timezone
+
+        timestamp = int(datetime(2026, 3, 8, 14, 25, tzinfo=timezone.utc).timestamp())
+        self.assertEqual(
+            video_folder_name({"id": "abc", "title": "Название видео", "timestamp": timestamp}),
+            "20260308-1425-Название-видео",
+        )
+
+    def test_subtitle_to_text_removes_timestamps_and_markup(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "captions.srt"
+            target = Path(tmp) / "transcript.txt"
+            source.write_text(
+                "1\n00:00:01,000 --> 00:00:02,000\n<v Speaker>Привет</v>\n\n"
+                "2\n00:00:03,000 --> 00:00:04,000\nМир\n",
+                encoding="utf-8",
+            )
+            subtitle_to_text(source, target)
+            self.assertEqual(target.read_text(encoding="utf-8"), "Привет\nМир\n")
+
+    def test_video_details_download_only_russian_and_english_media_without_video(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            media_dir = Path(tmp) / "media"
+            completed = __import__("subprocess").CompletedProcess(
+                args=[], returncode=0, stdout='{"id":"video1"}', stderr=""
+            )
+            with patch("scripts.process_channels.subprocess.run", return_value=completed) as run:
+                metadata, error, diagnostic = fetch_video_details(
+                    "https://www.youtube.com/watch?v=video1", media_dir=media_dir
+                )
+            self.assertEqual(metadata["id"], "video1")
+            self.assertIsNone(error)
+            self.assertEqual(diagnostic, "")
+            command = run.call_args.args[0]
+            self.assertIn("--no-simulate", command)
+            self.assertIn("--write-thumbnail", command)
+            self.assertIn("--write-subs", command)
+            self.assertIn("--write-auto-subs", command)
+            self.assertEqual(command[command.index("--sub-langs") + 1], "ru,en")
+            self.assertIn("--skip-download", command)
+            self.assertNotIn("all", command[command.index("--sub-langs") + 1:])
+
+    def test_playlist_command_can_limit_entries_for_smoke_test(self):
+        command = build_command("https://www.youtube.com/playlist?list=PL123", playlist_items=5)
+        self.assertIn("--playlist-items", command)
+        self.assertIn("1-5", command)
+        self.assertEqual(command[-1], "https://www.youtube.com/playlist?list=PL123")
+
     def test_prepare_items_adds_watch_url(self):
         items = prepare_items({"entries": [{"id": "abc123", "title": "Example video"}]})
         self.assertEqual(items[0]["display_url"], "https://www.youtube.com/watch?v=abc123")

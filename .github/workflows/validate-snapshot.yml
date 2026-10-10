@@ -55,7 +55,7 @@ jobs:
           python-version: "3.x"
       - name: Установить инструменты сбора и шаблонов
         run: python -m pip install --upgrade yt-dlp Jinja2
-      - name: Проверить живой сбор и все три Markdown-представления
+      - name: Проверить живой сбор и все четыре Markdown-представления
         run: |
           mkdir -p "$RUNNER_TEMP/ytbd-live-smoke"
           python scripts/smoke_live.py --artifacts "$RUNNER_TEMP/ytbd-live-smoke"

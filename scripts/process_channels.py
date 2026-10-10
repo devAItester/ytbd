@@ -137,17 +137,22 @@ def folder_name(url: str) -> str:
     return slug[:80]
 
 
-def build_command(url: str) -> list[str]:
-    # Only metadata and flat lists: no video files, thumbnails, subtitles, or comments.
-    return [
+def build_command(url: str, playlist_items: int = 0) -> list[str]:
+    # Channel/tab scan: metadata only and flat entries. Optional playlist preview avoids
+    # expanding huge playlists during a bounded real-data test.
+    command = [
         "yt-dlp", "--ignore-errors", "--skip-download", "--flat-playlist",
-        "--dump-single-json", url,
+        "--dump-single-json",
     ]
+    if playlist_items > 0:
+        command.extend(["--playlist-items", f"1-{playlist_items}"])
+    command.append(url)
+    return command
 
 
-def fetch_json(url: str) -> tuple[dict | None, str | None, str]:
+def fetch_json(url: str, playlist_items: int = 0) -> tuple[dict | None, str | None, str]:
     result = subprocess.run(
-        build_command(url), capture_output=True, text=True,
+        build_command(url, playlist_items), capture_output=True, text=True,
         encoding="utf-8", errors="replace", check=False,
     )
     diagnostic = result.stderr.strip()
@@ -163,6 +168,274 @@ def fetch_json(url: str) -> tuple[dict | None, str | None, str]:
         # A partial response must not replace the last accepted snapshot.
         return None, diagnostic or f"yt-dlp завершился с кодом {result.returncode}.", diagnostic
     return payload, None, diagnostic
+
+
+
+
+def fetch_video_details(
+    url: str,
+    media_dir: Path | None = None,
+    cookies_file: Path | None = None,
+    cookies_from_browser: str | None = None,
+) -> tuple[dict | None, str | None, str]:
+    """Fetch one video's full yt-dlp metadata; optionally save thumbnail and subtitles, never the video."""
+    command = [
+        "yt-dlp", "--skip-download", "--no-playlist", "--dump-json",
+    ]
+    if cookies_file is not None:
+        command.extend(["--cookies", str(cookies_file)])
+    elif cookies_from_browser:
+        command.extend(["--cookies-from-browser", cookies_from_browser])
+    if media_dir is not None:
+        media_dir.mkdir(parents=True, exist_ok=True)
+        command.extend([
+            "--no-simulate",
+            "--write-info-json",
+            "--write-thumbnail",
+            "--write-subs",
+            "--write-auto-subs",
+            "--sub-langs", "ru,en",
+            "--convert-subs", "srt",
+            "-o", str(media_dir / "%(id)s.%(ext)s"),
+        ])
+    command.append(url)
+    try:
+        result = subprocess.run(
+            command, capture_output=True, text=True,
+            encoding="utf-8", errors="replace", check=False, timeout=120,
+        )
+    except subprocess.TimeoutExpired:
+        return None, "yt-dlp не завершился за 120 секунд.", ""
+    diagnostic = result.stderr.strip()
+    if not result.stdout.strip():
+        return None, diagnostic or f"yt-dlp не вернул метаданные (код {result.returncode}).", diagnostic
+    try:
+        payload = json.loads(result.stdout)
+    except json.JSONDecodeError as exc:
+        return None, f"Некорректный JSON видео: {exc}", diagnostic
+    if payload is None:
+        return None, "yt-dlp вернул null; это бывает у предстоящих трансляций или видео, недоступных экстрактору.", diagnostic
+    if not isinstance(payload, dict):
+        return None, f"yt-dlp вернул JSON типа {type(payload).__name__}: {payload!r}.", diagnostic
+    if not payload.get("id"):
+        keys = ", ".join(sorted(str(key) for key in payload)[:20])
+        kind = payload.get("_type", "")
+        return None, f"yt-dlp вернул объект без ID видео (type={kind!r}; keys={keys}).", diagnostic
+    if result.returncode != 0:
+        return None, diagnostic or f"yt-dlp завершился с кодом {result.returncode}.", diagnostic
+    return payload, None, diagnostic
+
+
+def video_folder_name(metadata: dict) -> str:
+    timestamp = metadata.get("release_timestamp") or metadata.get("timestamp")
+    if isinstance(timestamp, (int, float)):
+        date_prefix = datetime.fromtimestamp(timestamp, timezone.utc).strftime("%Y%m%d-%H%M")
+    else:
+        date_value = str(metadata.get("release_date") or metadata.get("upload_date") or "")
+        date_prefix = f"{date_value[:8]}-0000" if re.fullmatch(r"\d{8}", date_value[:8]) else "00000000-0000"
+    title = str(metadata.get("title") or metadata.get("id") or "video")
+    slug = re.sub(r"[^\w.-]+", "-", title, flags=re.UNICODE).strip("._-")[:100].strip("._-")
+    return f"{date_prefix}-{slug or metadata.get('id', 'video')}"
+
+
+def subtitle_to_text(source: Path, destination: Path) -> None:
+    """Convert an SRT/VTT subtitle file to readable plain text without timestamps."""
+    lines = []
+    for line in source.read_text(encoding="utf-8-sig", errors="replace").replace("\r", "").splitlines():
+        value = line.strip()
+        if not value or value == "WEBVTT" or re.fullmatch(r"\d+", value):
+            continue
+        if "-->" in value or re.match(r"^(NOTE|STYLE|REGION)\b", value):
+            continue
+        value = re.sub(r"<[^>]+>", "", value)
+        value = re.sub(r"\{\\[^}]+\}", "", value).strip()
+        if value:
+            lines.append(value)
+    if lines:
+        destination.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+
+
+def download_channel_images(channel_data: dict, channel_output_dir: Path) -> dict[str, str]:
+    """Save the largest available channel banner and profile image from yt-dlp metadata."""
+    thumbnails = channel_data.get("thumbnails", [])
+    if not isinstance(thumbnails, list):
+        return {}
+    candidates = [item for item in thumbnails if isinstance(item, dict) and item.get("url")]
+    if not candidates:
+        return {}
+
+    def dimensions(item: dict) -> tuple[int, int]:
+        return int(item.get("width") or 0), int(item.get("height") or 0)
+
+    banner_candidates = [
+        item for item in candidates
+        if "banner" in str(item.get("id", "")).lower()
+        or (dimensions(item)[1] > 0 and dimensions(item)[0] / dimensions(item)[1] > 2.5)
+    ]
+    profile_candidates = [
+        item for item in candidates
+        if "avatar" in str(item.get("id", "")).lower()
+        or (dimensions(item)[1] > 0 and 0.8 <= dimensions(item)[0] / dimensions(item)[1] <= 1.2)
+    ]
+    selected = {}
+    if banner_candidates:
+        selected["banner"] = max(banner_candidates, key=lambda item: dimensions(item)[0])
+    if profile_candidates:
+        selected["profile"] = max(profile_candidates, key=lambda item: dimensions(item)[0])
+
+    result = {}
+    destination = channel_output_dir / "media" / "channels"
+    for name, item in selected.items():
+        url = str(item["url"])
+        extension = Path(urlsplit(url).path).suffix.lower()
+        if extension not in {".jpg", ".jpeg", ".png", ".webp"}:
+            extension = ".jpg"
+        path = destination / f"{name}{extension}"
+        try:
+            request = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; ytbd metadata collector)"})
+            with urlopen(request, timeout=20) as response:
+                payload = response.read()
+            if payload:
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_bytes(payload)
+                result[name] = path.relative_to(channel_output_dir).as_posix()
+        except OSError:
+            continue
+    return result
+
+
+def collect_video_details(
+    channel_dir: Path,
+    channel_output_dir: Path,
+    active_tabs: list[tuple[str, str, str]],
+    detail_limit: int,
+    download_media: bool,
+    cookies_file: Path | None = None,
+    cookies_from_browser: str | None = None,
+) -> tuple[dict[str, dict], list[str]]:
+    """Enrich flat archive records with full video JSON and return local-file links by video ID."""
+    video_tabs = {"videos", "shorts", "streams", "podcasts"}
+    archives: dict[str, dict] = {}
+    references: dict[str, list[dict]] = {}
+    errors: list[str] = []
+    for key, _title, _suffix in active_tabs:
+        if key not in video_tabs and key != "playlists":
+            continue
+        archive = read_json(channel_dir / "archive" / f"{key}.json", {})
+        if not isinstance(archive, dict) or not isinstance(archive.get("items"), list):
+            continue
+        archives[key] = archive
+        for item in archive["items"]:
+            if not isinstance(item, dict) or not item.get("id"):
+                continue
+            if key == "playlists":
+                playlist_id = str(item["id"])
+                playlist_url = f"https://www.youtube.com/playlist?list={playlist_id}"
+                playlist_data, playlist_error, playlist_diagnostic = fetch_json(
+                    playlist_url, playlist_items=detail_limit
+                )
+                if playlist_data is None:
+                    errors.append(f"playlist {playlist_id}: {playlist_error}")
+                    if playlist_diagnostic:
+                        log_path = channel_dir / "logs" / "playlist-details.txt"
+                        log_path.parent.mkdir(parents=True, exist_ok=True)
+                        log_path.write_text(playlist_diagnostic + "\n", encoding="utf-8")
+                    continue
+                save_raw_snapshot(channel_dir / "raw" / "playlist-details", playlist_id, playlist_data)
+                item.update(playlist_data)
+                entries = playlist_data.get("entries", [])
+                item["entries"] = entries if isinstance(entries, list) else []
+                for entry in item["entries"]:
+                    if isinstance(entry, dict) and entry.get("id"):
+                        references.setdefault(str(entry["id"]), []).append(entry)
+            elif key in video_tabs:
+                references.setdefault(str(item["id"]), []).append(item)
+
+    local_root = channel_output_dir / "media" / "videos"
+    details_root = channel_dir / "raw" / "video-details"
+    processed = 0
+    for video_id, items in references.items():
+        # A prior successful detail extraction remains useful if a later run is limited.
+        cached = read_json(details_root / f"{video_id}.json", None)
+        already_detailed = isinstance(cached, dict) and cached.get("id")
+        if detail_limit and processed >= detail_limit and not already_detailed:
+            continue
+        if already_detailed and detail_limit and processed >= detail_limit:
+            for item in items:
+                item.update(cached)
+            continue
+
+        source_item = items[0]
+        candidate_url = str(source_item.get("display_url") or source_item.get("webpage_url") or "")
+        if "youtube.com/watch?" in candidate_url or "youtu.be/" in candidate_url:
+            url = candidate_url
+        else:
+            url = f"https://www.youtube.com/watch?v={video_id}"
+        pending_dir = local_root / f".pending-{video_id}" if download_media else None
+        metadata, error, diagnostic = fetch_video_details(
+            url, pending_dir, cookies_file=cookies_file,
+            cookies_from_browser=cookies_from_browser,
+        )
+        if metadata is None:
+            errors.append(f"video {video_id}: {error}" + (f" ({diagnostic[-500:]})" if diagnostic else ""))
+            if diagnostic:
+                log_path = channel_dir / "logs" / "video-details.txt"
+                log_path.parent.mkdir(parents=True, exist_ok=True)
+                log_path.write_text(diagnostic + "\n", encoding="utf-8")
+            if already_detailed:
+                metadata = cached
+            else:
+                if pending_dir is not None and pending_dir.is_dir():
+                    shutil.rmtree(pending_dir, ignore_errors=True)
+                continue
+        processed += 1
+        if download_media and pending_dir is not None and pending_dir.is_dir():
+            video_dir = local_root / video_folder_name(metadata)
+            video_dir.mkdir(parents=True, exist_ok=True)
+            for source in pending_dir.iterdir():
+                source.replace(video_dir / source.name)
+            pending_dir.rmdir()
+        save_raw_snapshot(details_root, video_id, metadata)
+        for item in items:
+            item.update(metadata)
+        if download_media and metadata is not None:
+            video_dir = local_root / video_folder_name(metadata)
+            write_json_if_changed(video_dir / "meta.json", metadata)
+            subtitle_files = sorted(video_dir.glob("*.srt")) + sorted(video_dir.glob("*.vtt"))
+            for subtitle in subtitle_files:
+                subtitle_to_text(subtitle, subtitle.with_suffix(".txt"))
+            if subtitle_files:
+                first_transcript = subtitle_files[0].with_suffix(".txt")
+                generic_transcript = video_dir / "transcript.txt"
+                if first_transcript.exists() and first_transcript != generic_transcript:
+                    generic_transcript.write_text(first_transcript.read_text(encoding="utf-8"), encoding="utf-8")
+
+    for key, archive in archives.items():
+        write_json_if_changed(channel_dir / "archive" / f"{key}.json", archive)
+
+    local_media: dict[str, dict] = {}
+    if local_root.is_dir():
+        for video_dir in sorted(path for path in local_root.iterdir() if path.is_dir()):
+            metadata = read_json(video_dir / "meta.json", {})
+            video_id = str(metadata.get("id") or "")
+            if not video_id:
+                continue
+            files = sorted(path for path in video_dir.iterdir() if path.is_file())
+            rel = lambda path: path.relative_to(channel_output_dir).as_posix()
+            thumbnails = [rel(path) for path in files if path.suffix.lower() in {".jpg", ".jpeg", ".png", ".webp"}]
+            subtitles = [rel(path) for path in files if path.suffix.lower() in {".srt", ".vtt"}]
+            transcripts = [rel(path) for path in files if path.name == "transcript.txt" or (path.suffix == ".txt" and path.name != "meta.json")]
+            local_media[video_id] = {
+                "directory": video_dir.relative_to(channel_output_dir).as_posix(),
+                "metadata": rel(video_dir / "meta.json") if (video_dir / "meta.json").exists() else "",
+                "thumbnails": thumbnails,
+                "subtitles": subtitles,
+                "transcripts": sorted(set(transcripts)),
+            }
+    return local_media, errors
+
 
 
 def read_json(path: Path, fallback):
@@ -277,7 +550,9 @@ def make_sections(channel_dir: Path, active_tabs: list[tuple[str, str, str]],
 
 
 def process_channel(url: str, template_name: str, templates_dir: Path,
-                    data_root: Path, output_root: Path) -> tuple[bool, list[str]]:
+                    data_root: Path, output_root: Path, detail_limit: int = 0,
+                    download_media: bool = False, cookies_file: Path | None = None,
+                    cookies_from_browser: str | None = None) -> tuple[bool, list[str]]:
     handle = folder_name(url)
     channel_dir = data_root / handle
     raw_dir = channel_dir / "raw"
@@ -370,7 +645,19 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         }
     write_json_if_changed(channel_dir / "status.json", status)
 
+    local_media: dict[str, dict] = {}
+    detail_errors: list[str] = []
     channel_data = read_json(channel_dir / "channel.json", {})
+    if template_name == "full.md":
+        local_media, detail_errors = collect_video_details(
+            channel_dir, output_root / handle, active_tabs, detail_limit, download_media,
+            cookies_file=cookies_file, cookies_from_browser=cookies_from_browser,
+        )
+        if download_media and isinstance(channel_data, dict):
+            local_media["_channel"] = download_channel_images(channel_data, output_root / handle)
+        status["errors"] = errors
+        status["detail_errors"] = detail_errors
+        write_json_if_changed(channel_dir / "status.json", status)
     title = str(channel_data.get("title") or channel_data.get("channel") or handle)
     channel_id = str(channel_data.get("channel_id") or channel_data.get("id") or "")
     env = Environment(
@@ -384,6 +671,9 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         title=title,
         channel_url=url,
         channel_id=channel_id,
+        channel_data=channel_data,
+        local_media=local_media,
+        detail_errors=detail_errors,
         checked_at=checked_at,
         sections=make_sections(
             channel_dir,
@@ -408,7 +698,24 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--templates", type=Path, default=DEFAULT_TEMPLATES, help="Каталог Markdown-шаблонов")
     parser.add_argument("--data", type=Path, default=DEFAULT_DATA, help="Каталог сырых данных и архива")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Каталог Markdown-результатов")
+    parser.add_argument(
+        "--detail-limit", type=int, default=0,
+        help="Максимум уникальных видео для подробного сбора при full.md; 0 означает все видео",
+    )
+    parser.add_argument(
+        "--download-media", action="store_true",
+        help="Для подробных видео сохранять обложки, субтитры и текстовые транскрипты (без видеофайлов)",
+    )
+    cookies = parser.add_mutually_exclusive_group()
+    cookies.add_argument("--cookies", type=Path, help="Локальный файл cookies.txt для yt-dlp; не добавляй его в Git")
+    cookies.add_argument(
+        "--cookies-from-browser",
+        help="Локальный браузер для извлечения cookies, например firefox или chrome",
+    )
     args = parser.parse_args(argv)
+    if args.detail_limit < 0:
+        print("ОШИБКА настроек: --detail-limit не может быть отрицательным.", file=sys.stderr)
+        return 2
 
     if shutil.which("yt-dlp") is None:
         print("ОШИБКА: yt-dlp не установлен.", file=sys.stderr)
@@ -425,7 +732,11 @@ def main(argv: list[str] | None = None) -> int:
 
     for url in urls:
         try:
-            process_channel(url, args.template, args.templates, args.data, args.output)
+            process_channel(
+                url, args.template, args.templates, args.data, args.output,
+                detail_limit=args.detail_limit, download_media=args.download_media,
+                cookies_file=args.cookies, cookies_from_browser=args.cookies_from_browser,
+            )
         except (OSError, ValueError, RuntimeError) as exc:
             # Isolate failures: one channel must not stop the rest.
             print(f"ОШИБКА {url}: {exc}", file=sys.stderr)
