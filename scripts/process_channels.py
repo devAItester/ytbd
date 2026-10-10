@@ -170,8 +170,7 @@ def fetch_json(url: str) -> tuple[dict | None, str | None, str]:
 def fetch_video_details(url: str, media_dir: Path | None = None) -> tuple[dict | None, str | None, str]:
     """Fetch one video's full yt-dlp metadata; optionally save thumbnail and subtitles, never the video."""
     command = [
-        "yt-dlp", "--ignore-errors", "--skip-download", "--dump-single-json",
-        "--no-warnings",
+        "yt-dlp", "--skip-download", "--no-playlist", "--dump-single-json",
     ]
     if media_dir is not None:
         media_dir.mkdir(parents=True, exist_ok=True)
@@ -196,9 +195,11 @@ def fetch_video_details(url: str, media_dir: Path | None = None) -> tuple[dict |
         payload = json.loads(result.stdout)
     except json.JSONDecodeError as exc:
         return None, f"Некорректный JSON видео: {exc}", diagnostic
-    if not isinstance(payload, dict) or not payload.get("id"):
-        keys = ", ".join(sorted(str(key) for key in payload)[:20]) if isinstance(payload, dict) else type(payload).__name__
-        kind = payload.get("_type", "") if isinstance(payload, dict) else ""
+    if not isinstance(payload, dict):
+        return None, f"yt-dlp вернул JSON типа {type(payload).__name__}: {payload!r}.", diagnostic
+    if not payload.get("id"):
+        keys = ", ".join(sorted(str(key) for key in payload)[:20])
+        kind = payload.get("_type", "")
         return None, f"yt-dlp вернул объект без ID видео (type={kind!r}; keys={keys}).", diagnostic
     if result.returncode != 0:
         return None, diagnostic or f"yt-dlp завершился с кодом {result.returncode}.", diagnostic
