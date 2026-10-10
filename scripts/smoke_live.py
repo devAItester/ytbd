@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 import sys
 import tempfile
@@ -50,6 +51,8 @@ def main() -> int:
                 raise SystemExit("Discovered tab missing from Markdown: " + tab["key"])
         if "</a>- <a" in output:
             raise SystemExit("Markdown list entries are glued together.")
+        if re.search(r"- \\*\\*ID:\\*\\* [^\\n]*- \\*\\*Последняя проверка:", output):
+            raise SystemExit("Channel ID and check timestamp are glued together.")
 
         print("Discovered tabs:", [tab["key"] for tab in tabs])
         print("Rendered Markdown passed structural checks.")
