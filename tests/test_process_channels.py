@@ -1,12 +1,14 @@
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 from scripts.process_channels import (
     folder_name,
     merge_archive,
     normalize_channel_url,
     prepare_items,
+    process_channel,
     read_channel_urls,
     write_json_if_changed,
 )
@@ -67,7 +69,9 @@ class ArchiveTests(unittest.TestCase):
             "items": [
                 {"id": "old", "title": "Old title"},
                 {"id": "changed", "title": "Before"},
-            ]
+            ],
+            "current_count": 2,
+            "updated_at": "yesterday",
         }
         incoming = [
             {"id": "changed", "title": "After"},
@@ -80,6 +84,16 @@ class ArchiveTests(unittest.TestCase):
         self.assertEqual(by_id["changed"]["title"], "After")
         self.assertEqual(by_id["old"]["title"], "Old title")
         self.assertEqual([item["id"] for item in merged["items"]], ["changed", "new", "old"])
+        self.assertNotEqual(merged["updated_at"], "yesterday")
+
+    def test_unchanged_archive_keeps_its_timestamp(self):
+        previous = {
+            "items": [{"id": "same", "title": "Same"}],
+            "current_count": 1,
+            "updated_at": "previous timestamp",
+        }
+        merged = merge_archive(previous, [{"id": "same", "title": "Same"}], "videos", "new timestamp")
+        self.assertEqual(merged["updated_at"], "previous timestamp")
 
     def test_write_json_if_changed_avoids_rewriting_identical_data(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -88,6 +102,58 @@ class ArchiveTests(unittest.TestCase):
             before = path.stat().st_mtime_ns
             self.assertFalse(write_json_if_changed(path, {"value": 1}))
             self.assertEqual(path.stat().st_mtime_ns, before)
+
+    def test_html_template_renders_and_failed_tab_keeps_previous_archive(self):
+        url = "https://www.youtube.com/@Example"
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            templates = root / "templates"
+            templates.mkdir()
+            (templates / "outline.html").write_text(
+                "<h1>{{ title }}</h1>{% for section in sections %}"
+                "<details><summary>{{ section.title }}</summary>"
+                "{% for item in section.items %}<a href=\"{{ item.display_url }}\">{{ item.title }}</a>"
+                "{% endfor %}</details>{% endfor %}"
+                "{% for error in errors %}<p>{{ error }}</p>{% endfor %}",
+                encoding="utf-8",
+            )
+            success_responses = [
+                ({"title": "Example channel", "id": "UC1"}, None, ""),
+                ({"entries": [{"id": "video1", "title": "Video one"}]}, None, ""),
+                ({"entries": [{"id": "stream1", "title": "Stream one"}]}, None, ""),
+                ({"entries": [{"id": "podcast1", "title": "Podcast one"}]}, None, ""),
+                ({"entries": [{"id": "playlist1", "title": "Playlist one"}]}, None, ""),
+            ]
+            with patch("scripts.process_channels.fetch_json", side_effect=success_responses):
+                ok, errors = process_channel(
+                    url, "outline.html", templates, root / "data/channels", root / "data/output"
+                )
+            self.assertTrue(ok)
+            self.assertEqual(errors, [])
+            channel_dir = root / "data/channels/Example"
+            old_archive = (channel_dir / "archive/streams.json").read_text(encoding="utf-8")
+            html_path = root / "data/output/Example/outline.html"
+            self.assertIn("<details>", html_path.read_text(encoding="utf-8"))
+            self.assertIn("Video one", html_path.read_text(encoding="utf-8"))
+
+            second_responses = [
+                ({"title": "Example channel", "id": "UC1"}, None, ""),
+                ({"entries": [{"id": "video1", "title": "Video one updated"}]}, None, ""),
+                (None, "source temporarily unavailable", "source temporarily unavailable"),
+                ({"entries": [{"id": "podcast1", "title": "Podcast one"}]}, None, ""),
+                ({"entries": [{"id": "playlist1", "title": "Playlist one"}]}, None, ""),
+            ]
+            with patch("scripts.process_channels.fetch_json", side_effect=second_responses):
+                ok, errors = process_channel(
+                    url, "outline.html", templates, root / "data/channels", root / "data/output"
+                )
+            self.assertTrue(ok)
+            self.assertTrue(any("streams:" in error for error in errors))
+            self.assertEqual(
+                (channel_dir / "archive/streams.json").read_text(encoding="utf-8"),
+                old_archive,
+            )
+            self.assertIn("source temporarily unavailable", html_path.read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":
