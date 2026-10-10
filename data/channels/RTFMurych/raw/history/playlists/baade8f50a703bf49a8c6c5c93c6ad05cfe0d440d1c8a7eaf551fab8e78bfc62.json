@@ -1,0 +1,168 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "@RTFMurych",
+  "channel_follower_count": 4,
+  "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+  "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+  "description": "Где событья нашей жизни,\nКроме насморка и блох?\nМы давно живем, как слизни,\nВ нищете случайных крох.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Playlist",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": null,
+      "id": "PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA58NWkmRvvXQEzcPA4TAWLW8Vx_g",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Игорь Борисов",
+      "uploader": "Playlist",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Playlist",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": null,
+      "id": "PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmC-rGRs0CWMrYTaLm3qaZqZyspQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡point⎦ - engineering & business",
+      "uploader": "Playlist",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Playlist",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": null,
+      "id": "PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCelafcfWZk8nEO4TZKc-2miW-IqQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "~recommend~",
+      "uploader": "Playlist",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Playlist",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": null,
+      "id": "PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmyxfBFfhqhDUAE3AdwqHGEsHhEQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "~guest~",
+      "uploader": "Playlist",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+      "view_count": null
+    }
+  ],
+  "epoch": 1791670064,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "UC3NVT782r84UDLdx9JXtbow",
+  "modified_date": null,
+  "original_url": "https://www.youtube.com/@RTFMurych/playlists",
+  "playlist_count": 4,
+  "release_year": null,
+  "tags": [
+    "demimurych",
+    "Мурыч",
+    "js",
+    "javascript",
+    "specification",
+    "spec",
+    "seo",
+    "programming",
+    "спецификация",
+    "спека"
+  ],
+  "thumbnails": [
+    {
+      "height": 900,
+      "id": "0",
+      "resolution": "900x900",
+      "url": "https://yt3.googleusercontent.com/Ine4RvIKQOygMtBBDzergi88548YFtNuK_feOY5vFdZ-ZF4sz5AVT4j2-17OKxxX4JANXaGNXQ=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900
+    },
+    {
+      "id": "avatar_uncropped",
+      "preference": 1,
+      "url": "https://yt3.googleusercontent.com/Ine4RvIKQOygMtBBDzergi88548YFtNuK_feOY5vFdZ-ZF4sz5AVT4j2-17OKxxX4JANXaGNXQ=s0"
+    }
+  ],
+  "title": "@RTFMurych - Playlists",
+  "uploader": "@RTFMurych",
+  "uploader_id": "@RTFMurych",
+  "uploader_url": "https://www.youtube.com/@RTFMurych",
+  "view_count": null,
+  "webpage_url": "https://www.youtube.com/@RTFMurych/playlists",
+  "webpage_url_basename": "playlists",
+  "webpage_url_domain": "youtube.com"
+}

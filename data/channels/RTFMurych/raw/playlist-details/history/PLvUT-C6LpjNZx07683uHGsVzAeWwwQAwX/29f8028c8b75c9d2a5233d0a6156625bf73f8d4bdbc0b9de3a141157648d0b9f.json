@@ -1,0 +1,282 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "@RTFMurych",
+  "channel_follower_count": null,
+  "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+  "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+  "description": "Мурыч вкратце — о сфере ИТ и программировании в частности",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "@RTFMurych",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": 162,
+      "id": "bv1L3L_MyKU",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/bv1L3L_MyKU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgZigsMA8=&rs=AOn4CLCPwaVNwOEDAi2toh4QGY48VHJPxQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/bv1L3L_MyKU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgZigsMA8=&rs=AOn4CLDYDueyVT5OcYXCEb4J28_aMNFtDg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/bv1L3L_MyKU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGYoLDAP&rs=AOn4CLDynxwHCQ5bqtOMkzG_1nW4A3qBTA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/bv1L3L_MyKU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGYoLDAP&rs=AOn4CLB5cX2qU5ZjX7JY09V-4rdIWwM1mw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "10.23 ⎡point⎦ - google",
+      "uploader": "@RTFMurych",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/watch?v=bv1L3L_MyKU",
+      "view_count": 3
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "@RTFMurych",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": 71,
+      "id": "gdCkBLgRAd4",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALl1u3AOZ6MSL33SU5C8yXsvHz7g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3YGCVpSh-apL9pkhIzriiibgJIg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn5hHPCdPrW-lfCMpVUfC-gBnaZQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZ35R9yJyD0fA5tQ3EXa6-gym2gA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "10.23 ⎡point⎦ - random people",
+      "uploader": "@RTFMurych",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/watch?v=gdCkBLgRAd4",
+      "view_count": 88
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "@RTFMurych",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": 251,
+      "id": "OEycbcCfJXs",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCK6fq9gWIiKojrQCHEP8rdbw-KgQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZzhP30I4_zP3FEYtG7-IUbSkEYg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1zJDY6K29BlF7k59ZUTu8YayfBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRZROfWhhXbCyUyoSMdK_zSGVdDA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "12.23 ⎡talks:13-3⎦ — Как учиться по Мурычу?",
+      "uploader": "@RTFMurych",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/watch?v=OEycbcCfJXs",
+      "view_count": 63
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "@RTFMurych",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": 122,
+      "id": "o5gJuIql9-Q",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgZSgoMA8=&rs=AOn4CLAzgAhn9zwxsUjjTIXpLD4ACY2oog",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgZSgoMA8=&rs=AOn4CLAf6aIYqw-f5Mu7hABsqWXPtQ-eAQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGUoKDAP&rs=AOn4CLAnR0lRtr25pdz77QANyLLh9OqGxg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGUoKDAP&rs=AOn4CLDyciej4RADZSExSsk4B2gG0EJQkA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "10.23 ⎡JSbook: 03.02⎦ - Машинерия спецификации",
+      "uploader": "@RTFMurych",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/watch?v=o5gJuIql9-Q",
+      "view_count": 24
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "@RTFMurych",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "duration": 16,
+      "id": "L_F0kdfyF8k",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7lnxiASm-WXWIjOjYQcpt-W0r1A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDogILTduHUqCWxRWNgMe2jgtuqpw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7wpUoNI6hqkRd1VCPyd9trwr10Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd-gLv418k75rlN_P4v9HU8wsi1w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "03.25 ⎡interview⎦ — социально одобряемый ответ",
+      "uploader": "@RTFMurych",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/watch?v=L_F0kdfyF8k",
+      "view_count": 20
+    }
+  ],
+  "epoch": 1791670066,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+  "modified_date": "20250321",
+  "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+  "playlist_count": 6,
+  "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 94,
+      "id": "0",
+      "resolution": "168x94",
+      "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDtE2ZRHocKujI6XagWHS0Z2OOyXA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "id": "1",
+      "resolution": "196x110",
+      "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCakFkVd6IHF0lc_62LVf10D9Ka5A",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "id": "2",
+      "resolution": "246x138",
+      "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAzMkjDR5ydswK1sCBsaYjHjtFviQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "id": "3",
+      "resolution": "336x188",
+      "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDMFl3aFikq44hh_SakWAKa8P42YA",
+      "width": 336
+    }
+  ],
+  "title": "⎡point⎦ - engineering & business",
+  "uploader": "@RTFMurych",
+  "uploader_id": "@RTFMurych",
+  "uploader_url": "https://www.youtube.com/@RTFMurych",
+  "view_count": 5,
+  "webpage_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

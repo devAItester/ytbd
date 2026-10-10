@@ -1,0 +1,268 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Попробуем на примерах, сформировать у себя в голове верное представление того, чем являются регулярные выражения, а главное научимся использовать их в своей повседневной работе.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6616,
+      "id": "yGNltdKMtF8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/yGNltdKMtF8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2TmfXV9ZpRqQkfB98M8UhOGicNQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/yGNltdKMtF8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwpvSZ48iUS-seb-sl7wboE0bJkw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/yGNltdKMtF8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhYDnrdRxJ6h1Px9QQ52UEax3UwA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/yGNltdKMtF8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI1Xe5wO8Wp6aJzzvZfsLXWTVH2w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦⎡RegExp⎦⎡05⎦ JavaScript Strings и Unicode, UTF-16",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=yGNltdKMtF8",
+      "view_count": 3100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 4294,
+      "id": "bPo3KXcYYBg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/bPo3KXcYYBg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfr8sSeR0AWi5uRpeVJzEpO1JjCQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/bPo3KXcYYBg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrWU4hwi00-YaiObwnfVj5UynlDw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/bPo3KXcYYBg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw6FZFNz6OArfodjexKzasx60Dbg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/bPo3KXcYYBg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyVSjvVpfTnDW1ffDToJUeeLG54g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦⎡RegExp⎦⎡04⎦ Базовые символьные классы в JavaScript регулярных выражениях.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=bPo3KXcYYBg",
+      "view_count": 1500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 2615,
+      "id": "4Pt0pLcebVk",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/4Pt0pLcebVk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAKr7havZplJaigQh874I1xnC9hTA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/4Pt0pLcebVk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYy0cfFMiam4xye1UWMhPPOeYeAA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/4Pt0pLcebVk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-llxETQPAHMzHPsbxYqBaoCwy0w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/4Pt0pLcebVk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNiMp5HgcSDY06V6Ues6g6AU9J2w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦⎡RegExp⎦⎡04⎦ Регулярные 5ти минутки. Как в JavaScript RegExp, одно, отличить от другого",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=4Pt0pLcebVk",
+      "view_count": 1400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1423,
+      "id": "9AlGxr8YsJ4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/9AlGxr8YsJ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAilOk67yVYUUqaqYzmMHbBIihGdw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/9AlGxr8YsJ4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD5U4qmxr-1XoRQuc4wJWUHLPfNZw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/9AlGxr8YsJ4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDtO52aAled26IiMk2S-m-7JzvDA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/9AlGxr8YsJ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTxCHy0kv9TGyHnRkOhQfLoBG7fg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦⎡RegExp⎦⎡03⎦ Регулярные 5ти минутки. Как в JavaScript RegExp организованы циклы",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=9AlGxr8YsJ4",
+      "view_count": 1300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1948,
+      "id": "vZyyFMaprIY",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/vZyyFMaprIY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDidmiu7bRGZMocE429svMLxiM_4A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/vZyyFMaprIY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAwKH43TkmmM2laZ27ZuvxMGuTUlQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/vZyyFMaprIY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZmtmXuHRCUXQcExJmt64ryN6bBA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/vZyyFMaprIY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeFA_iCe4RyVhmqsTNAAuV6BQI3g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦⎡RegExp⎦⎡02⎦ Regular 5-minute intervals. The fundamental base of JavaScript regular expressions",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=vZyyFMaprIY",
+      "view_count": 2500
+    }
+  ],
+  "epoch": 1791670113,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9",
+  "modified_date": "20260201",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9",
+  "playlist_count": 6,
+  "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 240,
+      "id": "0",
+      "resolution": "240x240",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CIzqqtYG-oaymwEICPABEPABSFqi85f_AwYIwLufvQY=&rs=AOn4CLCyrAnbGgtqnMjNktg4fnFoqp-qtw",
+      "width": 240
+    },
+    {
+      "height": 480,
+      "id": "1",
+      "resolution": "480x480",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CNC5qtYG-oaymwEICOADEOADSFqi85f_AwYIwLufvQY=&rs=AOn4CLC3_pels63DhvvaOwv-Hsd19O2agg",
+      "width": 480
+    }
+  ],
+  "title": "⎡msk⎦ JavaScript - регулярные (RegExp) 5-ти минутки",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 5671,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

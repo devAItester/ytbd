@@ -1,0 +1,233 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "@RTFMurych",
+  "channel_follower_count": null,
+  "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+  "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+  "description": "Мурыч в пустыне:",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "IT-KAMASUTRA",
+      "channel_id": "UCTW0FUhT0m-Bqg2trTbSs0g",
+      "channel_url": "https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g",
+      "creators": null,
+      "duration": 12011,
+      "id": "WgYGNhzJP-8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVK4pIleFgA0XeJssWhKHOwfytIg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCC_q2alDs2PGMsoiAsfhpVpRDQyg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9xYnXcFvym3t3z7-0JbFJRBd_tA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3utnJjmgZ1QViwcV3n01CxsBXdg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Demi Murych, История Мурыча, главные заблуждения JS-пропагандистов. JS под капотом! 18+",
+      "uploader": "IT-KAMASUTRA",
+      "uploader_id": "@ITKAMASUTRA",
+      "uploader_url": "https://www.youtube.com/@ITKAMASUTRA",
+      "url": "https://www.youtube.com/watch?v=WgYGNhzJP-8",
+      "view_count": 65000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Honey Montana",
+      "channel_id": "UCzP3WZ0CNBr0ePiNXsDq4bA",
+      "channel_url": "https://www.youtube.com/channel/UCzP3WZ0CNBr0ePiNXsDq4bA",
+      "creators": null,
+      "duration": 9557,
+      "id": "rpaLYvtvVQs",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/rpaLYvtvVQs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDQItIGtz-B2A2NFz6Et_a2yjoquQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/rpaLYvtvVQs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBz8nSCwx08O_71P7riirayFdv8MQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/rpaLYvtvVQs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCKDfV-I9PAAViOw8TH9UJQL4tnQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/rpaLYvtvVQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8rN4xmE-dgVSCcpFpARf4KbjCtg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "ВСЕ ПРО КОМПЬЮТЕРНЫЕ ВИРУСЫ / ХАКЕР СО СТАЖЕМ — Demi Murych",
+      "uploader": "Honey Montana",
+      "uploader_id": "@hhoneymontana",
+      "uploader_url": "https://www.youtube.com/@hhoneymontana",
+      "url": "https://www.youtube.com/watch?v=rpaLYvtvVQs",
+      "view_count": 349000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "kirjs",
+      "channel_id": "UC4CdLjCS1tzPldyF50UwsZA",
+      "channel_url": "https://www.youtube.com/channel/UC4CdLjCS1tzPldyF50UwsZA",
+      "creators": null,
+      "duration": 12113,
+      "id": "7je1ygc9Gew",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/7je1ygc9Gew/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPX2HF7Mm_IsNkrzIhM5SLUc7m2Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/7je1ygc9Gew/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmLtl71EFQ6BzboGKoEvR4QfC4XA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/7je1ygc9Gew/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD30aRW8w8V3Y1Xh9Z0o8BnJr5uNQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/7je1ygc9Gew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3-UtOrtlOs4k2_mvbTIk1D6Hu3w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Семантическая верстка с @demimurych",
+      "uploader": "kirjs",
+      "uploader_id": "@kirjs",
+      "uploader_url": "https://www.youtube.com/@kirjs",
+      "url": "https://www.youtube.com/watch?v=7je1ygc9Gew",
+      "view_count": 61000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 14675,
+      "id": "LJJpbFcmKQs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXGbgs_jXqLcjJOEXWYNpSy1O1bQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmnW_d6a-TXSeZDkEgJ7ewW6x7_Q",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm4xUIM9u3cSOjF-IKrGvp2WYQ-w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrOgrVYos4YhdG7mrmPktRg0-UOw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Беседа с Тимуром Шемсединовым о переосмыслении паттернов GRASP, SOLID, GoF в JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=LJJpbFcmKQs",
+      "view_count": 19000
+    }
+  ],
+  "epoch": 1791670067,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+  "modified_date": "20240809",
+  "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+  "playlist_count": 4,
+  "release_year": null,
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 94,
+      "id": "0",
+      "resolution": "168x94",
+      "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCVMt-1iOD6-lk5cYDAEDWQYffI1w",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "id": "1",
+      "resolution": "196x110",
+      "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLATKGGpsax6O0AplHmBIuk4ybMGdA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "id": "2",
+      "resolution": "246x138",
+      "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAYm0NygnLLtHsQK_q34uvkC33C5g",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "id": "3",
+      "resolution": "336x188",
+      "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKXDCI1tKfivqh1bOdGsdiozW5Lw",
+      "width": 336
+    }
+  ],
+  "title": "~guest~",
+  "uploader": "@RTFMurych",
+  "uploader_id": "@RTFMurych",
+  "uploader_url": "https://www.youtube.com/@RTFMurych",
+  "view_count": 3,
+  "webpage_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

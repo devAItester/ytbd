@@ -1,0 +1,93 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Оценим и перепишем ваш JavaScript код так, чтобы всем стыдно стало",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 20827,
+      "id": "z6m6FT-Tj90",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/z6m6FT-Tj90/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBydHVHkSm-Isv9fAyuWCY8QDBnKQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/z6m6FT-Tj90/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCujy0xdO4JeA0n412aPbwqHm7i0w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/z6m6FT-Tj90/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAifxO51Q-4JXYRQzisJKe-duz82g",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/z6m6FT-Tj90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPhFak0gAiML5yrUGVATrnHVIwfg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Code Review: Array.from и два вложенных for",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=z6m6FT-Tj90",
+      "view_count": 3200
+    }
+  ],
+  "epoch": 1791670102,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy",
+  "modified_date": "20260201",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy",
+  "playlist_count": 1,
+  "release_year": null,
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 240,
+      "id": "0",
+      "resolution": "240x240",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CIznqtYG-oaymwEICPABEPABSFqi85f_AwYI-f6pyAY=&rs=AOn4CLCmYIwIgy_at6ZusJ3ZZfSSl9lIBQ",
+      "width": 240
+    },
+    {
+      "height": 480,
+      "id": "1",
+      "resolution": "480x480",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CMa5qtYG-oaymwEICOADEOADSFqi85f_AwYI-f6pyAY=&rs=AOn4CLCUVvdibJdOcLy6pl2GrgaK98fd_g",
+      "width": 480
+    }
+  ],
+  "title": "JavaScript Code Review",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 126,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

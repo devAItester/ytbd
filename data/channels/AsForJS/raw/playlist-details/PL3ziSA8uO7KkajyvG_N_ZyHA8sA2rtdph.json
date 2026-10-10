@@ -1,0 +1,268 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Производительность JavaScript кода, или то, что обязан знать каждый.\n\nЭтот цикл ставит перед собой задачу, без серьезного углубления в детали, преподать набор универсальных принципов, знание которых, позволит программисту языка JavaScript, всегда отдавать себе отчет в том, станет ли его код JavaScript проблемой для оптимизирующего компилятора и, как следствие, для всей его программы в целом.\n\nОтдельно следует обратить внимание на тот факт, что преподаваемый набор правил сформулирован в наиболее общей форме. Иными словами он будет отвечать реалиям таких RunTime как V8, CoreJs или SpiderMonkey. То есть отвечать требованиям всем основным RunTime настоящего.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9416,
+      "id": "DjuK8h7-ep8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnUm8ad3Mb4l-WVyLJOM0e6XWIrg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXHCwEccXkEkIVYDsMNFFv7Fid-A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjNrCSOuMUE0_X_V0K1etkhyO9EQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNQp6nZJIWWrMznwD-pYG4f4lceQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Производительность Math.trunc vs Or",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=DjuK8h7-ep8",
+      "view_count": 1100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10576,
+      "id": "OpJLmIvXs5A",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAoCfdLG3BuVnUiWqmAHwAhwtMcbg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHs9qy-xRouALVmcz1zywMiPXEbQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD60hkBZgvkmfRamVXxMACj6xRFtQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC7tkuDHYk6X6XbCcdQL95rC38Fw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Производительность for, forEach и reduce",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=OpJLmIvXs5A",
+      "view_count": 2000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 27725,
+      "id": "kz6TmnP9U5s",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCR36_HTV-vfnUn8pS-4H8BQeOL1Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7YRxjnYqKKUgIsRZeI1rJM0xjGA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDfNfa5kRClAjwtUCz8QIbinYJxw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHrMIl4ztPJJentBmyjkGwVOHwMQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Как не мешать интерпретатору сделать JavaScript код быстрым",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=kz6TmnP9U5s",
+      "view_count": 3800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 913,
+      "id": "_EtTRVJAahY",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNN2icGo7y5wrFiaejU_iy8vZn4g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCnulsoCxOgodgYSz-2zXyan2vKkg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBd1kExylHERLaVQVBay9goV3gFw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx_jpESBKIYPUKhN__VdEH39uRJQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Update to the V8 On-Stack Replacement (OSR) Optimization Bug Investigation",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=_EtTRVJAahY",
+      "view_count": 588
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9177,
+      "id": "dgZG-OHOyUs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJnpIrEpjDyavjlxbvI6GlQG7wZw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0I8R3kCOarO5HmKskaa9xHlNZnw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8l0ghTnnTGRilshwWAPmOU6ETSg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc8Ty3Jxms02WwMYeHQdsO146nJA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Расследование бага в OSR (On-Stack Replacement) оптимизации V8",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=dgZG-OHOyUs",
+      "view_count": 1100
+    }
+  ],
+  "epoch": 1791670115,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph",
+  "modified_date": "20260516",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph",
+  "playlist_count": 26,
+  "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 240,
+      "id": "0",
+      "resolution": "240x240",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CM6nqtYG-oaymwEICPABEPABSFqi85f_AwYIzo21wwY=&rs=AOn4CLADG8Y8gfR--H223agcmw--nNgDJQ",
+      "width": 240
+    },
+    {
+      "height": 480,
+      "id": "1",
+      "resolution": "480x480",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CMDWqtYG-oaymwEICOADEOADSFqi85f_AwYIzo21wwY=&rs=AOn4CLBwl_00dz6-gitNVufN95nTkQGJCw",
+      "width": 480
+    }
+  ],
+  "title": "Производительность JavaScript кода",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 12051,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

@@ -1,0 +1,268 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Обсуждения с подписчиками канала AsForJs вопросов касающихся JavaScript",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21562,
+      "id": "F9mPBBevqUE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCeFUPY_g1BnzC6-4RDdN-jBBhVIQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC_QTlpkz07-MJNPgSWAGwXLwVBuQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB0NwJocHi_p2G3cRgcniaNkSPew",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnl7GfYnPZWET2ESGqkiaRTScrOw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "AsForJS Talks: День рождения",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=F9mPBBevqUE",
+      "view_count": 2600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6010,
+      "id": "2HPK0dh0_K8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgRybp57fuXRSnE0yOXBEF5oFMJg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGFrSD2Z75OOxRwBgAV0SGk6Dchw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_pfyqeIA8-WH1i8TOGcaEuMZGSw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtqPB5krl9N9OYjfi-dJqeHciqCA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "AsForJS Talks: Когда ИИ победит программиста",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=2HPK0dh0_K8",
+      "view_count": 6700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 17820,
+      "id": "Dtgo9uB1fxU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxABUlLEtfkgNQrLZT2VPmwcNHmw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBX0tAhb39HWT2RPgy1JIczPHcqZg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBowpKxsRyINWmJLnBtdwp60oQfzA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzyeiISiW_bgTcxcardTtOBqoltA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "AsForJS Talks: Что там за курс и еще",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Dtgo9uB1fxU",
+      "view_count": 3300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 13331,
+      "id": "5o5kv-4TyYw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/5o5kv-4TyYw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA9pULIsuI4rDV6l6Zao5c-vLOH2w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/5o5kv-4TyYw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVYQB1QWXHOmjw1uSDO6qOiBKf8A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/5o5kv-4TyYw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDok0pzCBE-uDoziiKaNAzXhOwCmw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/5o5kv-4TyYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDa2lNIlvZ6C7CGOKzqJcOORW32gQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Мне нужно знать о JavaScript:  WeakRef и WeakMap",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=5o5kv-4TyYw",
+      "view_count": 2400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 22602,
+      "id": "7BwsPaFDl9E",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/7BwsPaFDl9E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_4DTSBBi-x-0sTz56n8iorHQWvA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/7BwsPaFDl9E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJ2Pe3uYiBjVE0LuP1MuOCrPvIqQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/7BwsPaFDl9E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvStVT68cAXDo9aej6DCPpMhDS9w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/7BwsPaFDl9E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDl_JoswzfimzSGfSU4zqxM1A0nhg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Разговор с чатом, пока есть свет",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=7BwsPaFDl9E",
+      "view_count": 4300
+    }
+  ],
+  "epoch": 1791670112,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4",
+  "modified_date": "20260421",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4",
+  "playlist_count": 37,
+  "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 240,
+      "id": "0",
+      "resolution": "240x240",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CPG-qtYG-oaymwEICPABEPABSFqi85f_AwYIgPKozAY=&rs=AOn4CLCaZtXDORznHF-xeU5zsbTRjqgWHw",
+      "width": 240
+    },
+    {
+      "height": 480,
+      "id": "1",
+      "resolution": "480x480",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CIzOqtYG-oaymwEICOADEOADSFqi85f_AwYIgPKozAY=&rs=AOn4CLBzM4db0SrK0ZbvIcvXfe6So9tAFA",
+      "width": 480
+    }
+  ],
+  "title": "JavaScript Talks",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 3020,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

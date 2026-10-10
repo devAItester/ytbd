@@ -1,0 +1,268 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Подкаст о срочном принятии мер, для тушения того места, которым я думаю. Причиной возгорания которого, стал сторонний материал на тему: я научу вас в JavaScript",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 25463,
+      "id": "3r4X5OSQMFs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLDuhOxzvHHkA568obbqbE4J_JmEgw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLAW-WkENj9UNkVxaAxh5NUUObtI4g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDtQ6bMFK-VLTu8VTT0yUBVbv4kNQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAxprpWL2Nnc6EuLNXQM2PSvcW0Qw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Разберем видео от Isaac ReactJS про: типы и замыкания",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=3r4X5OSQMFs",
+      "view_count": 3100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9460,
+      "id": "zXITWw0ctDM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLBI_pCP-tZPjIqZPB7HZNEDPPdegQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLC5751BSqzeqY4wTWClZFFg7Y7XOg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAPlpW4wX1QF-eh5Eb6QDLmffAcZA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBHhwQfFOA3sE0YO9g1HsphZp7_0Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Оптимизируем главную страницу HexLet до PageSpeed 90+",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=zXITWw0ctDM",
+      "view_count": 3600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 14250,
+      "id": "Z8fzImsl-RM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLD0Fji4FKs5jSQmRCdJ_Jn_NRkcfQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLDtl2shbMdm2tmLTByGS8NDBTAb2A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCX2U8mzL_9KqLlmVkkeETLI_syIg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD-lfMNib2IJ5BdC6BF6S_2PFYwAA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Посмотрим вместе видео: SEO для программистов",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Z8fzImsl-RM",
+      "view_count": 2000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 15237,
+      "id": "zKlAoqhc49I",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLBVOiYLPAlaz4kXNn7qxKCU08gKEQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLB5--yJDtMMb0vQBCL5NogxGOAbpQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC0PugyhWl02O7E0uwM7R2tKy_QHA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDvtPo3_be1CWwQv6iVnilqnNWcjQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Смотрим вместе YT:  10 мифов об оптимизации JavaScript, в которые верят даже опытные разработчики",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=zKlAoqhc49I",
+      "view_count": 3400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11117,
+      "id": "TLL4BChnRqg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLCtM7Ag1G0mgYXIi1UjpA4ZRNLiZA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==&rs=AOn4CLDp-PSX5_4hke_tsqzfr2MUTLN1mg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLC82jVN8jEDX0iTF6mX6gVl3NzS5w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB18aPkRKdAM1RW6uIQLybW4jlCEQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Смотрим вместе YT:  Настя Котова - как компилирует V8",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=TLL4BChnRqg",
+      "view_count": 3400
+    }
+  ],
+  "epoch": 1791670116,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS",
+  "modified_date": "20260612",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS",
+  "playlist_count": 41,
+  "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 240,
+      "id": "0",
+      "resolution": "240x240",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CIDnqtYG-oaymwEICPABEPABSFqi85f_AwYI2aWswwY=&rs=AOn4CLCvsvLifbcJFZmQfgRB_D3pAb4D2w",
+      "width": 240
+    },
+    {
+      "height": 480,
+      "id": "1",
+      "resolution": "480x480",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CPLLqtYG-oaymwEICOADEOADSFqi85f_AwYI2aWswwY=&rs=AOn4CLA4CXerpkSl1bsskPqxc5UOzsBk6g",
+      "width": 480
+    }
+  ],
+  "title": "В интернетах кто-то неправ.",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 17560,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

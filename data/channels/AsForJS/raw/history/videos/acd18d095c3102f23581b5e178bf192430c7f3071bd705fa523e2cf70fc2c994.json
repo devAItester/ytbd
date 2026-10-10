@@ -1,0 +1,281 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": 28500,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "JavaScript - as it is or JavaScript through the eyes of the specification\n\nJavaScript is that rare example of insanity that once you figure it out, you start to enjoy it.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 4478,
+      "id": "neqdcpPz1Ic",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/neqdcpPz1Ic/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTur89c62kplwuvm5UowofYZQfwQ",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/neqdcpPz1Ic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsD8UJavYz4Kj5y9F4DA0VOX4inA",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "Второе в мире JavaScript радио. Выпуск 1.",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=neqdcpPz1Ic",
+      "view_count": 4400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 2651,
+      "id": "A6zgTaxo3R4",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/A6zgTaxo3R4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0TMElRrmSB1E150bnSDBtwbgzfA",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/A6zgTaxo3R4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZat0ZEr_-Lal0cvSA1y2lgG5Nzg",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "[Stripped] Async Function Performance",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=A6zgTaxo3R4",
+      "view_count": 4000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 4632,
+      "id": "IcWSZQEdQMQ",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/IcWSZQEdQMQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5htdiaPR7GJt7W-qCzYf16ryVTA",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/IcWSZQEdQMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxIoDHD4tK0JZ81LiKUnOqZ6Rq6w",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "The String Type and Its Two Main Problems. Part 2 of 3.",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=IcWSZQEdQMQ",
+      "view_count": 1900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 3029,
+      "id": "wCcVWQ9bikg",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/wCcVWQ9bikg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKxO2q1nsWTZ0ycz_5gQELmDX4Ng",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/wCcVWQ9bikg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcyEd9OSdgJqtJrU96ByLa1SGzFg",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "[Stripped] The String type according to the official ECMAScript specification. Part 1 of 3.",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=wCcVWQ9bikg",
+      "view_count": 2900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": "subscriber_only",
+      "channel_url": null,
+      "creators": null,
+      "duration": 10134,
+      "id": "s2U6LYGO67o",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/s2U6LYGO67o/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIF0oZTAP&rs=AOn4CLD_l3MKZzQmH4Ct-eT0DSTvFHOgMA",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/s2U6LYGO67o/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIF0oZTAP&rs=AOn4CLAXtbsm8w8sVNB7hlZc6KphCw80Yw",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "Вопросы ответы для участников Табора",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=s2U6LYGO67o",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 8981,
+      "id": "DtsikjAzDjA",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/DtsikjAzDjA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTZhKNDvNLZjN1dTBKyxJBDCe7Lw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Copy of Співбесід chatGPT на посаду Junior JavaScript Developer",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=DtsikjAzDjA",
+      "view_count": 12000
+    }
+  ],
+  "epoch": 1791670095,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "modified_date": null,
+  "original_url": "https://www.youtube.com/@AsForJS/videos",
+  "playlist_count": 6,
+  "release_year": null,
+  "tags": [
+    "JavaScript",
+    "JS",
+    "Performance",
+    "web vitals",
+    "web asm",
+    "web assembly",
+    "wasm",
+    "optimization",
+    "LightHouse",
+    "PageSpeed",
+    "demimurych",
+    "murych",
+    "мурыч",
+    "ECMAScript",
+    "Spec"
+  ],
+  "thumbnails": [
+    {
+      "height": 175,
+      "id": "0",
+      "preference": -10,
+      "resolution": "1060x175",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1060
+    },
+    {
+      "height": 188,
+      "id": "1",
+      "preference": -10,
+      "resolution": "1138x188",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1138
+    },
+    {
+      "height": 283,
+      "id": "2",
+      "preference": -10,
+      "resolution": "1707x283",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1707
+    },
+    {
+      "height": 351,
+      "id": "3",
+      "preference": -10,
+      "resolution": "2120x351",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2120
+    },
+    {
+      "height": 377,
+      "id": "4",
+      "preference": -10,
+      "resolution": "2276x377",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2276
+    },
+    {
+      "height": 424,
+      "id": "5",
+      "preference": -10,
+      "resolution": "2560x424",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2560
+    },
+    {
+      "id": "banner_uncropped",
+      "preference": -5,
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=s0"
+    },
+    {
+      "height": 900,
+      "id": "7",
+      "resolution": "900x900",
+      "url": "https://yt3.googleusercontent.com/G0TYFaMa4iX5kxc8yElv5VG5vVSNumvkjxEEzJ3uWJvnyyK6NRxuYE7J9jziw8BmVOuPW2Dn=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900
+    },
+    {
+      "id": "avatar_uncropped",
+      "preference": 1,
+      "url": "https://yt3.googleusercontent.com/G0TYFaMa4iX5kxc8yElv5VG5vVSNumvkjxEEzJ3uWJvnyyK6NRxuYE7J9jziw8BmVOuPW2Dn=s0"
+    }
+  ],
+  "title": "As For JS ... - Videos",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": null,
+  "webpage_url": "https://www.youtube.com/@AsForJS/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com"
+}

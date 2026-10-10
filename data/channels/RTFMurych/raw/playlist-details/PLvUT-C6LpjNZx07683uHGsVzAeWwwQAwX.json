@@ -223,51 +223,9 @@
       "uploader_url": "https://www.youtube.com/@RTFMurych",
       "url": "https://www.youtube.com/watch?v=L_F0kdfyF8k",
       "view_count": 20
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "@RTFMurych",
-      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
-      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
-      "creators": null,
-      "duration": 96,
-      "id": "9YitjRyHu1Q",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-qo15MNbygo30INhn7_d3Ewsk7w",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBt30Vl-xz6PaXf88bKJ90OO4oCLQ",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc6EZOIqD8007Yb7hdkFTe7QThhQ",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5hC5Br1zuQs2t3eZIv2m-faaUUg",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "03.25 ⎡interview⎦ — круговорот сеньоров в ИТ",
-      "uploader": "@RTFMurych",
-      "uploader_id": "@RTFMurych",
-      "uploader_url": "https://www.youtube.com/@RTFMurych",
-      "url": "https://www.youtube.com/watch?v=9YitjRyHu1Q",
-      "view_count": 28
     }
   ],
-  "epoch": 1791668438,
+  "epoch": 1791670066,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
@@ -275,6 +233,13 @@
   "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
   "playlist_count": 6,
   "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
   "tags": [],
   "thumbnails": [
     {

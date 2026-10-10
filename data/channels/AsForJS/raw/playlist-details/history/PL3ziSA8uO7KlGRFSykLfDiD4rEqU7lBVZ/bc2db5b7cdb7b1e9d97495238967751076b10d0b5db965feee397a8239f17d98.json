@@ -1,0 +1,275 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Пишем JavaScript код, оцениваем его производительность и отвечаем на вопросы.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10627,
+      "id": "7-KMWtDmLYs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/7-KMWtDmLYs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC_rtTcg9TOC7ien11nrZs8f4BoxA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/7-KMWtDmLYs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASYkqxkV41UAy6Acs_JROty8PR8Q",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/7-KMWtDmLYs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv3leuEnLsqMmQxef4RZkJfZwHCw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/7-KMWtDmLYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBip_aOi48HJd5XRIQq71tg8X1wIA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Live Coding: Sumo на коленке - 2",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=7-KMWtDmLYs",
+      "view_count": 1700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6830,
+      "id": "bPy9h7m6NzA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/bPy9h7m6NzA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAE4t1x3RpuU2kdf5l9j7S4W17TYQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/bPy9h7m6NzA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFxSXD765LlmdkbDicuzoMm9n4wQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/bPy9h7m6NzA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEpYEyo9daF0959LuTxrvDu9d5Rw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/bPy9h7m6NzA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyWadT6UBW4S6i8ZuDPsq4E6yO5Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Live Coding: Sumo on the Go: Writing a Google Chrome Extension",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=bPy9h7m6NzA",
+      "view_count": 2500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 22580,
+      "id": "KC4T79ltigE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/KC4T79ltigE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAd_JktOvoL56mmHaejmJQCio4LPw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/KC4T79ltigE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgRYNtqq4bLffbx3IF_Ly2JRcIeQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/KC4T79ltigE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc8nQCe-H7xRvTPxcJ6EdFZLoRKQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/KC4T79ltigE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR11O7EsF5P7jwu1Dmc5jp0pCkiQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Live Coding: Учим жуков говорить",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=KC4T79ltigE",
+      "view_count": 3100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 18261,
+      "id": "Wz0Lh0dEyyc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Wz0Lh0dEyyc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxI0IAch-Htca-LMfbFNa1u_83Wg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Wz0Lh0dEyyc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGsh070A52xScU0jZnsjQrJrve1w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Wz0Lh0dEyyc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbJH-_mC73XW1Dt0ls4XmMd9q7zw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Wz0Lh0dEyyc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl0cU7wwnT1mYYILIeqRIVe_ctwA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Live Coding: Красим жуков",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Wz0Lh0dEyyc",
+      "view_count": 2900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 20976,
+      "id": "GhxYRkXZAB4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/GhxYRkXZAB4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCltK9nAevRl3VexfYKOiHgxxxMQQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/GhxYRkXZAB4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDUBpT8VYt5p12O-0AQSxDOoT9p2A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/GhxYRkXZAB4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC93seaakfOvvO3z_V_zluRK6l_Kw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/GhxYRkXZAB4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBxy85-DxhkZBPUl1YMbyeoT3R3g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Live Coding: Оптимизируем сайт ECMA Script",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=GhxYRkXZAB4",
+      "view_count": 3600
+    }
+  ],
+  "epoch": 1791670111,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ",
+  "modified_date": "20260201",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ",
+  "playlist_count": 26,
+  "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 240,
+      "id": "0",
+      "resolution": "240x240",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=COa2qtYG-oaymwEICPABEPABSFqi85f_AwYIi6aZvQY=&rs=AOn4CLCkKbVBDXfuLgqTNbkiV_GGXr5M9A",
+      "width": 240
+    },
+    {
+      "height": 480,
+      "id": "1",
+      "resolution": "480x480",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CJLNqtYG-oaymwEICOADEOADSFqi85f_AwYIi6aZvQY=&rs=AOn4CLATPG_egWODawQGfbCcVeYWpoHSCA",
+      "width": 480
+    },
+    {
+      "height": 720,
+      "id": "2",
+      "resolution": "720x720",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CLDnqtYG-oaymwEICNAFENAFSFqi85f_AwYIi6aZvQY=&rs=AOn4CLAYb8iRKLMRL0fHPCqlSJ_U-7kJvQ",
+      "width": 720
+    }
+  ],
+  "title": "JavaScript Live Coding",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 15643,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

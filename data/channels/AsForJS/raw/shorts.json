@@ -1,0 +1,202 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": 28500,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "JavaScript - as it is or JavaScript through the eyes of the specification\n\nJavaScript is that rare example of insanity that once you figure it out, you start to enjoy it.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "id": "aEWXtdgusR8",
+      "ie_key": "Youtube",
+      "thumbnails": [
+        {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB6i3FMiNfS_Phj4GPnJ610GRGUrQ&usqp=CCk",
+          "width": 405
+        },
+        {
+          "height": 608,
+          "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLCXVrnCZSvEOiqF5vL-mm3_j_cYfg&usqp=CCk",
+          "width": 405
+        }
+      ],
+      "title": "2026 JavaScript and hugged raised turned over",
+      "url": "https://www.youtube.com/shorts/aEWXtdgusR8",
+      "view_count": 6800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "id": "YHo7sh-TY_8",
+      "ie_key": "Youtube",
+      "thumbnails": [
+        {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA7rG8jGhgBeaFe24Doc4LP6sM97A&usqp=CCk",
+          "width": 405
+        },
+        {
+          "height": 608,
+          "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDliOj8sBJ4UD7HgETVD1DTTT9hfQ&usqp=CCk",
+          "width": 405
+        }
+      ],
+      "title": "JavaScript, Sports, and Yoga",
+      "url": "https://www.youtube.com/shorts/YHo7sh-TY_8",
+      "view_count": 24000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "id": "cRRytPpV1sM",
+      "ie_key": "Youtube",
+      "thumbnails": [
+        {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAH87OXqJiYU-qfjeoJcXe3Dp5wEg&usqp=CCk",
+          "width": 405
+        },
+        {
+          "height": 608,
+          "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAUqzT-8P94Wa71rBxXRagkEX_hdA&usqp=CCk",
+          "width": 405
+        }
+      ],
+      "title": "JavaScript и спорт. #javascript",
+      "url": "https://www.youtube.com/shorts/cRRytPpV1sM",
+      "view_count": 14000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "id": "196yyub_Kro",
+      "ie_key": "Youtube",
+      "thumbnails": [
+        {
+          "height": 720,
+          "url": "https://i.ytimg.com/vi/196yyub_Kro/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBbtgs80FLEhUgGz8Jbxv2BdftzCA&usqp=CCk",
+          "width": 405
+        },
+        {
+          "height": 608,
+          "url": "https://i.ytimg.com/vi/196yyub_Kro/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAVg6Gu3_K-pKYcATFwhsIXLgB9Bw&usqp=CCk",
+          "width": 405
+        }
+      ],
+      "title": "Як довжина масиву може впливати на швидкість виконання JavaScript коду.",
+      "url": "https://www.youtube.com/shorts/196yyub_Kro",
+      "view_count": 5300
+    }
+  ],
+  "epoch": 1791670095,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "modified_date": null,
+  "original_url": "https://www.youtube.com/@AsForJS/shorts",
+  "playlist_count": 4,
+  "release_year": null,
+  "tags": [
+    "JavaScript",
+    "JS",
+    "Performance",
+    "web vitals",
+    "web asm",
+    "web assembly",
+    "wasm",
+    "optimization",
+    "LightHouse",
+    "PageSpeed",
+    "demimurych",
+    "murych",
+    "мурыч",
+    "ECMAScript",
+    "Spec"
+  ],
+  "thumbnails": [
+    {
+      "height": 175,
+      "id": "0",
+      "preference": -10,
+      "resolution": "1060x175",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1060
+    },
+    {
+      "height": 188,
+      "id": "1",
+      "preference": -10,
+      "resolution": "1138x188",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1138
+    },
+    {
+      "height": 283,
+      "id": "2",
+      "preference": -10,
+      "resolution": "1707x283",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1707
+    },
+    {
+      "height": 351,
+      "id": "3",
+      "preference": -10,
+      "resolution": "2120x351",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2120
+    },
+    {
+      "height": 377,
+      "id": "4",
+      "preference": -10,
+      "resolution": "2276x377",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2276
+    },
+    {
+      "height": 424,
+      "id": "5",
+      "preference": -10,
+      "resolution": "2560x424",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2560
+    },
+    {
+      "id": "banner_uncropped",
+      "preference": -5,
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=s0"
+    },
+    {
+      "height": 900,
+      "id": "7",
+      "resolution": "900x900",
+      "url": "https://yt3.googleusercontent.com/G0TYFaMa4iX5kxc8yElv5VG5vVSNumvkjxEEzJ3uWJvnyyK6NRxuYE7J9jziw8BmVOuPW2Dn=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900
+    },
+    {
+      "id": "avatar_uncropped",
+      "preference": 1,
+      "url": "https://yt3.googleusercontent.com/G0TYFaMa4iX5kxc8yElv5VG5vVSNumvkjxEEzJ3uWJvnyyK6NRxuYE7J9jziw8BmVOuPW2Dn=s0"
+    }
+  ],
+  "title": "As For JS ... - Shorts",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": null,
+  "webpage_url": "https://www.youtube.com/@AsForJS/shorts",
+  "webpage_url_basename": "shorts",
+  "webpage_url_domain": "youtube.com"
+}

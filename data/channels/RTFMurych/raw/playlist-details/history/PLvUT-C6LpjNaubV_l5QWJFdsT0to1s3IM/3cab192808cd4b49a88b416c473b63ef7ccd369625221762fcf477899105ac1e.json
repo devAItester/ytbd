@@ -1,0 +1,282 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "@RTFMurych",
+  "channel_follower_count": null,
+  "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+  "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+  "description": "0. Основы HTML5 и CSS3 по стандартам W3C (2016)\nyoutu.be/playlist?list=PLPt6auq12-ThKr1JHynfwM0UY36zaDLnl\n\n1. Основы JavaScript (2016)\nyoutu.be/playlist?list=PL3l0ZhZehTMFVgs3NDOBtPaWFlHYtYNr_&si\n\n2. JavaScript расширенные возможности (2016)\n3. jQuery\n4. Ajax\n5. Node\n6. HTML5 API\n\n7. Web-мастеринг (2018)\nyoutu.be/playlist?list=PLhgRAQ8BwWFYT1NcPyuxBneol4wgKyG5Q&si",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "SpecialistTV",
+      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+      "creators": null,
+      "duration": 4908,
+      "id": "jlBfRDU_3OY",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/jlBfRDU_3OY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDebLC8Ood-GgE0CFx1SIwWmh8iGQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/jlBfRDU_3OY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBj1lLbXvjCzhxNIq6AJWu3-XdTKA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/jlBfRDU_3OY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoiGG1mM8ygpQtpSIfSPVL4lNuvQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/jlBfRDU_3OY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZnV3VW7c5oyQO3rekAqldvxk6Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Introduction to Functional Programming in JavaScript",
+      "uploader": "SpecialistTV",
+      "uploader_id": "@SpecialistTV",
+      "uploader_url": "https://www.youtube.com/@SpecialistTV",
+      "url": "https://www.youtube.com/watch?v=jlBfRDU_3OY",
+      "view_count": 22000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "SpecialistTV",
+      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+      "creators": null,
+      "duration": 2734,
+      "id": "DSgOi5ssEEM",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/DSgOi5ssEEM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBaMGXSH9XVbxYAmgh6MQnekJ5l1w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/DSgOi5ssEEM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOF8vEEp0BiaI1KgU3Fjpvb70X0Q",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/DSgOi5ssEEM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-yGaRPm5cmYLCiGz_AT3lNHMwPA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/DSgOi5ssEEM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu3D4EO9FVmESNcagTl_OEbc-FPg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Условные конструкции - лучшее для повышение читабельности и масштабируемости кода",
+      "uploader": "SpecialistTV",
+      "uploader_id": "@SpecialistTV",
+      "uploader_url": "https://www.youtube.com/@SpecialistTV",
+      "url": "https://www.youtube.com/watch?v=DSgOi5ssEEM",
+      "view_count": 1100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "SpecialistTV",
+      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+      "creators": null,
+      "duration": 893,
+      "id": "0nLHyjU5HNM",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/0nLHyjU5HNM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHI83I4YiIIvQ1JLQbaYXsnrvVwQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/0nLHyjU5HNM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB05QuRGQKBl62ZnPenNg7joNRjkA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/0nLHyjU5HNM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJyS47PC_zCPf5-BaIAr17WYkC1Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/0nLHyjU5HNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB02umrGcb3Sw69gF01p3q09cpBTA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Сравнение типов в JavaScript",
+      "uploader": "SpecialistTV",
+      "uploader_id": "@SpecialistTV",
+      "uploader_url": "https://www.youtube.com/@SpecialistTV",
+      "url": "https://www.youtube.com/watch?v=0nLHyjU5HNM",
+      "view_count": 2200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "SpecialistTV",
+      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+      "creators": null,
+      "duration": 901,
+      "id": "1seq3QNC1Lo",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/1seq3QNC1Lo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiWwvSlLL3MPZU_9vBw-oca6RTPw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/1seq3QNC1Lo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCuCI-BoYS-pBmJtxy35mtH4sTfvQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/1seq3QNC1Lo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCltUSjtIpQyNcGJwW6pz0_GH96DA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/1seq3QNC1Lo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6SrmT_KF1qpFMfOfHSWv33YzYdw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Использование конструкторов встроенных типов JavaScript",
+      "uploader": "SpecialistTV",
+      "uploader_id": "@SpecialistTV",
+      "uploader_url": "https://www.youtube.com/@SpecialistTV",
+      "url": "https://www.youtube.com/watch?v=1seq3QNC1Lo",
+      "view_count": 576
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "SpecialistTV",
+      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+      "creators": null,
+      "duration": 2266,
+      "id": "mxhRdQd5VcA",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/mxhRdQd5VcA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAP4ICd1S9UMM6zEAsT9s8x0zMxHw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/mxhRdQd5VcA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmnSLPS9hvY5A_QEyk7hvwIW091g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/mxhRdQd5VcA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmJ197FCutGRXzCTzRBPs2E2_Hhw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/mxhRdQd5VcA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH5hld54gKYFq0fYWc3TlGllFBFA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Объект Promise в JavaScript",
+      "uploader": "SpecialistTV",
+      "uploader_id": "@SpecialistTV",
+      "uploader_url": "https://www.youtube.com/@SpecialistTV",
+      "url": "https://www.youtube.com/watch?v=mxhRdQd5VcA",
+      "view_count": 10000
+    }
+  ],
+  "epoch": 1791670065,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+  "modified_date": "20240714",
+  "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+  "playlist_count": 14,
+  "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 94,
+      "id": "0",
+      "resolution": "168x94",
+      "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD_9fX38LywTaucSgghSJap6hV6UA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "id": "1",
+      "resolution": "196x110",
+      "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBwq6NdA7_cxz58EoZ8E-h5W6A3MQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "id": "2",
+      "resolution": "246x138",
+      "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_-CGBhUysONo1sxJ7goWovJEVsg",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "id": "3",
+      "resolution": "336x188",
+      "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD6E7X9GTRiFbrW3q0cIABCCqp7Qg",
+      "width": 336
+    }
+  ],
+  "title": "Игорь Борисов",
+  "uploader": "@RTFMurych",
+  "uploader_id": "@RTFMurych",
+  "uploader_url": "https://www.youtube.com/@RTFMurych",
+  "view_count": 93,
+  "webpage_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

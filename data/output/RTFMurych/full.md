@@ -2,7 +2,7 @@
 
 - **Канал:** <a href="https://www.youtube.com/@RTFMurych">https://www.youtube.com/@RTFMurych</a>
 - **ID канала:** UC3NVT782r84UDLdx9JXtbow
-- **Проверено:** 2026-10-10 21:40:34 UTC
+- **Проверено:** 2026-10-10 22:07:42 UTC
 
 Это представление показывает JSON-метаданные, фактически сохранённые сборщиком yt-dlp. Структура полей не подменяется схемой YouTube Data API; отсутствующие у источника поля не выдумываются.
 
@@ -154,7 +154,7 @@
       "view_count": 88
     }
   ],
-  "epoch": 1791668435,
+  "epoch": 1791670062,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "UC3NVT782r84UDLdx9JXtbow",
@@ -609,387 +609,9 @@
       "uploader_url": "https://www.youtube.com/@SpecialistTV",
       "url": "https://www.youtube.com/watch?v=mxhRdQd5VcA",
       "view_count": 10000
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 4643,
-      "id": "FOTrtyu546Q",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/FOTrtyu546Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAaRyiepPe0jj6PgyzsYW8cyyAcHw",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/FOTrtyu546Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB6lPNBBb7jqNgdVLFKnD4wcQ8GwQ",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/FOTrtyu546Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBBN3NvLb98a0HBVPbQDekOgKJGag",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/FOTrtyu546Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBqwHlsheFMhqBbBXAzThrnDI5ZIQ",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "\u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0434\u0430\u043d\u043d\u044b\u0445 \u043d\u0430 JavaScript: \u041e\u0447\u0435\u0440\u0435\u0434\u0438",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=FOTrtyu546Q",
-      "view_count": 6600
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 2462,
-      "id": "GBPpQVrkNTw",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/GBPpQVrkNTw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCBXWmYmn__wJHOXxc6v4GRC3GiCw",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/GBPpQVrkNTw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLABQjoZJZQNst2sTi31bxLMqf3N-A",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/GBPpQVrkNTw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABhdz7IFKbExso3ZKExerRxZ_0kw",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/GBPpQVrkNTw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCSjCUWvVoNoyYpdwQAzJOsuVUiqg",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "\u0421\u043f\u043e\u0441\u043e\u0431\u044b \u043d\u0430\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432 JavaScript",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=GBPpQVrkNTw",
-      "view_count": 4300
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 6004,
-      "id": "9eAmTx2z8AI",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDRI-3HT_tPd6mIYOwX5WmHPjZKZg",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBpNQVLPiCjeNzhakITpLi7v1bTPA",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCu-4P4C2vSjCHzxhIpQlMKI1xaAQ",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDpZMo7VwSoC1PeJgguqwxMnA-yCw",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 JavaScript \u043f\u043e \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0443 ES-2015 (ECMAScript 2015)",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=9eAmTx2z8AI",
-      "view_count": 13000
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 2519,
-      "id": "-ELqOUJedCI",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/-ELqOUJedCI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD8MZqVLqWjlb4ZbF-UOcmJ9pRfLw",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/-ELqOUJedCI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAreT5BCaCH8EHKQCLklQFNnUn8gA",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/-ELqOUJedCI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAXX-wTUqUZ6AUBQkwG0QS2oBF8Eg",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/-ELqOUJedCI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBj5pPxKQUcAB1f56f8tFXBZ7um_A",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "\u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f HTML5 API Drag-and-drop",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=-ELqOUJedCI",
-      "view_count": 3200
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 2586,
-      "id": "VyIvCFUw17g",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/VyIvCFUw17g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA0WLR7RdtoUKmPn1i-dXNAXmO5Mw",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/VyIvCFUw17g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBwrUbUppm89fRakBCgXfb4jBnHJw",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/VyIvCFUw17g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDbYjZztfrKy0pBZj_2OtZfjDJBmA",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/VyIvCFUw17g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBiDg84xXCauD3UamvsGkliA0qgiw",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 JSONP",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=VyIvCFUw17g",
-      "view_count": 2200
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 3180,
-      "id": "LH5czjRdn7U",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/LH5czjRdn7U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDGycgy9N5dfIoXA7NuTm8mBhQ6Hg",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/LH5czjRdn7U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDiajTxITa6iinUFsKjT9uojdB8Lg",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/LH5czjRdn7U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAUJUvsk7meOoXXzOL7afSc-CTGCg",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/LH5czjRdn7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBjh_LO01P88oipYI5PeQJ44iYCdw",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "Is it necessary to learn XML today?",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=LH5czjRdn7U",
-      "view_count": 5500
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 2568,
-      "id": "G47gNab1lzQ",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/G47gNab1lzQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUCg8MA8=\u0026rs=AOn4CLBPh-bYMb-IbbLDng21FUEmJnPfNA",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/G47gNab1lzQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUCg8MA8=\u0026rs=AOn4CLAlde0EsvHELH6Smzhy_MQ5aPTYmA",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/G47gNab1lzQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFAoPDAP\u0026rs=AOn4CLBxauFWVtgTk9Yf1temolIohsy1TA",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/G47gNab1lzQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFAoPDAP\u0026rs=AOn4CLDUuYcfR8mI0uzB_ya_-oXgkdn4fQ",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "JavaScript. \u0423\u0440\u043e\u0432\u0435\u043d\u044c 2. \u0412\u0435\u0431-\u0441\u043e\u043a\u0435\u0442\u044b, \u0447\u0430\u0441\u0442\u044c 1.",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=G47gNab1lzQ",
-      "view_count": 32000
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 2385,
-      "id": "kFZPNmqFzxE",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/kFZPNmqFzxE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAudYP7NPqZXPAC7davsdOKIR2Oaw",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/kFZPNmqFzxE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAxyFYmnlP-IVLfVqHHfIqLbCnikw",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/kFZPNmqFzxE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDJRoLoveOqxGRppo4WinGoAg6GXw",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/kFZPNmqFzxE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB116NPzRoVmpkg58RcYVhRZ_swKg",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "JavaScript. \u0423\u0440\u043e\u0432\u0435\u043d\u044c 2. \u0412\u0435\u0431-\u0441\u043e\u043a\u0435\u0442\u044b, \u0447\u0430\u0441\u0442\u044c 2.",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=kFZPNmqFzxE",
-      "view_count": 9800
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "SpecialistTV",
-      "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
-      "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
-      "creators": null,
-      "duration": 3093,
-      "id": "V5CP46Uvra0",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/V5CP46Uvra0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTyg_MA8=\u0026rs=AOn4CLDVOsY3LNfWCbjRi88l9hIginREpQ",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/V5CP46Uvra0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTyg_MA8=\u0026rs=AOn4CLC4rYolc0E3yCbLrEXAJEwRUZTqdw",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/V5CP46Uvra0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE8oPzAP\u0026rs=AOn4CLBEoQ6_vJa2x5Yvb2aYVSucGhio3w",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/V5CP46Uvra0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE8oPzAP\u0026rs=AOn4CLCioKS5jmKvkrR7KPAlwDtXO_ZdCw",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "JavaScript. \u0423\u0440\u043e\u0432\u0435\u043d\u044c 2. \u0412\u0435\u0431-\u0441\u043e\u043a\u0435\u0442\u044b, \u0447\u0430\u0441\u0442\u044c 3.",
-      "uploader": "SpecialistTV",
-      "uploader_id": "@SpecialistTV",
-      "uploader_url": "https://www.youtube.com/@SpecialistTV",
-      "url": "https://www.youtube.com/watch?v=V5CP46Uvra0",
-      "view_count": 5600
     }
   ],
-  "epoch": 1791668437,
+  "epoch": 1791670065,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
@@ -999,6 +621,13 @@
   "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
   "playlist_count": 14,
   "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
   "tags": [],
   "thumbnails": [
     {
@@ -1277,51 +906,9 @@
       "uploader_url": "https://www.youtube.com/@RTFMurych",
       "url": "https://www.youtube.com/watch?v=L_F0kdfyF8k",
       "view_count": 20
-    },
-    {
-      "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "@RTFMurych",
-      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
-      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
-      "creators": null,
-      "duration": 96,
-      "id": "9YitjRyHu1Q",
-      "ie_key": "Youtube",
-      "live_status": null,
-      "thumbnails": [
-        {
-          "height": 94,
-          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB-qo15MNbygo30INhn7_d3Ewsk7w",
-          "width": 168
-        },
-        {
-          "height": 110,
-          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBt30Vl-xz6PaXf88bKJ90OO4oCLQ",
-          "width": 196
-        },
-        {
-          "height": 138,
-          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBc6EZOIqD8007Yb7hdkFTe7QThhQ",
-          "width": 246
-        },
-        {
-          "height": 188,
-          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB5hC5Br1zuQs2t3eZIv2m-faaUUg",
-          "width": 336
-        }
-      ],
-      "timestamp": null,
-      "title": "03.25 \u23a1interview\u23a6 \u2014 \u043a\u0440\u0443\u0433\u043e\u0432\u043e\u0440\u043e\u0442 \u0441\u0435\u043d\u044c\u043e\u0440\u043e\u0432 \u0432 \u0418\u0422",
-      "uploader": "@RTFMurych",
-      "uploader_id": "@RTFMurych",
-      "uploader_url": "https://www.youtube.com/@RTFMurych",
-      "url": "https://www.youtube.com/watch?v=9YitjRyHu1Q",
-      "view_count": 28
     }
   ],
-  "epoch": 1791668438,
+  "epoch": 1791670066,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
@@ -1331,6 +918,13 @@
   "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
   "playlist_count": 6,
   "release_year": null,
+  "requested_entries": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
   "tags": [],
   "thumbnails": [
     {
@@ -1611,7 +1205,7 @@
       "view_count": 10000
     }
   ],
-  "epoch": 1791668439,
+  "epoch": 1791670067,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
@@ -1859,7 +1453,7 @@
       "view_count": 19000
     }
   ],
-  "epoch": 1791668439,
+  "epoch": 1791670067,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
@@ -1958,44 +1552,6 @@ ERROR: [youtube] 1seq3QNC1Lo: Sign in to confirm you’re not a bot. Use --cooki
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] mxhRdQd5VcA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] mxhRdQd5VcA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video FOTrtyu546Q: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] FOTrtyu546Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] FOTrtyu546Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video GBPpQVrkNTw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] GBPpQVrkNTw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] GBPpQVrkNTw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video 9eAmTx2z8AI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] 9eAmTx2z8AI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] 9eAmTx2z8AI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video -ELqOUJedCI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] -ELqOUJedCI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] -ELqOUJedCI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video VyIvCFUw17g: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] VyIvCFUw17g: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] VyIvCFUw17g: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video LH5czjRdn7U: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] LH5czjRdn7U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] LH5czjRdn7U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video G47gNab1lzQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] G47gNab1lzQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] G47gNab1lzQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video kFZPNmqFzxE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] kFZPNmqFzxE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] kFZPNmqFzxE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video V5CP46Uvra0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] V5CP46Uvra0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] V5CP46Uvra0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
 - video bv1L3L_MyKU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] bv1L3L_MyKU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing

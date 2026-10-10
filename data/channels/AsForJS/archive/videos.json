@@ -1,0 +1,177 @@
+{
+  "archive_count": 6,
+  "current_count": 6,
+  "items": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "display_url": "https://www.youtube.com/watch?v=neqdcpPz1Ic",
+      "duration": 4478,
+      "id": "neqdcpPz1Ic",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/neqdcpPz1Ic/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTur89c62kplwuvm5UowofYZQfwQ",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/neqdcpPz1Ic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsD8UJavYz4Kj5y9F4DA0VOX4inA",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "Второе в мире JavaScript радио. Выпуск 1.",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=neqdcpPz1Ic",
+      "view_count": 4400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "display_url": "https://www.youtube.com/watch?v=A6zgTaxo3R4",
+      "duration": 2651,
+      "id": "A6zgTaxo3R4",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/A6zgTaxo3R4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0TMElRrmSB1E150bnSDBtwbgzfA",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/A6zgTaxo3R4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZat0ZEr_-Lal0cvSA1y2lgG5Nzg",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "[Stripped] Async Function Performance",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=A6zgTaxo3R4",
+      "view_count": 4000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "display_url": "https://www.youtube.com/watch?v=IcWSZQEdQMQ",
+      "duration": 4632,
+      "id": "IcWSZQEdQMQ",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/IcWSZQEdQMQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5htdiaPR7GJt7W-qCzYf16ryVTA",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/IcWSZQEdQMQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxIoDHD4tK0JZ81LiKUnOqZ6Rq6w",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "The String Type and Its Two Main Problems. Part 2 of 3.",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=IcWSZQEdQMQ",
+      "view_count": 1900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "display_url": "https://www.youtube.com/watch?v=wCcVWQ9bikg",
+      "duration": 3029,
+      "id": "wCcVWQ9bikg",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/wCcVWQ9bikg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKxO2q1nsWTZ0ycz_5gQELmDX4Ng",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/wCcVWQ9bikg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcyEd9OSdgJqtJrU96ByLa1SGzFg",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "[Stripped] The String type according to the official ECMAScript specification. Part 1 of 3.",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=wCcVWQ9bikg",
+      "view_count": 2900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": "subscriber_only",
+      "channel_url": null,
+      "creators": null,
+      "display_url": "https://www.youtube.com/watch?v=s2U6LYGO67o",
+      "duration": 10134,
+      "id": "s2U6LYGO67o",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/s2U6LYGO67o/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIF0oZTAP&rs=AOn4CLD_l3MKZzQmH4Ct-eT0DSTvFHOgMA",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/s2U6LYGO67o/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIF0oZTAP&rs=AOn4CLAXtbsm8w8sVNB7hlZc6KphCw80Yw",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "Вопросы ответы для участников Табора",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=s2U6LYGO67o",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "display_url": "https://www.youtube.com/watch?v=DtsikjAzDjA",
+      "duration": 8981,
+      "id": "DtsikjAzDjA",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/DtsikjAzDjA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTZhKNDvNLZjN1dTBKyxJBDCe7Lw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Copy of Співбесід chatGPT на посаду Junior JavaScript Developer",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=DtsikjAzDjA",
+      "view_count": 12000
+    }
+  ],
+  "tab": "videos",
+  "updated_at": "2026-10-10 22:08:10 UTC"
+}

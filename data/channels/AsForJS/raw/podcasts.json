@@ -1,0 +1,758 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": 28500,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "JavaScript - as it is or JavaScript through the eyes of the specification\n\nJavaScript is that rare example of insanity that once you figure it out, you start to enjoy it.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CO7JqtYG-oaymwEICPABEPABSFqi85f_AwYI9qmswwY=&rs=AOn4CLBbD2YekH2FoyT_UcwPkI_GUv5Frw",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CKLeqtYG-oaymwEICOADEOADSFqi85f_AwYI9qmswwY=&rs=AOn4CLBN0Vx2qYCmmxU3FC1t4d0ZfrIsiw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Задачи с JavaScript собеседований и корректные решения к ним",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CKTkqtYG-oaymwEICPABEPABSFqi85f_AwYI2aWswwY=&rs=AOn4CLBRTQjwW3tkQKZ--36Y3qd70SE13w",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CPDoqtYG-oaymwEICOADEOADSFqi85f_AwYI2aWswwY=&rs=AOn4CLBkT_-Gqi3WApQaJO98JjbLBopv7g",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "В интернетах кто-то неправ.",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96/studio_square_thumbnail.jpg?sqp=CJDHqtYG-oaymwEICPABEPABSFqi85f_AwYIrayswwY=&rs=AOn4CLCFJjX92WnYN0dQ5W6LEycdMti6rA",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96/studio_square_thumbnail.jpg?sqp=CPPdqtYG-oaymwEICOADEOADSFqi85f_AwYIrayswwY=&rs=AOn4CLCIoAzIglSvIMK3FLuVtCar1E5eGQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript беседы",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CNTPqtYG-oaymwEICPABEPABSFqi85f_AwYIzo21wwY=&rs=AOn4CLDMo2scJyqt93YYNYfkpzMsPUMOqw",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CLjVqtYG-oaymwEICOADEOADSFqi85f_AwYIzo21wwY=&rs=AOn4CLDHmgjJOoqx7k35WLY1ulXpdpvvNA",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Производительность JavaScript кода",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CKjYqtYG-oaymwEICPABEPABSFqi85f_AwYIsqyfvQY=&rs=AOn4CLCIbYEIsNruhb5QjwNaP_mHyUCnwA",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CK2qqtYG-oaymwEICOADEOADSFqi85f_AwYIsqyfvQY=&rs=AOn4CLAGQBWePFSm6PQsochQLXRak_zV0w",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "SEO for JavaScript-ers",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CM69qtYG-oaymwEICPABEPABSFqi85f_AwYIz__iywY=&rs=AOn4CLBMIW0rzhZqeBlanEHggbmrANOZrw",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CJHgqtYG-oaymwEICOADEOADSFqi85f_AwYIz__iywY=&rs=AOn4CLCzYchFfNIG3I0mWALCJ8vu8No2lw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Курс: JS Vanilla - non penis canina",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CJbTqtYG-oaymwEICPABEPABSFqi85f_AwYIgPKozAY=&rs=AOn4CLDFy6-xhq3lWdJUnTubgYNggjGLPQ",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CJenqtYG-oaymwEICOADEOADSFqi85f_AwYIgPKozAY=&rs=AOn4CLAXnm104QVovYLdzajSy3YkRG69Jw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript Talks",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CJfgqtYG-oaymwEICPABEPABSFqi85f_AwYIi6aZvQY=&rs=AOn4CLAL-zbHn9hArY11G9yrN88FlquLBw",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CNXEqtYG-oaymwEICOADEOADSFqi85f_AwYIi6aZvQY=&rs=AOn4CLBhmp7ZvyfyXc3Orv_FF02buoQkyw",
+          "width": 480
+        },
+        {
+          "height": 720,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CO-6qtYG-oaymwEICNAFENAFSFqi85f_AwYIi6aZvQY=&rs=AOn4CLCgkNcwmRobL1_fhB3ZrtCH9FRQhA",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript Live Coding",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CM3AqtYG-oaymwEICPABEPABSFqi85f_AwYIv6ifvQY=&rs=AOn4CLBBUrCrGBZjSoK7N3l1ruPzRZcx6Q",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CJPYqtYG-oaymwEICOADEOADSFqi85f_AwYIv6ifvQY=&rs=AOn4CLCN5vKTi1jWMGwyASagklTRH0q4Yw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Try To Hack My JavaScript",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CJDKqtYG-oaymwEICPABEPABSFqi85f_AwYI-f6pyAY=&rs=AOn4CLB_u97viUnjk69JeiE-Yr6wFm1Wfg",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CMnuqtYG-oaymwEICOADEOADSFqi85f_AwYI-f6pyAY=&rs=AOn4CLCBdrMBV5H2nc_5Rf6L5__bP7M6mQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript Code Review",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=CPDUqtYG-oaymwEICPABEPABSFqi85f_AwYIydSTyAY=&rs=AOn4CLCFpw_AZg1abRNvSeLy79PDfqM-jw",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=COvFqtYG-oaymwEICOADEOADSFqi85f_AwYIydSTyAY=&rs=AOn4CLAV5wUoC7vtRf5-EcCrSoORJJSsgg",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Выразительная JS черепаха",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CPDFqtYG-oaymwEICPABEPABSFqi85f_AwYI7pC1wwY=&rs=AOn4CLBBUs7BZ28uM1F__X5-R1mGjxJybg",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CLjJqtYG-oaymwEICOADEOADSFqi85f_AwYI7pC1wwY=&rs=AOn4CLBMAXanuA4_Fv76DRjw4B3XE1jWPQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript: I Need To Know",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CKLWqtYG-oaymwEICPABEPABSFqi85f_AwYI_KSswwY=&rs=AOn4CLDZxRvmZC1q0pi8tqMVSTXwaXtq4Q",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CL3VqtYG-oaymwEICOADEOADSFqi85f_AwYI_KSswwY=&rs=AOn4CLDqwvqmZO-AvK5eIgsDR2ABIz97rw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript: Согласно официальной спецификации...",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CPStqtYG-oaymwEICPABEPABSFqi85f_AwYI1dKcxwY=&rs=AOn4CLDuiiLVp73kpLhWui3C5fibkEAlzA",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CKK-qtYG-oaymwEICOADEOADSFqi85f_AwYI1dKcxwY=&rs=AOn4CLAyVo_IOz9mEQCZ3q4Nh5wzL7P6aw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Что-нибудь полезное про JavaScript",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CPnZqtYG-oaymwEICPABEPABSFqi85f_AwYIwoq1wwY=&rs=AOn4CLD3YTAUUow3cOFBA2c9QrFE7BReeg",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CPHBqtYG-oaymwEICOADEOADSFqi85f_AwYIwoq1wwY=&rs=AOn4CLDGku0zizHx_E0VTRCiA95MmvVcZQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Assembler для JavaScript программиста",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CMPDqtYG-oaymwEICPABEPABSFqi85f_AwYIv82swwY=&rs=AOn4CLBOcch7LEegnaPjn-JNAOlTAbFjyw",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CIDYqtYG-oaymwEICOADEOADSFqi85f_AwYIv82swwY=&rs=AOn4CLBlk9yJeUD80KV0jp10j1kg5dTxbA",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript глазами реверс-инженера",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CNy9qtYG-oaymwEICPABEPABSFqi85f_AwYIj_iVvQY=&rs=AOn4CLDnC5w7gGW-peO_Bbd-NWryemY98g",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CKK8qtYG-oaymwEICOADEOADSFqi85f_AwYIj_iVvQY=&rs=AOn4CLAz5ZZqWYphPHskxsa-QiUyRNG2dg",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript Tips and Tricks",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CPjlqtYG-oaymwEICPABEPABSFqi85f_AwYIl6mZvQY=&rs=AOn4CLBR2XK0x3a27VBMuySP2p7fLUqkOQ",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CLq5qtYG-oaymwEICOADEOADSFqi85f_AwYIl6mZvQY=&rs=AOn4CLDHMPAfJznIc-PRSd0Bynp3y6smmg",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Мурыч идет на курсы",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CPbNqtYG-oaymwEICPABEPABSFqi85f_AwYI0puZvQY=&rs=AOn4CLAIVTc10WaZbmW9gQsTF6Ombsv8zQ",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CKjQqtYG-oaymwEICOADEOADSFqi85f_AwYI0puZvQY=&rs=AOn4CLA5cqz5UQ8drTFVA7ofdA1RDb9qUA",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript инструменты",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CLfUqtYG-oaymwEICPABEPABSFqi85f_AwYIsJGSpwY=&rs=AOn4CLB2BGiEaqQ-FTi3o_Tp8nUOSIa3ZQ",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CMGsqtYG-oaymwEICOADEOADSFqi85f_AwYIsJGSpwY=&rs=AOn4CLDVquKFEYkVKu0x7Xd8C7HNebxr8w",
+          "width": 480
+        },
+        {
+          "height": 720,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CO_MqtYG-oaymwEICNAFENAFSFqi85f_AwYIsJGSpwY=&rs=AOn4CLC2s2BwnTL2kNeAei5U98MPOrQdfQ",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript: От мифов к спецификации",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "View full podcast",
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 240,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CIbDqtYG-oaymwEICPABEPABSFqi85f_AwYIwLufvQY=&rs=AOn4CLARZfENN-xJeNS4Bj03q4PWMLM3EA",
+          "width": 240
+        },
+        {
+          "height": 480,
+          "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CJXbqtYG-oaymwEICOADEOADSFqi85f_AwYIwLufvQY=&rs=AOn4CLA6mHtPC9Y2yzNlP7YaJFh-QKrmOQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦ JavaScript - регулярные (RegExp) 5-ти минутки",
+      "uploader": "View full podcast",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9",
+      "view_count": null
+    }
+  ],
+  "epoch": 1791670100,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "modified_date": null,
+  "original_url": "https://www.youtube.com/@AsForJS/podcasts",
+  "playlist_count": 21,
+  "release_year": null,
+  "tags": [
+    "JavaScript",
+    "JS",
+    "Performance",
+    "web vitals",
+    "web asm",
+    "web assembly",
+    "wasm",
+    "optimization",
+    "LightHouse",
+    "PageSpeed",
+    "demimurych",
+    "murych",
+    "мурыч",
+    "ECMAScript",
+    "Spec"
+  ],
+  "thumbnails": [
+    {
+      "height": 175,
+      "id": "0",
+      "preference": -10,
+      "resolution": "1060x175",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1060
+    },
+    {
+      "height": 188,
+      "id": "1",
+      "preference": -10,
+      "resolution": "1138x188",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1138
+    },
+    {
+      "height": 283,
+      "id": "2",
+      "preference": -10,
+      "resolution": "1707x283",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1707
+    },
+    {
+      "height": 351,
+      "id": "3",
+      "preference": -10,
+      "resolution": "2120x351",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2120
+    },
+    {
+      "height": 377,
+      "id": "4",
+      "preference": -10,
+      "resolution": "2276x377",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2276
+    },
+    {
+      "height": 424,
+      "id": "5",
+      "preference": -10,
+      "resolution": "2560x424",
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2560
+    },
+    {
+      "id": "banner_uncropped",
+      "preference": -5,
+      "url": "https://yt3.googleusercontent.com/QHoI0Wpe5fTrPDeyLn7f5OlWl3MsJrd3oMUxCa_LNvvaOASC7YMaO5SbOeCJHNi0-VF1b8EELA=s0"
+    },
+    {
+      "height": 900,
+      "id": "7",
+      "resolution": "900x900",
+      "url": "https://yt3.googleusercontent.com/G0TYFaMa4iX5kxc8yElv5VG5vVSNumvkjxEEzJ3uWJvnyyK6NRxuYE7J9jziw8BmVOuPW2Dn=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900
+    },
+    {
+      "id": "avatar_uncropped",
+      "preference": 1,
+      "url": "https://yt3.googleusercontent.com/G0TYFaMa4iX5kxc8yElv5VG5vVSNumvkjxEEzJ3uWJvnyyK6NRxuYE7J9jziw8BmVOuPW2Dn=s0"
+    }
+  ],
+  "title": "As For JS ... - Podcasts",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": null,
+  "webpage_url": "https://www.youtube.com/@AsForJS/podcasts",
+  "webpage_url_basename": "podcasts",
+  "webpage_url_domain": "youtube.com"
+}

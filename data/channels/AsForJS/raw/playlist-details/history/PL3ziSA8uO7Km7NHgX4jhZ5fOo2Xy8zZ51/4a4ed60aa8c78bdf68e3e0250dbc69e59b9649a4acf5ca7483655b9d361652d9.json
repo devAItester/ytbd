@@ -1,0 +1,233 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Мої спроби опанувату Українскьку пояснюючи JavaScript",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 8829,
+      "id": "g_VO2ioDsnA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJ_3Mzg2YMtfaV5oU4sD3INthIoA&usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJZRisOQFundr-v1VlmOSpvlNncg&usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw3CHxVZ1xLTq-FCbbvp69d-WQEA&usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_1jYb2MddMJMoT865A5aSD7qENQ&usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Співбесід chatGPT на посаду Junior JavaScript Developer",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=g_VO2ioDsnA",
+      "view_count": 3300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 4448,
+      "id": "XIVd2jwrpy4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDTQU7nCpzaGqu2vzCAMUaayM-d0A&usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSfRhTAY11Mo5hee_nPxUQ4prJ5g&usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1jsg8l8JkOpVQ6PbcGw6bZ5fXQQ&usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQWnIT7YXVeLgLS1s6EoFui3enRw&usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Огляд співбесіду з JS.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=XIVd2jwrpy4",
+      "view_count": 1900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12509,
+      "id": "nID_kz4a89A",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPboWqKwLQnDeQPpqww-ke35s1dQ&usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjm6Y2fRUyHqZFYHYWYsuo52QnSQ&usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrrCmvICSoIAtNfK8c3NZ0wnv5Ig&usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvU6_umR_irBBg7brKvhP14o1EwQ&usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Огляд співбесіду з JS.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=nID_kz4a89A",
+      "view_count": 1400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10416,
+      "id": "T3fb_VKdZJA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAgeshZ9CzMwhoxWxg_XvTp8uMrA&usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBdfKo8R3lK-dvXUFlE3uJ2dOw-0w&usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALqxVBOLVcqS5glOKmmYxMvDH4Ew&usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmWCOXhHhz7Z2kgtRRsQHZlxAIBg&usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡UA⎦ JavaScript та this. Розбираємося на прикладах спираючись на специфікацію.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=T3fb_VKdZJA",
+      "view_count": 2000
+    }
+  ],
+  "epoch": 1791670118,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7Km7NHgX4jhZ5fOo2Xy8zZ51",
+  "modified_date": "20230514",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Km7NHgX4jhZ5fOo2Xy8zZ51",
+  "playlist_count": 4,
+  "release_year": null,
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 94,
+      "id": "0",
+      "resolution": "168x94",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDPfgQZO7R19zUUWdHelB0c4kjqpA&usqp=CBQ",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "id": "1",
+      "resolution": "196x110",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAxrQ4JFfWMwCrWYhG32QdEqRhXIA&usqp=CBQ",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "id": "2",
+      "resolution": "246x138",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJSsEm7eYZvOZ3OLB55Q8guYKPoQ&usqp=CBQ",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "id": "3",
+      "resolution": "336x188",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAVfuDYDg1_cW54WoQg_MIsuLJVnQ&usqp=CBQ",
+      "width": 336
+    }
+  ],
+  "title": "As for JavaScript - Українською 🇺🇦",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 2323,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Km7NHgX4jhZ5fOo2Xy8zZ51",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

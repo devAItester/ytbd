@@ -1,0 +1,27 @@
+[
+  {
+    "key": "videos",
+    "suffix": "videos",
+    "title": "Видео"
+  },
+  {
+    "key": "shorts",
+    "suffix": "shorts",
+    "title": "Shorts"
+  },
+  {
+    "key": "streams",
+    "suffix": "streams",
+    "title": "Трансляции"
+  },
+  {
+    "key": "podcasts",
+    "suffix": "podcasts",
+    "title": "Подкасты"
+  },
+  {
+    "key": "playlists",
+    "suffix": "playlists",
+    "title": "Плейлисты"
+  }
+]
