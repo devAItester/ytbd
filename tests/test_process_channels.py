@@ -3,6 +3,8 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
+from jinja2 import Environment, FileSystemLoader, select_autoescape
+
 from scripts.process_channels import (
     folder_name,
     merge_archive,
@@ -52,6 +54,48 @@ class ChannelInputTests(unittest.TestCase):
 
     def test_folder_name_uses_handle(self):
         self.assertEqual(folder_name("https://www.youtube.com/@AsForJS"), "AsForJS")
+
+
+class TemplateTests(unittest.TestCase):
+    def test_all_repository_templates_render_without_network(self):
+        templates_dir = Path(__file__).resolve().parents[1] / "templates"
+        env = Environment(
+            loader=FileSystemLoader(str(templates_dir)),
+            autoescape=select_autoescape(enabled_extensions=("html", "htm", "xml", "md")),
+            trim_blocks=True,
+            lstrip_blocks=True,
+        )
+        context = {
+            "title": "Test <channel>",
+            "channel_url": "https://www.youtube.com/@Test",
+            "channel_id": "UC1",
+            "checked_at": "2026-10-10 12:00:00 UTC",
+            "template_name": "outline.md",
+            "errors": ["temporary <error>"],
+            "sections": [{
+                "key": "videos",
+                "title": "Видео",
+                "current_count": 1,
+                "archive_count": 1,
+                "items": [{
+                    "id": "video1",
+                    "title": "Title <script>alert(1)</script>",
+                    "display_url": "https://www.youtube.com/watch?v=video1",
+                    "upload_date": "20261010",
+                    "release_date": "",
+                    "duration": 120,
+                    "description": "Description <unsafe>",
+                }],
+            }],
+        }
+        for name in ("outline.md", "archive.md", "index.md"):
+            rendered = env.get_template(name).render(**context)
+            self.assertIn("Test &lt;channel&gt;", rendered)
+            self.assertIn("Title &lt;script&gt;", rendered)
+            self.assertIn("temporary &lt;error&gt;", rendered)
+            self.assertIn("video1", rendered)
+        self.assertIn("<details>", env.get_template("outline.md").render(**context))
+        self.assertIn("<details>", env.get_template("archive.md").render(**context))
 
 
 class ArchiveTests(unittest.TestCase):
