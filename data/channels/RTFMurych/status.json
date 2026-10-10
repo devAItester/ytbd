@@ -1,26 +1,13 @@
 {
   "channel_status": "ok",
   "channel_url": "https://www.youtube.com/@RTFMurych",
-  "checked_at": "2026-10-10 11:12:27 UTC",
-  "errors": [
-    "streams: Ожидался JSON-объект.",
-    "podcasts: Ожидался JSON-объект."
-  ],
+  "checked_at": "2026-10-10 13:34:17 UTC",
+  "errors": [],
   "tabs": {
     "playlists": {
       "archive_count": 4,
       "current_count": 4,
       "status": "ok"
-    },
-    "podcasts": {
-      "archive_count": 0,
-      "current_count": 0,
-      "status": "error-or-not-yet-collected"
-    },
-    "streams": {
-      "archive_count": 0,
-      "current_count": 0,
-      "status": "error-or-not-yet-collected"
     },
     "videos": {
       "archive_count": 5,
