@@ -144,8 +144,15 @@ def main() -> int:
             if template_name == "full.md":
                 detail_dir = data_root / "RTFMurych" / "raw" / "video-details"
                 detailed = list(detail_dir.glob("*.json")) if detail_dir.is_dir() else []
+                if status.get("detail_errors"):
+                    print(f"Замечания подробного сбора: {len(status['detail_errors'])}")
+                    for message in status["detail_errors"][:10]:
+                        print(f"  - {message}")
                 if not detailed:
-                    failures.append("full.md: подробный JSON ни одного видео не сохранён")
+                    failures.append(
+                        "full.md: подробный JSON ни одного видео не сохранён; "
+                        f"ошибки: {status.get('detail_errors', [])[:10]!r}"
+                    )
                 if "--detail-limit" not in command or "Локальные файлы" not in output:
                     failures.append("full.md: параметры подробного сбора или раздел локальных файлов отсутствуют")
                 if not (output_root / "RTFMurych" / "media" / "videos").is_dir():
