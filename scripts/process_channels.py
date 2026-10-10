@@ -384,6 +384,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         title=title,
         channel_url=url,
         channel_id=channel_id,
+        channel_data=channel_data,
         checked_at=checked_at,
         sections=make_sections(
             channel_dir,
