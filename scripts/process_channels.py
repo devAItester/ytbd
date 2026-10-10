@@ -137,17 +137,22 @@ def folder_name(url: str) -> str:
     return slug[:80]
 
 
-def build_command(url: str) -> list[str]:
-    # Channel/tab scan: metadata only and flat entries.
-    return [
+def build_command(url: str, playlist_items: int = 0) -> list[str]:
+    # Channel/tab scan: metadata only and flat entries. Optional playlist preview avoids
+    # expanding huge playlists during a bounded real-data test.
+    command = [
         "yt-dlp", "--ignore-errors", "--skip-download", "--flat-playlist",
-        "--dump-single-json", url,
+        "--dump-single-json",
     ]
+    if playlist_items > 0:
+        command.extend(["--playlist-items", f"1-{playlist_items}"])
+    command.append(url)
+    return command
 
 
-def fetch_json(url: str) -> tuple[dict | None, str | None, str]:
+def fetch_json(url: str, playlist_items: int = 0) -> tuple[dict | None, str | None, str]:
     result = subprocess.run(
-        build_command(url), capture_output=True, text=True,
+        build_command(url, playlist_items), capture_output=True, text=
         encoding="utf-8", errors="replace", check=False,
     )
     diagnostic = result.stderr.strip()
@@ -313,7 +318,9 @@ def collect_video_details(
             if key == "playlists":
                 playlist_id = str(item["id"])
                 playlist_url = f"https://www.youtube.com/playlist?list={playlist_id}"
-                playlist_data, playlist_error, playlist_diagnostic = fetch_json(playlist_url)
+                playlist_data, playlist_error, playlist_diagnostic = fetch_json(
+                    playlist_url, playlist_items=detail_limit
+                )
                 if playlist_data is None:
                     errors.append(f"playlist {playlist_id}: {playlist_error}")
                     if playlist_diagnostic:
