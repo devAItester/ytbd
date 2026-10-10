@@ -1,7 +1,7 @@
 # {{ title|e }} — архив
 
 - **Канал:** <a href="{{ channel_url|e }}">{{ channel_url|e }}</a>
-{% if channel_id %}- **ID:** {{ channel_id|e }}{% endif %}
+{% if channel_id %}- **ID:** {{ channel_id|e }}{{ "\n" }}{% endif %}
 - **Последняя проверка:** {{ checked_at|e }}
 
 Архив сохраняет ранее найденные записи, даже если они отсутствуют в текущем списке источника.
