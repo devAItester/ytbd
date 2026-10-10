@@ -324,8 +324,10 @@ def collect_video_details(
             continue
 
         source_item = items[0]
-        url = str(source_item.get("display_url") or source_item.get("webpage_url") or "")
-        if not url:
+        candidate_url = str(source_item.get("display_url") or source_item.get("webpage_url") or "")
+        if "youtube.com/watch?" in candidate_url or "youtu.be/" in candidate_url:
+            url = candidate_url
+        else:
             url = f"https://www.youtube.com/watch?v={video_id}"
         metadata, error, diagnostic = fetch_video_details(url)
         processed += 1
