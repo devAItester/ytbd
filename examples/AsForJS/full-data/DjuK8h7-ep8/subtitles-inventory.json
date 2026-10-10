@@ -1,0 +1,12 @@
+[
+  {
+    "language": "live_chat",
+    "tracks": [
+      {
+        "ext": "json",
+        "name": null,
+        "protocol": "youtube_live_chat_replay"
+      }
+    ]
+  }
+]

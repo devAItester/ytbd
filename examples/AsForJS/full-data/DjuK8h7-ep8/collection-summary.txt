@@ -1,0 +1,9 @@
+Video: DjuK8h7-ep8
+yt-dlp version: 2026.08.19
+
+Regular subtitle tracks:
+live_chat
+
+Automatic caption languages: 157
+
+Selected automatic tracks:
