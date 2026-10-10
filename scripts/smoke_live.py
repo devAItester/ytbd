@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""End-to-end smoke test against one public YouTube channel; writes only to a temp directory."""
+"""Live end-to-end checks for every Markdown template using a public YouTube channel."""
 from __future__ import annotations
 
+import argparse
 import json
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -11,52 +13,128 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CHANNEL_URL = "https://www.youtube.com/@RTFMurych"
+TEMPLATES = ("outline.md", "archive.md", "index.md")
+
+
+def copy_evidence(temp: Path, artifacts: Path | None, template_name: str) -> None:
+    if artifacts is None:
+        return
+    destination = artifacts / Path(template_name).stem
+    destination.mkdir(parents=True, exist_ok=True)
+    for name, target in (
+        ("output/RTFMurych", destination / "output"),
+        ("data/RTFMurych/status.json", destination / "status.json"),
+        ("data/RTFMurych/tabs.json", destination / "tabs.json"),
+        ("data/RTFMurych/archive", destination / "archive"),
+    ):
+        source = temp / name
+        if source.is_dir():
+            shutil.copytree(source, target, dirs_exist_ok=True)
+        elif source.is_file():
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, target)
+
+
+def check_output(template_name: str, output: str, tabs: list[dict]) -> list[str]:
+    failures = []
+    if not tabs:
+        failures.append("не обнаружено ни одной вкладки")
+    for tab in tabs:
+        key = tab["key"]
+        title = tab["title"]
+        if template_name == "outline.md":
+            marker = f"<summary>{title} —"
+        else:
+            marker = f"## {title}"
+        if marker not in output:
+            failures.append(f"в Markdown отсутствует обнаруженная вкладка {key!r}")
+
+    if re.search(r"- \*\*ID:\*\* [^\n]*- \*\*Последняя проверка:", output):
+        failures.append("ID канала склеен с датой проверки")
+    if "</a>- <a" in output:
+        failures.append("соседние пункты списка склеены")
+    if "</details>- " in output or "</details>## " in output:
+        failures.append("закрывающий тег details склеен со следующим элементом")
+    if template_name == "outline.md" and "<details>" not in output:
+        failures.append("в обзоре отсутствуют раскрывающиеся разделы")
+    if template_name == "archive.md" and "<details>" not in output:
+        failures.append("в архиве отсутствуют карточки записей")
+    if template_name == "index.md" and "<details>" in output:
+        failures.append("в индексе неожиданно появились раскрывающиеся карточки")
+    return failures
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--artifacts", type=Path, help="Optional directory for preserving rendered Markdown and test evidence")
+    args = parser.parse_args()
+    if args.artifacts:
+        args.artifacts.mkdir(parents=True, exist_ok=True)
+
+    failures: list[str] = []
     with tempfile.TemporaryDirectory(prefix="ytbd-live-smoke-") as temporary:
-        temp = Path(temporary)
-        input_path = temp / "channels.txt"
+        root = Path(temporary)
+        input_path = root / "channels.txt"
         input_path.write_text(CHANNEL_URL + "\n", encoding="utf-8")
-        command = [
-            sys.executable,
-            str(ROOT / "scripts/process_channels.py"),
-            "--input", str(input_path),
-            "--template", "outline.md",
-            "--data", str(temp / "data"),
-            "--output", str(temp / "output"),
-        ]
-        result = subprocess.run(command, cwd=ROOT, capture_output=True, text=True, check=False)
-        if result.stdout:
-            print(result.stdout, end="")
-        if result.stderr:
-            print(result.stderr, file=sys.stderr, end="")
-        if result.returncode:
-            return result.returncode
 
-        channel_dir = temp / "data" / "RTFMurych"
-        status = json.loads((channel_dir / "status.json").read_text(encoding="utf-8"))
-        tabs = json.loads((channel_dir / "tabs.json").read_text(encoding="utf-8"))
-        output_path = temp / "output" / "RTFMurych" / "outline.md"
-        output = output_path.read_text(encoding="utf-8")
+        for template_name in TEMPLATES:
+            template_root = root / Path(template_name).stem
+            data_root = template_root / "data"
+            output_root = template_root / "output"
+            command = [
+                sys.executable,
+                str(ROOT / "scripts/process_channels.py"),
+                "--input", str(input_path),
+                "--template", template_name,
+                "--data", str(data_root),
+                "--output", str(output_root),
+            ]
+            result = subprocess.run(
+                command, cwd=ROOT, capture_output=True, text=True, check=False
+            )
+            if result.stdout:
+                print(result.stdout, end="")
+            if result.stderr:
+                print(result.stderr, file=sys.stderr, end="")
 
-        if status.get("errors"):
-            raise SystemExit("Collection reported errors: " + repr(status["errors"]))
-        if not tabs:
-            raise SystemExit("No channel tabs were discovered.")
-        for tab in tabs:
-            if status["tabs"].get(tab["key"], {}).get("status") != "ok":
-                raise SystemExit("Tab collection did not succeed: " + tab["key"])
-            if f'<summary>{tab["title"]} —' not in output:
-                raise SystemExit("Discovered tab missing from Markdown: " + tab["key"])
-        if "</a>- <a" in output:
-            raise SystemExit("Markdown list entries are glued together.")
-        if re.search(r"- \\*\\*ID:\\*\\* [^\\n]*- \\*\\*Последняя проверка:", output):
-            raise SystemExit("Channel ID and check timestamp are glued together.")
+            evidence_root = template_root
+            copy_evidence(evidence_root, args.artifacts, template_name)
+            if result.returncode:
+                failures.append(f"{template_name}: сборщик завершился с кодом {result.returncode}")
+                continue
 
-        print("Discovered tabs:", [tab["key"] for tab in tabs])
-        print("Rendered Markdown passed structural checks.")
-        print(output)
+            channel_dir = data_root / "RTFMurych"
+            try:
+                status = json.loads((channel_dir / "status.json").read_text(encoding="utf-8"))
+                tabs = json.loads((channel_dir / "tabs.json").read_text(encoding="utf-8"))
+                output_path = output_root / "RTFMurych" / template_name
+                output = output_path.read_text(encoding="utf-8")
+            except (OSError, json.JSONDecodeError) as exc:
+                failures.append(f"{template_name}: не удалось прочитать результат: {exc}")
+                continue
+
+            if status.get("errors"):
+                failures.append(f"{template_name}: ошибки сбора: {status['errors']!r}")
+            for tab in tabs:
+                if status.get("tabs", {}).get(tab["key"], {}).get("status") != "ok":
+                    failures.append(f"{template_name}: вкладка не собрана успешно: {tab['key']}")
+            failures.extend(
+                f"{template_name}: {message}"
+                for message in check_output(template_name, output, tabs)
+            )
+            print(
+                f"Проверен {template_name}: вкладки "
+                f"{[tab['key'] for tab in tabs]}; "
+                f"Markdown: {output_path}"
+            )
+
+    if failures:
+        print("\nПроверка не пройдена:", file=sys.stderr)
+        for failure in failures:
+            print(f"- {failure}", file=sys.stderr)
+        return 1
+
+    print("УСПЕХ: все три шаблона прошли live-сбор и структурную проверку Markdown.")
     return 0
 
 
