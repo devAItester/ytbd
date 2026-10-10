@@ -166,16 +166,18 @@ class ArchiveTests(unittest.TestCase):
             )
             with patch("scripts.process_channels.subprocess.run", return_value=completed) as run:
                 metadata, error, diagnostic = fetch_video_details(
-                    "https://www.youtube.com/watch?v=video1", media_dir=media_dir
+                    "https://www.youtube.com/watch?v=video1"
                 )
             self.assertEqual(metadata["id"], "video1")
             self.assertIsNone(error)
             self.assertEqual(diagnostic, "")
             command = run.call_args.args[0]
-            self.assertIn("--no-simulate", command)
+            self.assertNotIn("--no-simulate", command)
             self.assertNotIn("--write-thumbnail", command)
+            self.assertNotIn("--write-subs", command)
+            self.assertNotIn("--write-auto-subs", command)
             self.assertIn("--skip-download", command)
-            self.assertNotIn("all", command[command.index("--sub-langs") + 1:])
+            self.assertIn("--dump-json", command)
 
     def test_playlist_command_can_limit_entries_for_smoke_test(self):
         command = build_command("https://www.youtube.com/playlist?list=PL123", playlist_items=5)
