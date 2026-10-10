@@ -149,7 +149,7 @@ def main() -> int:
             print(f"- {failure}", file=sys.stderr)
         return 1
 
-    print("УСПЕХ: все три шаблона прошли live-сбор и структурную проверку Markdown.")
+    print("УСПЕХ: все четыре шаблона прошли live-сбор и структурную проверку Markdown.")
     return 0
 
 
