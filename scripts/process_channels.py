@@ -180,7 +180,7 @@ def fetch_video_details(
     cookies_file: Path | None = None,
     cookies_from_browser: str | None = None,
 ) -> tuple[dict | None, str | None, str]:
-    """Fetch one video's full yt-dlp metadata; optionally save thumbnail and subtitles, never the video."""
+    """Fetch metadata only; media downloads are handled by scripts.media."""
     command = [
         "yt-dlp", "--skip-download", "--no-playlist", "--dump-json",
     ]
@@ -188,17 +188,6 @@ def fetch_video_details(
         command.extend(["--cookies", str(cookies_file)])
     elif cookies_from_browser:
         command.extend(["--cookies-from-browser", cookies_from_browser])
-    if media_dir is not None:
-        media_dir.mkdir(parents=True, exist_ok=True)
-        command.extend([
-            "--no-simulate",
-            "--write-info-json",
-            "--write-subs",
-            "--write-auto-subs",
-            "--sub-langs", "ru,en",
-            "--convert-subs", "srt",
-            "-o", str(media_dir / "%(id)s.%(ext)s"),
-        ])
     command.append(url)
     try:
         result = subprocess.run(
