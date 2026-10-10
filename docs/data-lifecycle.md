@@ -30,6 +30,12 @@ data/
       playlists.json
     status.json
     logs/
+    raw/video-details/<video-id>.json
+  output/<handle>/
+    media/videos/<date-title>/
+      meta.json
+      thumbnail files
+      subtitle and transcript files
   output/<handle>/<template>.md
 ```
 
@@ -40,6 +46,10 @@ data/
 - **status.json** — время проверки, статус каналов и вкладок, счётчики и ошибки.
 - **logs/** — диагностика неудачных сетевых запросов, если она была получена.
 - **data/output/** — Markdown, сформированный выбранным шаблоном из локального архива.
+
+## Подробные метаданные и локальные материалы
+
+Для full.md подробные JSON отдельных видео сохраняются отдельно от плоских ответов вкладок. При включённом --download-media файлы обложек, субтитров и TXT-транскриптов сохраняются в output/<handle>/media/videos/. Само видео не загружается. Поля и языки зависят от фактической доступности у YouTube/yt-dlp.
 
 ## Последовательность одного запуска
 
