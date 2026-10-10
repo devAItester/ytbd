@@ -117,6 +117,10 @@ class TemplateTests(unittest.TestCase):
             self.assertIn("video1", rendered)
         self.assertIn("<details>", env.get_template("outline.md").render(**context))
         self.assertIn("<details>", env.get_template("archive.md").render(**context))
+        outline = env.get_template("outline.md").render(**context)
+        archive = env.get_template("archive.md").render(**context)
+        self.assertIn("- **ID:** UC1\n- **Последняя проверка:**", outline)
+        self.assertIn("- **ID:** UC1\n- **Последняя проверка:**", archive)
 
 
 class ArchiveTests(unittest.TestCase):
