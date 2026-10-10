@@ -232,6 +232,57 @@ def subtitle_to_text(source: Path, destination: Path) -> None:
         destination.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+
+
+def download_channel_images(channel_data: dict, channel_output_dir: Path) -> dict[str, str]:
+    """Save the largest available channel banner and profile image from yt-dlp metadata."""
+    thumbnails = channel_data.get("thumbnails", [])
+    if not isinstance(thumbnails, list):
+        return {}
+    candidates = [item for item in thumbnails if isinstance(item, dict) and item.get("url")]
+    if not candidates:
+        return {}
+
+    def dimensions(item: dict) -> tuple[int, int]:
+        return int(item.get("width") or 0), int(item.get("height") or 0)
+
+    banner_candidates = [
+        item for item in candidates
+        if "banner" in str(item.get("id", "")).lower()
+        or (dimensions(item)[1] > 0 and dimensions(item)[0] / dimensions(item)[1] > 2.5)
+    ]
+    profile_candidates = [
+        item for item in candidates
+        if "avatar" in str(item.get("id", "")).lower()
+        or (dimensions(item)[1] > 0 and 0.8 <= dimensions(item)[0] / dimensions(item)[1] <= 1.2)
+    ]
+    selected = {}
+    if banner_candidates:
+        selected["banner"] = max(banner_candidates, key=lambda item: dimensions(item)[0])
+    if profile_candidates:
+        selected["profile"] = max(profile_candidates, key=lambda item: dimensions(item)[0])
+
+    result = {}
+    destination = channel_output_dir / "media" / "channels"
+    for name, item in selected.items():
+        url = str(item["url"])
+        extension = Path(urlsplit(url).path).suffix.lower()
+        if extension not in {".jpg", ".jpeg", ".png", ".webp"}:
+            extension = ".jpg"
+        path = destination / f"{name}{extension}"
+        try:
+            request = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; ytbd metadata collector)"})
+            with urlopen(request, timeout=20) as response:
+                payload = response.read()
+            if payload:
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_bytes(payload)
+                result[name] = path.relative_to(channel_output_dir).as_posix()
+        except OSError:
+            continue
+    return result
+
+
 def collect_video_details(
     channel_dir: Path,
     channel_output_dir: Path,
@@ -543,15 +594,16 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     write_json_if_changed(channel_dir / "status.json", status)
 
     local_media: dict[str, dict] = {}
+    channel_data = read_json(channel_dir / "channel.json", {})
     if template_name == "full.md":
         local_media, detail_errors = collect_video_details(
             channel_dir, output_root / handle, active_tabs, detail_limit, download_media
         )
         errors.extend(detail_errors)
+        if download_media and isinstance(channel_data, dict):
+            local_media["_channel"] = download_channel_images(channel_data, output_root / handle)
         status["errors"] = errors
         write_json_if_changed(channel_dir / "status.json", status)
-
-    channel_data = read_json(channel_dir / "channel.json", {})
     title = str(channel_data.get("title") or channel_data.get("channel") or handle)
     channel_id = str(channel_data.get("channel_id") or channel_data.get("id") or "")
     env = Environment(
