@@ -12,8 +12,10 @@
 
 {% if section["items"] %}
 {% for item in section["items"] %}
-- {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}
+- {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}{{ "\n" }}
 {% endfor %}
+{% elif section.collection_error %}
+Последняя попытка сбора этого раздела завершилась ошибкой; отсутствие записей не подтверждено.
 {% else %}
 Пока нет сохранённых записей для этого раздела.
 {% endif %}
