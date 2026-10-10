@@ -1,10 +1,10 @@
-name: Обновить архив YouTube и HTML-представления
+name: Обновить архив YouTube и представления
 
 on:
   workflow_dispatch:
     inputs:
       template:
-        description: Шаблон HTML для формирования страниц
+        description: Шаблон Markdown-представления
         required: true
         default: outline.md
         type: choice
@@ -30,14 +30,14 @@ jobs:
         run: python -m pip install --upgrade yt-dlp Jinja2
       - name: Проверить каналы и обновить архив
         run: python scripts/process_channels.py --template "${{ inputs.template }}"
-      - name: Сохранить исходные данные и HTML
+      - name: Сохранить исходные данные и Markdown
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/channels data/output
           if git diff --cached --quiet; then
-            echo "Изменений в сохранённых данных и HTML нет."
+            echo "Изменений в сохранённых данных и Markdown нет."
           else
-            git commit -m "Обновить архив YouTube и HTML-представления"
+            git commit -m "Обновить архив YouTube и Markdown-представления"
             git push
           fi
