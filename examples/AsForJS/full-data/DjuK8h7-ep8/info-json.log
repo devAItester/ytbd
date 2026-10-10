@@ -1,0 +1,7 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=DjuK8h7-ep8
+[youtube] DjuK8h7-ep8: Downloading webpage
+[youtube] DjuK8h7-ep8: Downloading visionos player API JSON
+[youtube] DjuK8h7-ep8: Downloading m3u8 information
+WARNING: [youtube] DjuK8h7-ep8: Failed to download m3u8 information: HTTPSConnectionPool(host='manifest.googlevideo.com', port=443): Read timed out. (read timeout=20.0)
+[info] DjuK8h7-ep8: Downloading 1 format(s): 398+251
+[info] Writing video metadata as JSON to: DjuK8h7-ep8.info.json
