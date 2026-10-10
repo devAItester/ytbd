@@ -1,0 +1,120 @@
+{
+  "archive_count": 4,
+  "current_count": 4,
+  "items": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Playlist",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "display_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+      "duration": null,
+      "id": "PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA58NWkmRvvXQEzcPA4TAWLW8Vx_g",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "Игорь Борисов",
+      "uploader": "Playlist",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Playlist",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "display_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+      "duration": null,
+      "id": "PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmC-rGRs0CWMrYTaLm3qaZqZyspQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡point⎦ - engineering & business",
+      "uploader": "Playlist",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Playlist",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "display_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+      "duration": null,
+      "id": "PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCelafcfWZk8nEO4TZKc-2miW-IqQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "~recommend~",
+      "uploader": "Playlist",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Playlist",
+      "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+      "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+      "creators": null,
+      "display_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+      "duration": null,
+      "id": "PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+      "ie_key": "YoutubeTab",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmyxfBFfhqhDUAE3AdwqHGEsHhEQ",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "~guest~",
+      "uploader": "Playlist",
+      "uploader_id": "@RTFMurych",
+      "uploader_url": "https://www.youtube.com/@RTFMurych",
+      "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+      "view_count": null
+    }
+  ],
+  "tab": "playlists",
+  "updated_at": "2026-10-10 11:07:33 UTC"
+}

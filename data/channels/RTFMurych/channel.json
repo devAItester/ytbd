@@ -1,0 +1,185 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "@RTFMurych",
+  "channel_follower_count": 4,
+  "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+  "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+  "description": "Где событья нашей жизни,\nКроме насморка и блох?\nМы давно живем, как слизни,\nВ нищете случайных крох.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 96,
+      "id": "9YitjRyHu1Q",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGmNoJpOVN_XivWGp5gLjhf2PMGA",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "03.25 ⎡interview⎦ — круговорот сеньоров в ИТ",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=9YitjRyHu1Q",
+      "view_count": 27
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 16,
+      "id": "L_F0kdfyF8k",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALa4AMb8rBOK613OoByhhjuB0WHw",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "03.25 ⎡interview⎦ — социально одобряемый ответ",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=L_F0kdfyF8k",
+      "view_count": 20
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 122,
+      "id": "o5gJuIql9-Q",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGUoKDAP&rs=AOn4CLBz2mC-VEobl5qWlhBfDZPqMQEOYQ",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGUoKDAP&rs=AOn4CLDdtnJRVb4lagy7iy_q-1PWXGg2YQ",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "10.23 ⎡JSbook: 03.02⎦ - Машинерия спецификации",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=o5gJuIql9-Q",
+      "view_count": 24
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 251,
+      "id": "OEycbcCfJXs",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 270,
+          "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1wRjN75pw6rnvbLVljANqkwQ93Q",
+          "width": 480
+        }
+      ],
+      "timestamp": null,
+      "title": "12.23 ⎡talks:13-3⎦ — Как учиться по Мурычу?",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=OEycbcCfJXs",
+      "view_count": 63
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": 71,
+      "id": "gdCkBLgRAd4",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 202,
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSUaLHLZVEsCbCUaXZxTJr-B-qjw",
+          "width": 360
+        },
+        {
+          "height": 404,
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4yGOmKmGzifWN9urfDv5V3oAqVg",
+          "width": 720
+        }
+      ],
+      "timestamp": null,
+      "title": "10.23 ⎡point⎦ - random people",
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=gdCkBLgRAd4",
+      "view_count": 86
+    }
+  ],
+  "epoch": 1791630453,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "UC3NVT782r84UDLdx9JXtbow",
+  "modified_date": null,
+  "original_url": "https://www.youtube.com/@RTFMurych",
+  "playlist_count": 5,
+  "release_year": null,
+  "tags": [
+    "demimurych",
+    "Мурыч",
+    "js",
+    "javascript",
+    "specification",
+    "spec",
+    "seo",
+    "programming",
+    "спецификация",
+    "спека"
+  ],
+  "thumbnails": [
+    {
+      "height": 900,
+      "id": "0",
+      "resolution": "900x900",
+      "url": "https://yt3.googleusercontent.com/Ine4RvIKQOygMtBBDzergi88548YFtNuK_feOY5vFdZ-ZF4sz5AVT4j2-17OKxxX4JANXaGNXQ=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900
+    },
+    {
+      "id": "avatar_uncropped",
+      "preference": 1,
+      "url": "https://yt3.googleusercontent.com/Ine4RvIKQOygMtBBDzergi88548YFtNuK_feOY5vFdZ-ZF4sz5AVT4j2-17OKxxX4JANXaGNXQ=s0"
+    }
+  ],
+  "title": "@RTFMurych - Videos",
+  "uploader": "@RTFMurych",
+  "uploader_id": "@RTFMurych",
+  "uploader_url": "https://www.youtube.com/@RTFMurych",
+  "view_count": null,
+  "webpage_url": "https://www.youtube.com/@RTFMurych/videos",
+  "webpage_url_basename": "videos",
+  "webpage_url_domain": "youtube.com"
+}
