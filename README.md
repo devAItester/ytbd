@@ -1,51 +1,43 @@
-# ytbd — YouTube content database
+# ytbd — YouTube data, with a working example
 
-**ytbd** is a private, reproducible workspace for collecting and organizing YouTube channel metadata. The durable value is not only the resulting data: it is also the documented process used to discover channel sections, evaluate tools, collect raw responses, validate results, and regenerate derived views.
+**Goal:** collect public YouTube channel metadata, validate it, and keep reproducible snapshots. The saved AsForJS data is a test fixture: you can run the project without querying YouTube.
 
-The first working example is the channel [AsForJS](https://www.youtube.com/@AsForJS).
+## Use it now — no terminal required
 
-## Principles
+1. Open the repository's [Actions tab](https://github.com/devAItester/ytbd/actions).
+2. Select **Validate saved AsForJS snapshot**.
+3. Click **Run workflow**, leave branch `main` selected, and click the green **Run workflow** button.
+4. Open the new run at the top of the page. A green check means the saved JSON passed validation; open **Validate snapshot** to read the counts and checks.
 
-- Preserve the **method**, not only the final database.
-- Keep raw source data separate from derived JSON and Markdown.
-- Record commands, tool versions, logs, observations, and failures so a collection can be repeated and audited.
-- Inspect the actual source structure before choosing a collection method.
-- Validate data completeness; a successful command alone is not proof that the result is complete.
-- Do not silently replace a known-good snapshot with partial or invalid data.
-- Do not download video files when metadata and links are sufficient.
-- Keep credentials, cookies, tokens, and other secrets out of Git.
+This checks the data already stored in GitHub. It does **not** contact YouTube or claim that the snapshot is current.
 
-## Current status
+## Run it locally
 
-The repository is being initialized. The initial documentation records the method used to discover and collect AsForJS channel sections. Existing downloaded data from the earlier [aishare](https://github.com/devAItester/aishare) work is intended to be imported as a separate step, before further transformations.
+Install Python 3 if it is not already installed. From a terminal in the repository root, run:
 
-## Start here
+```sh
+python3 scripts/validate_snapshot.py
+```
 
-1. [Collection method and discovery notes](docs/collection-method.md) — how channel sections were identified, why yt-dlp was selected, and how to repeat the collection.
-2. [Project structure and data lifecycle](docs/data-lifecycle.md) — how raw inputs, logs, validated snapshots, and derived outputs should relate.
-3. [Tool evaluation notes](docs/tool-evaluation.md) — how to assess curl, yt-dlp, YouTube endpoints, and possible alternatives without prematurely committing to one.
+The validator reads `examples/AsForJS/`, checks the four saved tab JSON files and `tree-data.json`, then prints counts. It does not modify source files.
 
-## Initial AsForJS collection
+## What the example contains
 
-The channel tabs tested successfully with yt-dlp were:
+- `examples/AsForJS/videos.json`, `streams.json`, `podcasts.json`, `playlists.json`: saved tab snapshots.
+- `examples/AsForJS/tree-data.json`: expanded playlist data from the earlier collection.
+- `examples/AsForJS/collect.py` and `collect.log`: original collector and log.
+- `examples/AsForJS/channel-tree-full.md`: generated channel-tree view.
 
-- **videos** — 6 entries in the saved snapshot
-- **streams** — 253 entries
-- **podcasts** — 21 entries
-- **playlists** — 24 entries
+The counts in a saved snapshot are historical, not live channel totals. More source notes and method documentation are in [docs/collection-method.md](docs/collection-method.md), [docs/data-lifecycle.md](docs/data-lifecycle.md), and [docs/tool-evaluation.md](docs/tool-evaluation.md).
 
-These are historical snapshot counts, not live counts or a guarantee of completeness today. The original JSON and corresponding logs should be imported unchanged before regenerating or normalizing anything.
+## Collect fresh data (not yet automated)
 
-## Planned workflow
+The original collection process is documented in [examples/AsForJS/get-source-data.md](examples/AsForJS/get-source-data.md) once imported. Fresh collection should be treated as a separate operation from validation: review the result before replacing a known-good snapshot. Do not commit cookies, browser profiles, tokens, or other secrets.
 
-1. Preserve the discovery procedure and the tool-selection rationale.
-2. Import the previously collected source JSON and logs.
-3. Verify imported files and their provenance.
-4. Build repeatable validation and transformation steps using the saved data, without repeatedly querying YouTube during development.
-5. Add a manually triggered GitHub Actions workflow.
-6. Run a full online collection only when needed; retain the previous valid snapshot if validation fails.
-7. Enable daily scheduling only after the manual workflow has been tested end to end.
+## Project principles
 
-## Repository policy
-
-This repository is private for convenience and control, not because its intended contents are secret. Still, treat credentials and browser/session data as secrets and never commit them. Respect YouTube availability and access restrictions; collection may fail or omit unavailable/private content.
+- Preserve source snapshots and the procedure used to obtain them.
+- Keep raw data separate from generated output.
+- Validate completeness before accepting a new snapshot.
+- Use saved fixtures while developing; avoid unnecessary requests to YouTube.
+- Never silently replace a valid snapshot with partial or invalid data.
