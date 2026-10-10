@@ -189,11 +189,12 @@ def fetch_video_details(
     if media_dir is not None:
         media_dir.mkdir(parents=True, exist_ok=True)
         command.extend([
+            "--no-simulate",
             "--write-info-json",
             "--write-thumbnail",
             "--write-subs",
             "--write-auto-subs",
-            "--sub-langs", "all",
+            "--sub-langs", "ru,en",
             "--convert-subs", "srt",
             "-o", str(media_dir / "%(id)s.%(ext)s"),
         ])
