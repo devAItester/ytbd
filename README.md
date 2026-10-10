@@ -19,10 +19,10 @@ yt-dlp --version
 Вставь URL нужного канала и выбери типы данных. Например:
 
 ```sh
-python3 scripts/collect.py \\
-  --url "https://www.youtube.com/@AsForJS" \\
-  --data channel,videos,playlists \\
-  --method yt-dlp \\
+python3 scripts/collect.py \
+  --url "https://www.youtube.com/@AsForJS" \
+  --data channel,videos,playlists \
+  --method yt-dlp \
   --output ./data/AsForJS
 ```
 
@@ -43,9 +43,9 @@ python3 scripts/collect.py \\
 Например, получить только список плейлистов:
 
 ```sh
-python3 scripts/collect.py \\
-  --url "https://www.youtube.com/@AsForJS" \\
-  --data playlists \\
+python3 scripts/collect.py \
+  --url "https://www.youtube.com/@AsForJS" \
+  --data playlists \
   --output ./data/AsForJS
 ```
 
