@@ -1,27 +1,27 @@
-# {{ title }} — архив
+# {{ title|e }} — архив
 
-- **Канал:** <a href="{{ channel_url }}">{{ channel_url }}</a>
-{% if channel_id %}- **ID:** {{ channel_id }}{% endif %}
-- **Последняя проверка:** {{ checked_at }}
+- **Канал:** <a href="{{ channel_url|e }}">{{ channel_url|e }}</a>
+{% if channel_id %}- **ID:** {{ channel_id|e }}{% endif %}
+- **Последняя проверка:** {{ checked_at|e }}
 
 Архив сохраняет ранее найденные записи, даже если они отсутствуют в текущем списке источника.
 
 {% for section in sections %}
-## {{ section.title }}
+## {{ section.title|e }}
 
-Архив: **{{ section.archive_count }}** · Сейчас в источнике: **{{ section.current_count }}**
+Архив: **{{ section.archive_count|e }}** · Сейчас в источнике: **{{ section.current_count|e }}**
 
 {% for item in section.items %}
 <details>
-<summary>{% if item.display_url %}<a href="{{ item.display_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %} · ID: {{ item.id }}</summary>
+<summary>{% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %} · ID: {{ item.id|e }}</summary>
 
-{% if item.upload_date or item.release_date %}- **Дата:** {{ item.upload_date or item.release_date }}{% endif %}
-{% if item.duration %}- **Длительность (сек.):** {{ item.duration }}{% endif %}
+{% if item.upload_date or item.release_date %}- **Дата:** {{ (item.upload_date or item.release_date)|e }}{% endif %}
+{% if item.duration %}- **Длительность (сек.):** {{ item.duration|e }}{% endif %}
 {% if item.description %}
 
 **Описание**
 
-{{ item.description }}
+{{ item.description|e }}
 {% endif %}
 </details>
 
@@ -31,6 +31,6 @@
 ## Предупреждения
 
 {% for error in errors %}
-- {{ error }}
+- {{ error|e }}
 {% endfor %}
 {% endif %}
