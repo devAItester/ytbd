@@ -92,6 +92,7 @@ class TemplateTests(unittest.TestCase):
             "channel_id": "UC1",
             "checked_at": "2026-10-10 12:00:00 UTC",
             "template_name": "outline.md",
+            "channel_data": {"id": "UC1", "title": "Test <channel>", "_type": "channel"},
             "errors": ["temporary <error>"],
             "sections": [{
                 "key": "videos",
@@ -109,12 +110,17 @@ class TemplateTests(unittest.TestCase):
                 }],
             }],
         }
-        for name in ("outline.md", "archive.md", "index.md"):
+        for name in ("outline.md", "archive.md", "index.md", "full.md"):
             rendered = env.get_template(name).render(**context)
             self.assertIn("Test &lt;channel&gt;", rendered)
             self.assertIn("Title &lt;script&gt;", rendered)
             self.assertIn("temporary &lt;error&gt;", rendered)
             self.assertIn("video1", rendered)
+        full = env.get_template("full.md").render(**context)
+        self.assertIn("Метаданные канала", full)
+        self.assertIn('"_type": "channel"', full)
+        self.assertIn('"id": "video1"', full)
+        self.assertIn("Локальные файлы", full)
         self.assertIn("<details>", env.get_template("outline.md").render(**context))
         self.assertIn("<details>", env.get_template("archive.md").render(**context))
         outline = env.get_template("outline.md").render(**context)
