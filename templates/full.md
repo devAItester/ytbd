@@ -43,21 +43,6 @@
 ```
 
 </details>
-{% set local = local_media.get(item.id|string) %}
-{% if local %}
-### Локальные файлы
-
-- **Каталог:** `{{ local.directory|e }}/`
-{% if local.metadata %}- **JSON метаданных:** `{{ local.metadata|e }}`
-{% endif %}{% for path in local.thumbnails %}
-- **Обложка:** `{{ path|e }}`
-{% endfor %}{% for path in local.subtitles %}
-- **Субтитры:** `{{ path|e }}`
-{% endfor %}{% for path in local.transcripts %}
-- **Транскрипт:** `{{ path|e }}`
-{% endfor %}
-{% endif %}
-
 {% endfor %}
 {% endfor %}
 {% if errors %}
@@ -79,4 +64,21 @@
 
 ## Локальные файлы
 
-При запуске `full.md` с параметром `--download-media` сборщик сохраняет обложку, доступные ручные и автоматически созданные субтитры, текстовые транскрипты и JSON метаданных. Сам видеофайл не скачивается. Если YouTube не предоставляет субтитры, транскрипт не создаётся.
+При запуске `full.md` с параметром `--download-media` сборщик сохраняет доступные обложки канала и видео, ручные и автоматически созданные субтитры, текстовые транскрипты и JSON метаданных. Сам видеофайл не скачивается. Если YouTube не предоставляет субтитры, транскрипт не создаётся.
+
+{% for video_id, local in local_media.items() if video_id != "_channel" %}
+<details>
+<summary>Видео ID: {{ video_id|e }}</summary>
+
+- **Каталог:** `{{ local.directory|e }}/`
+{% if local.metadata %}- **JSON метаданных:** `{{ local.metadata|e }}`
+{% endif %}{% for path in local.thumbnails %}
+- **Обложка:** `{{ path|e }}`
+{% endfor %}{% for path in local.subtitles %}
+- **Субтитры:** `{{ path|e }}`
+{% endfor %}{% for path in local.transcripts %}
+- **Транскрипт:** `{{ path|e }}`
+{% endfor %}
+</details>
+
+{% endfor %}
