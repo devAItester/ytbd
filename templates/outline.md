@@ -1,18 +1,18 @@
-# {{ title }}
+# {{ title|e }}
 
-- **Канал:** <a href="{{ channel_url }}">{{ channel_url }}</a>
-{% if channel_id %}- **ID:** {{ channel_id }}{% endif %}
-- **Последняя проверка:** {{ checked_at }}
+- **Канал:** <a href="{{ channel_url|e }}">{{ channel_url|e }}</a>
+{% if channel_id %}- **ID:** {{ channel_id|e }}{% endif %}
+- **Последняя проверка:** {{ checked_at|e }}
 
 ## Содержание канала
 
 {% for section in sections %}
 <details>
-<summary>{{ section.title }} — {{ section.archive_count }} записей{% if section.current_count != section.archive_count %} (в текущем списке: {{ section.current_count }}){% endif %}</summary>
+<summary>{{ section.title|e }} — {{ section.archive_count|e }} записей{% if section.current_count != section.archive_count %} (в текущем списке: {{ section.current_count|e }}){% endif %}</summary>
 
 {% if section.items %}
 {% for item in section.items %}
-- {% if item.display_url %}<a href="{{ item.display_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}{% if item.upload_date %} — {{ item.upload_date }}{% endif %}
+- {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}
 {% endfor %}
 {% else %}
 Пока нет сохранённых записей для этого раздела.
@@ -26,7 +26,7 @@
 Часть источников не обновилась. Предыдущие сохранённые данные оставлены на месте.
 
 {% for error in errors %}
-- {{ error }}
+- {{ error|e }}
 {% endfor %}
 {% endif %}
 
