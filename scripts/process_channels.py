@@ -299,8 +299,9 @@ def collect_video_details(
     video_tabs = {"videos", "shorts", "streams", "podcasts"}
     archives: dict[str, dict] = {}
     references: dict[str, list[dict]] = {}
+    errors: list[str] = []
     for key, _title, _suffix in active_tabs:
-        if key not in video_tabs:
+        if key not in video_tabs and key != "playlists":
             continue
         archive = read_json(channel_dir / "archive" / f"{key}.json", {})
         if not isinstance(archive, dict) or not isinstance(archive.get("items"), list):
@@ -309,11 +310,29 @@ def collect_video_details(
         for item in archive["items"]:
             if not isinstance(item, dict) or not item.get("id"):
                 continue
-            references.setdefault(str(item["id"]), []).append(item)
+            if key == "playlists":
+                playlist_id = str(item["id"])
+                playlist_url = f"https://www.youtube.com/playlist?list={playlist_id}"
+                playlist_data, playlist_error, playlist_diagnostic = fetch_json(playlist_url)
+                if playlist_data is None:
+                    errors.append(f"playlist {playlist_id}: {playlist_error}")
+                    if playlist_diagnostic:
+                        log_path = channel_dir / "logs" / "playlist-details.txt"
+                        log_path.parent.mkdir(parents=True, exist_ok=True)
+                        log_path.write_text(playlist_diagnostic + "\\n", encoding="utf-8")
+                    continue
+                save_raw_snapshot(channel_dir / "raw" / "playlist-details", playlist_id, playlist_data)
+                item.update(playlist_data)
+                entries = playlist_data.get("entries", [])
+                item["entries"] = entries if isinstance(entries, list) else []
+                for entry in item["entries"]:
+                    if isinstance(entry, dict) and entry.get("id"):
+                        references.setdefault(str(entry["id"]), []).append(entry)
+            elif key in video_tabs:
+                references.setdefault(str(item["id"]), []).append(item)
 
     local_root = channel_output_dir / "media" / "videos"
     details_root = channel_dir / "raw" / "video-details"
-    errors: list[str] = []
     processed = 0
     for video_id, items in references.items():
         # A prior successful detail extraction remains useful if a later run is limited.
