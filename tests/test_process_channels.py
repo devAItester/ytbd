@@ -1,3 +1,4 @@
+import io
 import tempfile
 import unittest
 from pathlib import Path
@@ -6,6 +7,7 @@ from unittest.mock import patch
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from scripts.process_channels import (
+    discover_tabs,
     folder_name,
     merge_archive,
     normalize_channel_url,
@@ -54,6 +56,18 @@ class ChannelInputTests(unittest.TestCase):
 
     def test_folder_name_uses_handle(self):
         self.assertEqual(folder_name("https://www.youtube.com/@AsForJS"), "AsForJS")
+
+    def test_discovers_only_channel_navigation_links(self):
+        html = b"""
+        <a href="/@Example/videos">Videos</a>
+        <a href="/@Example/shorts">Shorts</a>
+        <a href="/@Example/playlists">Playlists</a>
+        <a href="/@Example/watch?v=not-a-tab">Video content</a>
+        <a href="/@Other/videos">Other channel</a>
+        """
+        with patch("scripts.process_channels.urlopen", return_value=io.BytesIO(html)):
+            tabs = discover_tabs("https://www.youtube.com/@Example")
+        self.assertEqual([tab[0] for tab in tabs], ["videos", "shorts", "playlists"])
 
 
 class TemplateTests(unittest.TestCase):
@@ -168,7 +182,15 @@ class ArchiveTests(unittest.TestCase):
                 ({"entries": [{"id": "podcast1", "title": "Podcast one"}]}, None, ""),
                 ({"entries": [{"id": "playlist1", "title": "Playlist one"}]}, None, ""),
             ]
-            with patch("scripts.process_channels.fetch_json", side_effect=success_responses):
+            discovered_tabs = [
+                ("videos", "Видео", "videos"),
+                ("streams", "Трансляции", "streams"),
+                ("podcasts", "Подкасты", "podcasts"),
+                ("playlists", "Плейлисты", "playlists"),
+            ]
+            with patch("scripts.process_channels.discover_tabs", return_value=discovered_tabs), patch(
+                "scripts.process_channels.fetch_json", side_effect=success_responses
+            ):
                 ok, errors = process_channel(
                     url, "outline.md", templates, root / "data/channels", root / "data/output"
                 )
@@ -187,7 +209,9 @@ class ArchiveTests(unittest.TestCase):
                 ({"entries": [{"id": "podcast1", "title": "Podcast one"}]}, None, ""),
                 ({"entries": [{"id": "playlist1", "title": "Playlist one"}]}, None, ""),
             ]
-            with patch("scripts.process_channels.fetch_json", side_effect=second_responses):
+            with patch("scripts.process_channels.discover_tabs", return_value=discovered_tabs), patch(
+                "scripts.process_channels.fetch_json", side_effect=second_responses
+            ):
                 ok, errors = process_channel(
                     url, "outline.md", templates, root / "data/channels", root / "data/output"
                 )
