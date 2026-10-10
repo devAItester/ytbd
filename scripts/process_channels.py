@@ -71,8 +71,27 @@ def discover_tabs(url: str) -> list[tuple[str, str, str]]:
         html = response.read().decode("utf-8", errors="replace")
     parser = _NavigationParser(urlsplit(url).path)
     parser.feed(html)
+
+    # YouTube often serializes navigation endpoints inside ytInitialData rather
+    # than emitting ordinary <a href="..."> elements in the initial HTML.
+    # Inspect only exact paths for this channel and known tab suffixes.
+    normalized_html = html.replace("\\/", "/")
+    tab_pattern = re.compile(
+        re.escape(parser.base_path)
+        + r"/(videos|shorts|streams|live|podcasts|playlists|community|channels|about)"
+        + r"(?=[/?#\"'\\])"
+    )
+    for match in tab_pattern.finditer(normalized_html):
+        suffix = match.group(1)
+        key = "streams" if suffix == "live" else suffix
+        if key not in parser.found:
+            parser.found.append(key)
+
     if not parser.found:
-        raise ValueError("В HTML канала не найдены распознаваемые вкладки навигации.")
+        raise ValueError(
+            "В HTML канала не найдены распознаваемые вкладки навигации; "
+            "возможно, YouTube вернул страницу согласия, блокировку или изменил формат."
+        )
     return [(key, TABS[key][0], TABS[key][1]) for key in parser.found]
 
 
@@ -268,6 +287,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     archive_dir.mkdir(parents=True, exist_ok=True)
     checked_at = utc_now()
     errors: list[str] = []
+    failed_tabs: set[str] = set()
 
     channel_data, error, diagnostic = fetch_json(url)
     if channel_data is not None:
@@ -300,16 +320,14 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
                 and all(entry.get(field) for field in ("title", "suffix"))
             ]
         else:
-            # First-run fallback is explicitly reported as a navigation failure.
-            active_tabs = [
-                (key, TABS[key][0], TABS[key][1])
-                for key in ("videos", "streams", "podcasts", "playlists")
-            ]
+            # Do not invent tabs when navigation has never been discovered.
+            active_tabs = []
 
     for key, _title, suffix in active_tabs:
         source_url = url + "/" + suffix
         payload, error, diagnostic = fetch_json(source_url)
         if payload is None:
+            failed_tabs.add(key)
             errors.append(f"{key}: {error}")
             if diagnostic:
                 write_json_if_changed(channel_dir / "logs" / f"{key}.txt", diagnostic + "\n")
@@ -317,6 +335,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         try:
             incoming = prepare_items(payload)
         except ValueError as exc:
+            failed_tabs.add(key)
             errors.append(f"{key}: {exc}")
             continue
 
@@ -346,7 +365,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         raw_path = raw_dir / f"{key}.json"
         archive = read_json(archive_dir / f"{key}.json", {})
         status["tabs"][key] = {
-            "status": "ok" if raw_path.exists() and key not in {e.split(":", 1)[0] for e in errors} else "error-or-not-yet-collected",
+            "status": "ok" if raw_path.exists() and key not in failed_tabs else "error-or-not-yet-collected",
             "current_count": archive.get("current_count", 0) if isinstance(archive, dict) else 0,
             "archive_count": archive.get("archive_count", 0) if isinstance(archive, dict) else 0,
         }
@@ -370,7 +389,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         sections=make_sections(
             channel_dir,
             active_tabs,
-            {error.split(":", 1)[0] for error in errors},
+            failed_tabs,
         ),
         errors=errors,
         template_name=template_name,
