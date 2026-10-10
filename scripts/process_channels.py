@@ -189,10 +189,13 @@ def fetch_video_details(url: str, media_dir: Path | None = None) -> tuple[dict |
             "-o", str(media_dir / "%(id)s.%(ext)s"),
         ])
     command.append(url)
-    result = subprocess.run(
-        command, capture_output=True, text=True,
-        encoding="utf-8", errors="replace", check=False,
-    )
+    try:
+        result = subprocess.run(
+            command, capture_output=True, text=True,
+            encoding="utf-8", errors="replace", check=False, timeout=120,
+        )
+    except subprocess.TimeoutExpired:
+        return None, "yt-dlp не завершился за 120 секунд.", ""
     diagnostic = result.stderr.strip()
     if not result.stdout.strip():
         return None, diagnostic or f"yt-dlp не вернул метаданные (код {result.returncode}).", diagnostic
@@ -358,9 +361,10 @@ def collect_video_details(
             url = candidate_url
         else:
             url = f"https://www.youtube.com/watch?v={video_id}"
-        metadata, error, diagnostic = fetch_video_details(url)
+        pending_dir = local_root / f".pending-{video_id}" if download_media else None
+        metadata, error, diagnostic = fetch_video_details(url, pending_dir)
         if metadata is None:
-            errors.append(f"video {video_id}: {error}")
+            errors.append(f"video {video_id}: {error}" + (f" ({diagnostic[-500:]})" if diagnostic else ""))
             if diagnostic:
                 log_path = channel_dir / "logs" / "video-details.txt"
                 log_path.parent.mkdir(parents=True, exist_ok=True)
@@ -368,17 +372,16 @@ def collect_video_details(
             if already_detailed:
                 metadata = cached
             else:
+                if pending_dir is not None and pending_dir.is_dir():
+                    shutil.rmtree(pending_dir, ignore_errors=True)
                 continue
         processed += 1
-        if download_media:
+        if download_media and pending_dir is not None and pending_dir.is_dir():
             video_dir = local_root / video_folder_name(metadata)
-            media_metadata, media_error, media_diagnostic = fetch_video_details(url, video_dir)
-            if media_metadata is not None:
-                metadata = media_metadata
-            elif media_error:
-                errors.append(f"video media {video_id}: {media_error}")
-            if media_diagnostic:
-                diagnostic = "\n".join(value for value in (diagnostic, media_diagnostic) if value)
+            video_dir.mkdir(parents=True, exist_ok=True)
+            for source in pending_dir.iterdir():
+                source.replace(video_dir / source.name)
+            pending_dir.rmdir()
         save_raw_snapshot(details_root, video_id, metadata)
         for item in items:
             item.update(metadata)
