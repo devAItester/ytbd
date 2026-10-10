@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 import re
 import shutil
@@ -172,10 +171,13 @@ def merge_archive(previous: dict, incoming: list[dict], tab: str, checked_at: st
     # Show currently listed items first, then retain entries missing from this scan.
     merged_order = list(dict.fromkeys(current_order + order))
     items = [by_key[key] for key in merged_order]
+    current_count = len(incoming)
+    previous_items = previous.get("items", []) if isinstance(previous, dict) else []
+    changed = items != previous_items or current_count != previous.get("current_count")
     return {
         "tab": tab,
-        "updated_at": checked_at,
-        "current_count": len(incoming),
+        "updated_at": checked_at if changed or not previous else previous.get("updated_at", checked_at),
+        "current_count": current_count,
         "archive_count": len(items),
         "items": items,
     }
