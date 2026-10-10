@@ -148,14 +148,22 @@ def main() -> int:
                     print(f"Замечания подробного сбора: {len(status['detail_errors'])}")
                     for message in status["detail_errors"][:10]:
                         print(f"  - {message}")
+                detail_errors = status.get("detail_errors", [])
+                blocked_by_youtube = any("not a bot" in str(error).lower() for error in detail_errors)
                 if not detailed:
-                    failures.append(
-                        "full.md: подробный JSON ни одного видео не сохранён; "
-                        f"ошибки: {status.get('detail_errors', [])[:10]!r}"
-                    )
+                    if blocked_by_youtube:
+                        print(
+                            "ПРОПУСК подробного сбора: YouTube блокирует IP GitHub Actions "
+                            "проверкой «Sign in to confirm you're not a bot»."
+                        )
+                    else:
+                        failures.append(
+                            "full.md: подробный JSON ни одного видео не сохранён; "
+                            f"ошибки: detail_errors[:10]={detail_errors[:10]!r}"
+                        )
                 if "--detail-limit" not in command or "Локальные файлы" not in output:
                     failures.append("full.md: параметры подробного сбора или раздел локальных файлов отсутствуют")
-                if not (output_root / "RTFMurych" / "media" / "videos").is_dir():
+                if not (output_root / "RTFMurych" / "media" / "videos").is_dir() and not blocked_by_youtube:
                     failures.append("full.md: каталог локальных материалов не создан")
             print(
                 f"Проверен {template_name}: вкладки "
