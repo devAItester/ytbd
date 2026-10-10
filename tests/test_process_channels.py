@@ -146,12 +146,12 @@ class ArchiveTests(unittest.TestCase):
             source = Path(tmp) / "captions.srt"
             target = Path(tmp) / "transcript.txt"
             source.write_text(
-                "1\\n00:00:01,000 --> 00:00:02,000\\n<v Speaker>Привет</v>\\n\\n"
-                "2\\n00:00:03,000 --> 00:00:04,000\\nМир\\n",
+                "1\n00:00:01,000 --> 00:00:02,000\n<v Speaker>Привет</v>\n\n"
+                "2\n00:00:03,000 --> 00:00:04,000\nМир\n",
                 encoding="utf-8",
             )
             subtitle_to_text(source, target)
-            self.assertEqual(target.read_text(encoding="utf-8"), "Привет\\nМир\\n")
+            self.assertEqual(target.read_text(encoding="utf-8"), "Привет\nМир\n")
 
     def test_prepare_items_adds_watch_url(self):
         items = prepare_items({"entries": [{"id": "abc123", "title": "Example video"}]})
