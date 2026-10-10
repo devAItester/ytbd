@@ -1,29 +1,29 @@
-# AsForJS: discovery and collection method
+# AsForJS: исследование источников и сбор данных
 
-## Purpose
+## Назначение
 
-This document preserves the reproducible procedure used to determine which channel sections existed and how to collect their metadata. It records the reasoning as well as the commands: the method is part of the project, not disposable setup history.
+Документ сохраняет воспроизводимую последовательность действий, с помощью которой выяснялось, какие разделы есть у канала и как получить их метаданные. Здесь фиксируются не только команды, но и причины выбора метода: это часть методики проекта, а не одноразовая история настройки.
 
-Source channel: https://www.youtube.com/@AsForJS
+Исследуемый канал: https://www.youtube.com/@AsForJS
 
-## 1. Discovery before collection
+## 1. Исследование перед сбором
 
-The task was to preserve channel structure and metadata—titles, IDs, URLs, ordering, and playlist contents—not to download video files.
+Задача — сохранить структуру канала и метаданные: названия, идентификаторы, URL, порядок записей и содержимое плейлистов. Скачивать сами видеофайлы не требуется.
 
-The discovery sequence used lightweight HTTP checks and source inspection before choosing a collector:
+Перед выбором инструмента выполнялись лёгкие HTTP-проверки и изучались доступные источники:
 
-1. Check whether the YouTube channel URL responds.
-2. Probe possible alternative frontends/API endpoints as experiments, not as guaranteed dependencies.
-3. Inspect the channel's actual tabs/sections.
-4. Test whether the selected tool can return machine-readable JSON for each tab.
-5. Inspect JSON keys, nested entries, IDs, URLs, titles, ordering, and counts.
-6. Save raw output and diagnostics before doing transformations.
+1. Проверить, отвечает ли URL канала YouTube.
+2. Проверить альтернативные веб-интерфейсы и API как экспериментальные варианты, а не гарантированные зависимости.
+3. Изучить реальные вкладки и разделы канала.
+4. Проверить, может ли выбранный инструмент возвращать машиночитаемый JSON для каждой вкладки.
+5. Изучить ключи JSON, вложенные записи, идентификаторы, URL, названия, порядок и количество элементов.
+6. Сохранить исходные результаты и диагностику до любых преобразований.
 
-### HTTP reachability probe
+### Проверка доступности HTTP
 
-A simple curl probe can show whether an endpoint responds, but HTTP 200 does **not** establish that it returned the expected channel data or a complete response.
+Простой запрос через `curl` показывает, отвечает ли сервер, но код HTTP 200 **не доказывает**, что ответ содержит ожидаемые данные канала или что он полон.
 
-Example for a single endpoint:
+Пример проверки одного адреса:
 
 ~~~bash
 curl -L --silent --show-error \
@@ -32,44 +32,44 @@ curl -L --silent --show-error \
   'https://www.youtube.com/@AsForJS'
 ~~~
 
-For alternative frontends or APIs, probe each candidate separately and inspect the body and response headers before relying on it. Public Invidious instances can disappear, rate-limit requests, or change behavior; they are discovery leads, not a stable project dependency.
+Альтернативные интерфейсы и API проверяй по отдельности. Прежде чем на них полагаться, изучи тело ответа и заголовки. Публичные экземпляры Invidious могут исчезнуть, ограничить частоту запросов или изменить поведение. Это возможные направления исследования, но не стабильная зависимость проекта.
 
-An example API discovery request that was tested during the earlier investigation was:
+Во время первоначального исследования проверялся, например, такой API-запрос:
 
 ~~~bash
 curl -L --silent --show-error \
   'https://invidious.nerdvpn.de/api/v1/search?q=AsForJS&type=channel'
 ~~~
 
-A candidate channel ID from a search response can then be inspected with that instance's channel endpoint, for example /api/v1/channels/CHANNEL_ID. Replace the placeholder only with an ID actually returned by the search response. Do not assume the instance or endpoint remains available.
+Идентификатор канала, полученный в ответе, можно проверить через конечную точку канала того же экземпляра, например `/api/v1/channels/CHANNEL_ID`. Вместо `CHANNEL_ID` подставляй только идентификатор, действительно полученный в ответе поиска. Не рассчитывай, что конкретный экземпляр или адрес API останется доступен.
 
-**Interpretation rule:** keep the probe result, timestamp, URL, status, and any relevant error in the investigation notes. Do not treat a successful HTTP status as proof that an alternative is suitable.
+**Правило интерпретации:** сохраняй результат проверки, дату и время, URL, HTTP-статус и существенные ошибки в исследовательских заметках. Успешный HTTP-статус сам по себе не означает, что источник подходит.
 
-## 2. Why yt-dlp was selected for the initial collection
+## 2. Почему для первоначального сбора выбрали yt-dlp
 
-For the first working example, yt-dlp successfully returned JSON for the four channel tabs:
+В первом рабочем примере `yt-dlp` успешно возвращал JSON для четырёх вкладок канала:
 
-- videos
-- streams
-- podcasts
-- playlists
+- `videos` — видео;
+- `streams` — трансляции;
+- `podcasts` — подкасты;
+- `playlists` — плейлисты.
 
-This was a better fit than scraping page HTML by hand for the initial data set because it directly produced structured metadata and did not require downloading the videos themselves.
+Для начального набора данных это оказалось удобнее, чем вручную извлекать информацию из HTML: инструмент сразу возвращал структурированные метаданные и не требовал скачивать сами видео.
 
-The choice is pragmatic, not a claim that yt-dlp is the only possible method. Alternatives can be tested later against the same requirements and saved sample data.
+Это практический выбор, а не утверждение, что `yt-dlp` — единственный возможный метод. Другие варианты можно сравнить с теми же требованиями и сохранёнными примерами.
 
-## 3. Reproduce the four-tab collection
+## 3. Повторить сбор четырёх вкладок
 
-Requirements: yt-dlp, a working connection to YouTube, and a Bash-compatible shell.
+Требования: `yt-dlp`, работающее соединение с YouTube и оболочка, совместимая с Bash.
 
-Run the block from a new working directory. It writes one JSON file and one diagnostic log for each tab.
+Выполни блок в новом рабочем каталоге. Для каждой вкладки он создаст отдельный JSON-файл и журнал диагностики.
 
 ~~~bash
 mkdir -p AsForJS-source
 cd AsForJS-source
 
 for tab in videos streams podcasts playlists; do
-  printf '\n=== Collecting %s ===\n' "$tab"
+  printf '\n=== Сбор: %s ===\n' "$tab"
   yt-dlp \
     --ignore-errors \
     --flat-playlist \
@@ -77,41 +77,41 @@ for tab in videos streams podcasts playlists; do
     "https://www.youtube.com/@AsForJS/$tab" \
     > "$tab.json" \
     2> "$tab.log"
-  printf 'exit status: %s\n' "$?"
+  printf 'Код завершения: %s\n' "$?"
 done
 ~~~
 
-Options:
+Параметры:
 
-- --ignore-errors allows processing to continue through some item-level errors; it does not mean the result is complete.
-- --flat-playlist requests a flat listing rather than fully processing each video.
-- --dump-single-json writes one JSON object for the requested listing.
-- Standard output is saved to the JSON file.
-- Standard error is saved to the matching log.
+- `--ignore-errors` — позволяет продолжать обработку при некоторых ошибках отдельных элементов, но не гарантирует полноту результата.
+- `--flat-playlist` — запрашивает плоский список, не выполняя полную обработку каждого видео.
+- `--dump-single-json` — выводит результат запроса одним JSON-объектом.
+- Стандартный вывод сохраняется в JSON-файл.
+- Стандартный поток ошибок сохраняется в соответствующий файл журнала.
 
-The loop's exit status is printed for each tab, but it is not the only validation criterion. Inspect the JSON and logs as described below.
+Цикл выводит код завершения для каждой вкладки, но одного кода недостаточно для проверки. Изучи JSON и журналы по инструкциям ниже.
 
-## 4. Validate the raw outputs
+## 4. Проверить исходные результаты
 
-If jq is installed:
+Если установлен `jq`:
 
 ~~~bash
 for tab in videos streams podcasts playlists; do
   printf '\n=== %s ===\n' "$tab"
-  test -s "$tab.json" || { echo "MISSING OR EMPTY JSON"; continue; }
+  test -s "$tab.json" || { echo "JSON отсутствует или пуст"; continue; }
   jq -e '.entries | length' "$tab.json"
-  printf '%s\n' '--- log ---'
+  printf '%s\n' '--- журнал ---'
   if test -s "$tab.log"; then
     sed -n '1,120p' "$tab.log"
   else
-    echo 'No log output'
+    echo 'Журнал пуст'
   fi
 done
 ~~~
 
-Do not proceed as though collection succeeded if a file is absent, empty, invalid JSON, or structurally different from expectations. A non-empty log needs interpretation; it does not automatically mean every entry failed. An empty log does not prove completeness.
+Не считай сбор успешным, если файл отсутствует, пуст, содержит некорректный JSON или имеет неожиданную структуру. Непустой журнал нужно изучить: это не обязательно означает, что все записи не удалось получить. Пустой журнал также не доказывает полноту.
 
-For deeper inspection:
+Для более подробной проверки:
 
 ~~~bash
 jq 'keys' videos.json
@@ -119,39 +119,39 @@ jq '{title, id, webpage_url, extractor, count: (.entries | length)}' videos.json
 jq '.entries[0] | {id, title, url, webpage_url, ie_key}' videos.json
 ~~~
 
-The exact fields vary by extractor response. Inspect the actual data rather than assuming every field exists.
+Точный набор полей зависит от ответа экстрактора. Проверяй фактические данные, а не предполагай, что каждое поле обязательно существует.
 
-## 5. Historical snapshot counts
+## 5. Количество записей в историческом снимке
 
-The previously saved AsForJS snapshot contained:
+В ранее сохранённом снимке AsForJS было:
 
-| Tab | Entries |
+| Вкладка | Записей |
 |---|---:|
-| videos | 6 |
-| streams | 253 |
-| podcasts | 21 |
-| playlists | 24 |
+| videos — видео | 6 |
+| streams — трансляции | 253 |
+| podcasts — подкасты | 21 |
+| playlists — плейлисты | 24 |
 
-These counts are useful as a comparison baseline for the imported snapshot, not as permanent expected counts. YouTube content changes, and inaccessible/private/deleted items may be absent.
+Эти числа нужны для сравнения с сохранённым снимком, а не как постоянные ожидаемые значения. Содержимое YouTube меняется; удалённые, закрытые и недоступные записи могут отсутствовать.
 
-## 6. Collection versus transformation
+## 6. Сбор данных и преобразование — разные этапы
 
-The four tab JSON files are source inputs. They should be retained as collected, with their corresponding logs. Later stages may combine metadata, fetch playlist contents, validate relationships, or generate Markdown—but those are derived artifacts and must not overwrite the original inputs.
+Четыре JSON-файла вкладок — исходные данные. Сохраняй их без изменений вместе с соответствующими журналами. На следующих этапах можно объединять метаданные, получать содержимое плейлистов, проверять связи и формировать Markdown. Это производные результаты, которые не должны перезаписывать исходники.
 
-During development, use the saved JSON as fixtures. Query YouTube again only when testing the online collection itself or refreshing the source snapshot.
+Во время разработки используй сохранённые JSON как тестовые примеры. Повторно обращайся к YouTube только при проверке самого сетевого сбора или обновлении исходного снимка.
 
-## 7. What to record when evaluating another method
+## 7. Что фиксировать при оценке другого метода
 
-For each alternative, note:
+Для каждого альтернативного способа записывай:
 
-- date and environment;
-- exact endpoint or command;
-- tool and version;
-- whether the response was machine-readable;
-- which required fields were available;
-- ordering and item counts;
-- rate limits, access errors, missing items, or instability;
-- whether the method can be repeated without credentials or manual browser steps;
-- whether it is suitable for unattended GitHub Actions runs.
+- дату и среду выполнения;
+- точную команду или адрес конечной точки;
+- инструмент и его версию;
+- машиночитаем ли ответ;
+- наличие необходимых полей;
+- количество и порядок элементов;
+- ограничения частоты запросов, ошибки доступа, пропуски и нестабильность;
+- можно ли повторить процедуру без учётных данных и ручных действий в браузере;
+- подходит ли метод для автоматического запуска в GitHub Actions.
 
-Do not replace the current method until an alternative has been tested against the same saved input and completeness criteria.
+Не заменяй текущий метод, пока альтернатива не проверена на тех же сохранённых данных и по тем же критериям полноты.

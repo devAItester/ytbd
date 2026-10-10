@@ -1,47 +1,47 @@
-# Tool evaluation notes
+# Оценка инструментов
 
-## Goal
+## Цель
 
-Keep a record of why a tool was tried, what it actually returned, and why it was accepted or rejected. This avoids repeating exploratory work and prevents a convenient one-time result from becoming an undocumented dependency.
+Фиксировать, зачем пробовали инструмент, что именно он вернул и почему его приняли или отклонили. Это помогает не повторять уже проведённое исследование и не превращать удобный разовый результат в недокументированную зависимость.
 
-## Current tool roles
+## Текущие роли инструментов
 
-| Tool | Intended role | Current status |
+| Инструмент | Предполагаемая роль | Текущий статус |
 |---|---|---|
-| curl | Probe HTTP reachability, inspect endpoints, capture raw responses | Used during discovery; a 200 status alone is insufficient |
-| yt-dlp | Collect channel-tab metadata as JSON | Worked for the four AsForJS tabs in the historical snapshot |
-| jq | Inspect JSON keys, counts, and selected fields | Used for command-line validation |
-| Python | Repeatable validation and transformations | Existing collection code exists in the earlier aishare archive; migration/review still required |
-| GitHub Actions | Unattended collection and refresh | Not configured yet |
+| `curl` | Проверять доступность HTTP, изучать конечные точки, сохранять исходные ответы | Использовался на этапе исследования; одного статуса 200 недостаточно |
+| `yt-dlp` | Получать метаданные вкладок канала в JSON | Работал для четырёх вкладок AsForJS в историческом снимке |
+| `jq` | Проверять ключи JSON, количество записей и выбранные поля | Использовался для проверки из командной строки |
+| Python | Повторяемые проверки и преобразования | В архиве aishare есть прежний код сбора; перенос и ревизия ещё требуют отдельного решения |
+| GitHub Actions | Автоматический сбор и обновление | Настроена ручная проверка сохранённого снимка; автоматическое обновление YouTube пока не настроено |
 
-## Evaluation checklist
+## Контрольный список оценки
 
-For each new tool or method, record:
+Для каждого нового инструмента или метода фиксируй:
 
-1. Problem being solved.
-2. Exact command, URL, or API endpoint.
-3. Tool version and environment.
-4. Input and output examples, with secrets removed.
-5. Available fields and structure.
-6. Count/order comparison with the current baseline.
-7. Failure modes and limits observed.
-8. Whether it can run unattended.
-9. Decision: use, keep as fallback, investigate later, or reject.
-10. Date and links to relevant source documentation.
+1. Какую задачу он решает.
+2. Точную команду, URL или адрес API.
+3. Версию инструмента и среду выполнения.
+4. Примеры входных и выходных данных без секретов.
+5. Доступные поля и структуру результата.
+6. Сравнение количества и порядка записей с текущим эталоном.
+7. Наблюдавшиеся ошибки и ограничения.
+8. Можно ли запускать его без участия пользователя.
+9. Решение: использовать, оставить запасным, исследовать позже или отклонить.
+10. Дату и ссылки на соответствующую документацию.
 
-## Candidate methods
+## Кандидаты на использование
 
-- **yt-dlp** — current baseline for tab collection.
-- **Direct HTTP/HTML inspection with curl** — useful for discovery and debugging; avoid relying on undocumented page markup as the main database interface unless there is a clear reason.
-- **Invidious API** — was probed as an alternative during initial exploration. Public instances are third-party and can be unavailable or rate-limited; do not treat a particular public instance as a stable service dependency.
-- **Other methods** — may be added when a concrete requirement appears. Do not add dependencies merely because they exist.
+- **`yt-dlp`** — текущий базовый инструмент для сбора данных вкладок.
+- **Прямая проверка HTTP/HTML через `curl`** — полезна для исследования и диагностики. Не стоит строить основной способ доступа к данным на недокументированной разметке страницы без веской причины.
+- **API Invidious** — проверялся как альтернатива на начальном этапе. Публичные экземпляры принадлежат сторонним участникам, могут быть недоступны или ограничивать частоту запросов. Не считай конкретный экземпляр стабильной зависимостью сервиса.
+- **Другие методы** — добавляй, когда появляется конкретная потребность. Не добавляй зависимости просто потому, что они существуют.
 
-## Decision record
+## Запись о принятом решении
 
-### Initial AsForJS collection
+### Первоначальный сбор AsForJS
 
-- **Decision:** use yt-dlp to collect JSON from the four channel tabs.
-- **Reason:** it successfully returned structured metadata for the required sections without downloading the video files.
-- **Baseline counts:** videos 6, streams 253, podcasts 21, playlists 24.
-- **Limit:** counts describe the previously saved snapshot, not the current channel state.
-- **Next verification:** import the saved files, preserve them unchanged, then compare any new collector against the same source snapshot and completeness requirements.
+- **Решение:** использовать `yt-dlp` для получения JSON четырёх вкладок канала.
+- **Причина:** инструмент вернул структурированные метаданные необходимых разделов без скачивания видеофайлов.
+- **Исходные счётчики:** видео — 6, трансляции — 253, подкасты — 21, плейлисты — 24.
+- **Ограничение:** эти числа относятся к сохранённому снимку, а не к текущему состоянию канала.
+- **Следующая проверка:** сохранить импортированные файлы без изменений, затем сравнивать новые сборщики с тем же снимком и теми же критериями полноты.

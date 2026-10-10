@@ -1,60 +1,60 @@
-# Data lifecycle and repository structure
+# Жизненный цикл данных и структура репозитория
 
-## Core rule
+## Основное правило
 
-**Raw source data is immutable evidence; normalized JSON and Markdown are derived outputs.** A transformation must be reproducible from saved inputs, and a failed refresh must not silently replace the last valid snapshot.
+**Исходные данные — неизменяемое свидетельство; нормализованный JSON и Markdown — производные результаты.** Преобразование должно воспроизводиться из сохранённых входных данных. Неудачное обновление не должно молча заменять последний корректный снимок.
 
-## Proposed structure
+## Планируемая структура
 
 ~~~text
 ytbd/
 ├── .github/
-│   └── workflows/          # Added after local/test steps are defined
+│   └── workflows/          # Добавлять после определения и проверки сценариев
 ├── data/
 │   └── AsForJS/
-│       ├── raw/             # Original tab JSON and matching logs
-│       ├── derived/         # Combined JSON and generated Markdown
-│       └── manifests/       # Collection time, tool version, counts, status
+│       ├── raw/             # Исходный JSON вкладок и соответствующие журналы
+│       ├── derived/         # Объединённый JSON и созданный Markdown
+│       └── manifests/       # Время сбора, версия инструмента, счётчики, статус
 ├── docs/
 │   ├── collection-method.md
 │   ├── data-lifecycle.md
 │   └── tool-evaluation.md
-├── tests/                   # Deterministic checks using saved files
-├── src/                     # Collection and transformation code
+├── tests/                   # Детерминированные проверки на сохранённых файлах
+├── src/                     # Код сбора и преобразования
 └── README.md
 ~~~
 
-This is the intended layout, not a claim that these directories or scripts already exist. Import the previously collected files before building transformations around them; preserve their names and contents during the initial import.
+Это предполагаемая структура, а не утверждение, что все эти каталоги и скрипты уже существуют. Сначала импортируй ранее собранные файлы, сохраняя их имена и содержимое; только потом строй вокруг них преобразования.
 
-## Lifecycle
+## Этапы работы с данными
 
-1. **Discover** — identify available channel sections and evaluate candidate methods.
-2. **Collect** — save the original response for each section and separate logs.
-3. **Record provenance** — record timestamp, yt-dlp version, command/options, and exit status.
-4. **Validate** — check JSON syntax, expected top-level structure, entry counts, IDs/URLs, and diagnostics.
-5. **Accept snapshot** — only mark the collection usable after required checks pass.
-6. **Transform** — create combined JSON, playlist contents, and Markdown from the accepted raw snapshot.
-7. **Compare** — compare counts, IDs, ordering, and errors with the previous accepted snapshot.
-8. **Publish** — commit the new snapshot and derived output only after validation.
+1. **Исследование** — определить доступные разделы канала и оценить возможные методы.
+2. **Сбор** — сохранить исходный ответ для каждого раздела и отдельные журналы.
+3. **Фиксация происхождения** — записать время, версию `yt-dlp`, команду и параметры, код завершения.
+4. **Проверка** — проверить синтаксис JSON, ожидаемую структуру, количество записей, идентификаторы, URL и сообщения диагностики.
+5. **Принятие снимка** — считать сбор пригодным только после прохождения обязательных проверок.
+6. **Преобразование** — создать объединённый JSON, содержимое плейлистов и Markdown на основе принятого исходного снимка.
+7. **Сравнение** — сопоставить количество записей, идентификаторы, порядок и ошибки с предыдущим принятым снимком.
+8. **Публикация** — отправить новый снимок и производные результаты в репозиторий только после проверки.
 
-## Required safeguards
+## Обязательные меры предосторожности
 
-- Never use --ignore-errors as a substitute for validation.
-- Do not interpret a missing or invalid JSON file as an empty channel.
-- Preserve logs alongside the files they explain.
-- Keep old valid data when a refresh fails validation.
-- Record partial success explicitly; do not present a partial snapshot as complete.
-- Preserve source ordering and repeated videos that legitimately appear in multiple playlists.
-- Do not remove or normalize source fields without recording that transformation.
-- Use deterministic tests against saved fixtures; tests should not require network access.
-- During the initial import, do not regenerate or rewrite the historical outputs.
+- Не используй `--ignore-errors` вместо проверки результата.
+- Не трактуй отсутствующий или некорректный JSON как пустой канал.
+- Храни журналы рядом с файлами, к которым они относятся.
+- При неудачной проверке обновления сохраняй предыдущие корректные данные.
+- Явно отмечай частичный успех; не выдавай частичный снимок за полный.
+- Сохраняй исходный порядок и повторения видео, которые законно встречаются в нескольких плейлистах.
+- Не удаляй и не нормализуй поля исходника без фиксации такого преобразования.
+- Выполняй детерминированные проверки на сохранённых примерах; тестам не нужен сетевой доступ.
+- Во время первоначального импорта не пересоздавай и не переписывай исторические результаты.
 
-## Initial import checklist
+## Контрольный список первоначального импорта
 
-- [ ] Import all four tab JSON files.
-- [ ] Import their four matching logs.
-- [ ] Import existing combined JSON, Markdown outputs, and collection script as historical artifacts where available.
-- [ ] Preserve the original folder/file names in an import note or manifest.
-- [ ] Compare file sizes, JSON validity, entry counts, and hashes where possible.
-- [ ] Confirm the imported files are visible on GitHub by fetching them back.
-- [ ] Only then decide how to reorganize or regenerate them.
+- [ ] Импортировать JSON всех четырёх вкладок.
+- [ ] Импортировать четыре соответствующих журнала.
+- [ ] Импортировать существующий объединённый JSON, результаты Markdown и скрипт сбора как исторические материалы, если они доступны.
+- [ ] Сохранить исходные имена каталогов и файлов в заметке или манифесте импорта.
+- [ ] По возможности сравнить размеры файлов, валидность JSON, количество записей и хеши.
+- [ ] Убедиться, что импортированные файлы доступны на GitHub, повторно прочитав их.
+- [ ] Только после этого решать, как реорганизовать или пересоздать результаты.

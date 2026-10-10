@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the saved AsForJS fixture without network access."""
+"""Проверяет сохранённые данные AsForJS без сетевых запросов."""
 import json
 import sys
 from pathlib import Path
@@ -15,47 +15,45 @@ def load_json(path):
 
 def main():
     failures = []
-    tab_data = {}
     for name in TAB_FILES:
         path = ROOT / name
         try:
             data = load_json(path)
             if not isinstance(data, dict):
-                raise ValueError("top-level JSON value must be an object")
+                raise ValueError("верхний уровень JSON должен быть объектом")
             entries = data.get("entries")
             if not isinstance(entries, list):
-                raise ValueError("missing list field: entries")
-            tab_data[name] = data
-            print(f"PASS {name}: {len(entries)} entries")
+                raise ValueError("отсутствует список entries")
+            print(f"УСПЕХ {name}: записей — {len(entries)}")
         except (OSError, json.JSONDecodeError, ValueError) as exc:
             failures.append(f"{name}: {exc}")
-            print(f"FAIL {name}: {exc}")
+            print(f"ОШИБКА {name}: {exc}")
 
     tree_path = ROOT / "tree-data.json"
     try:
         tree = load_json(tree_path)
         if not isinstance(tree, dict):
-            raise ValueError("top-level JSON value must be an object")
+            raise ValueError("верхний уровень JSON должен быть объектом")
         for field in ("tabs", "playlist_metadata", "playlist_contents", "errors"):
             if field not in tree:
-                raise ValueError(f"missing field: {field}")
+                raise ValueError(f"отсутствует поле: {field}")
         if not isinstance(tree["playlist_contents"], dict):
-            raise ValueError("playlist_contents must be an object")
+            raise ValueError("playlist_contents должен быть объектом")
         if not isinstance(tree["errors"], dict):
-            raise ValueError("errors must be an object")
+            raise ValueError("errors должен быть объектом")
         print(
-            "PASS tree-data.json: "
-            f"{len(tree['playlist_contents'])} expanded lists, "
-            f"{len(tree['errors'])} recorded errors"
+            "УСПЕХ tree-data.json: "
+            f"раскрытых списков — {len(tree['playlist_contents'])}, "
+            f"записанных ошибок — {len(tree['errors'])}"
         )
     except (OSError, json.JSONDecodeError, ValueError) as exc:
         failures.append(f"tree-data.json: {exc}")
-        print(f"FAIL tree-data.json: {exc}")
+        print(f"ОШИБКА tree-data.json: {exc}")
 
     if failures:
-        print(f"\nValidation failed: {len(failures)} problem(s).", file=sys.stderr)
+        print(f"\nПроверка не пройдена. Проблем: {len(failures)}.", file=sys.stderr)
         return 1
-    print("\nValidation passed. No network requests were made.")
+    print("\nПроверка пройдена. Сетевые запросы не выполнялись.")
     return 0
 
 

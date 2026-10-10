@@ -1,45 +1,45 @@
-# ytbd — YouTube data, with a working example
+# ytbd — работа с данными YouTube
 
-**Goal:** collect public YouTube channel metadata, validate it, and keep reproducible snapshots. The saved AsForJS data is a test fixture: you can run the project without querying YouTube.
+**Цель:** собирать общедоступные метаданные YouTube-каналов, проверять их и сохранять воспроизводимые снимки. Сохранённые данные AsForJS служат тестовым примером: проект можно проверять, не обращаясь к YouTube.
 
-## Use it now — no terminal required
+## Запустить проверку на GitHub — без терминала
 
-1. Open the repository's [Actions tab](https://github.com/devAItester/ytbd/actions).
-2. Select **Validate saved AsForJS snapshot**.
-3. Click **Run workflow**, leave branch `main` selected, and click the green **Run workflow** button.
-4. Open the new run at the top of the page. A green check means the saved JSON passed validation; open **Validate snapshot** to read the counts and checks.
+1. Открой вкладку [Действия (Actions)](https://github.com/devAItester/ytbd/actions) репозитория.
+2. Выбери рабочий процесс **Проверка сохранённого снимка AsForJS**.
+3. Нажми **Run workflow**. Оставь выбранной ветку `main` и ещё раз нажми зелёную кнопку **Run workflow**.
+4. Открой самый новый запуск. Зелёная галочка означает, что проверка завершилась успешно. В шагах запуска открой **Проверить снимок данных**, чтобы увидеть результаты.
 
-This checks the data already stored in GitHub. It does **not** contact YouTube or claim that the snapshot is current.
+Названия кнопок **Run workflow** — это подписи интерфейса GitHub, поэтому они оставлены на английском. Проверка анализирует данные, уже сохранённые в репозитории: она **не обращается к YouTube** и не утверждает, что снимок актуален.
 
-## Run it locally
+## Запустить проверку на своём компьютере
 
-Install Python 3 if it is not already installed. From a terminal in the repository root, run:
+Нужен Python 3. Открой терминал в корневом каталоге репозитория и выполни:
 
 ```sh
 python3 scripts/validate_snapshot.py
 ```
 
-The validator reads `examples/AsForJS/`, checks the four saved tab JSON files and `tree-data.json`, then prints counts. It does not modify source files.
+Скрипт проверяет четыре JSON-файла вкладок и `tree-data.json` в каталоге `examples/AsForJS/`, затем выводит количество записей. Исходные файлы он не изменяет.
 
-## What the example contains
+## Что лежит в примере
 
-- `examples/AsForJS/videos.json`, `streams.json`, `podcasts.json`, `playlists.json`: saved tab snapshots.
-- `examples/AsForJS/tree-data.json`: expanded playlist data from the earlier collection.
-- `examples/AsForJS/collect.py` and `collect.log`: original collector and log.
-- `examples/AsForJS/items/`: per-playlist JSON snapshots and collection logs.
-- `examples/AsForJS/full-data/DjuK8h7-ep8/`: detailed metadata and subtitle/format inventories for one video.
-- `examples/AsForJS/channel-tree-full.md`: generated channel-tree view.
+- `examples/AsForJS/videos.json`, `streams.json`, `podcasts.json`, `playlists.json` — сохранённые снимки четырёх вкладок канала.
+- `examples/AsForJS/tree-data.json` — данные раскрытых плейлистов из предыдущего сбора.
+- `examples/AsForJS/collect.py` и `collect.log` — исходный сборщик и его журнал.
+- `examples/AsForJS/items/` — отдельные JSON-снимки плейлистов и журналы сбора.
+- `examples/AsForJS/full-data/DjuK8h7-ep8/` — подробные метаданные и перечни субтитров и форматов одного видео.
+- `examples/AsForJS/channel-tree-full.md` — сформированное полное дерево канала.
 
-The counts in a saved snapshot are historical, not live channel totals. More source notes and method documentation are in [docs/collection-method.md](docs/collection-method.md), [docs/data-lifecycle.md](docs/data-lifecycle.md), and [docs/tool-evaluation.md](docs/tool-evaluation.md).
+Количество записей в сохранённых файлах относится к историческому снимку, а не к текущему состоянию канала. Метод сбора и устройство проекта описаны в документах: [метод сбора](docs/collection-method.md), [жизненный цикл данных](docs/data-lifecycle.md), [оценка инструментов](docs/tool-evaluation.md).
 
-## Collect fresh data (not yet automated)
+## Получение свежих данных
 
-The original collection process is documented in [examples/AsForJS/get-source-data.md](examples/AsForJS/get-source-data.md) once imported. Fresh collection should be treated as a separate operation from validation: review the result before replacing a known-good snapshot. Do not commit cookies, browser profiles, tokens, or other secrets.
+Сбор новых данных пока не автоматизирован. Порядок получения исходных файлов описан в [инструкции по сбору](examples/AsForJS/get-source-data.md). Сбор данных и их проверка — отдельные операции: прежде чем заменять проверенный снимок, изучи новый результат. Не добавляй в репозиторий cookies, профили браузера, токены и другие секреты.
 
-## Project principles
+## Принципы проекта
 
-- Preserve source snapshots and the procedure used to obtain them.
-- Keep raw data separate from generated output.
-- Validate completeness before accepting a new snapshot.
-- Use saved fixtures while developing; avoid unnecessary requests to YouTube.
-- Never silently replace a valid snapshot with partial or invalid data.
+- Сохранять исходные снимки и методику их получения.
+- Хранить исходные данные отдельно от результатов преобразования.
+- Проверять полноту перед принятием нового снимка.
+- Во время разработки использовать сохранённые примеры и не обращаться к YouTube без необходимости.
+- Не заменять проверенные данные частичным или некорректным результатом без явного решения.

@@ -1,4 +1,4 @@
-name: Validate saved AsForJS snapshot
+name: Проверка сохранённого снимка AsForJS
 
 on:
   workflow_dispatch:
@@ -15,11 +15,11 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Получить файлы репозитория
         uses: actions/checkout@v4
-      - name: Set up Python
+      - name: Подготовить Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - name: Validate snapshot
+      - name: Проверить снимок данных
         run: python scripts/validate_snapshot.py
