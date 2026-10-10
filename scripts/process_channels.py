@@ -138,7 +138,7 @@ def folder_name(url: str) -> str:
 
 
 def build_command(url: str) -> list[str]:
-    # Only metadata and flat lists: no video files, thumbnails, subtitles, or comments.
+    # Channel/tab scan: metadata only and flat entries.
     return [
         "yt-dlp", "--ignore-errors", "--skip-download", "--flat-playlist",
         "--dump-single-json", url,
@@ -163,6 +163,166 @@ def fetch_json(url: str) -> tuple[dict | None, str | None, str]:
         # A partial response must not replace the last accepted snapshot.
         return None, diagnostic or f"yt-dlp завершился с кодом {result.returncode}.", diagnostic
     return payload, None, diagnostic
+
+
+
+
+def fetch_video_details(url: str, media_dir: Path | None = None) -> tuple[dict | None, str | None, str]:
+    """Fetch one video's full yt-dlp metadata; optionally save thumbnail and subtitles, never the video."""
+    command = [
+        "yt-dlp", "--ignore-errors", "--skip-download", "--dump-single-json",
+        "--no-warnings",
+    ]
+    if media_dir is not None:
+        media_dir.mkdir(parents=True, exist_ok=True)
+        command.extend([
+            "--write-info-json",
+            "--write-thumbnail",
+            "--write-subs",
+            "--write-auto-subs",
+            "--sub-langs", "all",
+            "--convert-subs", "srt",
+            "-o", str(media_dir / "%(id)s.%(ext)s"),
+        ])
+    command.append(url)
+    result = subprocess.run(
+        command, capture_output=True, text=True,
+        encoding="utf-8", errors="replace", check=False,
+    )
+    diagnostic = result.stderr.strip()
+    if not result.stdout.strip():
+        return None, diagnostic or f"yt-dlp не вернул метаданные (код {result.returncode}).", diagnostic
+    try:
+        payload = json.loads(result.stdout)
+    except json.JSONDecodeError as exc:
+        return None, f"Некорректный JSON видео: {exc}", diagnostic
+    if not isinstance(payload, dict) or not payload.get("id"):
+        return None, "yt-dlp вернул объект без ID видео.", diagnostic
+    if result.returncode != 0:
+        return None, diagnostic or f"yt-dlp завершился с кодом {result.returncode}.", diagnostic
+    return payload, None, diagnostic
+
+
+def video_folder_name(metadata: dict) -> str:
+    timestamp = metadata.get("release_timestamp") or metadata.get("timestamp")
+    if isinstance(timestamp, (int, float)):
+        date_prefix = datetime.fromtimestamp(timestamp, timezone.utc).strftime("%Y%m%d-%H%M")
+    else:
+        date_value = str(metadata.get("release_date") or metadata.get("upload_date") or "")
+        date_prefix = f"{date_value[:8]}-0000" if re.fullmatch(r"\\d{8}", date_value[:8]) else "00000000-0000"
+    title = str(metadata.get("title") or metadata.get("id") or "video")
+    slug = re.sub(r"[^\\w.-]+", "-", title, flags=re.UNICODE).strip("._-")[:100].strip("._-")
+    return f"{date_prefix}-{slug or metadata.get('id', 'video')}"
+
+
+def subtitle_to_text(source: Path, destination: Path) -> None:
+    """Convert an SRT/VTT subtitle file to readable plain text without timestamps."""
+    lines = []
+    for line in source.read_text(encoding="utf-8-sig", errors="replace").replace("\\r", "").splitlines():
+        value = line.strip()
+        if not value or value == "WEBVTT" or re.fullmatch(r"\\d+", value):
+            continue
+        if "-->" in value or re.match(r"^(NOTE|STYLE|REGION)\\b", value):
+            continue
+        value = re.sub(r"<[^>]+>", "", value)
+        value = re.sub(r"\\{\\\\[^}]+\\}", "", value).strip()
+        if value:
+            lines.append(value)
+    if lines:
+        destination.write_text("\\n".join(lines) + "\\n", encoding="utf-8")
+
+
+def collect_video_details(
+    channel_dir: Path,
+    channel_output_dir: Path,
+    active_tabs: list[tuple[str, str, str]],
+    detail_limit: int,
+    download_media: bool,
+) -> tuple[dict[str, dict], list[str]]:
+    """Enrich flat archive records with full video JSON and return local-file links by video ID."""
+    video_tabs = {"videos", "shorts", "streams", "podcasts"}
+    archives: dict[str, dict] = {}
+    references: dict[str, list[dict]] = {}
+    for key, _title, _suffix in active_tabs:
+        if key not in video_tabs:
+            continue
+        archive = read_json(channel_dir / "archive" / f"{key}.json", {})
+        if not isinstance(archive, dict) or not isinstance(archive.get("items"), list):
+            continue
+        archives[key] = archive
+        for item in archive["items"]:
+            if not isinstance(item, dict) or not item.get("id"):
+                continue
+            references.setdefault(str(item["id"]), []).append(item)
+
+    local_root = channel_output_dir / "media" / "videos"
+    details_root = channel_dir / "raw" / "video-details"
+    errors: list[str] = []
+    processed = 0
+    for video_id, items in references.items():
+        # A prior successful detail extraction remains useful if a later run is limited.
+        cached = read_json(details_root / f"{video_id}.json", None)
+        already_detailed = isinstance(cached, dict) and cached.get("id")
+        if detail_limit and processed >= detail_limit and not already_detailed:
+            continue
+        if already_detailed and detail_limit and processed >= detail_limit:
+            for item in items:
+                item.update(cached)
+            continue
+
+        source_item = items[0]
+        url = str(source_item.get("webpage_url") or source_item.get("display_url") or "")
+        if not url:
+            url = f"https://www.youtube.com/watch?v={video_id}"
+        video_dir = local_root / video_folder_name(cached or source_item) if download_media else None
+        metadata, error, diagnostic = fetch_video_details(url, video_dir)
+        processed += 1
+        if metadata is None:
+            errors.append(f"video {video_id}: {error}")
+            if diagnostic:
+                write_json_if_changed(channel_dir / "logs" / "video-details.txt", diagnostic + "\\n")
+            if already_detailed:
+                metadata = cached
+            else:
+                continue
+        save_raw_snapshot(details_root, video_id, metadata)
+        for item in items:
+            item.update(metadata)
+        if download_media and video_dir is not None:
+            write_json_if_changed(video_dir / "meta.json", metadata)
+            subtitle_files = sorted(video_dir.glob("*.srt")) + sorted(video_dir.glob("*.vtt"))
+            for subtitle in subtitle_files:
+                subtitle_to_text(subtitle, subtitle.with_suffix(".txt"))
+            if subtitle_files:
+                first_transcript = subtitle_files[0].with_suffix(".txt")
+                generic_transcript = video_dir / "transcript.txt"
+                if first_transcript.exists() and first_transcript != generic_transcript:
+                    generic_transcript.write_text(first_transcript.read_text(encoding="utf-8"), encoding="utf-8")
+
+    for key, archive in archives.items():
+        write_json_if_changed(channel_dir / "archive" / f"{key}.json", archive)
+
+    local_media: dict[str, dict] = {}
+    if local_root.is_dir():
+        for video_dir in sorted(path for path in local_root.iterdir() if path.is_dir()):
+            metadata = read_json(video_dir / "meta.json", {})
+            video_id = str(metadata.get("id") or "")
+            if not video_id:
+                continue
+            files = sorted(path for path in video_dir.iterdir() if path.is_file())
+            rel = lambda path: path.relative_to(channel_output_dir).as_posix()
+            thumbnails = [rel(path) for path in files if path.suffix.lower() in {".jpg", ".jpeg", ".png", ".webp"}]
+            subtitles = [rel(path) for path in files if path.suffix.lower() in {".srt", ".vtt"}]
+            transcripts = [rel(path) for path in files if path.name == "transcript.txt" or (path.suffix == ".txt" and path.name != "meta.json")]
+            local_media[video_id] = {
+                "directory": video_dir.relative_to(channel_output_dir).as_posix(),
+                "metadata": rel(video_dir / "meta.json") if (video_dir / "meta.json").exists() else "",
+                "thumbnails": thumbnails,
+                "subtitles": subtitles,
+                "transcripts": sorted(set(transcripts)),
+            }
+    return local_media, errors
+
 
 
 def read_json(path: Path, fallback):
@@ -277,7 +437,8 @@ def make_sections(channel_dir: Path, active_tabs: list[tuple[str, str, str]],
 
 
 def process_channel(url: str, template_name: str, templates_dir: Path,
-                    data_root: Path, output_root: Path) -> tuple[bool, list[str]]:
+                    data_root: Path, output_root: Path, detail_limit: int = 0,
+                    download_media: bool = False) -> tuple[bool, list[str]]:
     handle = folder_name(url)
     channel_dir = data_root / handle
     raw_dir = channel_dir / "raw"
@@ -370,6 +531,13 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         }
     write_json_if_changed(channel_dir / "status.json", status)
 
+    local_media: dict[str, dict] = {}
+    if template_name == "full.md":
+        local_media, detail_errors = collect_video_details(
+            channel_dir, output_root / handle, active_tabs, detail_limit, download_media
+        )
+        errors.extend(detail_errors)
+
     channel_data = read_json(channel_dir / "channel.json", {})
     title = str(channel_data.get("title") or channel_data.get("channel") or handle)
     channel_id = str(channel_data.get("channel_id") or channel_data.get("id") or "")
@@ -385,6 +553,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         channel_url=url,
         channel_id=channel_id,
         channel_data=channel_data,
+        local_media=local_media,
         checked_at=checked_at,
         sections=make_sections(
             channel_dir,
@@ -409,7 +578,18 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--templates", type=Path, default=DEFAULT_TEMPLATES, help="Каталог Markdown-шаблонов")
     parser.add_argument("--data", type=Path, default=DEFAULT_DATA, help="Каталог сырых данных и архива")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Каталог Markdown-результатов")
+    parser.add_argument(
+        "--detail-limit", type=int, default=0,
+        help="Максимум уникальных видео для подробного сбора при full.md; 0 означает все видео",
+    )
+    parser.add_argument(
+        "--download-media", action="store_true",
+        help="Для подробных видео сохранять обложки, субтитры и текстовые транскрипты (без видеофайлов)",
+    )
     args = parser.parse_args(argv)
+    if args.detail_limit < 0:
+        print("ОШИБКА настроек: --detail-limit не может быть отрицательным.", file=sys.stderr)
+        return 2
 
     if shutil.which("yt-dlp") is None:
         print("ОШИБКА: yt-dlp не установлен.", file=sys.stderr)
@@ -426,7 +606,10 @@ def main(argv: list[str] | None = None) -> int:
 
     for url in urls:
         try:
-            process_channel(url, args.template, args.templates, args.data, args.output)
+            process_channel(
+                url, args.template, args.templates, args.data, args.output,
+                detail_limit=args.detail_limit, download_media=args.download_media,
+            )
         except (OSError, ValueError, RuntimeError) as exc:
             # Isolate failures: one channel must not stop the rest.
             print(f"ОШИБКА {url}: {exc}", file=sys.stderr)
