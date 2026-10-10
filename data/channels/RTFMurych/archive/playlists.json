@@ -3,116 +3,1514 @@
   "current_count": 4,
   "items": [
     {
+      "__files_to_move": {},
       "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "Playlist",
+      "_type": "playlist",
+      "_version": {
+        "current_git_head": null,
+        "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+        "repository": "yt-dlp/yt-dlp",
+        "version": "2026.08.19"
+      },
+      "availability": "public",
+      "channel": "@RTFMurych",
+      "channel_follower_count": null,
       "channel_id": "UC3NVT782r84UDLdx9JXtbow",
       "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
       "creators": null,
+      "description": "0. Основы HTML5 и CSS3 по стандартам W3C (2016)\nyoutu.be/playlist?list=PLPt6auq12-ThKr1JHynfwM0UY36zaDLnl\n\n1. Основы JavaScript (2016)\nyoutu.be/playlist?list=PL3l0ZhZehTMFVgs3NDOBtPaWFlHYtYNr_&si\n\n2. JavaScript расширенные возможности (2016)\n3. jQuery\n4. Ajax\n5. Node\n6. HTML5 API\n\n7. Web-мастеринг (2018)\nyoutu.be/playlist?list=PLhgRAQ8BwWFYT1NcPyuxBneol4wgKyG5Q&si",
       "display_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
       "duration": null,
+      "entries": [
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 4908,
+          "id": "jlBfRDU_3OY",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/jlBfRDU_3OY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDebLC8Ood-GgE0CFx1SIwWmh8iGQ",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/jlBfRDU_3OY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBj1lLbXvjCzhxNIq6AJWu3-XdTKA",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/jlBfRDU_3OY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoiGG1mM8ygpQtpSIfSPVL4lNuvQ",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/jlBfRDU_3OY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZnV3VW7c5oyQO3rekAqldvxk6Q",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Introduction to Functional Programming in JavaScript",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=jlBfRDU_3OY",
+          "view_count": 22000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 2734,
+          "id": "DSgOi5ssEEM",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/DSgOi5ssEEM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBaMGXSH9XVbxYAmgh6MQnekJ5l1w",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/DSgOi5ssEEM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOF8vEEp0BiaI1KgU3Fjpvb70X0Q",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/DSgOi5ssEEM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-yGaRPm5cmYLCiGz_AT3lNHMwPA",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/DSgOi5ssEEM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu3D4EO9FVmESNcagTl_OEbc-FPg",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Условные конструкции - лучшее для повышение читабельности и масштабируемости кода",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=DSgOi5ssEEM",
+          "view_count": 1100
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 893,
+          "id": "0nLHyjU5HNM",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/0nLHyjU5HNM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHI83I4YiIIvQ1JLQbaYXsnrvVwQ",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/0nLHyjU5HNM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB05QuRGQKBl62ZnPenNg7joNRjkA",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/0nLHyjU5HNM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJyS47PC_zCPf5-BaIAr17WYkC1Q",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/0nLHyjU5HNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB02umrGcb3Sw69gF01p3q09cpBTA",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Сравнение типов в JavaScript",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=0nLHyjU5HNM",
+          "view_count": 2200
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 901,
+          "id": "1seq3QNC1Lo",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/1seq3QNC1Lo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiWwvSlLL3MPZU_9vBw-oca6RTPw",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/1seq3QNC1Lo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCuCI-BoYS-pBmJtxy35mtH4sTfvQ",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/1seq3QNC1Lo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCltUSjtIpQyNcGJwW6pz0_GH96DA",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/1seq3QNC1Lo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6SrmT_KF1qpFMfOfHSWv33YzYdw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Использование конструкторов встроенных типов JavaScript",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=1seq3QNC1Lo",
+          "view_count": 576
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 2266,
+          "id": "mxhRdQd5VcA",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/mxhRdQd5VcA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAP4ICd1S9UMM6zEAsT9s8x0zMxHw",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/mxhRdQd5VcA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmnSLPS9hvY5A_QEyk7hvwIW091g",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/mxhRdQd5VcA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmJ197FCutGRXzCTzRBPs2E2_Hhw",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/mxhRdQd5VcA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH5hld54gKYFq0fYWc3TlGllFBFA",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Объект Promise в JavaScript",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=mxhRdQd5VcA",
+          "view_count": 10000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 4643,
+          "id": "FOTrtyu546Q",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/FOTrtyu546Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAaRyiepPe0jj6PgyzsYW8cyyAcHw",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/FOTrtyu546Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB6lPNBBb7jqNgdVLFKnD4wcQ8GwQ",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/FOTrtyu546Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBN3NvLb98a0HBVPbQDekOgKJGag",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/FOTrtyu546Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqwHlsheFMhqBbBXAzThrnDI5ZIQ",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Структуры данных на JavaScript: Очереди",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=FOTrtyu546Q",
+          "view_count": 6600
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 2462,
+          "id": "GBPpQVrkNTw",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/GBPpQVrkNTw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBXWmYmn__wJHOXxc6v4GRC3GiCw",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/GBPpQVrkNTw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABQjoZJZQNst2sTi31bxLMqf3N-A",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/GBPpQVrkNTw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABhdz7IFKbExso3ZKExerRxZ_0kw",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/GBPpQVrkNTw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSjCUWvVoNoyYpdwQAzJOsuVUiqg",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Способы наследования в JavaScript",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=GBPpQVrkNTw",
+          "view_count": 4300
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 6004,
+          "id": "9eAmTx2z8AI",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDRI-3HT_tPd6mIYOwX5WmHPjZKZg",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBpNQVLPiCjeNzhakITpLi7v1bTPA",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu-4P4C2vSjCHzxhIpQlMKI1xaAQ",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpZMo7VwSoC1PeJgguqwxMnA-yCw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Возможности JavaScript по стандарту ES-2015 (ECMAScript 2015)",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=9eAmTx2z8AI",
+          "view_count": 13000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 2519,
+          "id": "-ELqOUJedCI",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/-ELqOUJedCI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD8MZqVLqWjlb4ZbF-UOcmJ9pRfLw",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/-ELqOUJedCI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAreT5BCaCH8EHKQCLklQFNnUn8gA",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/-ELqOUJedCI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXX-wTUqUZ6AUBQkwG0QS2oBF8Eg",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/-ELqOUJedCI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj5pPxKQUcAB1f56f8tFXBZ7um_A",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Реализация HTML5 API Drag-and-drop",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=-ELqOUJedCI",
+          "view_count": 3200
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 2586,
+          "id": "VyIvCFUw17g",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/VyIvCFUw17g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0WLR7RdtoUKmPn1i-dXNAXmO5Mw",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/VyIvCFUw17g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwrUbUppm89fRakBCgXfb4jBnHJw",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/VyIvCFUw17g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbYjZztfrKy0pBZj_2OtZfjDJBmA",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/VyIvCFUw17g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiDg84xXCauD3UamvsGkliA0qgiw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Использование техники JSONP",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=VyIvCFUw17g",
+          "view_count": 2200
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 3180,
+          "id": "LH5czjRdn7U",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/LH5czjRdn7U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGycgy9N5dfIoXA7NuTm8mBhQ6Hg",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/LH5czjRdn7U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDiajTxITa6iinUFsKjT9uojdB8Lg",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/LH5czjRdn7U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUJUvsk7meOoXXzOL7afSc-CTGCg",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/LH5czjRdn7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjh_LO01P88oipYI5PeQJ44iYCdw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Is it necessary to learn XML today?",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=LH5czjRdn7U",
+          "view_count": 5500
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 2568,
+          "id": "G47gNab1lzQ",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/G47gNab1lzQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUCg8MA8=&rs=AOn4CLBPh-bYMb-IbbLDng21FUEmJnPfNA",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/G47gNab1lzQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUCg8MA8=&rs=AOn4CLAlde0EsvHELH6Smzhy_MQ5aPTYmA",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/G47gNab1lzQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFAoPDAP&rs=AOn4CLBxauFWVtgTk9Yf1temolIohsy1TA",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/G47gNab1lzQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFAoPDAP&rs=AOn4CLDUuYcfR8mI0uzB_ya_-oXgkdn4fQ",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "JavaScript. Уровень 2. Веб-сокеты, часть 1.",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=G47gNab1lzQ",
+          "view_count": 32000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 2385,
+          "id": "kFZPNmqFzxE",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/kFZPNmqFzxE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAudYP7NPqZXPAC7davsdOKIR2Oaw",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/kFZPNmqFzxE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxyFYmnlP-IVLfVqHHfIqLbCnikw",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/kFZPNmqFzxE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJRoLoveOqxGRppo4WinGoAg6GXw",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/kFZPNmqFzxE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB116NPzRoVmpkg58RcYVhRZ_swKg",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "JavaScript. Уровень 2. Веб-сокеты, часть 2.",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=kFZPNmqFzxE",
+          "view_count": 9800
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SpecialistTV",
+          "channel_id": "UCMHzbSZjFdgqh8pndSnSp8Q",
+          "channel_url": "https://www.youtube.com/channel/UCMHzbSZjFdgqh8pndSnSp8Q",
+          "creators": null,
+          "duration": 3093,
+          "id": "V5CP46Uvra0",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/V5CP46Uvra0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTyg_MA8=&rs=AOn4CLDVOsY3LNfWCbjRi88l9hIginREpQ",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/V5CP46Uvra0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTyg_MA8=&rs=AOn4CLC4rYolc0E3yCbLrEXAJEwRUZTqdw",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/V5CP46Uvra0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE8oPzAP&rs=AOn4CLBEoQ6_vJa2x5Yvb2aYVSucGhio3w",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/V5CP46Uvra0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE8oPzAP&rs=AOn4CLCioKS5jmKvkrR7KPAlwDtXO_ZdCw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "JavaScript. Уровень 2. Веб-сокеты, часть 3.",
+          "uploader": "SpecialistTV",
+          "uploader_id": "@SpecialistTV",
+          "uploader_url": "https://www.youtube.com/@SpecialistTV",
+          "url": "https://www.youtube.com/watch?v=V5CP46Uvra0",
+          "view_count": 5600
+        }
+      ],
+      "epoch": 1791668437,
+      "extractor": "youtube:tab",
+      "extractor_key": "YoutubeTab",
       "id": "PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
       "ie_key": "YoutubeTab",
       "live_status": null,
+      "modified_date": "20240714",
+      "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+      "playlist_count": 14,
+      "release_year": null,
+      "tags": [],
       "thumbnails": [
         {
-          "height": 270,
-          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA58NWkmRvvXQEzcPA4TAWLW8Vx_g",
-          "width": 480
+          "height": 94,
+          "id": "0",
+          "resolution": "168x94",
+          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD_9fX38LywTaucSgghSJap6hV6UA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "id": "1",
+          "resolution": "196x110",
+          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBwq6NdA7_cxz58EoZ8E-h5W6A3MQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "id": "2",
+          "resolution": "246x138",
+          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_-CGBhUysONo1sxJ7goWovJEVsg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "id": "3",
+          "resolution": "336x188",
+          "url": "https://i.ytimg.com/vi/9eAmTx2z8AI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD6E7X9GTRiFbrW3q0cIABCCqp7Qg",
+          "width": 336
         }
       ],
       "timestamp": null,
       "title": "Игорь Борисов",
-      "uploader": "Playlist",
+      "uploader": "@RTFMurych",
       "uploader_id": "@RTFMurych",
       "uploader_url": "https://www.youtube.com/@RTFMurych",
       "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
-      "view_count": null
+      "view_count": 93,
+      "webpage_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaubV_l5QWJFdsT0to1s3IM",
+      "webpage_url_basename": "playlist",
+      "webpage_url_domain": "youtube.com"
     },
     {
+      "__files_to_move": {},
       "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "Playlist",
+      "_type": "playlist",
+      "_version": {
+        "current_git_head": null,
+        "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+        "repository": "yt-dlp/yt-dlp",
+        "version": "2026.08.19"
+      },
+      "availability": "public",
+      "channel": "@RTFMurych",
+      "channel_follower_count": null,
       "channel_id": "UC3NVT782r84UDLdx9JXtbow",
       "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
       "creators": null,
+      "description": "Мурыч вкратце — о сфере ИТ и программировании в частности",
       "display_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
       "duration": null,
+      "entries": [
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "@RTFMurych",
+          "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+          "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+          "creators": null,
+          "duration": 162,
+          "id": "bv1L3L_MyKU",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/bv1L3L_MyKU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgZigsMA8=&rs=AOn4CLCPwaVNwOEDAi2toh4QGY48VHJPxQ",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/bv1L3L_MyKU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgZigsMA8=&rs=AOn4CLDYDueyVT5OcYXCEb4J28_aMNFtDg",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/bv1L3L_MyKU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGYoLDAP&rs=AOn4CLDynxwHCQ5bqtOMkzG_1nW4A3qBTA",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/bv1L3L_MyKU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGYoLDAP&rs=AOn4CLB5cX2qU5ZjX7JY09V-4rdIWwM1mw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "10.23 ⎡point⎦ - google",
+          "uploader": "@RTFMurych",
+          "uploader_id": "@RTFMurych",
+          "uploader_url": "https://www.youtube.com/@RTFMurych",
+          "url": "https://www.youtube.com/watch?v=bv1L3L_MyKU",
+          "view_count": 3
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "@RTFMurych",
+          "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+          "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+          "creators": null,
+          "duration": 71,
+          "id": "gdCkBLgRAd4",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALl1u3AOZ6MSL33SU5C8yXsvHz7g",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3YGCVpSh-apL9pkhIzriiibgJIg",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn5hHPCdPrW-lfCMpVUfC-gBnaZQ",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZ35R9yJyD0fA5tQ3EXa6-gym2gA",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "10.23 ⎡point⎦ - random people",
+          "uploader": "@RTFMurych",
+          "uploader_id": "@RTFMurych",
+          "uploader_url": "https://www.youtube.com/@RTFMurych",
+          "url": "https://www.youtube.com/watch?v=gdCkBLgRAd4",
+          "view_count": 88
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "@RTFMurych",
+          "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+          "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+          "creators": null,
+          "duration": 251,
+          "id": "OEycbcCfJXs",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCK6fq9gWIiKojrQCHEP8rdbw-KgQ",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZzhP30I4_zP3FEYtG7-IUbSkEYg",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1zJDY6K29BlF7k59ZUTu8YayfBQ",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/OEycbcCfJXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRZROfWhhXbCyUyoSMdK_zSGVdDA",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "12.23 ⎡talks:13-3⎦ — Как учиться по Мурычу?",
+          "uploader": "@RTFMurych",
+          "uploader_id": "@RTFMurych",
+          "uploader_url": "https://www.youtube.com/@RTFMurych",
+          "url": "https://www.youtube.com/watch?v=OEycbcCfJXs",
+          "view_count": 63
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "@RTFMurych",
+          "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+          "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+          "creators": null,
+          "duration": 122,
+          "id": "o5gJuIql9-Q",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgZSgoMA8=&rs=AOn4CLAzgAhn9zwxsUjjTIXpLD4ACY2oog",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgZSgoMA8=&rs=AOn4CLAf6aIYqw-f5Mu7hABsqWXPtQ-eAQ",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGUoKDAP&rs=AOn4CLAnR0lRtr25pdz77QANyLLh9OqGxg",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/o5gJuIql9-Q/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIGUoKDAP&rs=AOn4CLDyciej4RADZSExSsk4B2gG0EJQkA",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "10.23 ⎡JSbook: 03.02⎦ - Машинерия спецификации",
+          "uploader": "@RTFMurych",
+          "uploader_id": "@RTFMurych",
+          "uploader_url": "https://www.youtube.com/@RTFMurych",
+          "url": "https://www.youtube.com/watch?v=o5gJuIql9-Q",
+          "view_count": 24
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "@RTFMurych",
+          "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+          "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+          "creators": null,
+          "duration": 16,
+          "id": "L_F0kdfyF8k",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7lnxiASm-WXWIjOjYQcpt-W0r1A",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDogILTduHUqCWxRWNgMe2jgtuqpw",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7wpUoNI6hqkRd1VCPyd9trwr10Q",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/L_F0kdfyF8k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd-gLv418k75rlN_P4v9HU8wsi1w",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "03.25 ⎡interview⎦ — социально одобряемый ответ",
+          "uploader": "@RTFMurych",
+          "uploader_id": "@RTFMurych",
+          "uploader_url": "https://www.youtube.com/@RTFMurych",
+          "url": "https://www.youtube.com/watch?v=L_F0kdfyF8k",
+          "view_count": 20
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "@RTFMurych",
+          "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+          "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+          "creators": null,
+          "duration": 96,
+          "id": "9YitjRyHu1Q",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-qo15MNbygo30INhn7_d3Ewsk7w",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBt30Vl-xz6PaXf88bKJ90OO4oCLQ",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc6EZOIqD8007Yb7hdkFTe7QThhQ",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/9YitjRyHu1Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5hC5Br1zuQs2t3eZIv2m-faaUUg",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "03.25 ⎡interview⎦ — круговорот сеньоров в ИТ",
+          "uploader": "@RTFMurych",
+          "uploader_id": "@RTFMurych",
+          "uploader_url": "https://www.youtube.com/@RTFMurych",
+          "url": "https://www.youtube.com/watch?v=9YitjRyHu1Q",
+          "view_count": 28
+        }
+      ],
+      "epoch": 1791668438,
+      "extractor": "youtube:tab",
+      "extractor_key": "YoutubeTab",
       "id": "PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
       "ie_key": "YoutubeTab",
       "live_status": null,
+      "modified_date": "20250321",
+      "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+      "playlist_count": 6,
+      "release_year": null,
+      "tags": [],
       "thumbnails": [
         {
-          "height": 270,
-          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmC-rGRs0CWMrYTaLm3qaZqZyspQ",
-          "width": 480
+          "height": 94,
+          "id": "0",
+          "resolution": "168x94",
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDtE2ZRHocKujI6XagWHS0Z2OOyXA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "id": "1",
+          "resolution": "196x110",
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCakFkVd6IHF0lc_62LVf10D9Ka5A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "id": "2",
+          "resolution": "246x138",
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAzMkjDR5ydswK1sCBsaYjHjtFviQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "id": "3",
+          "resolution": "336x188",
+          "url": "https://i.ytimg.com/vi/gdCkBLgRAd4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDMFl3aFikq44hh_SakWAKa8P42YA",
+          "width": 336
         }
       ],
       "timestamp": null,
       "title": "⎡point⎦ - engineering & business",
-      "uploader": "Playlist",
+      "uploader": "@RTFMurych",
       "uploader_id": "@RTFMurych",
       "uploader_url": "https://www.youtube.com/@RTFMurych",
       "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
-      "view_count": null
+      "view_count": 5,
+      "webpage_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNZx07683uHGsVzAeWwwQAwX",
+      "webpage_url_basename": "playlist",
+      "webpage_url_domain": "youtube.com"
     },
     {
+      "__files_to_move": {},
       "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "Playlist",
+      "_type": "playlist",
+      "_version": {
+        "current_git_head": null,
+        "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+        "repository": "yt-dlp/yt-dlp",
+        "version": "2026.08.19"
+      },
+      "availability": "public",
+      "channel": "@RTFMurych",
+      "channel_follower_count": null,
       "channel_id": "UC3NVT782r84UDLdx9JXtbow",
       "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
       "creators": null,
+      "description": "Мурыч рекомендует:",
       "display_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
       "duration": null,
+      "entries": [
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "SPC",
+          "channel_id": "UC6Jli3lX-oOFYh4wNF9rXFA",
+          "channel_url": "https://www.youtube.com/channel/UC6Jli3lX-oOFYh4wNF9rXFA",
+          "creators": null,
+          "duration": 4292,
+          "id": "4Hhogj6NjbE",
+          "ie_key": "Youtube",
+          "live_status": "was_live",
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/4Hhogj6NjbE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVShPMA8=&rs=AOn4CLBL-Wjqng3mETQoVRy84_tO3f6vLw",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/4Hhogj6NjbE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVShPMA8=&rs=AOn4CLAl50Fm-k4zxSNvlHUDPK_QwEpxwQ",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/4Hhogj6NjbE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFUoTzAP&rs=AOn4CLCVNZsL69Fn6Lw49HnivuMAT0FfZA",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/4Hhogj6NjbE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFUoTzAP&rs=AOn4CLCUaw7IHglxkjiMqblcd4zZuQwZyA",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "[Клуб \"Думай!\"] Кто такой программист?",
+          "uploader": "SPC",
+          "uploader_id": "@SciProgCentre",
+          "uploader_url": "https://www.youtube.com/@SciProgCentre",
+          "url": "https://www.youtube.com/watch?v=4Hhogj6NjbE",
+          "view_count": 608
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "Mobile Channel",
+          "channel_id": "UCP8MtCo2ZcrJc7_Zhcjym9g",
+          "channel_url": "https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g",
+          "creators": null,
+          "duration": 3107,
+          "id": "mmvHC3UgYmg",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/mmvHC3UgYmg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDs9xNhKbH69e-4jFB2HquD_e8GeQ",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/mmvHC3UgYmg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBE3kIIn1YTGrMkNg3H8GMKd9cTHA",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/mmvHC3UgYmg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWKsUTD6DM1tWiBFl2dO0fk0RRSA",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/mmvHC3UgYmg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTcs8ddD8vASxdp3qarZPeTZ4VJw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Stop Bothering Me with Your Functional Programming / Vitaly Bragilevsky",
+          "uploader": "Mobile Channel",
+          "uploader_id": "@MobileChannelRussia",
+          "uploader_url": "https://www.youtube.com/@MobileChannelRussia",
+          "url": "https://www.youtube.com/watch?v=mmvHC3UgYmg",
+          "view_count": 38000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "TverIO",
+          "channel_id": "UCl5UjDgC4_SOjiLnIRznkEg",
+          "channel_url": "https://www.youtube.com/channel/UCl5UjDgC4_SOjiLnIRznkEg",
+          "creators": null,
+          "duration": 2859,
+          "id": "IkXg_mjNgG4",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnZNir5OERsG2mn0PxYaXBGuLSeg",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJojdKmW3hKLJA2QZpYw28a6pvig",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCehYrosZmoRyBWxOrhZjAUo49x9w",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANN4o3gmf5LXhl45aHStMmWR25yg",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Виталий Брагилевский — Монады - не приговор",
+          "uploader": "TverIO",
+          "uploader_id": "@TverIO",
+          "uploader_url": "https://www.youtube.com/@TverIO",
+          "url": "https://www.youtube.com/watch?v=IkXg_mjNgG4",
+          "view_count": 28000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "Мы обречены",
+          "channel_id": "UCUSbYJK87rpBUJ5KGQd7oHA",
+          "channel_url": "https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA",
+          "creators": null,
+          "duration": 6921,
+          "id": "Fm4kcaqOvm4",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/Fm4kcaqOvm4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUT-8PYNKIX5gtApKB-pVMxWFc4g",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/Fm4kcaqOvm4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWZ4x7AI2QpdIEut1K7gEHeVjBWg",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/Fm4kcaqOvm4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuaJPjVMQtQzmUbcbwno-RPcvf8w",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/Fm4kcaqOvm4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd-UVf3sQYZJWeOlc5NFCZ91FOPw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Vitaly Bragilevsky — teaching, reading, sitting — We’re Doomed #20",
+          "uploader": "Мы обречены",
+          "uploader_id": "@myobrecheny",
+          "uploader_url": "https://www.youtube.com/@myobrecheny",
+          "url": "https://www.youtube.com/watch?v=Fm4kcaqOvm4",
+          "view_count": 25000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "HolyJS — конференция для JavaScript‑разработчиков",
+          "channel_id": "UC2Jwo4Q0s-ucjGseHP8XUSQ",
+          "channel_url": "https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ",
+          "creators": null,
+          "duration": 3866,
+          "id": "T66wMYbtfNA",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/T66wMYbtfNA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCb4hN1jOGXRcFVeJr9Ci7axIHx7g",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/T66wMYbtfNA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDQYcivr5v92p0m4PyZJgOKj7OQJQ",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/T66wMYbtfNA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbxVXZ3fe7rOcfL0JOOVWqgasyiw",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/T66wMYbtfNA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnc3xd7vHNY64gvGM_bdGYQSeaJA",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Виталий Брагилевский — JavaScript на службе у теоретической информатики",
+          "uploader": "HolyJS — конференция для JavaScript‑разработчиков",
+          "uploader_id": "@HolyJS",
+          "uploader_url": "https://www.youtube.com/@HolyJS",
+          "url": "https://www.youtube.com/watch?v=T66wMYbtfNA",
+          "view_count": 10000
+        }
+      ],
+      "epoch": 1791668439,
+      "extractor": "youtube:tab",
+      "extractor_key": "YoutubeTab",
       "id": "PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
       "ie_key": "YoutubeTab",
       "live_status": null,
+      "modified_date": "20250902",
+      "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+      "playlist_count": 5,
+      "release_year": null,
+      "tags": [],
       "thumbnails": [
         {
-          "height": 270,
-          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCelafcfWZk8nEO4TZKc-2miW-IqQ",
-          "width": 480
+          "height": 94,
+          "id": "0",
+          "resolution": "168x94",
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBFYJGjE9lrqsM3V6wPyTefWeLTsw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "id": "1",
+          "resolution": "196x110",
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDNdSZplG1uTXk0T-Vu0Oh_RmYqsA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "id": "2",
+          "resolution": "246x138",
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBlbg3fAxRxg7gSBQUVRa8Buy7nAw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "id": "3",
+          "resolution": "336x188",
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNzYRyHuG4k_bntTrGFh269gN4-A",
+          "width": 336
         }
       ],
       "timestamp": null,
       "title": "~recommend~",
-      "uploader": "Playlist",
+      "uploader": "@RTFMurych",
       "uploader_id": "@RTFMurych",
       "uploader_url": "https://www.youtube.com/@RTFMurych",
       "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
-      "view_count": null
+      "view_count": 0,
+      "webpage_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+      "webpage_url_basename": "playlist",
+      "webpage_url_domain": "youtube.com"
     },
     {
+      "__files_to_move": {},
       "__x_forwarded_for_ip": null,
-      "_type": "url",
-      "availability": null,
-      "channel": "Playlist",
+      "_type": "playlist",
+      "_version": {
+        "current_git_head": null,
+        "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+        "repository": "yt-dlp/yt-dlp",
+        "version": "2026.08.19"
+      },
+      "availability": "public",
+      "channel": "@RTFMurych",
+      "channel_follower_count": null,
       "channel_id": "UC3NVT782r84UDLdx9JXtbow",
       "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
       "creators": null,
+      "description": "Мурыч в пустыне:",
       "display_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
       "duration": null,
+      "entries": [
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "IT-KAMASUTRA",
+          "channel_id": "UCTW0FUhT0m-Bqg2trTbSs0g",
+          "channel_url": "https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g",
+          "creators": null,
+          "duration": 12011,
+          "id": "WgYGNhzJP-8",
+          "ie_key": "Youtube",
+          "live_status": "was_live",
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVK4pIleFgA0XeJssWhKHOwfytIg",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCC_q2alDs2PGMsoiAsfhpVpRDQyg",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9xYnXcFvym3t3z7-0JbFJRBd_tA",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3utnJjmgZ1QViwcV3n01CxsBXdg",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Demi Murych, История Мурыча, главные заблуждения JS-пропагандистов. JS под капотом! 18+",
+          "uploader": "IT-KAMASUTRA",
+          "uploader_id": "@ITKAMASUTRA",
+          "uploader_url": "https://www.youtube.com/@ITKAMASUTRA",
+          "url": "https://www.youtube.com/watch?v=WgYGNhzJP-8",
+          "view_count": 65000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "Honey Montana",
+          "channel_id": "UCzP3WZ0CNBr0ePiNXsDq4bA",
+          "channel_url": "https://www.youtube.com/channel/UCzP3WZ0CNBr0ePiNXsDq4bA",
+          "creators": null,
+          "duration": 9557,
+          "id": "rpaLYvtvVQs",
+          "ie_key": "Youtube",
+          "live_status": null,
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/rpaLYvtvVQs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDQItIGtz-B2A2NFz6Et_a2yjoquQ",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/rpaLYvtvVQs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBz8nSCwx08O_71P7riirayFdv8MQ",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/rpaLYvtvVQs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCKDfV-I9PAAViOw8TH9UJQL4tnQ",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/rpaLYvtvVQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8rN4xmE-dgVSCcpFpARf4KbjCtg",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "ВСЕ ПРО КОМПЬЮТЕРНЫЕ ВИРУСЫ / ХАКЕР СО СТАЖЕМ — Demi Murych",
+          "uploader": "Honey Montana",
+          "uploader_id": "@hhoneymontana",
+          "uploader_url": "https://www.youtube.com/@hhoneymontana",
+          "url": "https://www.youtube.com/watch?v=rpaLYvtvVQs",
+          "view_count": 349000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "kirjs",
+          "channel_id": "UC4CdLjCS1tzPldyF50UwsZA",
+          "channel_url": "https://www.youtube.com/channel/UC4CdLjCS1tzPldyF50UwsZA",
+          "creators": null,
+          "duration": 12113,
+          "id": "7je1ygc9Gew",
+          "ie_key": "Youtube",
+          "live_status": "was_live",
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/7je1ygc9Gew/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPX2HF7Mm_IsNkrzIhM5SLUc7m2Q",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/7je1ygc9Gew/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmLtl71EFQ6BzboGKoEvR4QfC4XA",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/7je1ygc9Gew/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD30aRW8w8V3Y1Xh9Z0o8BnJr5uNQ",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/7je1ygc9Gew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3-UtOrtlOs4k2_mvbTIk1D6Hu3w",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Семантическая верстка с @demimurych",
+          "uploader": "kirjs",
+          "uploader_id": "@kirjs",
+          "uploader_url": "https://www.youtube.com/@kirjs",
+          "url": "https://www.youtube.com/watch?v=7je1ygc9Gew",
+          "view_count": 61000
+        },
+        {
+          "__x_forwarded_for_ip": null,
+          "_type": "url",
+          "availability": null,
+          "channel": "As For JS",
+          "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+          "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+          "creators": null,
+          "duration": 14675,
+          "id": "LJJpbFcmKQs",
+          "ie_key": "Youtube",
+          "live_status": "was_live",
+          "thumbnails": [
+            {
+              "height": 94,
+              "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXGbgs_jXqLcjJOEXWYNpSy1O1bQ",
+              "width": 168
+            },
+            {
+              "height": 110,
+              "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmnW_d6a-TXSeZDkEgJ7ewW6x7_Q",
+              "width": 196
+            },
+            {
+              "height": 138,
+              "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm4xUIM9u3cSOjF-IKrGvp2WYQ-w",
+              "width": 246
+            },
+            {
+              "height": 188,
+              "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrOgrVYos4YhdG7mrmPktRg0-UOw",
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "title": "Беседа с Тимуром Шемсединовым о переосмыслении паттернов GRASP, SOLID, GoF в JavaScript",
+          "uploader": "As For JS",
+          "uploader_id": "@AsForJS",
+          "uploader_url": "https://www.youtube.com/@AsForJS",
+          "url": "https://www.youtube.com/watch?v=LJJpbFcmKQs",
+          "view_count": 19000
+        }
+      ],
+      "epoch": 1791668439,
+      "extractor": "youtube:tab",
+      "extractor_key": "YoutubeTab",
       "id": "PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
       "ie_key": "YoutubeTab",
       "live_status": null,
+      "modified_date": "20240809",
+      "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+      "playlist_count": 4,
+      "release_year": null,
+      "tags": [],
       "thumbnails": [
         {
-          "height": 270,
-          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmyxfBFfhqhDUAE3AdwqHGEsHhEQ",
-          "width": 480
+          "height": 94,
+          "id": "0",
+          "resolution": "168x94",
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCVMt-1iOD6-lk5cYDAEDWQYffI1w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "id": "1",
+          "resolution": "196x110",
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLATKGGpsax6O0AplHmBIuk4ybMGdA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "id": "2",
+          "resolution": "246x138",
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAYm0NygnLLtHsQK_q34uvkC33C5g",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "id": "3",
+          "resolution": "336x188",
+          "url": "https://i.ytimg.com/vi/WgYGNhzJP-8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKXDCI1tKfivqh1bOdGsdiozW5Lw",
+          "width": 336
         }
       ],
       "timestamp": null,
       "title": "~guest~",
-      "uploader": "Playlist",
+      "uploader": "@RTFMurych",
       "uploader_id": "@RTFMurych",
       "uploader_url": "https://www.youtube.com/@RTFMurych",
       "url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
-      "view_count": null
+      "view_count": 3,
+      "webpage_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaUICeZC0jRRPpVzj6-oCmh",
+      "webpage_url_basename": "playlist",
+      "webpage_url_domain": "youtube.com"
     }
   ],
   "tab": "playlists",
