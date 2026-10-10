@@ -1,0 +1,47 @@
+name: Тестовый сбор YouTube
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_detail_limit:
+        description: Максимум уникальных видео для подробных метаданных на канал
+        required: true
+        default: 5
+        type: number
+      download_media:
+        description: Скачать миниатюры
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Получить файлы репозитория
+        uses: actions/checkout@v4
+      - name: Подготовить Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Установить инструменты
+        run: python -m pip install --upgrade yt-dlp Jinja2
+      - name: Выполнить ограниченный тестовый сбор
+        run: |
+          mkdir -p "$RUNNER_TEMP/ytbd-test/channels" "$RUNNER_TEMP/ytbd-test/output"
+          args=(--template full.md --test-detail-limit "${{ inputs.test_detail_limit }}" --data "$RUNNER_TEMP/ytbd-test/channels" --output "$RUNNER_TEMP/ytbd-test/output")
+          if [[ "${{ inputs.download_media }}" == "true" ]]; then args+=(--download-media); fi
+          python scripts/process_channels.py "${args[@]}"
+      - name: Сохранить результаты теста
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ytbd-test-collection-${{ github.run_id }}
+          path: |
+            ${{ runner.temp }}/ytbd-test/channels/
+            ${{ runner.temp }}/ytbd-test/output/
+          if-no-files-found: warn
+          retention-days: 7
