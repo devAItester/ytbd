@@ -11,7 +11,7 @@
 
 Архив: **{{ section.archive_count|e }}** · Сейчас в источнике: **{{ section.current_count|e }}**
 
-{% for item in section.items %}
+{% for item in section["items"] %}
 <details>
 <summary>{% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %} · ID: {{ item.id|e }}</summary>
 
