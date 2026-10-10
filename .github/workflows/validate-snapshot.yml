@@ -51,7 +51,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - name: Установить библиотеку шаблонов
-        run: python -m pip install --upgrade Jinja2
-      - name: Проверить навигацию публичного канала
-        run: python -c "from scripts.process_channels import discover_tabs; print(discover_tabs('https://www.youtube.com/@RTFMurych'))"
+      - name: Установить инструменты сбора и шаблонов
+        run: python -m pip install --upgrade yt-dlp Jinja2
+      - name: Проверить живой сбор и сформированный Markdown
+        run: python scripts/smoke_live.py
