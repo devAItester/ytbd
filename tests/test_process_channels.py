@@ -176,7 +176,7 @@ class ArchiveTests(unittest.TestCase):
             templates.mkdir()
             (templates / "outline.md").write_text(
                 "<h1>{{ title }}</h1>{% for section in sections %}"
-                "<details><summary>{{ section.title }}</summary>"
+                "<details><summary>{{ section.title }}</summary>{% if section.collection_error %}сохранённый архив может быть устаревшим{% endif %}"
                 "{% for item in section[\"items\"] %}<a href=\"{{ item.display_url }}\">{{ item.title }}</a>"
                 "{% endfor %}</details>{% endfor %}"
                 "{% for error in errors %}<p>{{ error }}</p>{% endfor %}",
