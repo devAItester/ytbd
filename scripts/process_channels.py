@@ -319,7 +319,7 @@ def collect_video_details(
                     if playlist_diagnostic:
                         log_path = channel_dir / "logs" / "playlist-details.txt"
                         log_path.parent.mkdir(parents=True, exist_ok=True)
-                        log_path.write_text(playlist_diagnostic + "\\n", encoding="utf-8")
+                        log_path.write_text(playlist_diagnostic + "\n", encoding="utf-8")
                     continue
                 save_raw_snapshot(channel_dir / "raw" / "playlist-details", playlist_id, playlist_data)
                 item.update(playlist_data)
