@@ -12,6 +12,7 @@ on:
           - outline.md
           - archive.md
           - index.md
+          - full.md
 
 permissions:
   contents: write
