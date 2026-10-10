@@ -14,7 +14,7 @@ on:
           - index.md
           - full.md
       detail_limit:
-        description: Число уникальных видео для подробной проверки; 0 означает все видео
+        description: Число видео для подробной проверки и элементов на каждый плейлист; 0 означает все
         required: true
         default: 5
         type: number
