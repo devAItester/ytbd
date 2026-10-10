@@ -197,7 +197,9 @@ def fetch_video_details(url: str, media_dir: Path | None = None) -> tuple[dict |
     except json.JSONDecodeError as exc:
         return None, f"Некорректный JSON видео: {exc}", diagnostic
     if not isinstance(payload, dict) or not payload.get("id"):
-        return None, "yt-dlp вернул объект без ID видео.", diagnostic
+        keys = ", ".join(sorted(str(key) for key in payload)[:20]) if isinstance(payload, dict) else type(payload).__name__
+        kind = payload.get("_type", "") if isinstance(payload, dict) else ""
+        return None, f"yt-dlp вернул объект без ID видео (type={kind!r}; keys={keys}).", diagnostic
     if result.returncode != 0:
         return None, diagnostic or f"yt-dlp завершился с кодом {result.returncode}.", diagnostic
     return payload, None, diagnostic
@@ -322,7 +324,7 @@ def collect_video_details(
             continue
 
         source_item = items[0]
-        url = str(source_item.get("webpage_url") or source_item.get("display_url") or "")
+        url = str(source_item.get("display_url") or source_item.get("webpage_url") or "")
         if not url:
             url = f"https://www.youtube.com/watch?v={video_id}"
         metadata, error, diagnostic = fetch_video_details(url)
