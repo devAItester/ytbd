@@ -26,9 +26,11 @@ def copy_evidence(temp: Path, artifacts: Path | None, template_name: str) -> Non
         ("data/RTFMurych/status.json", destination / "status.json"),
         ("data/RTFMurych/tabs.json", destination / "tabs.json"),
         ("data/RTFMurych/archive", destination / "archive"),
+        ("data/RTFMurych/raw/video-details", destination / "raw/video-details"),
     ):
         source = temp / name
         if source.is_dir():
+            target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copytree(source, target, dirs_exist_ok=True)
         elif source.is_file():
             target.parent.mkdir(parents=True, exist_ok=True)
@@ -105,6 +107,8 @@ def main() -> int:
                 "--data", str(data_root),
                 "--output", str(output_root),
             ]
+            if template_name == "full.md":
+                command.extend(["--detail-limit", "3", "--download-media"])
             result = subprocess.run(
                 command, cwd=ROOT, capture_output=True, text=True, check=False
             )
@@ -137,6 +141,15 @@ def main() -> int:
                 f"{template_name}: {message}"
                 for message in check_output(template_name, output, tabs)
             )
+            if template_name == "full.md":
+                detail_dir = data_root / "RTFMurych" / "raw" / "video-details"
+                detailed = list(detail_dir.glob("*.json")) if detail_dir.is_dir() else []
+                if not detailed:
+                    failures.append("full.md: подробный JSON ни одного видео не сохранён")
+                if "--detail-limit" not in command or "Локальные файлы" not in output:
+                    failures.append("full.md: параметры подробного сбора или раздел локальных файлов отсутствуют")
+                if not (output_root / "RTFMurych" / "media" / "videos").is_dir():
+                    failures.append("full.md: каталог локальных материалов не создан")
             print(
                 f"Проверен {template_name}: вкладки "
                 f"{[tab['key'] for tab in tabs]}; "
@@ -149,7 +162,7 @@ def main() -> int:
             print(f"- {failure}", file=sys.stderr)
         return 1
 
-    print("УСПЕХ: все четыре шаблона прошли live-сбор и структурную проверку Markdown.")
+    print("УСПЕХ: все четыре шаблона прошли live-сбор; full.md дополнительно проверил подробные метаданные трёх видео и локальные материалы.")
     return 0
 
 
