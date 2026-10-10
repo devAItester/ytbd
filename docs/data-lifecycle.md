@@ -9,9 +9,9 @@
 ```text
 config/channels.txt
 templates/
-  outline.html
-  archive.html
-  index.html
+  outline.md
+  archive.md
+  index.md
 data/
   channels/<handle>/
     channel.json
@@ -29,7 +29,7 @@ data/
       playlists.json
     status.json
     logs/
-  output/<handle>/<template>.html
+  output/<handle>/<template>.md
 ```
 
 - **channel.json** — последний успешно полученный ответ с метаданными канала.
@@ -38,7 +38,7 @@ data/
 - **archive/** — накопленные записи каждой вкладки. Новые записи добавляются, совпадающие идентификаторы обновляются, отсутствующие в текущем списке записи сохраняются.
 - **status.json** — время проверки, статус каналов и вкладок, счётчики и ошибки.
 - **logs/** — диагностика неудачных сетевых запросов, если она была получена.
-- **data/output/** — HTML, сформированный выбранным шаблоном из локального архива.
+- **data/output/** — Markdown, сформированный выбранным шаблоном из локального архива.
 
 ## Последовательность одного запуска
 
