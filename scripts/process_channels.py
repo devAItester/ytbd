@@ -749,7 +749,7 @@ def main(argv: list[str] | None = None) -> int:
         try:
             process_channel(
                 url, args.template, args.templates, args.data, args.output,
-                detail_limit=args.detail_limit, download_media=args.download_media,
+                detail_limit=args.test_detail_limit, download_media=args.download_media,
                 cookies_file=args.cookies, cookies_from_browser=args.cookies_from_browser,
             )
         except (OSError, ValueError, RuntimeError) as exc:
