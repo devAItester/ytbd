@@ -61,7 +61,7 @@ class TemplateTests(unittest.TestCase):
         templates_dir = Path(__file__).resolve().parents[1] / "templates"
         env = Environment(
             loader=FileSystemLoader(str(templates_dir)),
-            autoescape=select_autoescape(enabled_extensions=("html", "htm", "xml", "md")),
+            autoescape=select_autoescape(enabled_extensions=("html", "htm", "xml")),
             trim_blocks=True,
             lstrip_blocks=True,
         )
