@@ -13,6 +13,16 @@ on:
           - archive.md
           - index.md
           - full.md
+      detail_limit:
+        description: Число уникальных видео для подробной проверки; 0 означает все видео
+        required: true
+        default: 5
+        type: number
+      download_media:
+        description: Сохранить обложки, субтитры и текстовые транскрипты (без видеофайлов)
+        required: true
+        default: true
+        type: boolean
 
 permissions:
   contents: write
@@ -30,7 +40,12 @@ jobs:
       - name: Установить инструменты сбора и шаблонов
         run: python -m pip install --upgrade yt-dlp Jinja2
       - name: Проверить каналы и обновить архив
-        run: python scripts/process_channels.py --template "${{ inputs.template }}"
+        run: |
+          args=(--template "${{ inputs.template }}" --detail-limit "${{ inputs.detail_limit }}")
+          if [[ "${{ inputs.download_media }}" == "true" ]]; then
+            args+=(--download-media)
+          fi
+          python scripts/process_channels.py "${args[@]}"
       - name: Сохранить исходные данные и Markdown
         run: |
           git config user.name "github-actions[bot]"
