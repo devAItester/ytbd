@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Инкрементальный сбор публичных метаданных YouTube и вывод через HTML-шаблоны."""
+"""Инкрементальный сбор публичных метаданных YouTube и вывод через Markdown-шаблоны."""
 from __future__ import annotations
 
 import argparse
@@ -287,7 +287,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         lstrip_blocks=True,
     )
     template = env.get_template(template_name)
-    html = template.render(
+    rendered = template.render(
         title=title,
         channel_url=url,
         channel_id=channel_id,
@@ -298,19 +298,19 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     )
     output_path = output_root / handle / (Path(template_name).stem + ".md")
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    if not output_path.exists() or output_path.read_text(encoding="utf-8") != html:
-        output_path.write_text(html, encoding="utf-8")
+    if not output_path.exists() or output_path.read_text(encoding="utf-8") != rendered:
+        output_path.write_text(rendered, encoding="utf-8")
     print(f"{'УСПЕХ' if not errors else 'ЧАСТИЧНО'}: {url} -> {output_path}; ошибок: {len(errors)}")
     return status_ok, errors
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Обновить YouTube-архив и сформировать HTML из шаблона.")
+    parser = argparse.ArgumentParser(description="Обновить YouTube-архив и сформировать Markdown из шаблона.")
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT, help="Файл со списком URL каналов")
-    parser.add_argument("--template", default="outline.md", help="Имя HTML-шаблона из templates/")
-    parser.add_argument("--templates", type=Path, default=DEFAULT_TEMPLATES, help="Каталог HTML-шаблонов")
+    parser.add_argument("--template", default="outline.md", help="Имя Markdown-шаблона из templates/")
+    parser.add_argument("--templates", type=Path, default=DEFAULT_TEMPLATES, help="Каталог Markdown-шаблонов")
     parser.add_argument("--data", type=Path, default=DEFAULT_DATA, help="Каталог сырых данных и архива")
-    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Каталог HTML-результатов")
+    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Каталог Markdown-результатов")
     args = parser.parse_args(argv)
 
     if shutil.which("yt-dlp") is None:
