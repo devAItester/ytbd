@@ -1,4 +1,5 @@
 import io
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -68,6 +69,12 @@ class ChannelInputTests(unittest.TestCase):
         with patch("scripts.process_channels.urlopen", return_value=io.BytesIO(html)):
             tabs = discover_tabs("https://www.youtube.com/@Example")
         self.assertEqual([tab[0] for tab in tabs], ["videos", "shorts", "playlists"])
+
+    def test_discovers_tabs_embedded_in_initial_data(self):
+        html = b'<script>var ytInitialData = {"url":"/@Example/videos","other":"/@Example/shorts"};</script>'
+        with patch("scripts.process_channels.urlopen", return_value=io.BytesIO(html)):
+            tabs = discover_tabs("https://www.youtube.com/@Example")
+        self.assertEqual([tab[0] for tab in tabs], ["videos", "shorts"])
 
 
 class TemplateTests(unittest.TestCase):
@@ -222,6 +229,9 @@ class ArchiveTests(unittest.TestCase):
                 old_archive,
             )
             self.assertIn("source temporarily unavailable", output_path.read_text(encoding="utf-8"))
+            self.assertIn("сохранённый архив может быть устаревшим", output_path.read_text(encoding="utf-8"))
+            status = json.loads((channel_dir / "status.json").read_text(encoding="utf-8"))
+            self.assertEqual(status["tabs"]["streams"]["status"], "error-or-not-yet-collected")
 
 
 if __name__ == "__main__":
