@@ -548,6 +548,8 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
             channel_dir, output_root / handle, active_tabs, detail_limit, download_media
         )
         errors.extend(detail_errors)
+        status["errors"] = errors
+        write_json_if_changed(channel_dir / "status.json", status)
 
     channel_data = read_json(channel_dir / "channel.json", {})
     title = str(channel_data.get("title") or channel_data.get("channel") or handle)
