@@ -274,13 +274,23 @@ def collect_video_details(
         url = str(source_item.get("webpage_url") or source_item.get("display_url") or "")
         if not url:
             url = f"https://www.youtube.com/watch?v={video_id}"
-        video_dir = local_root / video_folder_name(cached or source_item) if download_media else None
-        metadata, error, diagnostic = fetch_video_details(url, video_dir)
+        metadata, error, diagnostic = fetch_video_details(url)
         processed += 1
+        if metadata is not None and download_media:
+            video_dir = local_root / video_folder_name(metadata)
+            media_metadata, media_error, media_diagnostic = fetch_video_details(url, video_dir)
+            if media_metadata is not None:
+                metadata = media_metadata
+            elif media_error:
+                errors.append(f"video media {video_id}: {media_error}")
+            if media_diagnostic:
+                diagnostic = "\\n".join(value for value in (diagnostic, media_diagnostic) if value)
         if metadata is None:
             errors.append(f"video {video_id}: {error}")
             if diagnostic:
-                write_json_if_changed(channel_dir / "logs" / "video-details.txt", diagnostic + "\\n")
+                log_path = channel_dir / "logs" / "video-details.txt"
+                log_path.parent.mkdir(parents=True, exist_ok=True)
+                log_path.write_text(diagnostic + "\\n", encoding="utf-8")
             if already_detailed:
                 metadata = cached
             else:
@@ -288,7 +298,8 @@ def collect_video_details(
         save_raw_snapshot(details_root, video_id, metadata)
         for item in items:
             item.update(metadata)
-        if download_media and video_dir is not None:
+        if download_media and metadata is not None:
+            video_dir = local_root / video_folder_name(metadata)
             write_json_if_changed(video_dir / "meta.json", metadata)
             subtitle_files = sorted(video_dir.glob("*.srt")) + sorted(video_dir.glob("*.vtt"))
             for subtitle in subtitle_files:
