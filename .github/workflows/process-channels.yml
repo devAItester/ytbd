@@ -6,12 +6,12 @@ on:
       template:
         description: Шаблон HTML для формирования страниц
         required: true
-        default: outline.html
+        default: outline.md
         type: choice
         options:
-          - outline.html
-          - archive.html
-          - index.html
+          - outline.md
+          - archive.md
+          - index.md
 
 permissions:
   contents: write
