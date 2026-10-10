@@ -1,20 +1,20 @@
-# {{ title }}
+# {{ title|e }}
 
-<a href="{{ channel_url }}">Открыть канал на YouTube</a>{% if channel_id %} · ID: {{ channel_id }}{% endif %}
+<a href="{{ channel_url|e }}">Открыть канал на YouTube</a>{% if channel_id %} · ID: {{ channel_id|e }}{% endif %}
 
-_Краткий индекс · проверено: {{ checked_at }}_
+_Краткий индекс · проверено: {{ checked_at|e }}_
 
 {% for section in sections %}
-## {{ section.title }} ({{ section.archive_count }})
+## {{ section.title|e }} ({{ section.archive_count|e }})
 
 {% for item in section.items %}
-- {% if item.display_url %}<a href="{{ item.display_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}{% if item.upload_date %} — {{ item.upload_date }}{% endif %}
+- {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}
 {% endfor %}
 {% endfor %}
 {% if errors %}
 ## Предупреждения
 
 {% for error in errors %}
-- {{ error }}
+- {{ error|e }}
 {% endfor %}
 {% endif %}
