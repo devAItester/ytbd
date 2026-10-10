@@ -209,27 +209,27 @@ def video_folder_name(metadata: dict) -> str:
         date_prefix = datetime.fromtimestamp(timestamp, timezone.utc).strftime("%Y%m%d-%H%M")
     else:
         date_value = str(metadata.get("release_date") or metadata.get("upload_date") or "")
-        date_prefix = f"{date_value[:8]}-0000" if re.fullmatch(r"\\d{8}", date_value[:8]) else "00000000-0000"
+        date_prefix = f"{date_value[:8]}-0000" if re.fullmatch(r"\d{8}", date_value[:8]) else "00000000-0000"
     title = str(metadata.get("title") or metadata.get("id") or "video")
-    slug = re.sub(r"[^\\w.-]+", "-", title, flags=re.UNICODE).strip("._-")[:100].strip("._-")
+    slug = re.sub(r"[^\w.-]+", "-", title, flags=re.UNICODE).strip("._-")[:100].strip("._-")
     return f"{date_prefix}-{slug or metadata.get('id', 'video')}"
 
 
 def subtitle_to_text(source: Path, destination: Path) -> None:
     """Convert an SRT/VTT subtitle file to readable plain text without timestamps."""
     lines = []
-    for line in source.read_text(encoding="utf-8-sig", errors="replace").replace("\\r", "").splitlines():
+    for line in source.read_text(encoding="utf-8-sig", errors="replace").replace("\r", "").splitlines():
         value = line.strip()
-        if not value or value == "WEBVTT" or re.fullmatch(r"\\d+", value):
+        if not value or value == "WEBVTT" or re.fullmatch(r"\d+", value):
             continue
-        if "-->" in value or re.match(r"^(NOTE|STYLE|REGION)\\b", value):
+        if "-->" in value or re.match(r"^(NOTE|STYLE|REGION)\b", value):
             continue
         value = re.sub(r"<[^>]+>", "", value)
-        value = re.sub(r"\\{\\\\[^}]+\\}", "", value).strip()
+        value = re.sub(r"\{\\[^}]+\}", "", value).strip()
         if value:
             lines.append(value)
     if lines:
-        destination.write_text("\\n".join(lines) + "\\n", encoding="utf-8")
+        destination.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def collect_video_details(
@@ -284,13 +284,13 @@ def collect_video_details(
             elif media_error:
                 errors.append(f"video media {video_id}: {media_error}")
             if media_diagnostic:
-                diagnostic = "\\n".join(value for value in (diagnostic, media_diagnostic) if value)
+                diagnostic = "\n".join(value for value in (diagnostic, media_diagnostic) if value)
         if metadata is None:
             errors.append(f"video {video_id}: {error}")
             if diagnostic:
                 log_path = channel_dir / "logs" / "video-details.txt"
                 log_path.parent.mkdir(parents=True, exist_ok=True)
-                log_path.write_text(diagnostic + "\\n", encoding="utf-8")
+                log_path.write_text(diagnostic + "\n", encoding="utf-8")
             if already_detailed:
                 metadata = cached
             else:
