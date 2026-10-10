@@ -12,7 +12,7 @@ _Краткий индекс · проверено: {{ checked_at|e }}_
 {% endif %}
 {% for item in section["items"] %}
 - {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}{{ "\n" }}{% endfor %}
-{% endfor %}
+{{ "\n" }}{% endfor %}
 {% if errors %}
 ## Предупреждения
 
