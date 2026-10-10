@@ -26,6 +26,8 @@ The validator reads `examples/AsForJS/`, checks the four saved tab JSON files an
 - `examples/AsForJS/videos.json`, `streams.json`, `podcasts.json`, `playlists.json`: saved tab snapshots.
 - `examples/AsForJS/tree-data.json`: expanded playlist data from the earlier collection.
 - `examples/AsForJS/collect.py` and `collect.log`: original collector and log.
+- `examples/AsForJS/items/`: per-playlist JSON snapshots and collection logs.
+- `examples/AsForJS/full-data/DjuK8h7-ep8/`: detailed metadata and subtitle/format inventories for one video.
 - `examples/AsForJS/channel-tree-full.md`: generated channel-tree view.
 
 The counts in a saved snapshot are historical, not live channel totals. More source notes and method documentation are in [docs/collection-method.md](docs/collection-method.md), [docs/data-lifecycle.md](docs/data-lifecycle.md), and [docs/tool-evaluation.md](docs/tool-evaluation.md).
