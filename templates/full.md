@@ -19,6 +19,15 @@
 
 ## Разделы канала
 
+{% set channel_local = local_media.get("_channel", {}) %}
+{% if channel_local %}
+## Локальные изображения канала
+
+{% for name, path in channel_local.items() %}
+- **{{ name|e }}:** `{{ path|e }}`
+{% endfor %}
+{% endif %}
+
 {% for section in sections %}
 ## {{ section.title|e }} — {{ section.archive_count }} записей
 
