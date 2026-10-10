@@ -8,7 +8,7 @@ _Краткий индекс · проверено: {{ checked_at|e }}_
 ## {{ section.title|e }} ({{ section.archive_count|e }})
 
 {% for item in section["items"] %}
-- {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}
+- {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}{{ "\n" }}
 {% endfor %}
 {% endfor %}
 {% if errors %}
