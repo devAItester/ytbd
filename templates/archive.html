@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} — архив YouTube</title>
+  <style>
+    body { max-width: 88rem; margin: 2rem auto; padding: 0 1rem; font: 1rem/1.5 system-ui, sans-serif; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0 2rem; }
+    th, td { text-align: left; vertical-align: top; padding: .45rem; border-bottom: 1px solid #bbb; }
+    th { position: sticky; top: 0; background: Canvas; }
+    details { margin: 1rem 0; }
+    summary { cursor: pointer; font-weight: 700; }
+    .muted { color: #666; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>{{ title }} — архив</h1>
+  <p><a href="{{ channel_url }}">Канал на YouTube</a>{% if channel_id %} · ID: {{ channel_id }}{% endif %}</p>
+  <p class="muted">Проверено: {{ checked_at }}. Архив сохраняет ранее найденные записи, даже если они отсутствуют в текущем списке источника.</p>
+</header>
+<main>
+  {% for section in sections %}
+  <details open>
+    <summary>{{ section.title }} — архив: {{ section.archive_count }}, сейчас в источнике: {{ section.current_count }}</summary>
+    <table>
+      <thead><tr><th>Название</th><th>ID</th><th>Дата</th><th>Описание</th></tr></thead>
+      <tbody>
+      {% for item in section.items %}
+        <tr>
+          <td>{% if item.display_url %}<a href="{{ item.display_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</td>
+          <td>{{ item.id }}</td>
+          <td>{{ item.upload_date or item.release_date or "" }}</td>
+          <td>{{ item.description or "" }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </details>
+  {% endfor %}
+</main>
+{% if errors %}
+<section><h2>Предупреждения</h2><p>Ошибки не удаляют ранее сохранённые данные.</p><ul>{% for error in errors %}<li>{{ error }}</li>{% endfor %}</ul></section>
+{% endif %}
+</body>
+</html>
