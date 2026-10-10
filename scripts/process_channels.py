@@ -282,7 +282,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     channel_id = str(channel_data.get("channel_id") or channel_data.get("id") or "")
     env = Environment(
         loader=FileSystemLoader(str(templates_dir)),
-        autoescape=select_autoescape(enabled_extensions=("html", "htm", "xml", "md")),
+        autoescape=select_autoescape(enabled_extensions=("html", "htm", "xml")),
         trim_blocks=True,
         lstrip_blocks=True,
     )
