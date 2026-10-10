@@ -7,9 +7,9 @@
 1. **Добавить адреса каналов** — [открыть `config/channels.txt`](config/channels.txt). Нажми карандаш (Edit), добавь по одному URL на строку и сохрани изменения через Commit changes.
 2. **Выбрать, сколько адресов обработать** — при запуске укажи число последних непустых строк. По умолчанию — **4**. Пустые строки и строки с `#` игнорируются.
 3. **Настроить вид страницы канала** — [редактировать `templates/channel.md`](templates/channel.md). Доступны поля `{{title}}`, `{{url}}`, `{{channel_id}}`, `{{updated_at}}`, `{{item_count}}`, `{{items}}`.
-4. **Создать или обновить каталоги каналов** — [открыть workflow «Обновить представления каналов»](../../actions/workflows/process-channels.yml) и нажать **Run workflow**. Оставь ветку `main`, укажи количество последних строк и запусти workflow.
+4. **Создать или обновить каталоги каналов** — [открыть workflow «Обновить представления каналов»](https://github.com/devAItester/ytbd/actions/workflows/process-channels.yml) и нажать **Run workflow**. Оставь ветку `main`, укажи количество последних строк и запусти workflow.
 5. **Посмотреть результаты** — [каталог `data/channels/`](data/channels/). Для каждого обработанного канала создаются папка, `README.md` по шаблону и `channel.json` с исходными данными.
-6. **Проверить тестовый снимок и логику без сети** — [открыть GitHub Actions](../../actions/workflows/validate-snapshot.yml). Эта проверка не запускает сбор с YouTube.
+6. **Проверить тестовый снимок и логику без сети** — [открыть GitHub Actions](https://github.com/devAItester/ytbd/actions/workflows/validate-snapshot.yml). Эта проверка не запускает сбор с YouTube.
 
 ## Как это работает
 
