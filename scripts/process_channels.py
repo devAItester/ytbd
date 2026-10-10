@@ -175,7 +175,7 @@ def fetch_json(url: str, playlist_items: int = 0) -> tuple[dict | None, str | No
 def fetch_video_details(url: str, media_dir: Path | None = None) -> tuple[dict | None, str | None, str]:
     """Fetch one video's full yt-dlp metadata; optionally save thumbnail and subtitles, never the video."""
     command = [
-        "yt-dlp", "--skip-download", "--no-playlist", "--dump-single-json",
+        "yt-dlp", "--skip-download", "--no-playlist", "--dump-json",
     ]
     if media_dir is not None:
         media_dir.mkdir(parents=True, exist_ok=True)
