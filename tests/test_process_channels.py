@@ -156,7 +156,7 @@ class ArchiveTests(unittest.TestCase):
             (templates / "outline.md").write_text(
                 "<h1>{{ title }}</h1>{% for section in sections %}"
                 "<details><summary>{{ section.title }}</summary>"
-                "{% for item in section.items %}<a href=\"{{ item.display_url }}\">{{ item.title }}</a>"
+                "{% for item in section[\"items\"] %}<a href=\"{{ item.display_url }}\">{{ item.title }}</a>"
                 "{% endfor %}</details>{% endfor %}"
                 "{% for error in errors %}<p>{{ error }}</p>{% endfor %}",
                 encoding="utf-8",
