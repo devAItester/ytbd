@@ -2,7 +2,7 @@
 
 - **Канал:** <a href="https://www.youtube.com/@AsForJS">https://www.youtube.com/@AsForJS</a>
 - **ID канала:** UC8aUxVCtAmBtKXmYdPmzjeA
-- **Проверено:** 2026-10-10 22:08:10 UTC
+- **Проверено:** 2026-10-10 22:50:30 UTC
 
 Это представление показывает JSON-метаданные, фактически сохранённые сборщиком yt-dlp. Структура полей не подменяется схемой YouTube Data API; отсутствующие у источника поля не выдумываются.
 
@@ -90,7 +90,7 @@
             }
           ],
           "timestamp": null,
-          "title": "[Stripped] \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c  Async Function",
+          "title": "[Stripped] Async Function Performance",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=A6zgTaxo3R4",
           "view_count": 4000
@@ -118,7 +118,7 @@
             }
           ],
           "timestamp": null,
-          "title": "[Stripped] \u0422\u0438\u043f String \u0438 \u0435\u0433\u043e \u0434\u0432\u0435 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b. \u0427\u0430\u0441\u0442\u044c 2 \u0438\u0437 3.",
+          "title": "The String Type and Its Two Main Problems. Part 2 of 3.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=IcWSZQEdQMQ",
           "view_count": 1900
@@ -146,7 +146,7 @@
             }
           ],
           "timestamp": null,
-          "title": "[Stripped] \u0422\u0438\u043f String \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 ECMAScript. \u0427\u0430\u0441\u0442\u044c 1 \u0438\u0437 3.",
+          "title": "[Stripped] The String type according to the official ECMAScript specification. Part 1 of 3.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=wCcVWQ9bikg",
           "view_count": 2900
@@ -203,7 +203,7 @@
           "view_count": 12000
         }
       ],
-      "epoch": 1791670091,
+      "epoch": 1791672631,
       "extractor": "youtube:tab",
       "extractor_key": "YoutubeTab",
       "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
@@ -1338,7 +1338,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u0427\u0442\u043e-\u043d\u0438\u0431\u0443\u0434\u044c \u043f\u043e\u043b\u0435\u0437\u043d\u043e\u0435: \u041a\u0440\u0443\u0442\u0438\u043c Google Chrome",
+          "title": "Something Useful: Tweaking Google Chrome",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=8o4QOUvjB1k",
           "view_count": 1500
@@ -2527,7 +2527,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Try to hack My JavaScript: \u041d\u0430\u0439\u0442\u0438 Magic Word",
+          "title": "Try to hack My JavaScript: Find the Magic Word",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=FeLs8aJF2wk",
           "view_count": 1200
@@ -2555,7 +2555,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Try to hack My JavaScript: \u0420\u0435\u0448\u0435\u043d\u0438\u044f \u0434\u043b\u044f readyState",
+          "title": "Try to Hack My JavaScript: Solutions for readyState",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=dsrPYivNgXc",
           "view_count": 2000
@@ -3520,7 +3520,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u0421\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 JavaScript Array \u043c\u0435\u0442\u043e\u0434\u0430 reduce \u0441 for statement",
+          "title": "Comparing the JavaScript Array reduce method with a for statement",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=OkVgzONhpiU",
           "view_count": 5700
@@ -3604,7 +3604,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1dlgs:6\u23a6 \u041f\u0440\u043e \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044e JavaScript \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435",
+          "title": "\u23a1dlgs:6\u23a6 On JavaScript data optimization in the browser",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=JcrguEFkW0k",
           "view_count": 5200
@@ -4187,7 +4187,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1devices:01\u23a6 JavaScript \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b: \u041a\u0430\u043a \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u0441\u0431\u043e\u0440\u043a\u0443 V8",
+          "title": "\u23a1devices:01\u23a6 JavaScript Tools: How to Run a V8 Build",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=0_D2ox_N6hw",
           "view_count": 3300
@@ -4215,7 +4215,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1devices:00\u23a6 JavaScript \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b: \u0447\u0442\u043e \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u0447\u0430\u0442\u044c",
+          "title": "\u23a1devices:00\u23a6 JavaScript Tools: What to Install to Get Started",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=cbuWLCCs1nQ",
           "view_count": 8400
@@ -4635,7 +4635,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1talks: 10\u23a6 \u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435: \u0412\u0441\u0435 \u043e Dart \u0441 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u0415\u0433\u043e\u0440\u043e\u0432 AKA mraleph",
+          "title": "\u23a1talks: 10\u23a6 Let\u0027s watch together: All about Dart with Vyacheslav Egorov AKA mraleph",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=5v32mDS7RjM",
           "view_count": 2100
@@ -5404,7 +5404,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1JSbook: 01.2\u23a6   JavaScript: \u041e\u0442 \u043c\u0438\u0444\u043e\u0432 \u043a \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438. \u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435: \u0434\u043b\u044f \u043a\u043e\u0433\u043e \u044d\u0442\u0430 \u043a\u043d\u0438\u0433\u0430",
+          "title": "\u23a1JSbook: 01.2\u23a6 JavaScript: From Myths to Specification. Introduction: Who Is This Book For?",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=Rk79CNSQuWQ",
           "view_count": 4200
@@ -5432,7 +5432,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1JSbook: 01.1\u23a6   JavaScript: \u041e\u0442 \u043c\u0438\u0444\u043e\u0432 \u043a \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438. \u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435: \u043f\u0440\u043e \u0430\u0432\u0442\u043e\u0440\u0430",
+          "title": "\u23a1JSbook: 01.1\u23a6 JavaScript: From Myths to Specification. Introduction: About the Author",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=rvt2EdYoCq4",
           "view_count": 3800
@@ -5628,7 +5628,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6\u23a1sobes\u23a6\u23a104\u23a6   \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0437\u0430\u0434\u0430\u0447\u0443 JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u043e \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u0438\u0438 \u0442\u0438\u043f\u043e\u0432 - \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435",
+          "title": "\u23a1msk\u23a6\u23a1sobes\u23a6\u23a104\u23a6 Analyzing the JavaScript interview task about type casting - addendum",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=AqWU1ZBPLC4",
           "view_count": 1300
@@ -5679,7 +5679,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6\u23a1sobes\u23a6\u23a103\u23a6   \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0437\u0430\u0434\u0430\u0447\u0443 JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u043e \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u0438\u0438 \u0442\u0438\u043f\u043e\u0432",
+          "title": "[msk][interview][03] Breaking down a JavaScript interview task on type coercion",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=ZzxhnWf4HNc",
           "view_count": 1700
@@ -5837,7 +5837,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6 \u23a1talks\u23a6 JavaScript \u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u043f\u043e \u0441\u0441\u044b\u043b\u043a\u0435 \u0438 \u043f\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044e, \u0447\u0435\u0440\u0435\u0437 \u043f\u0440\u0438\u0437\u043c\u0443 \u0441\u0442\u0430\u0442\u044c\u0438 Dmitry Soshnikov",
+          "title": "[msk] [talks] JavaScript: Pass-by-Reference and Pass-by-Value through the lens of Dmitry Soshniko...",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=GZ0id4HE8ls",
           "view_count": 1900
@@ -6018,7 +6018,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6\u23a104\u23a6 \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c JavaScript \u0438 \u0442\u0438\u043f\u044b \u0434\u0430\u043d\u043d\u044b\u0445: \u0427\u0438\u0441\u043b\u0430 / Number.",
+          "title": "\u23a1msk\u23a6\u23a104\u23a6 JavaScript Performance and Data Types: Numbers / Number.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=YntHgxlmKy4",
           "view_count": 2700
@@ -6046,7 +6046,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6\u23a103\u23a6 \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c JavaScript \"\u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445\" / \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u043e\u0432",
+          "title": "\u23a1msk\u23a6\u23a103\u23a6 Performance of JavaScript \"variables\" / identifiers",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=IvlpOQfKi9U",
           "view_count": 2800
@@ -6209,7 +6209,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6\u23a1RegExp\u23a6\u23a101\u23a6 \u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 5\u0442\u0438 \u043c\u0438\u043d\u0443\u0442\u043a\u0438. \u0418\u043b\u0438 \u0432\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 Regular Epressions",
+          "title": "\u23a1msk\u23a6\u23a1RegExp\u23a6\u23a101\u23a6 Regular 5 Minutes. Or Introduction to Regular Epressions",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=kWBHCtJwCR8",
           "view_count": 2000
@@ -6265,7 +6265,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6 \u041a\u0430\u043a JavaScript - \u043a\u043e\u0434, \u043d\u0430 \u044d\u0442\u0430\u043f\u0435 \u0435\u0433\u043e \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u043a \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044e, \u0432\u043b\u0438\u044f\u0435\u0442 \u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+          "title": "[msk] How JavaScript code impacts performance during the preparation stage for execution",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=VZlhhFDVa24",
           "view_count": 4900
@@ -6367,7 +6367,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6 Review of the video: \"New JavaScript!\"",
+          "title": "\u23a1msk\u23a6 \u041e\u0431\u0437\u043e\u0440 \u043d\u0430 \u0432\u0438\u0434\u0435\u043e: \"\u041d\u043e\u0432\u044b\u0439 JavaScript!\"",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=VvdllDzxYtw",
           "view_count": 3600
@@ -6446,7 +6446,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6 JavaScript Array \u0438 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e",
+          "title": "[msk] JavaScript Arrays and Default Values",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=yxziSZb2Ogg",
           "view_count": 1600
@@ -6520,7 +6520,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6 \u041f\u043e\u0447\u0435\u043c\u0443 \u0432 JavaScript \u043f\u0440\u0438\u0431\u0430\u0432\u0438\u0442\u044c \u0447\u0438\u0441\u043b\u043e \u043a \u043e\u0431\u044c\u0435\u043a\u0442\u0443 - \u044d\u0442\u043e \u043a\u0440\u0443\u0442\u043e, \u0430 \u043d\u0435 \u043e\u0448\u0438\u0431\u043a\u0430 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b",
+          "title": "\u23a1msk\u23a6 Why adding a number to an object in JavaScript is cool, not an architectural flaw",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=wkwgWbIdMrQ",
           "view_count": 4000
@@ -6543,7 +6543,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6 JavaScript JSON \u043a\u0430\u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043f\u0440\u0438\u0435\u043c \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u0445\u043e\u043b\u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u0440\u0442\u0430 JS \u043a\u043e\u0434\u0430.",
+          "title": "[msk] JavaScript JSON as an effective technique for optimizing JS cold starts.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=P3KQkLUvFFw",
           "view_count": 1900
@@ -6566,7 +6566,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u23a1msk\u23a6 JavaScript Destructuring Assignment \u0438\u043b\u0438 \u043d\u0435 \u0432\u0441\u0435 \u0442\u043e \u0437\u043e\u043b\u043e\u0442\u043e \u0447\u0442\u043e \u043a\u043e\u0440\u043e\u0442\u043a\u043e \u043f\u0438\u0448\u0435\u0442\u0441\u044f.",
+          "title": "\u23a1msk\u23a6 JavaScript Destructuring Assignment or not all that is written is gold.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=98mOkxRFHYA",
           "view_count": 2100
@@ -6612,7 +6612,7 @@
             }
           ],
           "timestamp": null,
-          "title": "JavaScript \u0438 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u044b. \u0412 \u0440\u0430\u043c\u043a\u0430\u0445 \u043f\u043e\u0434\u043a\u0430\u0441\u0442\u0430 Tips and Tricks [Msk] [JavaScript \u0448\u043e\u0440\u0442\u044b]",
+          "title": "JavaScript and identifiers. Part of the Tips and Tricks podcast [Msk] [JavaScript shorts]",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=biy50-ssgVQ",
           "view_count": 3300
@@ -6658,7 +6658,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Logical Expression \u0432 javascript.  \u0420\u0430\u0437\u0431\u0435\u0440\u0435\u043c\u0441\u044f \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u0440\u0430\u0445. [RU] [JavaScript \u0448\u043e\u0440\u0442\u044b]",
+          "title": "Logical Expressions in JavaScript. Let\u0027s break them down with examples. [EN] [JavaScript Shorts]",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=aaoZm1yHCxw",
           "view_count": 2700
@@ -6885,7 +6885,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u0421\u0435\u043c\u043d\u0430\u0442\u0438\u0447\u043d\u0430 \u0432\u0435\u0440\u0441\u0442\u043a\u0430 \u0430\u0431\u043e \u0420\u043e\u0437\u0431\u0456\u0440 \u0432\u0456\u0434\u0435\u043e \u0434\u0435 \u0447\u043e\u043b\u043e\u0432\u0456\u043a \u0456 \u0433\u0430\u0434\u043a\u0438 \u043d\u0435 \u043c\u0430\u0454 \u043f\u0440\u043e \u0442\u0435 \u0449\u043e \u043a\u0430\u0436\u0435",
+          "title": "Semantic layout or A breakdown of a video where a man has no idea what he\u0027s talking about",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=v0fpyOKCREQ",
           "view_count": 1600
@@ -7076,7 +7076,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c\u0441\u044f \u0441 \u041c\u0443\u0440\u043e\u0439: JavaScript \u0442\u043e\u043b\u0447\u0435\u043a, \u044d\u043f\u0438\u0437\u043e\u0434 5, Ignition vs TuroFan",
+          "title": "Sorting Out Mura: JavaScript Push, Episode 5, Ignition vs TurboFan",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=IivYJj4w9wA",
           "view_count": 1900
@@ -7099,7 +7099,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u042d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0435 \u043f\u0440\u0438\u0435\u043c\u044b \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 JavaScript \u043a\u043e\u0434\u0430: \u0447\u0438\u0441\u043b\u0430.",
+          "title": "Effective JavaScript Code Optimization Techniques: Numbers.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=esgflGn1rvA",
           "view_count": 2700
@@ -7201,7 +7201,7 @@
             }
           ],
           "timestamp": null,
-          "title": "\u0412\u0442\u043e\u0440\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u043f\u0440\u043e \u0417\u044e\u0437\u044c\u043a\u0443 \u0441 \u043f\u0435\u0440\u0435\u0437\u0430\u043f\u0438\u0441\u044c\u044e \u043a\u0443\u0441\u043a\u0430 \u043f\u0440\u043e Array",
+          "title": "The second part about Zyuzka with a rewrite of the piece about Array",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=tgTsW_lUtsc",
           "view_count": 2000
@@ -7263,7 +7263,7 @@
           "view_count": 28000
         }
       ],
-      "epoch": 1791670094,
+      "epoch": 1791672634,
       "extractor": "youtube:tab",
       "extractor_key": "YoutubeTab",
       "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
@@ -7380,12 +7380,12 @@
           "thumbnails": [
             {
               "height": 720,
-              "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLClm4K6DvaSLfD_J8aUK9LdwCyZRQ\u0026usqp=CCk",
+              "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar3.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLA9dB8KMguMfa0anrmA5Hn1gcwh4w\u0026usqp=CCk",
               "width": 405
             },
             {
               "height": 608,
-              "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar2.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLDHqywPEAWjD4TO_UaUzIsMR-9q4g\u0026usqp=CCk",
+              "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar3.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLA935_eovQw3y1mtO44kbbOUHEb-Q\u0026usqp=CCk",
               "width": 405
             }
           ],
@@ -7401,12 +7401,12 @@
           "thumbnails": [
             {
               "height": 720,
-              "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar3.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLC5AT7COU4sAc-iU0oo1nkRIRHj1Q\u0026usqp=CCk",
+              "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLCXyt8ayxrOjoYMeUztzsM6YhCR9g\u0026usqp=CCk",
               "width": 405
             },
             {
               "height": 608,
-              "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar3.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLBON0PAhXQEDSekAuoUeNaWtMomqA\u0026usqp=CCk",
+              "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar2.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLBwMIpVP1iqngWq5FDRLz1OV0HZmw\u0026usqp=CCk",
               "width": 405
             }
           ],
@@ -7422,12 +7422,12 @@
           "thumbnails": [
             {
               "height": 720,
-              "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLAH87OXqJiYU-qfjeoJcXe3Dp5wEg\u0026usqp=CCk",
+              "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar3.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLAornayO2cMMSCutyy2kZQcVX925Q\u0026usqp=CCk",
               "width": 405
             },
             {
               "height": 608,
-              "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLAUqzT-8P94Wa71rBxXRagkEX_hdA\u0026usqp=CCk",
+              "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar3.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLAP1QxFLkSBNKt5awcicgnvaMDsnA\u0026usqp=CCk",
               "width": 405
             }
           ],
@@ -7457,7 +7457,7 @@
           "view_count": 5300
         }
       ],
-      "epoch": 1791670094,
+      "epoch": 1791672634,
       "extractor": "youtube:tab",
       "extractor_key": "YoutubeTab",
       "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
@@ -7556,7 +7556,7 @@
       "webpage_url": "https://www.youtube.com/@AsForJS/shorts"
     }
   ],
-  "epoch": 1791670094,
+  "epoch": 1791672634,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "@AsForJS",
@@ -7896,12 +7896,12 @@
   "thumbnails": [
     {
       "height": 720,
-      "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLB6i3FMiNfS_Phj4GPnJ610GRGUrQ\u0026usqp=CCk",
+      "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar1.jpg?sqp=-oaymwEhCJUDENAFSFWQAgHyq4qpAxAIARUAAIhCcAHAAQa4AvcY\u0026rs=AOn4CLAWzCvk8ceHdm9cAZj8gcHA82SHpw\u0026usqp=CCk",
       "width": 405
     },
     {
       "height": 608,
-      "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLCXVrnCZSvEOiqF5vL-mm3_j_cYfg\u0026usqp=CCk",
+      "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar1.jpg?sqp=-oaymwEkCJUDEOAESFWQAgHyq4qpAxMIARUAAIhCcAHAAQbIAQG4AvcY\u0026rs=AOn4CLC75L6kYATNhlwkRExFKx7st4bfOg\u0026usqp=CCk",
       "width": 405
     }
   ],
@@ -7925,12 +7925,12 @@
   "thumbnails": [
     {
       "height": 720,
-      "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLA7rG8jGhgBeaFe24Doc4LP6sM97A\u0026usqp=CCk",
+      "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar2.jpg?sqp=-oaymwEhCJUDENAFSFWQAgHyq4qpAxAIARUAAIhCcAHAAQa4AvcY\u0026rs=AOn4CLBwimqYc5ZaDjDtEsF9OVrcyjH-0w\u0026usqp=CCk",
       "width": 405
     },
     {
       "height": 608,
-      "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLDliOj8sBJ4UD7HgETVD1DTTT9hfQ\u0026usqp=CCk",
+      "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar2.jpg?sqp=-oaymwEkCJUDEOAESFWQAgHyq4qpAxMIARUAAIhCcAHAAQbIAQG4AvcY\u0026rs=AOn4CLDrwpfIncAmq4_QgSkwxPiN58sR3Q\u0026usqp=CCk",
       "width": 405
     }
   ],
@@ -7954,12 +7954,12 @@
   "thumbnails": [
     {
       "height": 720,
-      "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLAH87OXqJiYU-qfjeoJcXe3Dp5wEg\u0026usqp=CCk",
+      "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar2.jpg?sqp=-oaymwEhCJUDENAFSFWQAgHyq4qpAxAIARUAAIhCcAHAAQa4AvcY\u0026rs=AOn4CLAsJkiCiF6-680pBTpRTJkQi00kXQ\u0026usqp=CCk",
       "width": 405
     },
     {
       "height": 608,
-      "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLAUqzT-8P94Wa71rBxXRagkEX_hdA\u0026usqp=CCk",
+      "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar2.jpg?sqp=-oaymwEkCJUDEOAESFWQAgHyq4qpAxMIARUAAIhCcAHAAQbIAQG4AvcY\u0026rs=AOn4CLBktw22cWgQTDaHSQ83UMNLXFOCTg\u0026usqp=CCk",
       "width": 405
     }
   ],
@@ -7983,12 +7983,12 @@
   "thumbnails": [
     {
       "height": 720,
-      "url": "https://i.ytimg.com/vi/196yyub_Kro/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=\u0026rs=AOn4CLBbtgs80FLEhUgGz8Jbxv2BdftzCA\u0026usqp=CCk",
+      "url": "https://i.ytimg.com/vi/196yyub_Kro/oar1.jpg?sqp=-oaymwEhCJUDENAFSFWQAgHyq4qpAxAIARUAAIhCcAHAAQa4AvcY\u0026rs=AOn4CLDP6LCPjt2-3rmz4TYAzvzl8oGDsw\u0026usqp=CCk",
       "width": 405
     },
     {
       "height": 608,
-      "url": "https://i.ytimg.com/vi/196yyub_Kro/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=\u0026rs=AOn4CLAVg6Gu3_K-pKYcATFwhsIXLgB9Bw\u0026usqp=CCk",
+      "url": "https://i.ytimg.com/vi/196yyub_Kro/oar1.jpg?sqp=-oaymwEkCJUDEOAESFWQAgHyq4qpAxMIARUAAIhCcAHAAQbIAQG4AvcY\u0026rs=AOn4CLA8snAQfXf3LNJwZ3cQABjb8bIOaQ\u0026usqp=CCk",
       "width": 405
     }
   ],
@@ -8019,12 +8019,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/IMS-LVHlXuU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDmFHcCXulmSHOBKmPIsCmw9EvhcA",
+      "url": "https://i.ytimg.com/vi/IMS-LVHlXuU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCUO7g6yLJjhJSa7qxTmJsZrTcnhw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/IMS-LVHlXuU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB36k83H3GN_4C0_UKDVUl9GevdgA",
+      "url": "https://i.ytimg.com/vi/IMS-LVHlXuU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDh-g_uLNQzRm9Kz8JRDQoaWlDMpA",
       "width": 720
     }
   ],
@@ -8055,7 +8055,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA5so4GEhx6a-FUs5AGfpFLwds5XQ",
+      "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDRXv4cqJo7B0koaMVtgmRtEKbbZw",
       "width": 480
     }
   ],
@@ -8086,12 +8086,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/6curTcJF-u4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDwoXZ8pfb0TbM1s2mPfwGpgko9Jw",
+      "url": "https://i.ytimg.com/vi/6curTcJF-u4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDfVZDs5Y3x_SzZ080iD9tr4FfCNQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/6curTcJF-u4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB691sgoRpfU_Ku8LQRIkBdlb18Yg",
+      "url": "https://i.ytimg.com/vi/6curTcJF-u4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBzouIignoREIbMFCWHU_-WhXEZYQ",
       "width": 720
     }
   ],
@@ -8122,12 +8122,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDQlM0lWKYPD0As8T-E31FfRC5iWg",
+      "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAfeUOtAti6VkM9JmHTn79wRToX6Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBVwcwVDUvrLmFKXrph__4XA5yt_Q",
+      "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLChBOTaGGeOK9DguGZwip7ekXb3BA",
       "width": 720
     }
   ],
@@ -8158,12 +8158,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBwCxKv4_RF-b_klx-jw7P_vd3K9A",
+      "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDIg0tgy9ggQTspvZ9Mmr-MHfsQxA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC9rMN6SadnE7eHfkwgpixu0ijyWA",
+      "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAspAlxibqEWVDOi5S_GOB4cJmsmg",
       "width": 720
     }
   ],
@@ -8194,12 +8194,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBxxXRX0YWdpk7DpVA32VGwYgNHzA",
+      "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAqX7gAGQ7ZYk5wCM9gJVEp-m8OZg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC3IF6E58eIfK1AsigYxyb5dM8MGw",
+      "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCy2R4nFDy_4wVU-xewUCJG0yL5cw",
       "width": 720
     }
   ],
@@ -8230,12 +8230,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCjIz3SrzbYpe88H29b050oeftygQ",
+      "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDb3okAvYRukEwQFPWCLOeRupMPDA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCuY4HbngUJLChpyC08mFSBwh5saQ",
+      "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAt0nkptNJCub0xCGuZPtp5NWQI0Q",
       "width": 720
     }
   ],
@@ -8266,12 +8266,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDBpPyTX5KiYWsMgTwv0VRm69thOg",
+      "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBVGh1IMhwI42AmcPinjM3rv9vncQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBaKomqmuXLj5Ohh5Eq-UA9k0arrw",
+      "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDTrcPbgMiSeFq1gUc59ilc7Jvzmg",
       "width": 720
     }
   ],
@@ -8302,12 +8302,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBuhfEg_iLsvOGjhXT2WJMeZtDSFQ",
+      "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAWcde8IuL2VEWBCyt7sVXtqcJScw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDb5_UUqRdAoIshlUUOtkQqAYAdYw",
+      "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD-Gf2duYz5YPfXTcsdoe4Wy7HWgA",
       "width": 720
     }
   ],
@@ -8338,12 +8338,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCzK9YScyXoMfJOQ12ljBLDEnlYoQ",
+      "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBHuZPfVYXzdPFnasv46tTfqzpXNA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAc0773kpAdn_Bg43sInev1ZObNzQ",
+      "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA5QjXscRBZE8BaBsuJdY7l2V_pQw",
       "width": 720
     }
   ],
@@ -8374,12 +8374,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDQhvrGCP4UdW6eKdQkqOvyjRA8Fg",
+      "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBTci4_Ln7gaZ_GczkNPMK_XxSLLg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDPeSpR4Ca5hcMjFvUL2ZKwZCVgeA",
+      "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDolped3QU7EVM-1X6_hKcFzwU7Rg",
       "width": 720
     }
   ],
@@ -8410,12 +8410,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCist_0-elN573rR0XgqKHBYx-fNw",
+      "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAf5j51zd5yjqSITda1D6Gk-fopfw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDocAFnkiLm67zMWXeSaQoLjuoDKw",
+      "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAcWuF97aAZdKJXLERov6YJ5XIpbA",
       "width": 720
     }
   ],
@@ -8446,12 +8446,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAmMzCtMaGoHpMR4d6iXpXxVh2A_A",
+      "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCr272PwtPMnFd-fWbTQ7dMT7DPig",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCzGRP5gkvarDCBMOzseIxK9iulFA",
+      "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAcj9hZkFC0JTzZGVHleXZ_N2w69Q",
       "width": 720
     }
   ],
@@ -8482,12 +8482,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCNSAQON6rkViAuktmqjQIlS2QG_A",
+      "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCHBWxomX6FPJb-Yr-0ZJR53EyFHA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDJvwBowoBCxCVdrn6g2GiUsY7RSQ",
+      "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDabatVPPs8cwCAUqCEVRdF9gebBw",
       "width": 720
     }
   ],
@@ -8518,12 +8518,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/7AX8611v83U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCi9yQ0wYdFvePko5_uqtxeoH0kYw",
+      "url": "https://i.ytimg.com/vi/7AX8611v83U/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDePY7kuA-f611HSQ8XlwX0mUf2wg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/7AX8611v83U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCNJA4gRlapLhD8oBfIhfyzHSjA_Q",
+      "url": "https://i.ytimg.com/vi/7AX8611v83U/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCRHCEs6be1HxlshFMAo8e_CY4utw",
       "width": 720
     }
   ],
@@ -8554,12 +8554,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ZFjo4Zs2YYA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAj7S1N7pQZvLS0Pe88evOJJQghGA",
+      "url": "https://i.ytimg.com/vi/ZFjo4Zs2YYA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBb7EfUdUtQOUV1CRaN6UGdpO_F1A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ZFjo4Zs2YYA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCZKJFOD4r8S-86i0W_b3F18AhJRQ",
+      "url": "https://i.ytimg.com/vi/ZFjo4Zs2YYA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBr5tBx0Oli-oIr6TOYUCjTnCYumw",
       "width": 720
     }
   ],
@@ -8590,12 +8590,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA_RMxslzJd5gxlwcRAdcd0MP68GA",
+      "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDPaHCNIrG1tHIa1idYV9bVoAQ6Ig",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDg91B167zFfd_1nybnWw-vk11r8w",
+      "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDVannt8222W79sUWnX-PlZEljPoA",
       "width": 720
     }
   ],
@@ -8626,12 +8626,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/4eyGrFv7pzM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBb0VLD9k5p7mi9rRFfs_meMthi_Q",
+      "url": "https://i.ytimg.com/vi/4eyGrFv7pzM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD2KB28kvvCPjnwsugPecXj6NEhBg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/4eyGrFv7pzM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDuv-_TXIX1Oqt-GskAkxleMpoSrA",
+      "url": "https://i.ytimg.com/vi/4eyGrFv7pzM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBLozW3qoq1sLyN_gMTRJjymH0ihA",
       "width": 720
     }
   ],
@@ -8662,12 +8662,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/WYhufFc4uYI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAhJ8VAPFN-Eb2IL3nAognHd6aCXw",
+      "url": "https://i.ytimg.com/vi/WYhufFc4uYI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDTrYrd5-AZrwMbo_W5kOYEFWFTvg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/WYhufFc4uYI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCgz5BIxU7gx2Q6SR6lVA8rvVYNtA",
+      "url": "https://i.ytimg.com/vi/WYhufFc4uYI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCghWV7O7wXuI3dJ57oSapJCM4J9A",
       "width": 720
     }
   ],
@@ -8698,12 +8698,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/7-KMWtDmLYs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCUjhWowsg3eFb7PmpaCkrIMTqD-w",
+      "url": "https://i.ytimg.com/vi/7-KMWtDmLYs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDRvZfqnrV662NxbUTQQb3yM4jFvA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/7-KMWtDmLYs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDGVoE6SkYDkDHXrQa3F7yLKczkZg",
+      "url": "https://i.ytimg.com/vi/7-KMWtDmLYs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAqUagm3PdskRqr8KNPobTWOwYEBw",
       "width": 720
     }
   ],
@@ -8734,12 +8734,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/bPy9h7m6NzA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB9bxh3kJFcQk4Tu1ymBoD4P7bfiQ",
+      "url": "https://i.ytimg.com/vi/bPy9h7m6NzA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBbUAyE9wAmQCP3qu01c2QpoNKOjA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/bPy9h7m6NzA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCc34jnvAnzStzoahvjpk_pg0cUKA",
+      "url": "https://i.ytimg.com/vi/bPy9h7m6NzA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCxC6kH4PCqudCO--uQHnkKR3cBxw",
       "width": 720
     }
   ],
@@ -8770,12 +8770,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/DUaKtpc1zK8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD46wfy1zkHMXhADs-u7nkBDulEPA",
+      "url": "https://i.ytimg.com/vi/DUaKtpc1zK8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBs6EsrU1gHElgwa69EznS7WETbVw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/DUaKtpc1zK8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDv8EZejljfOxjVOqs9GJdk73N3Bw",
+      "url": "https://i.ytimg.com/vi/DUaKtpc1zK8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDWv5OEQRvewR96ylloQSz25sY7Jw",
       "width": 720
     }
   ],
@@ -8806,12 +8806,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/KC4T79ltigE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBTU97iz_rP1xrJjfZvmNFMahAggQ",
+      "url": "https://i.ytimg.com/vi/KC4T79ltigE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDz9sUXhS7Gh2-jLDD6KcS0vbhjDA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/KC4T79ltigE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB5mHJ_CgnrC7bc2Acx2kvKhcqKpg",
+      "url": "https://i.ytimg.com/vi/KC4T79ltigE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDKpjXTi5e8CuO34OYaSY6dXu4GHg",
       "width": 720
     }
   ],
@@ -8842,12 +8842,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/z6m6FT-Tj90/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBt8Vy335BNSns1U7VnXcoe1C2M9g",
+      "url": "https://i.ytimg.com/vi/z6m6FT-Tj90/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDsyBG_72fewUqA948fv9ZelNcQaw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/z6m6FT-Tj90/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDvZj4rxBp7OeiteHILLwx0W__riw",
+      "url": "https://i.ytimg.com/vi/z6m6FT-Tj90/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCGU_RXEa3UhQL5ov-0MW_ldXmkiQ",
       "width": 720
     }
   ],
@@ -8878,12 +8878,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Wz0Lh0dEyyc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAjNvN94k5KlY8a92y4xT1g4B-dsA",
+      "url": "https://i.ytimg.com/vi/Wz0Lh0dEyyc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLChIxks90bmw64xdEkUquFHaf-kEg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Wz0Lh0dEyyc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDJ1nksrcKcKwEvYHxEf8RBV6xVbQ",
+      "url": "https://i.ytimg.com/vi/Wz0Lh0dEyyc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC-vrwhi2w7hnxaPi0ivbdL4z1ivQ",
       "width": 720
     }
   ],
@@ -8914,12 +8914,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCqcqRqRD5t4Fj38uEQ06JE2ComaQ",
+      "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD2YEEe2YvXiHJZ0MNX3-ULI9cZKg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDrdzmFVz2Q8P3BMlAW-sT0SUWEdQ",
+      "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDn3geGiPYie_CrK1QJLWI2IcC2Jw",
       "width": 720
     }
   ],
@@ -8950,12 +8950,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/PlXh9l04Uz8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB3_JD3udoKoDHwh31NHi4_pfE3Rw",
+      "url": "https://i.ytimg.com/vi/PlXh9l04Uz8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAyn4rWg7wFiTqZMKNJqOUqBNfghQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/PlXh9l04Uz8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCuaMCKXVXq7vJ2SL6jFgHbofr20Q",
+      "url": "https://i.ytimg.com/vi/PlXh9l04Uz8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC2lqwWvgpYskLAB6-h5IHttmXvvg",
       "width": 720
     }
   ],
@@ -8986,12 +8986,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBKJS_QinM_bE1YnWZ1bOdk1qXA1A",
+      "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBxOFt5_v-7JuHaJYJt3Xly0LEhbA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLClh0McF7kIENmo0J10deTaCZsxuw",
+      "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDWKp_hVWU5xigh7DnVx_F2zFg_Fw",
       "width": 720
     }
   ],
@@ -9022,12 +9022,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/5o5kv-4TyYw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD5lbWufQ8JrnVcgrztNYD8hqoEGQ",
+      "url": "https://i.ytimg.com/vi/5o5kv-4TyYw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBNTTLcr9xraYPIY5eJQguTrD-7cA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/5o5kv-4TyYw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA2i7udMWVZ8CJO4oddHTOmIEqlbQ",
+      "url": "https://i.ytimg.com/vi/5o5kv-4TyYw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAcn1n9Tjb2Ry_quc6cITXsGTFaqw",
       "width": 720
     }
   ],
@@ -9058,12 +9058,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/GhxYRkXZAB4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBMucNKftox0uoSyVSaMFLuAgNtbg",
+      "url": "https://i.ytimg.com/vi/GhxYRkXZAB4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA8bZ-4MSjpt9vHdNBFLZ7bgHlDIA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/GhxYRkXZAB4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBg7bB-D_qBh4PftOcc8yH9ylXIqw",
+      "url": "https://i.ytimg.com/vi/GhxYRkXZAB4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDzE-3RpJAtgeYActAWdxiAnrh88g",
       "width": 720
     }
   ],
@@ -9094,12 +9094,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/3LTiRS55WoQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDg9D_qHzQ5j0dZ86bENBrPW5qs7Q",
+      "url": "https://i.ytimg.com/vi/3LTiRS55WoQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAVXxIbU8LBW3Dy2ry_wA6FSiKBBg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/3LTiRS55WoQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCubfDDXhmS9lai0yFVHFUvNElVZg",
+      "url": "https://i.ytimg.com/vi/3LTiRS55WoQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCtzgn1sh2YHWFy5lD7o7egvLGEtw",
       "width": 720
     }
   ],
@@ -9130,12 +9130,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDJkkXJGIjFVu0DpXsqYtVlTIAubg",
+      "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA1olrVL3LyQNbXhbYcfYxlGBssjg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAldQZkkStSZ6jqK_kCCrDcdqB4Jw",
+      "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD0m6ssyyJkKZerDk4dwJzw-cIpGw",
       "width": 720
     }
   ],
@@ -9166,12 +9166,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC69ZFcBCi8MOqIf0OdLRVQi0g9Rg",
+      "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLApb4h5b0sw7Ee4_YZPsQhKrGgg4g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAruKzCP1HzZsxsS2vviOgcT-7jVA",
+      "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLClgAKW0UpyfiDKhwvWO0RaLJH19w",
       "width": 720
     }
   ],
@@ -9202,12 +9202,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/z_DrRM7F_24/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC-AZxU5uOM_LvnqpHVlaGrLlbI8Q",
+      "url": "https://i.ytimg.com/vi/z_DrRM7F_24/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCt0ZmRoKThZSmAfJsg0WVJ_Lwoxg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/z_DrRM7F_24/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAMsuV3jA8ia-Hy9Vvc_DlrqLHiwg",
+      "url": "https://i.ytimg.com/vi/z_DrRM7F_24/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBMHef9UN6HmWUb7uUhluxfCumKXA",
       "width": 720
     }
   ],
@@ -9238,12 +9238,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ij_PCCZVTEs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDqGnIAnJjE1lw2p8T_MduANAftlw",
+      "url": "https://i.ytimg.com/vi/ij_PCCZVTEs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCaMq1h1IReEW68tXYyk7iIlXiFrQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ij_PCCZVTEs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDVB0DApWntecTo48ukrPdpp_loDg",
+      "url": "https://i.ytimg.com/vi/ij_PCCZVTEs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCRqiuM-NqVdgEamh1J54b9KcxE0A",
       "width": 720
     }
   ],
@@ -9274,12 +9274,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/663CqugApf4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAlW3krI1xyJ5e1WVRXl_a38xxp6w",
+      "url": "https://i.ytimg.com/vi/663CqugApf4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA2C3pYiinU2NJQrcHz6-7RTnasgQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/663CqugApf4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB3FWIj3qExbCUX4DyN8-2cCCIL8Q",
+      "url": "https://i.ytimg.com/vi/663CqugApf4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCJQ5SHNMaPlTotKeYz46Sf0QgdDw",
       "width": 720
     }
   ],
@@ -9310,12 +9310,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/8o4QOUvjB1k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLALjCnGkH0Suy_Jx_pWZSHcnDYqkQ",
+      "url": "https://i.ytimg.com/vi/8o4QOUvjB1k/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC8SUdniMxPXbri27Rh_xp4MczTeQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/8o4QOUvjB1k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLARtCAYmERKW8Jiw1Bcp3v6CKUVow",
+      "url": "https://i.ytimg.com/vi/8o4QOUvjB1k/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCtqf5_e4ozNgRgZJeFDtYJCso_PA",
       "width": 720
     }
   ],
@@ -9346,12 +9346,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/_On4jSu1vUQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAgtVlcbO99n6sacjWznmfq78kWdA",
+      "url": "https://i.ytimg.com/vi/_On4jSu1vUQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBpn464rvjMHPbEs0ofvCSULhw5Ew",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/_On4jSu1vUQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCBuHPYmH84LgMvPjK9exWiw31BwQ",
+      "url": "https://i.ytimg.com/vi/_On4jSu1vUQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA2a1xVK0NpsHBhb6HAR-OoyAtlnA",
       "width": 720
     }
   ],
@@ -9382,12 +9382,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/g7bXeDJDZaA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD3der3Y841Fi_eQSBZ7BW7VPwakA",
+      "url": "https://i.ytimg.com/vi/g7bXeDJDZaA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBCS6N5SGjLpzl09yui9eHg3_dD9A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/g7bXeDJDZaA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBc0qPK6bQnThPXpS33Acl9SM8-fQ",
+      "url": "https://i.ytimg.com/vi/g7bXeDJDZaA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAVaSdzn1Al4CUuSJIxj4QrcpWpIw",
       "width": 720
     }
   ],
@@ -9418,12 +9418,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ES2NPqlDnek/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB4aiMwbwDTkTAUJ3uc4_B3xTunAw",
+      "url": "https://i.ytimg.com/vi/ES2NPqlDnek/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCPSnix31DjVaKJ4_NRvb8WrNiM6w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ES2NPqlDnek/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBSIDIoqEloducpCbebKdQTDnWyTg",
+      "url": "https://i.ytimg.com/vi/ES2NPqlDnek/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBnCDa_v0lOf9zZbFx32EQn4JrXag",
       "width": 720
     }
   ],
@@ -9454,12 +9454,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Ri0PZdV2zvI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCy8hOd4fSTzwI_D7yDnAn3KGeRlw",
+      "url": "https://i.ytimg.com/vi/Ri0PZdV2zvI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAggh9UQ61x5vRaKi3XcjzL8bIhGA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Ri0PZdV2zvI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA7-JbikNsP04Lv-od5WiA93xsjVg",
+      "url": "https://i.ytimg.com/vi/Ri0PZdV2zvI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCJzRc-ly62WZGQ8iIoeWE2NUD5Tg",
       "width": 720
     }
   ],
@@ -9490,12 +9490,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/yGjqZeTVq24/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAP9QSr1rSzm7jV_QKPCaoo7mLbcw",
+      "url": "https://i.ytimg.com/vi/yGjqZeTVq24/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDwwMxRIKwV4Qkw61Ll9fTkhd54mg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/yGjqZeTVq24/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAK--1IqrOeFi6OvfDCoRCjUnn4Xw",
+      "url": "https://i.ytimg.com/vi/yGjqZeTVq24/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBp4I62tycsuMZkqnWWGjR2a_TqFQ",
       "width": 720
     }
   ],
@@ -9526,12 +9526,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/iQ_PRQPBEgQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA0AeEBzXAJCQZSzXZ9MTPA-Mb0Lg",
+      "url": "https://i.ytimg.com/vi/iQ_PRQPBEgQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCe3B2KXAKxrYXD_ZKMWTBPeTRiMw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/iQ_PRQPBEgQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDvkEmzCl4dYqlTECesQau5BblMzQ",
+      "url": "https://i.ytimg.com/vi/iQ_PRQPBEgQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAaYfT-u41GeydkMLPxdqzJupZR5w",
       "width": 720
     }
   ],
@@ -9562,12 +9562,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCFTPIJSf9Kec_tT3rhMdTDnCaaWg",
+      "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC86P-3iai2yjQv9rRYKrt1x5Lrjw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCGo9sltikk0HVYmSWlmKKZdes_oQ",
+      "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBWappiWuNSXu5yAewkdpSwEKRyCQ",
       "width": 720
     }
   ],
@@ -9598,12 +9598,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/rVfNr7aYYm0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB6Yb3V_uexfmjjDACT-2xhOrcWkA",
+      "url": "https://i.ytimg.com/vi/rVfNr7aYYm0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA3WIRl_wRrwleu2B1N8p2RErpOQA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/rVfNr7aYYm0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDTUSAZonuVbgYYJVu9FyMWobgNlA",
+      "url": "https://i.ytimg.com/vi/rVfNr7aYYm0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB4Q-JJqBIXgz9150pCVEDf3LnekQ",
       "width": 720
     }
   ],
@@ -9634,12 +9634,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/QxmS2ny5o3s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD4AxM6NUySWE_028U2zqb2hQl2NQ",
+      "url": "https://i.ytimg.com/vi/QxmS2ny5o3s/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD_jAsJ7kIkBu8oZR2-7hVoBVqiXg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/QxmS2ny5o3s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD5hAwFP1Lf7IDr8h7jKfmd1kjp-Q",
+      "url": "https://i.ytimg.com/vi/QxmS2ny5o3s/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDm6ByaK8KUrmriJRv8YjkBGK8stQ",
       "width": 720
     }
   ],
@@ -9670,12 +9670,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/fy8raIuNewE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBxgfKWrYilWP8BgwEyCjh6RFGRng",
+      "url": "https://i.ytimg.com/vi/fy8raIuNewE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD8VQl2Eps1VLW3KkBotW-PFub1hg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/fy8raIuNewE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3zJVgO1Tjf99hU4jLui14M5XlNA",
+      "url": "https://i.ytimg.com/vi/fy8raIuNewE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAbKgxmZpMEXo6UnMHg0NAF5oTAMQ",
       "width": 720
     }
   ],
@@ -9706,12 +9706,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCNmkQINh0pAJtLDRsrQHRum91LyA",
+      "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBsPbGMMLMxk3sOm59NfOwQ6xWGFg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD1X3yEADvKYYiMIi3zhD1oB4Ortw",
+      "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAq0fJhwA9Tm-S-dISpPaQ7OhDxtw",
       "width": 720
     }
   ],
@@ -9742,12 +9742,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/hU-mdaemKng/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3yQFxus5fEvN_4mfV5i4jQvx1yQ",
+      "url": "https://i.ytimg.com/vi/hU-mdaemKng/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLClBAOSHz4I0Y-OcWzO-DweDH2Y7Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/hU-mdaemKng/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD2vTupTg1RoFnngoTneIxJQ1Soow",
+      "url": "https://i.ytimg.com/vi/hU-mdaemKng/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAMKdGeFBsZppYMU2lgtZGUjr0h7A",
       "width": 720
     }
   ],
@@ -9778,12 +9778,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/KeG2OfOYqQA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCv5bLt6vX6VTruqVMa_Df_g5iB_g",
+      "url": "https://i.ytimg.com/vi/KeG2OfOYqQA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAKfb_1cqmdirDOHTUI4B-Mip3eVA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/KeG2OfOYqQA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBcUaAuOAc2IRQDKRuyxUpRy-pVeg",
+      "url": "https://i.ytimg.com/vi/KeG2OfOYqQA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDReWW_8nxeJzhV1hxVVrV3IT54fg",
       "width": 720
     }
   ],
@@ -9814,12 +9814,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Trhk4u6wc5g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBq8ppMlspMAibBnXwM9N5RyduM4w",
+      "url": "https://i.ytimg.com/vi/Trhk4u6wc5g/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBQGiB6Y_tIPNulfMFyMm-NPxTJIw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Trhk4u6wc5g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC8pJ4UaLUVIbF4NwFJYzoST9HatQ",
+      "url": "https://i.ytimg.com/vi/Trhk4u6wc5g/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCg2Il18OeSR2C4eV1QWLORCPYPEg",
       "width": 720
     }
   ],
@@ -9850,12 +9850,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/aIvg0aaLuKo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDw73anR9yPExQBFMvWdjEx321nWQ",
+      "url": "https://i.ytimg.com/vi/aIvg0aaLuKo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAo8fB2d-_skIP4KA4KufL96Kkaxg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/aIvg0aaLuKo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAG0Zsw6rpN6cLI832t3Mae__jlUw",
+      "url": "https://i.ytimg.com/vi/aIvg0aaLuKo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAiORjHsPtnJxAwlr-cgxsNBIwNUw",
       "width": 720
     }
   ],
@@ -9886,12 +9886,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/SzH2G0yFBHY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDIF0OfPROutMoSHKNw20ugeeM3bQ",
+      "url": "https://i.ytimg.com/vi/SzH2G0yFBHY/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA5QLonFSM6sfS5Fm4jDEMeYwpsSw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/SzH2G0yFBHY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAUKGWqYLlLZ2jwP25Q_NU6jrLULQ",
+      "url": "https://i.ytimg.com/vi/SzH2G0yFBHY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDTVtxKX4mM4eB5EEJ2tmra0-5Mxg",
       "width": 720
     }
   ],
@@ -9922,12 +9922,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ZECTIKGj3ds/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC2Rw1UZ7VMlntzxhXqMyyhoOqcJw",
+      "url": "https://i.ytimg.com/vi/ZECTIKGj3ds/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDgE9-wNQPbRa8zeeAnlyP1YprbJw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ZECTIKGj3ds/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCopQve0ToWbqCtbKS4CQBAbke0Zw",
+      "url": "https://i.ytimg.com/vi/ZECTIKGj3ds/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDFPex018WXXo0GUQzcsAm8155pWg",
       "width": 720
     }
   ],
@@ -9958,12 +9958,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/_36Z4U07o3g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCPsLTmec9ynHW7Oy2jDlbt9n6M6Q",
+      "url": "https://i.ytimg.com/vi/_36Z4U07o3g/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDYNxtMl8nTHg8_qxdlvtbyzBQJEQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/_36Z4U07o3g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCq9i3BnRvWM0jUlgoMhz8PIfb6vg",
+      "url": "https://i.ytimg.com/vi/_36Z4U07o3g/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBN4xA8HSjsIxDmy6tOEffYZg6QkQ",
       "width": 720
     }
   ],
@@ -9994,12 +9994,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Qfi0_0w0dsM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCoPzAPlDRaOJLMkAtnYTyUjI72CA",
+      "url": "https://i.ytimg.com/vi/Qfi0_0w0dsM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBqe3mDdGCGggULjOXiT2D8r3F3zg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Qfi0_0w0dsM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCTCI4bVzptOzt118G6VIFiBIF17A",
+      "url": "https://i.ytimg.com/vi/Qfi0_0w0dsM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAlXe4MVxThorO_W08R1K_0saXSJg",
       "width": 720
     }
   ],
@@ -10030,7 +10030,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/0mnjOf4ViX4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAV7wkniCkj8ipxew0qcQ5L9IeNZw",
+      "url": "https://i.ytimg.com/vi/0mnjOf4ViX4/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCUvPGCDS1j_i2atq78U-5RstOVUg",
       "width": 480
     }
   ],
@@ -10061,12 +10061,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/xp79fBrLlFw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD1twRLNuPRthllwTcYI5YIsPSjfw",
+      "url": "https://i.ytimg.com/vi/xp79fBrLlFw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLASdyzxPe4b0FhQHP9FdfAd-zDcTQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/xp79fBrLlFw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDPmLUwr1p76DdxembMGjs28Ems5w",
+      "url": "https://i.ytimg.com/vi/xp79fBrLlFw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBtGHjWlRUU-swJG1mp15b4KwUIrQ",
       "width": 720
     }
   ],
@@ -10097,12 +10097,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/VfQiG2jATgQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCH_6C49itiT8hRlqFGmSdcZT8YgQ",
+      "url": "https://i.ytimg.com/vi/VfQiG2jATgQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCnTBZJ6Cy8AX6CMF-JEZoHn0Gp-g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/VfQiG2jATgQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCrXi6Li9Wi904zH_Xh0koc-dEUpQ",
+      "url": "https://i.ytimg.com/vi/VfQiG2jATgQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCLMPZQEceLB7xA-xvq_0Eu1FyEjw",
       "width": 720
     }
   ],
@@ -10133,12 +10133,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/xUvdte3tzYM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD92cun7CZC4eFxB-YQXqYs27QZVA",
+      "url": "https://i.ytimg.com/vi/xUvdte3tzYM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBbnNk4zTTMn7ahIcXaAfkJKS7rng",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/xUvdte3tzYM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA9wQUVC5UNchTl4DvGYMcnm1MXDA",
+      "url": "https://i.ytimg.com/vi/xUvdte3tzYM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAHqirMwgyQeNoRWF4sC9LN3M5KQQ",
       "width": 720
     }
   ],
@@ -10169,12 +10169,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/2zKya01zYK4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDMcbxRQtmesWCAc8gl6gf7RXbsmg",
+      "url": "https://i.ytimg.com/vi/2zKya01zYK4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCtjpwlhpge3aFkBys4WPBTpsYU7g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/2zKya01zYK4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA21n1fWCkqB6XFlkFteHNBzRhRUQ",
+      "url": "https://i.ytimg.com/vi/2zKya01zYK4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCagLSzS2Ayu8bL2rihx0zCMEdDJg",
       "width": 720
     }
   ],
@@ -10205,12 +10205,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/RvYq-wt_GEU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAded9a4EmZozFeJV1PZG3vWefiTw",
+      "url": "https://i.ytimg.com/vi/RvYq-wt_GEU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA2HOcjj9Auw8leA5DWQpZLvNlaVg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/RvYq-wt_GEU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA4l6jzWIXMqMlGaTiOM0kEpWAmbg",
+      "url": "https://i.ytimg.com/vi/RvYq-wt_GEU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAlbx2MejCHAIri0YZCqM8I7Qb2Gw",
       "width": 720
     }
   ],
@@ -10241,12 +10241,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/e0DKj6JGDVQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBDyUOJeZFKanMdsNI12HUfRDeN0A",
+      "url": "https://i.ytimg.com/vi/e0DKj6JGDVQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLATsES8HoDt1DldGmhx12zIr7E8RQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/e0DKj6JGDVQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCmOn270NSDHTDWDNCLNtOafcC06A",
+      "url": "https://i.ytimg.com/vi/e0DKj6JGDVQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAuDWnB7dGxZU7nHTl3kAmo8L4CMg",
       "width": 720
     }
   ],
@@ -10277,12 +10277,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/cYxohlw4mV0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD_U9gjN92qx3TtymYdS6Ug-mYXOQ",
+      "url": "https://i.ytimg.com/vi/cYxohlw4mV0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDEP_P8t3wwXCL0nwcOlJYJakI9xQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/cYxohlw4mV0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD9zLfhHvvh50aM09VxjGZ59Gn7zg",
+      "url": "https://i.ytimg.com/vi/cYxohlw4mV0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCHiBl4-nGFRi2xF9QJJkCYTz88fw",
       "width": 720
     }
   ],
@@ -10313,12 +10313,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/DxvJVpn82vA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB3bV9lsP3OWbvko9ocOy7Lbrc9Dw",
+      "url": "https://i.ytimg.com/vi/DxvJVpn82vA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCADfHdBgtVIMEif5cQVoRahFALsw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/DxvJVpn82vA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLChpsH9uxGxu-EeOotODtmVuAt5nQ",
+      "url": "https://i.ytimg.com/vi/DxvJVpn82vA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBaq7qRtIjZiynWg-B5BpT0D7cYKg",
       "width": 720
     }
   ],
@@ -10349,12 +10349,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/yV6Mtpy44dk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBpk_NjENN62vWjqro_LjWqMbHFeA",
+      "url": "https://i.ytimg.com/vi/yV6Mtpy44dk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDzVt2tJzSU5lLMZml13eWiB-d4sg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/yV6Mtpy44dk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA0MSv2NtmKcDQvwbnII3GBQZigeQ",
+      "url": "https://i.ytimg.com/vi/yV6Mtpy44dk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDB5xGM8RJkOf1ZNgPz0e4IzBeU9Q",
       "width": 720
     }
   ],
@@ -10385,7 +10385,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/L4AW6-kDK84/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB6JteWoCUk8P7JIKFx7AS6BmTwpQ",
+      "url": "https://i.ytimg.com/vi/L4AW6-kDK84/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDYUFJOf4aHmBSv9OGKnnJQHevg5w",
       "width": 480
     }
   ],
@@ -10416,12 +10416,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/hpG_RdVy0Lo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCkr2-NAr3chAIuFUp31wauZ2Jvjw",
+      "url": "https://i.ytimg.com/vi/hpG_RdVy0Lo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCAAaGmh6xGZ3n0kVjc5A6YjbMA3Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/hpG_RdVy0Lo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABGRHhX4b-kJ5y8dIpUIYze-Z4zg",
+      "url": "https://i.ytimg.com/vi/hpG_RdVy0Lo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC0UQRDI5vDX_FslCSwyJqOwZuHhg",
       "width": 720
     }
   ],
@@ -10452,12 +10452,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/r4fhata7xe0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCquMEyQoXWYGbhf3eBm7BNQ5FPHg",
+      "url": "https://i.ytimg.com/vi/r4fhata7xe0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDSp4jaVQRhHu1Wd2BxC0O7NHimWw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/r4fhata7xe0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBHWahTPoS0_u_hfGwqiJEmJBlARQ",
+      "url": "https://i.ytimg.com/vi/r4fhata7xe0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCo0hJw_Tukfwx-Aky-AyENPO3c1g",
       "width": 720
     }
   ],
@@ -10488,12 +10488,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/7BwsPaFDl9E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDxc6xhkVQHCShcwZjhHShhIhEl9Q",
+      "url": "https://i.ytimg.com/vi/7BwsPaFDl9E/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBOWo-bck4opUGJkz4Bml89Jm2hXQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/7BwsPaFDl9E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDsPi76FnXRsiSjFaK9N2Ik7HgXMQ",
+      "url": "https://i.ytimg.com/vi/7BwsPaFDl9E/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBw7Z4j8L6F2bA2mprcJW_KH_GC2w",
       "width": 720
     }
   ],
@@ -10524,7 +10524,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/3BoU1jYz384/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDRzOaZORNIS80s6hmq1WWzUBT0-g",
+      "url": "https://i.ytimg.com/vi/3BoU1jYz384/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBDJmVuI01x4dofhQ92_d_dJlO8pA",
       "width": 480
     }
   ],
@@ -10555,12 +10555,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Cc9XBcUioBI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCujjSeX2p1ZkJDfBfAcOlh5BcDLg",
+      "url": "https://i.ytimg.com/vi/Cc9XBcUioBI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDoMGkMCVGc9YpBm7N6uN9zmtI-Tg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Cc9XBcUioBI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBZNGgy-hyCoQBuaFwsWruhRTAbmw",
+      "url": "https://i.ytimg.com/vi/Cc9XBcUioBI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCofQQK97KlsVLP_clIPTOIZlW7eA",
       "width": 720
     }
   ],
@@ -10591,12 +10591,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/_PY3YqYZCRE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB8KgqH7di1xhH6e95kW2qB6pOTcw",
+      "url": "https://i.ytimg.com/vi/_PY3YqYZCRE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD7Rd7XVFyVVQNZiKRm5mBV38hqqg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/_PY3YqYZCRE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBVOat9Y-XIls0xEw3PDe-VMfM6EA",
+      "url": "https://i.ytimg.com/vi/_PY3YqYZCRE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBHMU9v2181CeCZ2TGOts0CRy4pUg",
       "width": 720
     }
   ],
@@ -10627,12 +10627,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/RX5kgTpvK8o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA6RkQbcHnoI_1nSV4qYGSBJA4mKw",
+      "url": "https://i.ytimg.com/vi/RX5kgTpvK8o/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCuudRnu5YCMytb3IXN-RTbqhTngA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/RX5kgTpvK8o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDJpoaEasgjEgP72ogy59c_zYcsOQ",
+      "url": "https://i.ytimg.com/vi/RX5kgTpvK8o/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB5nqN9iGFEhQ5IfyyRiy_DVnxFlg",
       "width": 720
     }
   ],
@@ -10663,12 +10663,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/xLMdNk4DGOc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCFa7s_AZvSi3nBlAY-JtbbJYsAKw",
+      "url": "https://i.ytimg.com/vi/xLMdNk4DGOc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD1wfB8MIMetId3Sw75x6El6lxW5w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/xLMdNk4DGOc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCAgaWKP00pZrBF-qfP2zkskmKrJQ",
+      "url": "https://i.ytimg.com/vi/xLMdNk4DGOc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLClZ5-saklJiqyPc_SkGD73S6Mccg",
       "width": 720
     }
   ],
@@ -10699,12 +10699,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/BAEqGUm_wxs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLClE3B1Y5K5npUVyJbvXfl0hhHRgw",
+      "url": "https://i.ytimg.com/vi/BAEqGUm_wxs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCHENE87EpLPMoha0TUbM3JmTBrSQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/BAEqGUm_wxs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDzSoelfL3_ODBrb4VIIX1Zrgw87Q",
+      "url": "https://i.ytimg.com/vi/BAEqGUm_wxs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBSmoPWwyZ8Phhec4YV4firLGW2hQ",
       "width": 720
     }
   ],
@@ -10735,12 +10735,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/qe3NQ2lL2V4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA39gaNAh3Y968LmwEs42et05ho4A",
+      "url": "https://i.ytimg.com/vi/qe3NQ2lL2V4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDyH5YBF_Jtgws6cUkDm91XPkAQzw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/qe3NQ2lL2V4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBvffxFT6R53X0MtVfc7pwQuHHzcg",
+      "url": "https://i.ytimg.com/vi/qe3NQ2lL2V4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAmXPTry9Cp2w92wEVMWEaVT3ixBg",
       "width": 720
     }
   ],
@@ -10771,12 +10771,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ks0o4gXh9NI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCsrUhWK7EZkBtFkgwUBKPc8HpTiQ",
+      "url": "https://i.ytimg.com/vi/ks0o4gXh9NI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAXnhKIbtJQy7BYWLd---Wh2YWLeA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ks0o4gXh9NI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDiaSSfgf4rpZ86iIltki9megdw0w",
+      "url": "https://i.ytimg.com/vi/ks0o4gXh9NI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAa-xl5cEj3pwAzzyoCJ_-XA0X-yw",
       "width": 720
     }
   ],
@@ -10807,12 +10807,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/NOFRVCT2Xx0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD9ivIh5csVDectx93qz6n4IhKRaQ",
+      "url": "https://i.ytimg.com/vi/NOFRVCT2Xx0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB1iPFfYz_D6yMTjwmSwR1rA-6aVg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/NOFRVCT2Xx0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDG3gMEihimjTSOXy1thRo3abpm3g",
+      "url": "https://i.ytimg.com/vi/NOFRVCT2Xx0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBGrmZN8rGEnRlu192Ij0D5q5OOGA",
       "width": 720
     }
   ],
@@ -10843,12 +10843,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/FeLs8aJF2wk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA7_xZFBGyYB1Ihsr0U6_XTcUPWhw",
+      "url": "https://i.ytimg.com/vi/FeLs8aJF2wk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAI8wnTawfrJkauj2YeaGTqsM73UQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/FeLs8aJF2wk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLATfJ5Issz8YEymvyHiDEXTFRh6jQ",
+      "url": "https://i.ytimg.com/vi/FeLs8aJF2wk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCbZYEnXeVUDocWUblBLYaCXuUfoA",
       "width": 720
     }
   ],
@@ -10879,12 +10879,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/dsrPYivNgXc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDwo3ivRwcJ60fb-ViD4XNG-jV7IQ",
+      "url": "https://i.ytimg.com/vi/dsrPYivNgXc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBPnti5QsZSwISM-GiEcf-_BVOhhg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/dsrPYivNgXc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCRTsoL7OvIR7i7PAezQbbECy41iw",
+      "url": "https://i.ytimg.com/vi/dsrPYivNgXc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBCOghotZloYHqkdovfwWNhjvfk2Q",
       "width": 720
     }
   ],
@@ -10915,12 +10915,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/KMrVKtVrJ3Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLACZPVMjPAaBbYj_ZLE7f3wqlDfYg",
+      "url": "https://i.ytimg.com/vi/KMrVKtVrJ3Q/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAGJgm-qyhwMRr1jzwTkwvjqBT8-w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/KMrVKtVrJ3Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAJ4YooABOhS0zztWlUan3aVZme-Q",
+      "url": "https://i.ytimg.com/vi/KMrVKtVrJ3Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDW_7ycwVPBtkJFhQZ_Y-S4jIY5Bg",
       "width": 720
     }
   ],
@@ -10951,12 +10951,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/6H0e4c-SPgo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD6iYFy-KTa9OcOYRs-HEu2JuKFGg",
+      "url": "https://i.ytimg.com/vi/6H0e4c-SPgo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCQBbGmjPrRJyUCON6MQspd-7n-_Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/6H0e4c-SPgo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB3Vns8IG7EvDuCcJ2-Xo92kJ0GhA",
+      "url": "https://i.ytimg.com/vi/6H0e4c-SPgo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCTNU45jb1YiCnGeKdbP_UK1NKSAQ",
       "width": 720
     }
   ],
@@ -10987,12 +10987,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/CxD9xy_NmFQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAroUm97b9CdZYxWImV5lT6czaEyA",
+      "url": "https://i.ytimg.com/vi/CxD9xy_NmFQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDFWwUpe0-U7tyiUhykKS7YlbrCHA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/CxD9xy_NmFQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD46e5oD8lKd0HxhkFjY_d4aRRZRQ",
+      "url": "https://i.ytimg.com/vi/CxD9xy_NmFQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB_ezO7YhHRgjsEZV5N3myugk9dVQ",
       "width": 720
     }
   ],
@@ -11023,12 +11023,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/NC5HMquGn4s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCyRWoyXCF4mD7JQzdjN6ksAqI14A",
+      "url": "https://i.ytimg.com/vi/NC5HMquGn4s/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAo60ew7CumfdcsbJGfAuFbhrgHiw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/NC5HMquGn4s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBaixGNBzevpZDgZ8yrfAWIzyO4sQ",
+      "url": "https://i.ytimg.com/vi/NC5HMquGn4s/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDsL9nywZJr7w53nMhvmkScCptjug",
       "width": 720
     }
   ],
@@ -11059,12 +11059,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/6FqwosOqJCs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBLSziV5mZKBEaRsXJQDYjksQYxYQ",
+      "url": "https://i.ytimg.com/vi/6FqwosOqJCs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA0nHZSL8nsXY7cOjBW8sfYJu4PDA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/6FqwosOqJCs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAKdipLyU2kECUeH5AeZwNrnyKpdQ",
+      "url": "https://i.ytimg.com/vi/6FqwosOqJCs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDbzNyv-Mjzz_ytqkjdp80lCDwmIw",
       "width": 720
     }
   ],
@@ -11095,12 +11095,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/pvfM_oWFs-o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAZDkqzcWNPSwwEmJoOTZIpZUo6dw",
+      "url": "https://i.ytimg.com/vi/pvfM_oWFs-o/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDrF2vtoURAPCU0mZfTTUXUIw2X9w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/pvfM_oWFs-o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBWBNryYnNRnlp_Qw1B8IlqvG-iTg",
+      "url": "https://i.ytimg.com/vi/pvfM_oWFs-o/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCzWwB3Jqi4GXw73yMx5xh1gQw-Ng",
       "width": 720
     }
   ],
@@ -11131,12 +11131,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/qW3iZCv7vSA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBpCqlql059atPjm11M3wpxBYz3SA",
+      "url": "https://i.ytimg.com/vi/qW3iZCv7vSA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDM-qWO8gjL3nNncE34T_h-ewEh8w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/qW3iZCv7vSA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBaFKiOXZG2YuttODfcYY-sLwPW2g",
+      "url": "https://i.ytimg.com/vi/qW3iZCv7vSA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBfgCyLaHPd0ODRfO6CM67UOdWk9A",
       "width": 720
     }
   ],
@@ -11167,12 +11167,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBAUMTHdLqpbrvkqCdZP7PDg8Nevw",
+      "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDypvm8lmUZiOPhfHTZI6qsRdEphg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLARCQVIM_dWtcVEcgKR9a5sRvix_g",
+      "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDHx3HjcVmCrYMeP48uNgA183T9Ig",
       "width": 720
     }
   ],
@@ -11203,12 +11203,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD6ce5XyUQh-dv5rUe7QkejxZSRTg",
+      "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAIietgdKhm_0Z-w7689Sq2IYz6Zg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAhm5jTah5aVdef3vhzbV8PzbZU7w",
+      "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAUis35hKa4DUWYKVr4JFnK1Bnihg",
       "width": 720
     }
   ],
@@ -11239,7 +11239,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/_v6OyPyqt9U/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCTop7DfEyOcRdqp0yQWjcMZywaTw",
+      "url": "https://i.ytimg.com/vi/_v6OyPyqt9U/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA4mlNvpncVg8LuU3eXsz60CVQXJQ",
       "width": 480
     }
   ],
@@ -11270,7 +11270,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/t1JY_MMPyhU/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBiL1zg7UnU8ZgFnCOKSKlhzbun8g",
+      "url": "https://i.ytimg.com/vi/t1JY_MMPyhU/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAaSs9X2VRUdpO7JQThfpdWX0EfjQ",
       "width": 480
     }
   ],
@@ -11301,7 +11301,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/OjAWVXB6_F0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCU7nyvkO6dlej2fBxO3Eak4OGacg",
+      "url": "https://i.ytimg.com/vi/OjAWVXB6_F0/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD1eGFyN0PTgAe6FMISelN2f2LwBw",
       "width": 480
     }
   ],
@@ -11332,12 +11332,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/uGm9ygpMxeU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBUl3pQPw9Sf1NWC-tYmlgMoDUYJQ",
+      "url": "https://i.ytimg.com/vi/uGm9ygpMxeU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAOtd3q_3y3cgq-GHZIiFOUvw-LVQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/uGm9ygpMxeU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBo6LD09aCpJFc5iSiINzxYgzqfHw",
+      "url": "https://i.ytimg.com/vi/uGm9ygpMxeU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCYQfm0CGSWnfdd7FRs2xPBcX8FvA",
       "width": 720
     }
   ],
@@ -11368,12 +11368,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/52_qDIBcexA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDlP7W-KgKo_QYVRTXyTfUTf5tgqw",
+      "url": "https://i.ytimg.com/vi/52_qDIBcexA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCjnBJJhoP0ow6tqvUmncLiXfuN2A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/52_qDIBcexA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAEeD7UNDW9QauEFtwUa-gNBDa8sw",
+      "url": "https://i.ytimg.com/vi/52_qDIBcexA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCAy2eztx6vAp1pHkipL6CE2_plpw",
       "width": 720
     }
   ],
@@ -11404,12 +11404,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBqD1_gNktT-hV3k7FcVJQOVz1xcg",
+      "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD9p6b2keAF5WCTRaWnCfBcCBxXfA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC1ina1RrQj5_CLg8v9Fc1vX0P7wg",
+      "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAKNUc_AYCVJE3ZGUw2HfFXX3FWVQ",
       "width": 720
     }
   ],
@@ -11440,12 +11440,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC6uoJPRwcQLL_G0jPiuCUi0hT-Lg",
+      "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDkELhQEPM6ueiqjegA6juY0Cc8Rw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBA4g_fJKtOIxntJ_UThYg9MRH7tg",
+      "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBFburav7O5bTFrg7F6D6S10YCNlg",
       "width": 720
     }
   ],
@@ -11476,12 +11476,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/LIn-vq1y9m0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAualH7NN7iy6Ol1m0x883kLlLv4w",
+      "url": "https://i.ytimg.com/vi/LIn-vq1y9m0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCGayZzJwaKRx-M5_HdgyXaVbW3Og",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/LIn-vq1y9m0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA8SYyWtKDVWBoqsrsq0TKBeg7MbA",
+      "url": "https://i.ytimg.com/vi/LIn-vq1y9m0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDqfy1KYzRvzBiFuemUj1UqfIM91w",
       "width": 720
     }
   ],
@@ -11512,12 +11512,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBJzB0nvdwwWqjRRR1l3YOC2ARUAA",
+      "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCUy1LfDcCvzWkS6G9UqMisAA2LsQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD1Ee0VKSgK9jMrzFuSjbNpRrwhuw",
+      "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBAjMfclECPIxuHYTOq7e0W1Qg05w",
       "width": 720
     }
   ],
@@ -11548,12 +11548,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCmGHpwmYoCYiBCDzetY41zrN6WKw",
+      "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBPV-rbDEx0nIWmFl4Z6ul7TfViog",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCOqCcyYiSO7BeeD-SdwqDbumazFw",
+      "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD5jfdLG3zHf7s9cRZHsTAn7jeUlQ",
       "width": 720
     }
   ],
@@ -11567,7 +11567,7 @@
 
 </details>
 <details>
-<summary>Asm для JS программиста:  Введение — ID: MHNKeEo0HOQ</summary>
+<summary>Assembly for JS Programmers: Introduction — ID: MHNKeEo0HOQ</summary>
 
 ```json
 {
@@ -11584,17 +11584,17 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC3dRFiOybThtkB9QhpgqQi3oWsEQ",
+      "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBcUXBeuWzXxbQQbcJcswevlvPO2Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAZvkuSdtANOyJ3t6QTzlAFYBZ4YA",
+      "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDSZC0PrIcqAtPEkI6f-KB-FlJO8g",
       "width": 720
     }
   ],
   "timestamp": null,
-  "title": "Asm \u0434\u043b\u044f JS \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u0430:  \u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435",
+  "title": "Assembly for JS Programmers: Introduction",
   "uploader_url": null,
   "url": "https://www.youtube.com/watch?v=MHNKeEo0HOQ",
   "view_count": 12000
@@ -11620,12 +11620,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/fsgT-1KDqpI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA7_to_dPA6swn6aJVIDwZHywtTkQ",
+      "url": "https://i.ytimg.com/vi/fsgT-1KDqpI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDY4uhneViONFyJPtOwYnhFNUb8CA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/fsgT-1KDqpI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCAy93Hh0r5y3TNK6rSSW1mOgxm1w",
+      "url": "https://i.ytimg.com/vi/fsgT-1KDqpI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB2wow5dy6CDodEtF2oHk67kxQoEQ",
       "width": 720
     }
   ],
@@ -11639,7 +11639,7 @@
 
 </details>
 <details>
-<summary>Смотрим вместе YT:  Реализация хранения данных. Стек и куча. Oddball и иммутабельные примитивы — ID: 0fPH7mhlSGg</summary>
+<summary>Watching Together YT: Data Storage Implementation. Stack and Heap. Oddball and Immutable Primitives — ID: 0fPH7mhlSGg</summary>
 
 ```json
 {
@@ -11656,17 +11656,17 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/0fPH7mhlSGg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAfaPSMSpjqDe2R3ebekn3dQo2ifQ",
+      "url": "https://i.ytimg.com/vi/0fPH7mhlSGg/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAeC-fUf3HTJJjv3XXQrAEXs3TBOQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/0fPH7mhlSGg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBNBT-ebKOXEkG9xyQMFNILkOD58A",
+      "url": "https://i.ytimg.com/vi/0fPH7mhlSGg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAE1hDlWVaDS-CIBYrWubRiC5fkkg",
       "width": 720
     }
   ],
   "timestamp": null,
-  "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT:  \u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445. \u0421\u0442\u0435\u043a \u0438 \u043a\u0443\u0447\u0430. Oddball \u0438 \u0438\u043c\u043c\u0443\u0442\u0430\u0431\u0435\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0438\u043c\u0438\u0442\u0438\u0432\u044b",
+  "title": "Watching Together YT: Data Storage Implementation. Stack and Heap. Oddball and Immutable Primitives",
   "uploader_url": null,
   "url": "https://www.youtube.com/watch?v=0fPH7mhlSGg",
   "view_count": 4500
@@ -11692,12 +11692,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAD4-Sdlfsf3VluwM8aYa3on4TSSw",
+      "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAbfEyMq-e8By8sQQFLLSTo-j6J-Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCHyWisuUjk7NSS8zA3Cel2AU_RLQ",
+      "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCOyuyycmoYQIpuAKGGI__VjkPTgQ",
       "width": 720
     }
   ],
@@ -11728,12 +11728,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC87PVikYDI68ceXcor0NOk9GctHQ",
+      "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA-MtfY7wa7pu0bLQ3mVeIp1LNzJg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBekM6MN5tTS9aotQNS5Hen8IOKxA",
+      "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBaqWbhqD_jYJxmvO78dFF83u2JBg",
       "width": 720
     }
   ],
@@ -11764,12 +11764,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCoy6WSE7VdXmJ0QWnW5riy3QYtsg",
+      "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAEcOkgMYTNfvABzyDmKvNSmhX99Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAbRjeQLRnIDCjQsraF46k3bITdng",
+      "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB2WI5UPQA6pYJYSSycaM2epssPdQ",
       "width": 720
     }
   ],
@@ -11800,12 +11800,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCkAFXopIWrQwbrdq3fKvHxHWD4WA",
+      "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBepfEyJza4PmSoq-H-z5cegzro9g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBVsn6vxuKgcE4rIsGHsimnP441yw",
+      "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLADh_yuRH4v0gtG5XwGCya5RZsmBw",
       "width": 720
     }
   ],
@@ -11836,12 +11836,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAVj0eDNxw_ldWKWJ6nvBmx2zYA5w",
+      "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDFB7KCH94rYGRSZ4Ljg6qnGRRhrw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAujxPr9CYQxGmhzFCWsCxHKq7Aqg",
+      "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDdIiZVVOxlBY1R86azo1vU-CziDg",
       "width": 720
     }
   ],
@@ -11872,12 +11872,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBHrDwEunHM2J3utaSXLZXkiwczCg",
+      "url": "https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLATHC4DahMevzjhEcnLy3Tn1uf6lA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAH9cOzlkJs3zcBHpu95op7YHf1cA",
+      "url": "https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAQjP9E2sfKgraXyTKYww-gGaMyxw",
       "width": 720
     }
   ],
@@ -11908,12 +11908,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/_Uyzj7ycemc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC4dFXzppj3HczHVaeovkjECU0l-Q",
+      "url": "https://i.ytimg.com/vi/_Uyzj7ycemc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCVLz2wDJ9cZyaXKMJfxn5oI_Kpdg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/_Uyzj7ycemc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDINNxQq6xO5EYrHuDVmbphDfwTdQ",
+      "url": "https://i.ytimg.com/vi/_Uyzj7ycemc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAtuKD18uEIjnN6FwGRXXgmdVW7vw",
       "width": 720
     }
   ],
@@ -11944,12 +11944,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBV6qAhSCkEmhlVJk8jvgnyxc9EKQ",
+      "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCrluSfZ9_pYr2NX3x9d1vVy8oRZA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBGot5JHWAt-1bC-xM3isoBVw_YyA",
+      "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCP_KAxHCrCEZHnmmAWgR1NFVh9ww",
       "width": 720
     }
   ],
@@ -11980,12 +11980,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBpU7eN-p8VRh-rUYzshla5Y0X3uQ",
+      "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC6cxynheTT6X6AMmVf0IzG6zPwhw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBVGvQUdVZmeyyY6HNTyN1SFVmwVg",
+      "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCMY4nUfepEkBViESfxnQSfKuJq_w",
       "width": 720
     }
   ],
@@ -12016,12 +12016,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCoCy-8N9anfu-aA3_Am2n2qgmpNQ",
+      "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDVi55vUinYU6lUJNmbUtNHEe3qGg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBx4ku1uC8InZJmKFlMkATKgmNGZw",
+      "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLADipGxb44AyChO8tffTvUs0fzMDQ",
       "width": 720
     }
   ],
@@ -12052,12 +12052,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/nwrN8FY_cVo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDEiV5FC-VFHj_DKpFsPPqj5K7Nfg",
+      "url": "https://i.ytimg.com/vi/nwrN8FY_cVo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD9WTepwWz8sjYJdHJmgUUuRlUVnw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/nwrN8FY_cVo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAymHwTsneX1fZdDEn-3aHXGL89AQ",
+      "url": "https://i.ytimg.com/vi/nwrN8FY_cVo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAq4VkClxsr3psW0tnTto_xvmhJwA",
       "width": 720
     }
   ],
@@ -12088,12 +12088,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Bz7pIC4h-7U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD0XzAUKnvjRHgmmK_GX-vSqtwWOQ",
+      "url": "https://i.ytimg.com/vi/Bz7pIC4h-7U/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAc1exqZNrbQjqeKThZXz01pw_G4w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Bz7pIC4h-7U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCUYETaHzM_uQefEBXt-7D-sJ5nng",
+      "url": "https://i.ytimg.com/vi/Bz7pIC4h-7U/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLACK-W_DL2DXFzztDemBw1caZczcg",
       "width": 720
     }
   ],
@@ -12124,12 +12124,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/OkVgzONhpiU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCl3Nyj1ih7mIVl8ISsPX6F9w6QoQ",
+      "url": "https://i.ytimg.com/vi/OkVgzONhpiU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAXbBAw9AfdukboQ30C3QUBJiPIRA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/OkVgzONhpiU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDEXGKLe-nnwYTFH-eCiUC0yzWQ5g",
+      "url": "https://i.ytimg.com/vi/OkVgzONhpiU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDUS077T7Fwfto2OhHm5gxKNQflOQ",
       "width": 720
     }
   ],
@@ -12160,12 +12160,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/AbHf_k9ydcU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCmE330STE7rBCDiI7C_pBTq9LuuA",
+      "url": "https://i.ytimg.com/vi/AbHf_k9ydcU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA0C41fo7Ct5wpx-1vGYF0rSC8R2g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/AbHf_k9ydcU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAY0txZ7Lk_UKmmbp7hFOHI2NSTig",
+      "url": "https://i.ytimg.com/vi/AbHf_k9ydcU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLACAc8zCrm3N0b9vo1XS3ZDXyYJ5Q",
       "width": 720
     }
   ],
@@ -12196,12 +12196,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/fWqOswHMjEo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDN4_uZLTzB5xOWgXL3GoDpOwL7Kg",
+      "url": "https://i.ytimg.com/vi/fWqOswHMjEo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB43hmGQhW8o37iLmgg3aL-H5LO0Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/fWqOswHMjEo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBbl8w9EfXI9cW6la74fnfPCy1hoQ",
+      "url": "https://i.ytimg.com/vi/fWqOswHMjEo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDhwLD8RwVeae1oDaEzfkjsFqQVfA",
       "width": 720
     }
   ],
@@ -12215,7 +12215,7 @@
 
 </details>
 <details>
-<summary>⎡dlgs:6⎦ Про оптимизацию JavaScript данных в браузере — ID: JcrguEFkW0k</summary>
+<summary>⎡dlgs:6⎦ On JavaScript data optimization in the browser — ID: JcrguEFkW0k</summary>
 
 ```json
 {
@@ -12232,17 +12232,17 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/JcrguEFkW0k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCwlHtfSmBnfWuAv-LPYheikXZRqw",
+      "url": "https://i.ytimg.com/vi/JcrguEFkW0k/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD8FMo5biYzpvJvPTAcGWAT2u03qA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/JcrguEFkW0k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCZFmUmW9U0yzipM8LmjDBXsWHV9Q",
+      "url": "https://i.ytimg.com/vi/JcrguEFkW0k/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDU_8zBkDMNacouxPWuHeuGIP6KQw",
       "width": 720
     }
   ],
   "timestamp": null,
-  "title": "\u23a1dlgs:6\u23a6 \u041f\u0440\u043e \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044e JavaScript \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435",
+  "title": "\u23a1dlgs:6\u23a6 On JavaScript data optimization in the browser",
   "uploader_url": null,
   "url": "https://www.youtube.com/watch?v=JcrguEFkW0k",
   "view_count": 5200
@@ -12268,12 +12268,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/6yd_m64mlv8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD7jxKl2UOl041bKcnmDS_eqqY5mQ",
+      "url": "https://i.ytimg.com/vi/6yd_m64mlv8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDMNY6jeTanzgk_mWVJIdDKZR7tcA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/6yd_m64mlv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCiihIsnN-tnjoh2pWjZgMwr4VCMA",
+      "url": "https://i.ytimg.com/vi/6yd_m64mlv8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAk7mk-DYaV6clO8tCduW3onwSp4w",
       "width": 720
     }
   ],
@@ -12304,7 +12304,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/RrGMG4S0hLQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDVN6xtMWMRk2PwUyxSQiRyveg4UQ",
+      "url": "https://i.ytimg.com/vi/RrGMG4S0hLQ/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD_5Cx6_0UaHj7CGbT1OqnO13UC5A",
       "width": 480
     }
   ],
@@ -12335,12 +12335,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/txtjFC4SPJI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAIaalWmKSbpvOTKebCgZLqD4vcMQ",
+      "url": "https://i.ytimg.com/vi/txtjFC4SPJI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDy8Pukz0uYJAQMBFblEG8ebx_w0w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/txtjFC4SPJI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBy1dACCTTYNMO6P2yotqPJALhTOQ",
+      "url": "https://i.ytimg.com/vi/txtjFC4SPJI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDLafcbubeJLuwQnH2K7E8vTlxpFA",
       "width": 720
     }
   ],
@@ -12371,12 +12371,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/MrWXqXWRG2o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAbXQlVJ2thy0lYrn1CmcyL_qA6Lg",
+      "url": "https://i.ytimg.com/vi/MrWXqXWRG2o/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD3aLDtGwDng8JM0w05twmie368cA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/MrWXqXWRG2o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAAjJ5U8p9wqA326GoM4VFFdXlxPw",
+      "url": "https://i.ytimg.com/vi/MrWXqXWRG2o/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB98JKmUt9etJrc8KMen22mlrFYjQ",
       "width": 720
     }
   ],
@@ -12407,12 +12407,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/SMsVPyI6wzA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBqHl-924km0ny5ZCLGu5qSdI5Ylg",
+      "url": "https://i.ytimg.com/vi/SMsVPyI6wzA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDgw48VlgaC-CPZ2Xs-SwJnQh7a5Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/SMsVPyI6wzA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAD6qbj22t0ooJ_Xh5MHwfgX_1pZw",
+      "url": "https://i.ytimg.com/vi/SMsVPyI6wzA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC9N08SBlKt1GCeZrOa-JEgweKwNA",
       "width": 720
     }
   ],
@@ -12443,12 +12443,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/hjYb9tOsumM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLByKbaRh1bsKmrAl_ZgWfU29ntsiA",
+      "url": "https://i.ytimg.com/vi/hjYb9tOsumM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCgSzosszZfUhKI5b1jVKFLkQLQtA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/hjYb9tOsumM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBqNcs4ZLGscNSOWSJhGcifwEKQAQ",
+      "url": "https://i.ytimg.com/vi/hjYb9tOsumM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBYKluAITcM9rL8LtVCMInjSI2i6A",
       "width": 720
     }
   ],
@@ -12479,12 +12479,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/xpFPhMERCLc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDxMpsfDLhJsja9I1prjKkuZpZjug",
+      "url": "https://i.ytimg.com/vi/xpFPhMERCLc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAFAKVi_TmpzasKUv-PVgxFFPTCmw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/xpFPhMERCLc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBeUKme5522BL3_uPG1cY5ZfVeynA",
+      "url": "https://i.ytimg.com/vi/xpFPhMERCLc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAO9Vk-40xtWryZwSgYsxpp_Z4KAw",
       "width": 720
     }
   ],
@@ -12515,12 +12515,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/eDkheYAsqro/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAHhhZEgqiq63Gr2Nt4B7LTXvgjIg",
+      "url": "https://i.ytimg.com/vi/eDkheYAsqro/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAOUfFHQFvwKO6FHgnWYXCp97L6bQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/eDkheYAsqro/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDglvRO2sp_GB9Bg7bKKZQuai9bRw",
+      "url": "https://i.ytimg.com/vi/eDkheYAsqro/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAbAximhIem50YUjoKbREP52vrTRA",
       "width": 720
     }
   ],
@@ -12551,12 +12551,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/kk8tzKB45Sk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAefBPGYSJpr4E7ANNJjo2-pvvBxw",
+      "url": "https://i.ytimg.com/vi/kk8tzKB45Sk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCsV5wts2ASVcCur6LpGXNJn2sb9g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/kk8tzKB45Sk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD4eN7TegvXxwenBW8V0bGdZl49dg",
+      "url": "https://i.ytimg.com/vi/kk8tzKB45Sk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC4lh2RGMOiqDoSIt1JU4qxJhMpsw",
       "width": 720
     }
   ],
@@ -12587,12 +12587,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/jJq6jxuKm28/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC7z9nfk-qCMtuWoTyOf-l_eQEuuw",
+      "url": "https://i.ytimg.com/vi/jJq6jxuKm28/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDKHLk-pDGuL3i8RUhrx63G11_V6Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/jJq6jxuKm28/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD-s2oWdyZqBoij9GE26WKTBo-n4w",
+      "url": "https://i.ytimg.com/vi/jJq6jxuKm28/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCOZ45tvFusaNqEmxdKkYn-hh9YjA",
       "width": 720
     }
   ],
@@ -12623,12 +12623,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/m0FfqI2zB4U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDSgLR20g8UDoUyNQdQqpQnStCW2A",
+      "url": "https://i.ytimg.com/vi/m0FfqI2zB4U/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBNzWxGUx814npre4sXNx5xmUNp9A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/m0FfqI2zB4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCQud-TumXgzWsui9UqltFD4Bn7bA",
+      "url": "https://i.ytimg.com/vi/m0FfqI2zB4U/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAqzfa0fc7hkBkCbmmRzlbkWSV9mg",
       "width": 720
     }
   ],
@@ -12659,12 +12659,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/NYs1pHJIZQA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCq-Q-FWsjMV14k61cW3l6BpfadtQ",
+      "url": "https://i.ytimg.com/vi/NYs1pHJIZQA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAU70G8RwV5Gzl6b9Y7lDUbddqOqQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/NYs1pHJIZQA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC7bfGyzUQ4axib0U14rVKxS9v0AA",
+      "url": "https://i.ytimg.com/vi/NYs1pHJIZQA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDbUREBSyBoTXnjIpR2Vw5l9EBzvg",
       "width": 720
     }
   ],
@@ -12695,12 +12695,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/kIjm6ZEbkiU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDnetK-KAtIX9qxCM6GX7WR62y1xQ",
+      "url": "https://i.ytimg.com/vi/kIjm6ZEbkiU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDpCdyX060p3jTudIDF69CyO4F4BA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/kIjm6ZEbkiU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBXAkh1eAYp3aPm-1UKhEOJZsaP6w",
+      "url": "https://i.ytimg.com/vi/kIjm6ZEbkiU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAX1EVvn8qhfp4dkiMKYQi7jaxc6A",
       "width": 720
     }
   ],
@@ -12731,12 +12731,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/u_bsXuBOO74/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA-nm0kzs2Mh0FoU3825cydKdPjwQ",
+      "url": "https://i.ytimg.com/vi/u_bsXuBOO74/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAw34PAvCW6DZPaGLOp5GXEBlg7Xg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/u_bsXuBOO74/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC1AXfsNKE3DLUsSmhpFAClIiW-AQ",
+      "url": "https://i.ytimg.com/vi/u_bsXuBOO74/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBWAFIKIfcdsWU3AA84lteO37yciw",
       "width": 720
     }
   ],
@@ -12767,12 +12767,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/bOJoFZeuxho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCmcZ9-DAl9N3DJACo1bt-Fbod2xw",
+      "url": "https://i.ytimg.com/vi/bOJoFZeuxho/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBvLUbvJUFPaIVMoEEKhRRZuvNy7Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/bOJoFZeuxho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA0rFsFFpg0ByHaiTtw4YGYwQKyXQ",
+      "url": "https://i.ytimg.com/vi/bOJoFZeuxho/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCebhHRizmPhwW9Xv_84_PYVS9Y4Q",
       "width": 720
     }
   ],
@@ -12803,12 +12803,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/65mxbswN1DM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDnSZ2P5QTWLkQeF-Be6d5h8ZRBeg",
+      "url": "https://i.ytimg.com/vi/65mxbswN1DM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDQPXCLRz5NmLQN3xvFIpoPV0xO2g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/65mxbswN1DM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC8-Dbh69TFYEysdDHhiK8qT0Ioqg",
+      "url": "https://i.ytimg.com/vi/65mxbswN1DM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAyCGLOBw3oW5RhkWY7X-TPekuxog",
       "width": 720
     }
   ],
@@ -12822,7 +12822,7 @@
 
 </details>
 <details>
-<summary>⎡devices:04⎦ JavaScript инструменты: Оценка производительности — ID: VHzNbsR893A</summary>
+<summary>⎡devices:04⎦ JavaScript Tools: Performance Evaluation — ID: VHzNbsR893A</summary>
 
 ```json
 {
@@ -12839,17 +12839,17 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/VHzNbsR893A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDFFsxer8lx862MmEMexmw8Hp-xyQ",
+      "url": "https://i.ytimg.com/vi/VHzNbsR893A/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCyQKFxT0rjQX-Ag9DkjeW59M_mpA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/VHzNbsR893A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCzTNv3jhXUSbma1MSSMHG8_sjHMQ",
+      "url": "https://i.ytimg.com/vi/VHzNbsR893A/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAgg2uXdqySCiz-ZV3WkY3lovd8Yw",
       "width": 720
     }
   ],
   "timestamp": null,
-  "title": "\u23a1devices:04\u23a6 JavaScript \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b: \u041e\u0446\u0435\u043d\u043a\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+  "title": "\u23a1devices:04\u23a6 JavaScript Tools: Performance Evaluation",
   "uploader_url": null,
   "url": "https://www.youtube.com/watch?v=VHzNbsR893A",
   "view_count": 7200
@@ -12875,12 +12875,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/mapxDGl0rSM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDBC4VYndLLhx-9i6AaTQiTWprrFw",
+      "url": "https://i.ytimg.com/vi/mapxDGl0rSM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB-QN7wKrp5mcXZiZaA6twdFNLfxQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/mapxDGl0rSM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBk67WtmGOaZ9n1BqWortipCyHvbQ",
+      "url": "https://i.ytimg.com/vi/mapxDGl0rSM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDJlrjD-qgs6En33TfVzSX_cej7VA",
       "width": 720
     }
   ],
@@ -12911,12 +12911,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDZdncotI72gimS0GeI9DsxBAG3JQ",
+      "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLArdZMOAYy0sFw6Qwx19IiuPsXoew",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBW_lRH1Xih993Oz06S4qIjIX7EHg",
+      "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAemyApCJwEjZiCPNfZ25FgUO7oYA",
       "width": 720
     }
   ],
@@ -12930,7 +12930,7 @@
 
 </details>
 <details>
-<summary>⎡devices:02⎦ JavaScript инструменты: Байт-код V8 — ID: lP82yJRujLM</summary>
+<summary>⎡devices:02⎦ JavaScript Tools: V8 Bytecode — ID: lP82yJRujLM</summary>
 
 ```json
 {
@@ -12947,17 +12947,17 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/lP82yJRujLM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCAjfGhyw8B9WKwFl7qBiHpEIgHPQ",
+      "url": "https://i.ytimg.com/vi/lP82yJRujLM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCPZOEyaaD1SyK6QG__i5G-IbTtJQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/lP82yJRujLM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBAXpehrqQyWrc4jBH23wYQYNo0UA",
+      "url": "https://i.ytimg.com/vi/lP82yJRujLM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAIW4AiRHDp4RL9gnlR7MKx1sSTzQ",
       "width": 720
     }
   ],
   "timestamp": null,
-  "title": "\u23a1devices:02\u23a6 JavaScript \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b: \u0411\u0430\u0439\u0442-\u043a\u043e\u0434 V8",
+  "title": "\u23a1devices:02\u23a6 JavaScript Tools: V8 Bytecode",
   "uploader_url": null,
   "url": "https://www.youtube.com/watch?v=lP82yJRujLM",
   "view_count": 4300
@@ -12966,7 +12966,7 @@
 
 </details>
 <details>
-<summary>⎡devices:01⎦ JavaScript инструменты: Как запускать сборку V8 — ID: 0_D2ox_N6hw</summary>
+<summary>⎡devices:01⎦ JavaScript Tools: How to Run a V8 Build — ID: 0_D2ox_N6hw</summary>
 
 ```json
 {
@@ -12983,17 +12983,17 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCQISXBy6SeBhv4zh7IHIaccnn3Wg",
+      "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCZTcn7bq3-RqH4ZVWCXWpQb6eAjg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDfvmjHk_YgdXWoWBrp9_Knn9aUZw",
+      "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC7bCPkSz91W9nW6MuRSEsTyvieFw",
       "width": 720
     }
   ],
   "timestamp": null,
-  "title": "\u23a1devices:01\u23a6 JavaScript \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b: \u041a\u0430\u043a \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0442\u044c \u0441\u0431\u043e\u0440\u043a\u0443 V8",
+  "title": "\u23a1devices:01\u23a6 JavaScript Tools: How to Run a V8 Build",
   "uploader_url": null,
   "url": "https://www.youtube.com/watch?v=0_D2ox_N6hw",
   "view_count": 3300
@@ -13019,12 +13019,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAIpFOsPkXR3ShDmOR7leYvrPddJg",
+      "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBRXYTVzuqVT7nxbqJ6P0AMjabdCQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBMa91B4v83YbfxzkClYThyHOGfSw",
+      "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCPmneM12V2uyrX1tIMYJbIMQHjrw",
       "width": 720
     }
   ],
@@ -13055,12 +13055,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/oDUPhZuyam0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCWHEZk6hjbdFUCVMkmyVkmpEDeoA",
+      "url": "https://i.ytimg.com/vi/oDUPhZuyam0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLACc7umpM4lGbda30neXGWGxdcfJQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/oDUPhZuyam0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBFoyzLdfqGsAfuAmpGRbQ0FkQL0A",
+      "url": "https://i.ytimg.com/vi/oDUPhZuyam0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDlzSkv-v6EykZa8hFodAMCPLecHQ",
       "width": 720
     }
   ],
@@ -13091,12 +13091,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/z1COvf7QFOs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLChKNUKVkjjFmcxeuaDkmqsQbVVMQ",
+      "url": "https://i.ytimg.com/vi/z1COvf7QFOs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBRPOXDsJbp1WJYs9SzZMnZHv7Dlg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/z1COvf7QFOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBAQbH1ZEhrINhlAcbBPe1t1RfUkQ",
+      "url": "https://i.ytimg.com/vi/z1COvf7QFOs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC_2nHwM_v1aOQenIu5OckuifIZCw",
       "width": 720
     }
   ],
@@ -13127,12 +13127,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/X1XXsk79ZE8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD9eLA4zEFV0rP-kqi3-M8HTQ7MSw",
+      "url": "https://i.ytimg.com/vi/X1XXsk79ZE8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAcqkFsMl3vSn3olpHyaQ4p5_Mdkg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/X1XXsk79ZE8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAu8RLTm_SIKWID3bV9mmu0deKWUw",
+      "url": "https://i.ytimg.com/vi/X1XXsk79ZE8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAy-fZMtx7Fsd4jkCkHuSri2AkqzQ",
       "width": 720
     }
   ],
@@ -13163,12 +13163,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/_su4lhLXwfk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDJ0lzvH6v1RkYcUTlZY9TNAcUIZQ",
+      "url": "https://i.ytimg.com/vi/_su4lhLXwfk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB-vPttNntvqDFkjZaWd0rt9_WWUQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/_su4lhLXwfk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC7i4C7Bwu6OZmMdVxLLOUflp2eUA",
+      "url": "https://i.ytimg.com/vi/_su4lhLXwfk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD7PbeUPj6xo85KtIvi2p5Fi4oogQ",
       "width": 720
     }
   ],
@@ -13199,12 +13199,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/9h60U429efA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAd2ifDAGLSDKb1YHi-UvSmhDCGEQ",
+      "url": "https://i.ytimg.com/vi/9h60U429efA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBPB8VRQFM1oDk2yLl-iuNVk_AnuA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/9h60U429efA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBgAbOhhKBSa3mHW925ssqku11yQQ",
+      "url": "https://i.ytimg.com/vi/9h60U429efA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCPFXL0s601OzrVtZtKA1X4hJWWng",
       "width": 720
     }
   ],
@@ -13235,12 +13235,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/YOpSqoidvwA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBn-1I4NarK6IT8krIQebzWIOoGkw",
+      "url": "https://i.ytimg.com/vi/YOpSqoidvwA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCZ2Z0sgM4BwonH7M42y3z_-Kg97Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/YOpSqoidvwA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCpkkF3eDQ5HOViItKT-B7Y_3sDxg",
+      "url": "https://i.ytimg.com/vi/YOpSqoidvwA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAbuqSwRfpKwx7SQm8OMPkdp0m9hg",
       "width": 720
     }
   ],
@@ -13271,12 +13271,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/sQ07i7J8Azo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDD0f8zjBaKJHNfkpx17IrcUtAGlw",
+      "url": "https://i.ytimg.com/vi/sQ07i7J8Azo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLADng9Cn8zSAFUbUPvOuEN0fM1Eeg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/sQ07i7J8Azo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDtn66dv1SWyo14y-SJy_odbl6uxg",
+      "url": "https://i.ytimg.com/vi/sQ07i7J8Azo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAHarH_2NV_E6y6loaN4DITpzKzyA",
       "width": 720
     }
   ],
@@ -13307,12 +13307,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/OQ3yaWfOfQs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDhQbexMMyDaXbk7tZ-o-cig55Xrw",
+      "url": "https://i.ytimg.com/vi/OQ3yaWfOfQs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB8EBuVskj_uRtF_KV42HTWuMUjWg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/OQ3yaWfOfQs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDQmIxwglCrgjmzOw5Ozrm-Eg_uIA",
+      "url": "https://i.ytimg.com/vi/OQ3yaWfOfQs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBTtmd5Q_2ZvBd9YXBLOgNezjXPig",
       "width": 720
     }
   ],
@@ -13343,12 +13343,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/02KDxt_u2To/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAan2Cgjb6iv5K-wrjqNQwto9xNlw",
+      "url": "https://i.ytimg.com/vi/02KDxt_u2To/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA3x0T2p5yXmFfSa_rBZMqBqvUXeQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/02KDxt_u2To/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDvE5xNq7igLnk9VUPzzbgEHbDBzQ",
+      "url": "https://i.ytimg.com/vi/02KDxt_u2To/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB2KEWbzqmYsfTrKGOkcuAACD_H4w",
       "width": 720
     }
   ],
@@ -13379,12 +13379,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/f6NZZ3z27Mk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB4ftYBI7ny3rBaes_5VAcHnBKA9w",
+      "url": "https://i.ytimg.com/vi/f6NZZ3z27Mk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDaGXlKbAtL61BrdNNEV92AXbAnpg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/f6NZZ3z27Mk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBr5uRFPKAKIygmT_awSHr3BBPfoA",
+      "url": "https://i.ytimg.com/vi/f6NZZ3z27Mk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCl7E7aCkNhN2-1vqRMIrw82X8u4w",
       "width": 720
     }
   ],
@@ -13415,12 +13415,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Qf1Ny0lSxHA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDV6kUGZM4CXNUXTctvcmuQ4pNOCA",
+      "url": "https://i.ytimg.com/vi/Qf1Ny0lSxHA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBDkmpOmQoEM6yI43ODUOpC6GfgKw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Qf1Ny0lSxHA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDvtz8q9o0XxKlbb4OkUVKqYOdV1w",
+      "url": "https://i.ytimg.com/vi/Qf1Ny0lSxHA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBTuxjGoEVCsT7gmY4lfo8jX1nJWw",
       "width": 720
     }
   ],
@@ -13451,12 +13451,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/slTxpJIbhAM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDgVM5o-6ZKVKCwKE4RdWtw7K-zjg",
+      "url": "https://i.ytimg.com/vi/slTxpJIbhAM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCAjKKPSObAFm3H3tKZ0rA7-BZ0nQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/slTxpJIbhAM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDX_kvTmlxW_0yfI5O1nya29QHwsg",
+      "url": "https://i.ytimg.com/vi/slTxpJIbhAM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBl_NUTZdsY-DHNhbS5eECFH1np1Q",
       "width": 720
     }
   ],
@@ -13487,12 +13487,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/CE0BhheYFQk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDQ0BLPOetiTB7guSKqZhjDDhNA1A",
+      "url": "https://i.ytimg.com/vi/CE0BhheYFQk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA1Lc47NYbnQOO2gGpkNppJVIe2gA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/CE0BhheYFQk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDLaXj9OpL4Z0IJ4KdQJsxhs47L0Q",
+      "url": "https://i.ytimg.com/vi/CE0BhheYFQk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDdrcK6SKP3Cb6mhLYHrnT83rgYjA",
       "width": 720
     }
   ],
@@ -13523,12 +13523,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/VEPHWJ5SQko/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCJwveq_KYWnNZKJNkqyg3TJHD6Zg",
+      "url": "https://i.ytimg.com/vi/VEPHWJ5SQko/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCyaYY77tY9Wc8HKBJUnBw9vGVzJA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/VEPHWJ5SQko/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBE_9jDTd-EO8J12VO0AIUUMjiDlg",
+      "url": "https://i.ytimg.com/vi/VEPHWJ5SQko/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCWJUC49AqeGyQW9CrAGH6Oai7XkQ",
       "width": 720
     }
   ],
@@ -13559,12 +13559,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/5v32mDS7RjM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDs4d0Wjzvxs0lLX3dX8W4Mu1hBJg",
+      "url": "https://i.ytimg.com/vi/5v32mDS7RjM/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA9AUL-SwFyhQRdhloF0AvQMqgjEw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/5v32mDS7RjM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDu2i5TbaikxDwF1jpmJSxg-QZwCA",
+      "url": "https://i.ytimg.com/vi/5v32mDS7RjM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD6QOsJxsv114TkLN2Chh0MkOMMeg",
       "width": 720
     }
   ],
@@ -13595,12 +13595,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/gdrDBiNLRVU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBVBGQdr_gSPSYSCVdKsFHKBHmphA",
+      "url": "https://i.ytimg.com/vi/gdrDBiNLRVU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCIFVphamz-444TmR8YRI7MekGXHQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/gdrDBiNLRVU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAPmVxflvrDFj0SiVGfHixHLIwu9A",
+      "url": "https://i.ytimg.com/vi/gdrDBiNLRVU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCmalwioHTZnEGba473qXYiMpo-7Q",
       "width": 720
     }
   ],
@@ -13631,7 +13631,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/lC2j5DXSXOE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCc8b8M2G6MIGMK6y1_AXT00H21GA",
+      "url": "https://i.ytimg.com/vi/lC2j5DXSXOE/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD55o9KJ0NXHcWc3UCXXR2GE0n1Eg",
       "width": 480
     }
   ],
@@ -13662,12 +13662,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/8gl4oTXwLtU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCnyCcQCueNKooPMpJn53Dn5xrJFg",
+      "url": "https://i.ytimg.com/vi/8gl4oTXwLtU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBbhGFUK_CFIN-fMDWJ0a9pAQJR1g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/8gl4oTXwLtU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDJBmdRIN3svjsO-bIHfkudWO_bUw",
+      "url": "https://i.ytimg.com/vi/8gl4oTXwLtU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAoyoNYlOj1jaglIQ_xZBJw75MWcg",
       "width": 720
     }
   ],
@@ -13698,12 +13698,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/wm2p5Cksh8k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCVjcak4UUYahrTUvhAqpba2ZXZ0Q",
+      "url": "https://i.ytimg.com/vi/wm2p5Cksh8k/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAFW8ZmHGS9TxvueAoy83Gwm-RInw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/wm2p5Cksh8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAchJelliiYFFbp934O4tTf17mamg",
+      "url": "https://i.ytimg.com/vi/wm2p5Cksh8k/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDhxoAlrE0JWH5ZazWB4YYNKab_zQ",
       "width": 720
     }
   ],
@@ -13734,12 +13734,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/CmTn9t9q14Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCSTh_2wZV5GL0NmWDvpwq0o70VoA",
+      "url": "https://i.ytimg.com/vi/CmTn9t9q14Y/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCUMCq89eF6znG9NS-RAuPIDElTeA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/CmTn9t9q14Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCq4TiBBznu6Y1oVaiorI07miuIKQ",
+      "url": "https://i.ytimg.com/vi/CmTn9t9q14Y/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDytOzhXBIe60znMm2bmQtMcKJTAg",
       "width": 720
     }
   ],
@@ -13770,12 +13770,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/mXNdpPmtvF8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAuf_AGaSmM-SmqUzlhtCwcq8V6nw",
+      "url": "https://i.ytimg.com/vi/mXNdpPmtvF8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD-bqMeFrjgR7uyQKK7sLNH7GbIyA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/mXNdpPmtvF8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCixILyq_WEE1OVFbwNDiv5apNwmQ",
+      "url": "https://i.ytimg.com/vi/mXNdpPmtvF8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBLl1nMo1aiiX8YRz9wMe81c-WvyQ",
       "width": 720
     }
   ],
@@ -13806,12 +13806,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/6b3Ix7hXZMA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD5rVSdmit8Vr5TadKpEVc9y65YSA",
+      "url": "https://i.ytimg.com/vi/6b3Ix7hXZMA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCRXF7eWVw1dr9HVLsBx3a5DXeopw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/6b3Ix7hXZMA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCvNO3PWqM6IdTIdgZt2ET_O63Oxg",
+      "url": "https://i.ytimg.com/vi/6b3Ix7hXZMA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBkxJbISAiX4hZYPgxtXCymDRwJQw",
       "width": 720
     }
   ],
@@ -13842,12 +13842,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/7CRrc3niEto/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCBathRdJ9ifhsWAcz5J7RReIAAdQ",
+      "url": "https://i.ytimg.com/vi/7CRrc3niEto/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDO4A_lQYQyHafAywY4tVerDG7mPg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/7CRrc3niEto/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC5GH2wWe2YSxSKeET-pxvuLXInqA",
+      "url": "https://i.ytimg.com/vi/7CRrc3niEto/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAWrK39Yx7ItHEj2dziwRRvLyEUGQ",
       "width": 720
     }
   ],
@@ -13878,12 +13878,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/1hkPcXEE7to/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDQsEK0iwOZzardEb_M34Tn7I6OCg",
+      "url": "https://i.ytimg.com/vi/1hkPcXEE7to/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDsl1RN_8P3Ym7xonYBM-rupPfVhA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/1hkPcXEE7to/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDbJU0WbiwfipaAtdgUv1w2awWcSQ",
+      "url": "https://i.ytimg.com/vi/1hkPcXEE7to/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDruCHHgAIDoWF4naLGgmodeWEEHg",
       "width": 720
     }
   ],
@@ -13914,12 +13914,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Bf6uEqrfsOU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCljy1rC9Az7v5YR625ZPpVRphcGg",
+      "url": "https://i.ytimg.com/vi/Bf6uEqrfsOU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC6IX2n8h9Wj5PLLlcyRzVYOte-_A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Bf6uEqrfsOU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBwXHD8R4SRqIYs3yXtMfWOQS234Q",
+      "url": "https://i.ytimg.com/vi/Bf6uEqrfsOU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCWJ6UL0K-y86bKhWb_x0qWMa4Cdw",
       "width": 720
     }
   ],
@@ -13950,12 +13950,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/bxSpi3AEshk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLANIIcylQL9TnQBhVh-8r7EOowpzw",
+      "url": "https://i.ytimg.com/vi/bxSpi3AEshk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB70DRBtCHd9jYU3QayQqECrpJzMQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/bxSpi3AEshk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDY_C7H7aNUBEzVXn5Jgh2erV8Q7Q",
+      "url": "https://i.ytimg.com/vi/bxSpi3AEshk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBsxoqnIQbQCBQtT9h3J5tG-DJexg",
       "width": 720
     }
   ],
@@ -13986,12 +13986,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/I2RpUoH8WwI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA_jl8GtX-gZT5DFmx69XZnY0suDQ",
+      "url": "https://i.ytimg.com/vi/I2RpUoH8WwI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA2Odjay4YyWw8Wu84bMK72hKDEhg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/I2RpUoH8WwI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCNHf_YsHQ-ZhUttqrWQjQrn-L7cA",
+      "url": "https://i.ytimg.com/vi/I2RpUoH8WwI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBTGw6vLmph6ita7GKKTdXISr5USA",
       "width": 720
     }
   ],
@@ -14022,12 +14022,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/b9ommSutEvo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDpMdp6IM1gLoJOEwp5QDkHfWabqA",
+      "url": "https://i.ytimg.com/vi/b9ommSutEvo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCg_2TKyHRegjgaSrai1sTKRct9tA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/b9ommSutEvo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB4g0umG-5vpXRMhhD-dZW5FB9_dQ",
+      "url": "https://i.ytimg.com/vi/b9ommSutEvo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLALQOta3pcMXYm8Sd87MzdntIEviA",
       "width": 720
     }
   ],
@@ -14058,12 +14058,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/U5BN_lFE5d8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBuOEW8dKST08q7Ff4EAHXrBX1mAA",
+      "url": "https://i.ytimg.com/vi/U5BN_lFE5d8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAKy7zMwTZTVwGV1LnUPRvzv0qHOw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/U5BN_lFE5d8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLANa81yR6Z9MQp2mrwTAfuJaQ1URQ",
+      "url": "https://i.ytimg.com/vi/U5BN_lFE5d8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDhuOsr983Aa6rS33615t0mFt7BeQ",
       "width": 720
     }
   ],
@@ -14094,12 +14094,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ICwDR01RgnA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDvLId7bn6WdArdN_72Z61yZikHqg",
+      "url": "https://i.ytimg.com/vi/ICwDR01RgnA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA4T3EVtjP5hGo1d99r40B-EEyKPg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ICwDR01RgnA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDBFylckkWsqa9bymiX0TqcnWJEaA",
+      "url": "https://i.ytimg.com/vi/ICwDR01RgnA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDm5FkLMjw1sE8w3j4S6xJachz9mw",
       "width": 720
     }
   ],
@@ -14130,7 +14130,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/INp5Y1-3-48/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBZ49gNsjr8tv3IPAfjVxRsiGE3Iw",
+      "url": "https://i.ytimg.com/vi/INp5Y1-3-48/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDLCrw5PL20dvjZcaGQBc0cTezhdQ",
       "width": 480
     }
   ],
@@ -14161,12 +14161,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/hX0w6efA-oo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD61zM5DapiQsu9TOsJc_zdWsJpPg",
+      "url": "https://i.ytimg.com/vi/hX0w6efA-oo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB_kXZ6KzgOnWMm88W6JWp77ohuwg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/hX0w6efA-oo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAeni_mdGvf8st23q6TvetcHoZmXw",
+      "url": "https://i.ytimg.com/vi/hX0w6efA-oo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAgRN6hUDbUDjJ-IMYZa5c0DpM1ow",
       "width": 720
     }
   ],
@@ -14197,7 +14197,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/dLSPBz3wK_Y/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA9nNl-8QwsRxGxBIMpiLWtmuZvZw",
+      "url": "https://i.ytimg.com/vi/dLSPBz3wK_Y/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAQ2hKcd_ZO9jc8sNemxyQo0AI8-Q",
       "width": 480
     }
   ],
@@ -14228,12 +14228,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/lq5vi6DmEpA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCX2eucvTCDHz9NLtqR1e3XYMDI2w",
+      "url": "https://i.ytimg.com/vi/lq5vi6DmEpA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDHdxPbvyDg8aGEreTSCD6coqNAug",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/lq5vi6DmEpA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCNTdCbS-387QhYMTQy1DWFXEZJUA",
+      "url": "https://i.ytimg.com/vi/lq5vi6DmEpA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD3mSUcLtAGl4dK80vhu4C0qP8dmQ",
       "width": 720
     }
   ],
@@ -14264,12 +14264,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ZU0St05ifyQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBf_BMlaZ5jpExtTYqex711H6ch4Q",
+      "url": "https://i.ytimg.com/vi/ZU0St05ifyQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDetqrSgo2W6WjR8_jmalG4tqBJww",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ZU0St05ifyQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBIT3IkyNTQ1vLh41h-YpX2Lgg9Ww",
+      "url": "https://i.ytimg.com/vi/ZU0St05ifyQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA7rObv3zhyNaAhpW6-wcg_VMWAKA",
       "width": 720
     }
   ],
@@ -14300,12 +14300,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/jVoNLKT1pfc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDMThZbqyMMLnlt5jMHutoPTrqQsw",
+      "url": "https://i.ytimg.com/vi/jVoNLKT1pfc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAKsViricuXrCT8KhUBIlKyMO40fA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/jVoNLKT1pfc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLANAflB7Of9ean_xrNxpmwQ2adtPw",
+      "url": "https://i.ytimg.com/vi/jVoNLKT1pfc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC-tSNVginFKhyNC8qL2AqihqqHJQ",
       "width": 720
     }
   ],
@@ -14336,12 +14336,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ono0TAEE95Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAjTq3tonwzny2ydFK-yXgt-D4Drw",
+      "url": "https://i.ytimg.com/vi/ono0TAEE95Q/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAHG4Q4yV98Kt7NTKUtFy9eM9CcnQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ono0TAEE95Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDo68-b0-bME5dXwTJVnB_Cj3mvJA",
+      "url": "https://i.ytimg.com/vi/ono0TAEE95Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDDJkoyJgW-UXiHsCobkzfT6fdenw",
       "width": 720
     }
   ],
@@ -14372,12 +14372,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/MxL04wXIyBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC2i8hRkw8nX9q3d7WlyD-ES5Hi5Q",
+      "url": "https://i.ytimg.com/vi/MxL04wXIyBQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD2Nz7gSogVQXPD8SYOoKvbE-V2XQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/MxL04wXIyBQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCSFOkgOjpSbliaoc_kVuG8Ey2FiQ",
+      "url": "https://i.ytimg.com/vi/MxL04wXIyBQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCfuNznEBaudbnbiztMifrgP2K9vA",
       "width": 720
     }
   ],
@@ -14408,12 +14408,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAHCklh6xefVq0W_i__XboSZgr2JA",
+      "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCNcQdLz2BNZp99K6XNMg3ULf3nRQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3i1vaV-Q1c0zfyibQVsqpef6rOQ",
+      "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB3-XMtYG2GW9GBRjYdXUz92yuNxw",
       "width": 720
     }
   ],
@@ -14444,12 +14444,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/_P2YmY3sxhY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB2HsSamxbKrBJNWud_a7HX0FWj0g",
+      "url": "https://i.ytimg.com/vi/_P2YmY3sxhY/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA3i7EZh8kHOnFDpXa9GcWYSoKZog",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/_P2YmY3sxhY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBC_ZfD99bUT35-7lYMopxp6TD-hg",
+      "url": "https://i.ytimg.com/vi/_P2YmY3sxhY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBjJsjNm6z5HM9ca8rOZYlhmmuCJQ",
       "width": 720
     }
   ],
@@ -14480,12 +14480,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBc6di8ClifShrT8msVJ1TBruSigQ",
+      "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBYXC4Rnm3DLUarSg79L6GvyNoSvA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDoBXo-LITtk-OqedwjYzJiXAj-_A",
+      "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB9ly1J-WDzZFh_zlEdFMo1KHYjmw",
       "width": 720
     }
   ],
@@ -14516,12 +14516,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/-kBKbg6QWug/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBiPWEKHKWi5r1nLY886kcpKB8tdA",
+      "url": "https://i.ytimg.com/vi/-kBKbg6QWug/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBVjeaxzL519FX_-Mf_9EKqecOO-w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/-kBKbg6QWug/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDCxx6R511ufOcesR2R76kAZwAasg",
+      "url": "https://i.ytimg.com/vi/-kBKbg6QWug/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC7D9aLe0sMPU1bbYrro2vXRkPOIg",
       "width": 720
     }
   ],
@@ -14552,12 +14552,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCfUypQ8strywi7Wj1joF3nXaOq1w",
+      "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDoG6P72mAmOUHVoaO8KLME2C-Kug",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC77bO5FxP9dAC1VyTMbnJXNtEnFQ",
+      "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDMXQBPCryrdnR3ENM5cWmd44n9Vw",
       "width": 720
     }
   ],
@@ -14588,12 +14588,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCJx9DnchCdL7NnXhk2cjyugiizgQ",
+      "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD6p0PcfU8XI332-tewan5gpBsraQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA2dIKBJKl-EJ5otFFnAuRg7PSr8w",
+      "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCLVehcdruzPA0UhRAvLhyaIrMrGQ",
       "width": 720
     }
   ],
@@ -14624,12 +14624,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAolMl1LO62WXcXXC1c_DTIOToGTQ",
+      "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAzT0mGLxBrYjC2XDpTYjcyZXsRMA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDDIMa10RAweewojUDY7l4xi6y72Q",
+      "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAEfSr-T9NP72SDJDY2fWIQNFZsrw",
       "width": 720
     }
   ],
@@ -14660,12 +14660,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/CcwkAS1v0bA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBNHQv3-V6eSyy0jSk7SO25q4uMgg",
+      "url": "https://i.ytimg.com/vi/CcwkAS1v0bA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAaSWPLNa-fFQSsY8hLLt7TQBFl8g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/CcwkAS1v0bA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDA4NZ9Fm3Brd1eyxlYqbjNzhDT9Q",
+      "url": "https://i.ytimg.com/vi/CcwkAS1v0bA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCFSePsBdnoADiPOzRj8_OUNEAWZg",
       "width": 720
     }
   ],
@@ -14696,12 +14696,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/QgssEu9y_Rc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLADvPzwmRECOWkrwwN8N7pVWXyMAA",
+      "url": "https://i.ytimg.com/vi/QgssEu9y_Rc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBREsSxFKmNvbfBeRAZe410VoPZcw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/QgssEu9y_Rc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAgDfMw7gDyMQc9crucDSftdJNjvQ",
+      "url": "https://i.ytimg.com/vi/QgssEu9y_Rc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBmtkEwyTbnU66HC6RgNF7Su_5c9g",
       "width": 720
     }
   ],
@@ -14732,12 +14732,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/LMzNx-QHudU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCMWogRNiONIj9wxU-qjsO17eb8YQ",
+      "url": "https://i.ytimg.com/vi/LMzNx-QHudU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLClG4zHvwFV8WeSTo-KxY8cCyBHmg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/LMzNx-QHudU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAFqzTuXrGPqkkZZpv7lMzd4jaNeg",
+      "url": "https://i.ytimg.com/vi/LMzNx-QHudU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLADBxP-4ReiQ3KecxaWcC0qfvO6CA",
       "width": 720
     }
   ],
@@ -14768,12 +14768,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/8c88s8dawxw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBlgEqL6ISx7a7gMe-96_x6ACXESA",
+      "url": "https://i.ytimg.com/vi/8c88s8dawxw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLALj9GOSUQ5brjb3LyFh_im87blew",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/8c88s8dawxw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA9jQ5If1UeVEnJf_z9xsFp7AzWbw",
+      "url": "https://i.ytimg.com/vi/8c88s8dawxw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBt9sfv4nLOYikOvvnww5D5WYo4Bg",
       "width": 720
     }
   ],
@@ -14804,12 +14804,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/WsBe8ysO_uA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAfXIxXcq0_mHZoAYRil-zEXyFgSQ",
+      "url": "https://i.ytimg.com/vi/WsBe8ysO_uA/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDcbeqfWIO_lmZmtFI1ROEYqAMDzQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/WsBe8ysO_uA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAN5oQ2Pplr1OIUV2Uilrvou9VbJA",
+      "url": "https://i.ytimg.com/vi/WsBe8ysO_uA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB0kc3S83ESlHEtXS_5CHQ3VHAUmQ",
       "width": 720
     }
   ],
@@ -14840,12 +14840,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/AqWU1ZBPLC4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCeE_7-WgAwHS3bp809CU0_j7GA5A",
+      "url": "https://i.ytimg.com/vi/AqWU1ZBPLC4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCcNFIvwLmhmrQT5dCIILQCfDNG3Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/AqWU1ZBPLC4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAu3y-92z1yBX7qF_IWH0B1TmL1Ng",
+      "url": "https://i.ytimg.com/vi/AqWU1ZBPLC4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLARjQBBrQcepXI7XNzHLOmJRzsYLQ",
       "width": 720
     }
   ],
@@ -14876,7 +14876,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/mIxGEGgxNiI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAcuwJFlwAkyhUY5jY-fidgMtuIuA",
+      "url": "https://i.ytimg.com/vi/mIxGEGgxNiI/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBwrUOIzOnQqic9IlJRk4EmHPB-0Q",
       "width": 480
     }
   ],
@@ -14907,12 +14907,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/ZzxhnWf4HNc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCgUcWxmIEXKGT2wevGpPOcgpMvYA",
+      "url": "https://i.ytimg.com/vi/ZzxhnWf4HNc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDvHyUVBYbY4iqu38B8z-1TC6DqlQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/ZzxhnWf4HNc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBKqtrQV8cljHZSvehHw0jGMglasA",
+      "url": "https://i.ytimg.com/vi/ZzxhnWf4HNc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB3wJgtqZ-wkdgQQzJss3z5tcR_VQ",
       "width": 720
     }
   ],
@@ -14943,12 +14943,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Tfr4vXlc1sw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLApne5SLEm3OtBRIqy3RHNprTci-Q",
+      "url": "https://i.ytimg.com/vi/Tfr4vXlc1sw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAGBEJYfG2WoxGNBIgyMrJXNMFuYA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Tfr4vXlc1sw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCjaX5z0cy0ofFr6RrJQoMJj-d5Kw",
+      "url": "https://i.ytimg.com/vi/Tfr4vXlc1sw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD-H1eaTAeBnDGd4nUp1WcyUV7KwQ",
       "width": 720
     }
   ],
@@ -14979,7 +14979,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/atBBDQXDSGk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDZWN1n1XIcosHoGlumA2FU7WDL8w",
+      "url": "https://i.ytimg.com/vi/atBBDQXDSGk/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLANIjsNIQT2O12_ad7hnaz9mEio5A",
       "width": 480
     }
   ],
@@ -15010,12 +15010,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/6im5CxBQ5t8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBQRzxGSOEoeB-eZP8fMPxZxn1Cqw",
+      "url": "https://i.ytimg.com/vi/6im5CxBQ5t8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBznj6QSu3NpyNCXE_YHYEWxZHFFg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/6im5CxBQ5t8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAcHTXZynmxzbgb7y7mBIR33N7RbA",
+      "url": "https://i.ytimg.com/vi/6im5CxBQ5t8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDXNv67GxdNaApcVvebCUE4E69N1g",
       "width": 720
     }
   ],
@@ -15046,12 +15046,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/Hy_oU4iPIIY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA39ux_JoZcFOz1zvcN_oS-_o1nyg",
+      "url": "https://i.ytimg.com/vi/Hy_oU4iPIIY/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB5zvUBqAyHJCiACFqUQphcC1DL2Q",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/Hy_oU4iPIIY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAnyEHTL_j8aFj64ZCfd1D9aEHp5Q",
+      "url": "https://i.ytimg.com/vi/Hy_oU4iPIIY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLANEyJJEFxAio0PcN0CSOHEVT7uEw",
       "width": 720
     }
   ],
@@ -15082,7 +15082,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/P7HqGHJ94AI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDlDmCnP2ZB2dFDsXEkEXmfA2OTsw",
+      "url": "https://i.ytimg.com/vi/P7HqGHJ94AI/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBDYLACq3Cpt_3sYq9yUElFScHFIg",
       "width": 480
     }
   ],
@@ -15113,12 +15113,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/GZ0id4HE8ls/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC8BBtZNThvzuN608GPe5937Ch75A",
+      "url": "https://i.ytimg.com/vi/GZ0id4HE8ls/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDYLpULYON-KTFJxaekC7hO3pQb9A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/GZ0id4HE8ls/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCNLQfPXzoI4nlDqiqWVWv58X-AwA",
+      "url": "https://i.ytimg.com/vi/GZ0id4HE8ls/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLArtSQLwkNCl0PF6Z-0LJ7mxqc-2A",
       "width": 720
     }
   ],
@@ -15149,12 +15149,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/yGNltdKMtF8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLADgwoFJ9P4rUpG381V_rHksOThsQ",
+      "url": "https://i.ytimg.com/vi/yGNltdKMtF8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDFsTuSFaIwmlQ7QVONC3vACKxDNw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/yGNltdKMtF8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDvF_4utPANo8Q-r6mRhlEBDveEog",
+      "url": "https://i.ytimg.com/vi/yGNltdKMtF8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAP3zp7bH_rkIJ8QXNaKZlZ81hnBA",
       "width": 720
     }
   ],
@@ -15185,12 +15185,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/eULXuxZZuPw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCGSWa3ofSM4ZvpzGJFbwy3TK2nxw",
+      "url": "https://i.ytimg.com/vi/eULXuxZZuPw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCfWvCi4yOKV_oj6leRUOgOfVAVvg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/eULXuxZZuPw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDCGbJtuP0PiiD-E_H4xfCb-9fNsA",
+      "url": "https://i.ytimg.com/vi/eULXuxZZuPw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC9DW0BGPxBsEOSrnr-rJNEatHl6w",
       "width": 720
     }
   ],
@@ -15221,7 +15221,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/3GgfeCy8WuY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLApPt23EiEnS883EOkabq_fyRV25Q",
+      "url": "https://i.ytimg.com/vi/3GgfeCy8WuY/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAVlDZlxMMLCIjpWgO8AQJ0lhja7Q",
       "width": 480
     }
   ],
@@ -15252,12 +15252,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/wn4O3Pq6zYE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCxdUsOSw1R76fUnC4Q_lQ3npr0Sw",
+      "url": "https://i.ytimg.com/vi/wn4O3Pq6zYE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBE7ijyqVakvdK2LFjIBPAHl62ySw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/wn4O3Pq6zYE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAy0lHyJSKkmDsqL3kQDGuu29n-Aw",
+      "url": "https://i.ytimg.com/vi/wn4O3Pq6zYE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAFt5ZPTqjuRdhVulwiJFqmYB0OGA",
       "width": 720
     }
   ],
@@ -15288,7 +15288,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/MSLHs4z6sE4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD2wj1tX59KH3o5813SUy9e-OsHcA",
+      "url": "https://i.ytimg.com/vi/MSLHs4z6sE4/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDNlHvMmOcRGYQYefnzhMQRxmssfw",
       "width": 480
     }
   ],
@@ -15319,7 +15319,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/vgHNERQGcPk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBjZD3hoZmY6TvRVQwpPB9GIYWj-g",
+      "url": "https://i.ytimg.com/vi/vgHNERQGcPk/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBRbC5YyOe6n-4O-6N-mpFQBmZqig",
       "width": 480
     }
   ],
@@ -15350,12 +15350,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/YntHgxlmKy4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB_ncr95K0KjOLhyofXbw-aIHvsAw",
+      "url": "https://i.ytimg.com/vi/YntHgxlmKy4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBdLqK_r8n9dhor4cUWAuttoZjW6A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/YntHgxlmKy4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBfFwgOJqnPnE9-zDwHXMutPAzYVw",
+      "url": "https://i.ytimg.com/vi/YntHgxlmKy4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCBN8NY6K-JmztC9OcELm0p0Ju1Uw",
       "width": 720
     }
   ],
@@ -15386,12 +15386,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/IvlpOQfKi9U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAQKGk5t0vEQDkF5qSfs_xvdsJCBA",
+      "url": "https://i.ytimg.com/vi/IvlpOQfKi9U/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC_Q9SNKh98ahTcmjC7n4RwcU-Qyw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/IvlpOQfKi9U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAwQqbAov8HigMQ7nUZ6Jnf3mLs6w",
+      "url": "https://i.ytimg.com/vi/IvlpOQfKi9U/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCEsurdheto4wCztK6SGTHR2t25PA",
       "width": 720
     }
   ],
@@ -15422,7 +15422,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/NHVkpdzGL7M/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBPJL6syyA3ji0mt-2NtGI0hiUS4g",
+      "url": "https://i.ytimg.com/vi/NHVkpdzGL7M/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAzR6MyksBiIOjBxMSS24mxwUlPOg",
       "width": 480
     }
   ],
@@ -15453,12 +15453,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/bPo3KXcYYBg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAHXtRzKruXw7sFkjYctpZcKTopVw",
+      "url": "https://i.ytimg.com/vi/bPo3KXcYYBg/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCtrvmMSLgsjYupwVCiGQprNu0L7w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/bPo3KXcYYBg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBvKZ0ZGyM6JSoxFokPzZM4GPeuIA",
+      "url": "https://i.ytimg.com/vi/bPo3KXcYYBg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC_5YB_lEU-k99Y6CAkb_O_T8kjww",
       "width": 720
     }
   ],
@@ -15489,12 +15489,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/4Pt0pLcebVk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCWygVXobBXttr5AWmDV_VMoVFlVg",
+      "url": "https://i.ytimg.com/vi/4Pt0pLcebVk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDLl0bTb4sojEjc4vtlmG3heB96Mg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/4Pt0pLcebVk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBc21iW0bc2T9vCBb9G3Cq8MqB49Q",
+      "url": "https://i.ytimg.com/vi/4Pt0pLcebVk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDJmLVVH3OubK8kF0024h4d0S8vEg",
       "width": 720
     }
   ],
@@ -15525,12 +15525,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/9AlGxr8YsJ4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDrlzcRwVfcTBPQfeMVelbJQAzmAg",
+      "url": "https://i.ytimg.com/vi/9AlGxr8YsJ4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCkGLN03dLw06Xangq4j0wodTIqHw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/9AlGxr8YsJ4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBQID8UyxtntP-sehz1YYSw35NAvQ",
+      "url": "https://i.ytimg.com/vi/9AlGxr8YsJ4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDsEHbURUAAaKu8QdOaIVq0VpeS3A",
       "width": 720
     }
   ],
@@ -15561,12 +15561,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/vZyyFMaprIY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD347pfBWlGuH3cOKKPlWHbeZkA7g",
+      "url": "https://i.ytimg.com/vi/vZyyFMaprIY/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB80DpYXESSGI7MD_bPTHvGOq7aYg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/vZyyFMaprIY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB3y4N8Ol7NYGaQ0kkewCerdhISAw",
+      "url": "https://i.ytimg.com/vi/vZyyFMaprIY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDXhj2NHI91F_Yo8u5HGnONZR6CGQ",
       "width": 720
     }
   ],
@@ -15597,12 +15597,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD8e_Au1-YXak56M0SollfIxe6o2g",
+      "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAk_Vm4hRe5ynHZZGCHYpmc4BTwKA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCCjhXnGQOGLqBzBguBM_53c6IJJA",
+      "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDucXW0sn83YEtFgaj-6CZtkX1mpg",
       "width": 720
     }
   ],
@@ -15633,12 +15633,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/yfJ475DYo2w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDlj0Hd-gpEQMuLET7tbYLIyfVg3g",
+      "url": "https://i.ytimg.com/vi/yfJ475DYo2w/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBbyWrPpChZzhYQfdvGJPHlcVJ2pw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/yfJ475DYo2w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBm7kgL4YUCmEoMoOxo_1DV1AOIMg",
+      "url": "https://i.ytimg.com/vi/yfJ475DYo2w/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCtv1wVmMsdl7Bt5b8UdpmcttoyLQ",
       "width": 720
     }
   ],
@@ -15669,12 +15669,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/VZlhhFDVa24/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAAI5mVNq-Xc3Trubzcn8txErmwTg",
+      "url": "https://i.ytimg.com/vi/VZlhhFDVa24/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB1Kli3bmVA1YBNFBRCjAR2u6nlCg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/VZlhhFDVa24/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC6bighb-Sw7emp75BfxgdYpbcUzA",
+      "url": "https://i.ytimg.com/vi/VZlhhFDVa24/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAg2YZhFCzf1ygzil0oKgqN5t-WfA",
       "width": 720
     }
   ],
@@ -15705,7 +15705,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/aPzY-1aLQ8c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAnfupwCV-eC5uVNDicjCI-KAUL1w",
+      "url": "https://i.ytimg.com/vi/aPzY-1aLQ8c/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCgmOJ4WPJ-Yf7c5W9xgCvL0eNqsg",
       "width": 480
     }
   ],
@@ -15736,12 +15736,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/1ZatvhwihFo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCNMDLlKPiUPL4CbXCeTft08bRuOg",
+      "url": "https://i.ytimg.com/vi/1ZatvhwihFo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDQC98xR6Vnr4aPRzbnK7F-GwIt_g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/1ZatvhwihFo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDKkSdN9awsK79HMmW0H3lo7lrvYg",
+      "url": "https://i.ytimg.com/vi/1ZatvhwihFo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCrn7Ouux0hUPwH_pjMTbfHp7vAxA",
       "width": 720
     }
   ],
@@ -15772,12 +15772,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/UNSjfNfvUFU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBQt_Y4TEjWf0eG1wdxBksAvthyvA",
+      "url": "https://i.ytimg.com/vi/UNSjfNfvUFU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAP7tj3LPeQupmg1d2SfcIQmslzWw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/UNSjfNfvUFU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD__VSeKdE1A0sXIM0VFsIetaglUQ",
+      "url": "https://i.ytimg.com/vi/UNSjfNfvUFU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAZVAtDOj3jexJypkSxj6NhhCBGGg",
       "width": 720
     }
   ],
@@ -15808,7 +15808,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/VvdllDzxYtw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAowlyfWKBjxEX9AcSGe7xB1_bDHw",
+      "url": "https://i.ytimg.com/vi/VvdllDzxYtw/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBqut26qvvfov3wwjfaqagYszqeFA",
       "width": 480
     }
   ],
@@ -15839,7 +15839,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/jWiHMeYR1R4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBviG0SYuQnZQqDjwDJw0AA2uzJ7A",
+      "url": "https://i.ytimg.com/vi/jWiHMeYR1R4/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBm8R5XIdMoVvcXOrxEZsgyVwta7Q",
       "width": 480
     }
   ],
@@ -15870,12 +15870,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/tHOS3zlr9jU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC4llFezJdAX-tC5Rl8LUjvcMXxuw",
+      "url": "https://i.ytimg.com/vi/tHOS3zlr9jU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC3s32YCZ8Pi2tYTA_2rNvThCl37w",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/tHOS3zlr9jU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLARUASmRWAqHk8pEeZ2LKz3_N3Cuw",
+      "url": "https://i.ytimg.com/vi/tHOS3zlr9jU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB_uyfMEkUKIzXwJ8UcGzE1-loUuA",
       "width": 720
     }
   ],
@@ -15906,12 +15906,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCa8bsgHEye1E1Sww1gDmtX5idAOw",
+      "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA6dKtdv_ML3VMeRrTz0NzExt7qng",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCG1I6E8xjz2V8XnB-TZ6GrNGYzgQ",
+      "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAke0l3PR-PjrrUg9uqedPkE6qEmA",
       "width": 720
     }
   ],
@@ -15942,7 +15942,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBosafkZqMWAhvqInUMawb7ywj0Og",
+      "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAtxE4POPOJrpFsW4oQwMff5De4jQ",
       "width": 480
     }
   ],
@@ -15973,12 +15973,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBDMFXhKH_cmmPxk0koIfXeJogoRg",
+      "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB0HtNqXKSOyVN3skXXoTJP5_U77A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC-8TRUmapI2jJnCDfzraTpUD8dVw",
+      "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD3eTE3-LfcpjEfeAFbWTqFz2R88Q",
       "width": 720
     }
   ],
@@ -16009,7 +16009,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDT3q_BUM2-FQ6NXRvZZXSDE7Cb_A",
+      "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDORaXIKg_aHvRVTrZnWOknKU1OEQ",
       "width": 480
     }
   ],
@@ -16040,7 +16040,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDrIv68NsprqBOr8pRtkiHkKIM6bg",
+      "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBTChuUiuavXsNkLYYvrTStaQg83Q",
       "width": 480
     }
   ],
@@ -16071,7 +16071,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDjRoRUJQ9HpYIL0tkEiBCqHkapNQ",
+      "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC7jEiPUAl50D1MqqIv5y67aYUIZw",
       "width": 480
     }
   ],
@@ -16102,7 +16102,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAVhnHmybtX2s893PJlSYBILimudg",
+      "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCgRb4tCUjIe46VPxS4KjVYxprg3w",
       "width": 480
     }
   ],
@@ -16133,7 +16133,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCFgJt1N5dFCt6wa6R6itMkmHGWiw",
+      "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDx94WP0LC7DF2FTzEBrmDAfGlGPQ",
       "width": 480
     }
   ],
@@ -16164,7 +16164,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/eghLLFbTDYM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDNv9b86qHztwBGPP1Uu_yNe14MkA",
+      "url": "https://i.ytimg.com/vi/eghLLFbTDYM/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBGgAjiYzXD5zHmXpGhH1kSbpV4jA",
       "width": 480
     }
   ],
@@ -16195,7 +16195,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/aaoZm1yHCxw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCZ2Yw3OYurCOm_xVGOd1SXggjUTA",
+      "url": "https://i.ytimg.com/vi/aaoZm1yHCxw/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB7ekgM8x_sW7HIxmCdqc9R400Lxg",
       "width": 480
     }
   ],
@@ -16226,7 +16226,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/fQ7_GT8_zeM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDjeDDr-_IxkrA88wi3y8nT3qmeAQ",
+      "url": "https://i.ytimg.com/vi/fQ7_GT8_zeM/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCPQnuY4hAw5Pc_nNu2nRVUy0qgqg",
       "width": 480
     }
   ],
@@ -16257,7 +16257,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/4tg4qokVS9o/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBrSIrKcaSvDLRsgWEtgOJ7un-k4w",
+      "url": "https://i.ytimg.com/vi/4tg4qokVS9o/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBReS0EcBGS9ZmNaZfJKxvvCSIp7w",
       "width": 480
     }
   ],
@@ -16288,7 +16288,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/ii4uyl61xns/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBjh3YBtp2f3gRasvh2JSJJvrl1DQ",
+      "url": "https://i.ytimg.com/vi/ii4uyl61xns/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDW0R64yoqq1XijjPrLxKYEY5h_tw",
       "width": 480
     }
   ],
@@ -16319,7 +16319,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD0nTwrVs5o75Lx0sp8cErEeT9aSg",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDMZP1cnFsxPQaTQCD9kNN1E-f8BA",
       "width": 480
     }
   ],
@@ -16350,7 +16350,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/VJljZdg6nlY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDIhXyERdgMLQxeJ-5p8TRjysvHug",
+      "url": "https://i.ytimg.com/vi/VJljZdg6nlY/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLA2KomrKejoSnWla8uf9A9rswHv4g",
       "width": 480
     }
   ],
@@ -16381,12 +16381,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/nID_kz4a89A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAHq4_u1JjwDVwnBFIlBPEJZie8sg",
+      "url": "https://i.ytimg.com/vi/nID_kz4a89A/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDotbjMAkyYdGNFN55qpH5k1rrUEw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/nID_kz4a89A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCFBR-7HBc1v46lJe1dAztdsC-j5w",
+      "url": "https://i.ytimg.com/vi/nID_kz4a89A/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB2hYeKkHuF5HVPkYivUW0egsxZ1A",
       "width": 720
     }
   ],
@@ -16417,12 +16417,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBPXpX9jF9za1tTmrkQO_5aLjHtVg",
+      "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBypR-3kgL6OiozLd_e8KlKVN3wIA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDbTn4vkK0ELTsGRrms838t7b4C-Q",
+      "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAUKWLJdb3fx4eaRhTnqlndtfGrlQ",
       "width": 720
     }
   ],
@@ -16453,12 +16453,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/VC98ywj3J1Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA-EsX6crfVLIYj7rSYj2Od41fGAA",
+      "url": "https://i.ytimg.com/vi/VC98ywj3J1Q/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC3Mo_FFYL7sOYJxkw-rw_3hXJFpg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/VC98ywj3J1Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC9_kBbYWDHtamasAxuH5DVq0FErQ",
+      "url": "https://i.ytimg.com/vi/VC98ywj3J1Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLASuHhPmR1eJZERh6S3dBgzMaIWew",
       "width": 720
     }
   ],
@@ -16489,12 +16489,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/v0fpyOKCREQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB4LJsvtx4QsXxWySKia1kpxqJ8cg",
+      "url": "https://i.ytimg.com/vi/v0fpyOKCREQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDyBbhUiCR1rtHqzTm5BtNWZTeAtg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/v0fpyOKCREQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDHkWaYIZs6BqfT-4BJYB21K5gjSQ",
+      "url": "https://i.ytimg.com/vi/v0fpyOKCREQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBJ3L0LC4lTbZvaJvnQMl4zvtd5hg",
       "width": 720
     }
   ],
@@ -16525,12 +16525,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/GysZ795sZHY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC0QZ-bCmrS_7ItRn08zlOgs5wvGg",
+      "url": "https://i.ytimg.com/vi/GysZ795sZHY/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDliAMvaz1dtGGUt5FUDN7VGzvhsA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/GysZ795sZHY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA_q5KrxNsUGWQo3_fob3xpRwx8gA",
+      "url": "https://i.ytimg.com/vi/GysZ795sZHY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLC_AVxIZEFRmxpQWtJMYXp8Q7RfBA",
       "width": 720
     }
   ],
@@ -16561,12 +16561,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/IKB61INTyrs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAkXowwC56HXRPFhi-rPiBjOmR8mA",
+      "url": "https://i.ytimg.com/vi/IKB61INTyrs/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBiatXwbggrDr6Uy2EXPJneHK57CA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/IKB61INTyrs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDmvQku-ydqKI4Mnd8sUca0rqeYJQ",
+      "url": "https://i.ytimg.com/vi/IKB61INTyrs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCL1sQz3arH-R9KxbYj3cQhgoomhw",
       "width": 720
     }
   ],
@@ -16597,12 +16597,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/n_q_OHb0YOw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAhtvyJj-A5Uliqd0VVqG--CoEWuQ",
+      "url": "https://i.ytimg.com/vi/n_q_OHb0YOw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAXuQUOG_vLbaerSJ6avp6ByXhxEg",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/n_q_OHb0YOw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCJxUSeCwZXsWoAqzMJ7YeX9QO_NQ",
+      "url": "https://i.ytimg.com/vi/n_q_OHb0YOw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBa-tk9BxgyAQxpoewGOmSWhRdSGA",
       "width": 720
     }
   ],
@@ -16633,12 +16633,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/wnfZnnrsL1Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDDOuc_gGOU9IIe6pbWTm1TOKky2g",
+      "url": "https://i.ytimg.com/vi/wnfZnnrsL1Q/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBDTMmsLyiZJgVhwVVf2XkFvDXTTQ",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/wnfZnnrsL1Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBjapjKea6MCdAjZ_zifmgTG77m9A",
+      "url": "https://i.ytimg.com/vi/wnfZnnrsL1Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAJ0Z7tAjPzAW-2JNG0Er02cD2hTQ",
       "width": 720
     }
   ],
@@ -16669,12 +16669,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/UT9VRYtpBFo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBd0Wd9QOGkyqakFKT5B43h8IT4Iw",
+      "url": "https://i.ytimg.com/vi/UT9VRYtpBFo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDuErWyB9tYLRS35OLwnyBNKidf4A",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/UT9VRYtpBFo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB9mV7K26YDXCcNlPmtazGDYIC6ew",
+      "url": "https://i.ytimg.com/vi/UT9VRYtpBFo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLADNQqvKGySsuewsu6nyQzQDdRtaw",
       "width": 720
     }
   ],
@@ -16705,12 +16705,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/PNODfPg44tE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDcj2bFsc4znMk9FKzXsnIfH1adOQ",
+      "url": "https://i.ytimg.com/vi/PNODfPg44tE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAauIqPdnHGLPvLJGTSbthP_KXcrA",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/PNODfPg44tE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD6hwuycyRrr186UapiLEeEG_Vm-Q",
+      "url": "https://i.ytimg.com/vi/PNODfPg44tE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCCU4hWj2dGYJh19byDyDDal3eAqA",
       "width": 720
     }
   ],
@@ -16741,7 +16741,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/IivYJj4w9wA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCmuhz7X6NlO5EpPIwGnDVzHIGVfg",
+      "url": "https://i.ytimg.com/vi/IivYJj4w9wA/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDFut8EWhaJX5gYWV4zxH84g9x5pg",
       "width": 480
     }
   ],
@@ -16772,7 +16772,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/esgflGn1rvA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBi6kKmf8u7eQ9Q9_nGen4QmLLZ7w",
+      "url": "https://i.ytimg.com/vi/esgflGn1rvA/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDBuLg1khl-L_UJcgGfRDHysaqmWQ",
       "width": 480
     }
   ],
@@ -16803,7 +16803,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/FOYIf5UBD9Q/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD8MaVA12P5EfzhZZ2TEm7iyM_GSQ",
+      "url": "https://i.ytimg.com/vi/FOYIf5UBD9Q/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD6adKU3ZIS0E-CkxB-6waRcC6JsQ",
       "width": 480
     }
   ],
@@ -16834,7 +16834,7 @@
   "thumbnails": [
     {
       "height": 270,
-      "url": "https://i.ytimg.com/vi/LyQzyrZRNXs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLADwcJ21DVv-xaL5cknM0NzpTv9bA",
+      "url": "https://i.ytimg.com/vi/LyQzyrZRNXs/hqdefault.jpg?sqp=-oaymwEgCOADEI4CSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDxYblCO031cl994cksYndgBQv0qA",
       "width": 480
     }
   ],
@@ -16865,12 +16865,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/KtC3pm4q5vk/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IEgoKDAP\u0026rs=AOn4CLDP-55fcUiJFG9rvruKPjgDOJfBQQ",
+      "url": "https://i.ytimg.com/vi/KtC3pm4q5vk/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IEgoKDAPuALzGA==\u0026rs=AOn4CLCleGOW896_YYya450MgnCRMgLMow",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/KtC3pm4q5vk/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IEgoKDAP\u0026rs=AOn4CLDTsPDjoVKSURgddv0TE22ZJB9gFw",
+      "url": "https://i.ytimg.com/vi/KtC3pm4q5vk/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IEgoKDAPuALzGA==\u0026rs=AOn4CLB11loQk5cBYU7p_4weT_0xaynS-w",
       "width": 720
     }
   ],
@@ -16901,12 +16901,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/tgTsW_lUtsc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA2Qa83bpgWZJ3jR8iDxf9kOHgldw",
+      "url": "https://i.ytimg.com/vi/tgTsW_lUtsc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDX5h0OrPolIjqCEQRsj1WvcN267g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/tgTsW_lUtsc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC6c5_Gqeq15aSvVKt--4eTS9Xiyg",
+      "url": "https://i.ytimg.com/vi/tgTsW_lUtsc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCOBDXl_pk3QkMDV1PlZp8w_YczEg",
       "width": 720
     }
   ],
@@ -16937,12 +16937,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/iOV8Aeo-xiw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDi_7MGiycTfEghoV8vTo4guAzHWw",
+      "url": "https://i.ytimg.com/vi/iOV8Aeo-xiw/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAycBUPuQ_dIYTepPeVh93U6CL12g",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/iOV8Aeo-xiw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD7lCUx6wFcIhK3ReF9q-1njygJHA",
+      "url": "https://i.ytimg.com/vi/iOV8Aeo-xiw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD2QnpDhT49wiE8FD0EbWEJCE4N9Q",
       "width": 720
     }
   ],
@@ -16973,12 +16973,12 @@
   "thumbnails": [
     {
       "height": 202,
-      "url": "https://i.ytimg.com/vi/msrbSSZQApI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBWfAYd4TlK9viPvGDT78od2gkH5g",
+      "url": "https://i.ytimg.com/vi/msrbSSZQApI/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDkIU8BFo3J3T4J7iTZ-CihbM3mDw",
       "width": 360
     },
     {
       "height": 404,
-      "url": "https://i.ytimg.com/vi/msrbSSZQApI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCCQ-AL2YXYVwRFqW1XB8aly5etIA",
+      "url": "https://i.ytimg.com/vi/msrbSSZQApI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCR75ElSzIABsISeayMo3noDUL_bQ",
       "width": 720
     }
   ],
@@ -17012,12 +17012,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CO7JqtYG-oaymwEICPABEPABSFqi85f_AwYI9qmswwY=\u0026rs=AOn4CLBbD2YekH2FoyT_UcwPkI_GUv5Frw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CPzdqtYG-oaymwEICPABEPABSFqi85f_AwYI9qmswwY=\u0026rs=AOn4CLB1P4nSIvJ_5gvUmcZp0nQap_sBUA",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CKLeqtYG-oaymwEICOADEOADSFqi85f_AwYI9qmswwY=\u0026rs=AOn4CLBN0Vx2qYCmmxU3FC1t4d0ZfrIsiw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CPjbqtYG-oaymwEICOADEOADSFqi85f_AwYI9qmswwY=\u0026rs=AOn4CLChFSge6Nt9J-_xR3XvvgE7VO4nZg",
       "width": 480
     }
   ],
@@ -17050,12 +17050,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CKTkqtYG-oaymwEICPABEPABSFqi85f_AwYI2aWswwY=\u0026rs=AOn4CLBRTQjwW3tkQKZ--36Y3qd70SE13w",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CN73qtYG-oaymwEICPABEPABSFqi85f_AwYI2aWswwY=\u0026rs=AOn4CLAmtINYUQCLPCLqfAdGfnHqvu5ZOQ",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CPDoqtYG-oaymwEICOADEOADSFqi85f_AwYI2aWswwY=\u0026rs=AOn4CLBkT_-Gqi3WApQaJO98JjbLBopv7g",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CKrpqtYG-oaymwEICOADEOADSFqi85f_AwYI2aWswwY=\u0026rs=AOn4CLDm_8p6E70x74qxQDdM3Ww5BognTQ",
       "width": 480
     }
   ],
@@ -17088,12 +17088,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96/studio_square_thumbnail.jpg?sqp=CJDHqtYG-oaymwEICPABEPABSFqi85f_AwYIrayswwY=\u0026rs=AOn4CLCFJjX92WnYN0dQ5W6LEycdMti6rA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96/studio_square_thumbnail.jpg?sqp=CLbpqtYG-oaymwEICPABEPABSFqi85f_AwYIrayswwY=\u0026rs=AOn4CLCwl0MpLTFm6KjbqrPLdN12t9wwEQ",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96/studio_square_thumbnail.jpg?sqp=CPPdqtYG-oaymwEICOADEOADSFqi85f_AwYIrayswwY=\u0026rs=AOn4CLCIoAzIglSvIMK3FLuVtCar1E5eGQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96/studio_square_thumbnail.jpg?sqp=CPDjqtYG-oaymwEICOADEOADSFqi85f_AwYIrayswwY=\u0026rs=AOn4CLCz87hVNiSjRx73YA3-02-AFecL3g",
       "width": 480
     }
   ],
@@ -17126,12 +17126,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CNTPqtYG-oaymwEICPABEPABSFqi85f_AwYIzo21wwY=\u0026rs=AOn4CLDMo2scJyqt93YYNYfkpzMsPUMOqw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CNXUqtYG-oaymwEICPABEPABSFqi85f_AwYIzo21wwY=\u0026rs=AOn4CLAsN_98lJVk3ibE5kA-lSDe-fHw6g",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CLjVqtYG-oaymwEICOADEOADSFqi85f_AwYIzo21wwY=\u0026rs=AOn4CLDHmgjJOoqx7k35WLY1ulXpdpvvNA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CITBqtYG-oaymwEICOADEOADSFqi85f_AwYIzo21wwY=\u0026rs=AOn4CLBkkoixCFWryT1JP4pzJYzoI3qq6Q",
       "width": 480
     }
   ],
@@ -17164,12 +17164,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CKjYqtYG-oaymwEICPABEPABSFqi85f_AwYIsqyfvQY=\u0026rs=AOn4CLCIbYEIsNruhb5QjwNaP_mHyUCnwA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CP7wqtYG-oaymwEICPABEPABSFqi85f_AwYIsqyfvQY=\u0026rs=AOn4CLBJ9pmm1aIyFc37iX8Zc9C9JgoHEA",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CK2qqtYG-oaymwEICOADEOADSFqi85f_AwYIsqyfvQY=\u0026rs=AOn4CLAGQBWePFSm6PQsochQLXRak_zV0w",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CJDSqtYG-oaymwEICOADEOADSFqi85f_AwYIsqyfvQY=\u0026rs=AOn4CLAObZWQ6CXhf-Ppq4Pz36w91x1goQ",
       "width": 480
     }
   ],
@@ -17202,12 +17202,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CM69qtYG-oaymwEICPABEPABSFqi85f_AwYIz__iywY=\u0026rs=AOn4CLBMIW0rzhZqeBlanEHggbmrANOZrw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CIjjqtYG-oaymwEICPABEPABSFqi85f_AwYIz__iywY=\u0026rs=AOn4CLCW839oQh6zUu97yOnqHbGV_RTyRQ",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CJHgqtYG-oaymwEICOADEOADSFqi85f_AwYIz__iywY=\u0026rs=AOn4CLCzYchFfNIG3I0mWALCJ8vu8No2lw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CL_SqtYG-oaymwEICOADEOADSFqi85f_AwYIz__iywY=\u0026rs=AOn4CLDnfIit4OhBkJYCjp_tW0iBYeVQ5A",
       "width": 480
     }
   ],
@@ -17240,12 +17240,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CJbTqtYG-oaymwEICPABEPABSFqi85f_AwYIgPKozAY=\u0026rs=AOn4CLDFy6-xhq3lWdJUnTubgYNggjGLPQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CND-qtYG-oaymwEICPABEPABSFqi85f_AwYIgPKozAY=\u0026rs=AOn4CLDYmtrBZ8rahfp_xLIEdzScN_-hVg",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CJenqtYG-oaymwEICOADEOADSFqi85f_AwYIgPKozAY=\u0026rs=AOn4CLAXnm104QVovYLdzajSy3YkRG69Jw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CLj-qtYG-oaymwEICOADEOADSFqi85f_AwYIgPKozAY=\u0026rs=AOn4CLAuR2nnbccW9KLyyqW_jn2RsxNSgQ",
       "width": 480
     }
   ],
@@ -17278,17 +17278,17 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CJfgqtYG-oaymwEICPABEPABSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLAL-zbHn9hArY11G9yrN88FlquLBw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CO_5qtYG-oaymwEICPABEPABSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLArO5VrdkeO1EuZ1aI5vg_AJQx5jg",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CNXEqtYG-oaymwEICOADEOADSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLBhmp7ZvyfyXc3Orv_FF02buoQkyw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CMLaqtYG-oaymwEICOADEOADSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLDLQ3HHECxmJrYvOTGiTNtURbdm5A",
       "width": 480
     },
     {
       "height": 720,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CO-6qtYG-oaymwEICNAFENAFSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLCgkNcwmRobL1_fhB3ZrtCH9FRQhA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CJbkqtYG-oaymwEICNAFENAFSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLAWemAQ4bycHcp9Nr80wb4S92TZqQ",
       "width": 720
     }
   ],
@@ -17321,12 +17321,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CM3AqtYG-oaymwEICPABEPABSFqi85f_AwYIv6ifvQY=\u0026rs=AOn4CLBBUrCrGBZjSoK7N3l1ruPzRZcx6Q",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CMTVqtYG-oaymwEICPABEPABSFqi85f_AwYIv6ifvQY=\u0026rs=AOn4CLCCOdvoXFMegf3A6AprT1U6qsisiA",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CJPYqtYG-oaymwEICOADEOADSFqi85f_AwYIv6ifvQY=\u0026rs=AOn4CLCN5vKTi1jWMGwyASagklTRH0q4Yw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CN_LqtYG-oaymwEICOADEOADSFqi85f_AwYIv6ifvQY=\u0026rs=AOn4CLBC6SXC_aCWhoui0e09FNMmkhQ4Xg",
       "width": 480
     }
   ],
@@ -17359,12 +17359,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CJDKqtYG-oaymwEICPABEPABSFqi85f_AwYI-f6pyAY=\u0026rs=AOn4CLB_u97viUnjk69JeiE-Yr6wFm1Wfg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=COy9qtYG-oaymwEICPABEPABSFqi85f_AwYI-f6pyAY=\u0026rs=AOn4CLDm429seXy7VfYyx-RDw4lUsjFRAQ",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CMnuqtYG-oaymwEICOADEOADSFqi85f_AwYI-f6pyAY=\u0026rs=AOn4CLCBdrMBV5H2nc_5Rf6L5__bP7M6mQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CLjxqtYG-oaymwEICOADEOADSFqi85f_AwYI-f6pyAY=\u0026rs=AOn4CLDmPkPz72fETRZWRyRagjss13shmw",
       "width": 480
     }
   ],
@@ -17397,12 +17397,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=CPDUqtYG-oaymwEICPABEPABSFqi85f_AwYIydSTyAY=\u0026rs=AOn4CLCFpw_AZg1abRNvSeLy79PDfqM-jw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=CK3tqtYG-oaymwEICPABEPABSFqi85f_AwYIydSTyAY=\u0026rs=AOn4CLB3zMoxFqxiAyMBNl2yKxr3Xjtrlw",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=COvFqtYG-oaymwEICOADEOADSFqi85f_AwYIydSTyAY=\u0026rs=AOn4CLAV5wUoC7vtRf5-EcCrSoORJJSsgg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=CIj_qtYG-oaymwEICOADEOADSFqi85f_AwYIydSTyAY=\u0026rs=AOn4CLC3_WQt3FrrtVVfI0PSxqNv8aIZVA",
       "width": 480
     }
   ],
@@ -17435,12 +17435,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CPDFqtYG-oaymwEICPABEPABSFqi85f_AwYI7pC1wwY=\u0026rs=AOn4CLBBUs7BZ28uM1F__X5-R1mGjxJybg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CJT6qtYG-oaymwEICPABEPABSFqi85f_AwYI7pC1wwY=\u0026rs=AOn4CLBFemG55NjJ5CHBEb5T8USbCBd8Nw",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CLjJqtYG-oaymwEICOADEOADSFqi85f_AwYI7pC1wwY=\u0026rs=AOn4CLBMAXanuA4_Fv76DRjw4B3XE1jWPQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CIb6qtYG-oaymwEICOADEOADSFqi85f_AwYI7pC1wwY=\u0026rs=AOn4CLDDu9mny4WslMUxcrF1Rkh1Tbd5Og",
       "width": 480
     }
   ],
@@ -17473,12 +17473,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CKLWqtYG-oaymwEICPABEPABSFqi85f_AwYI_KSswwY=\u0026rs=AOn4CLDZxRvmZC1q0pi8tqMVSTXwaXtq4Q",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CIb0qtYG-oaymwEICPABEPABSFqi85f_AwYI_KSswwY=\u0026rs=AOn4CLCyeJ8C-ASuRZsUh0OE_atga1VtSA",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CL3VqtYG-oaymwEICOADEOADSFqi85f_AwYI_KSswwY=\u0026rs=AOn4CLDqwvqmZO-AvK5eIgsDR2ABIz97rw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CPzHqtYG-oaymwEICOADEOADSFqi85f_AwYI_KSswwY=\u0026rs=AOn4CLBrLBNgjL3IAb4W8PuJBfU21JpbtQ",
       "width": 480
     }
   ],
@@ -17511,12 +17511,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CPStqtYG-oaymwEICPABEPABSFqi85f_AwYI1dKcxwY=\u0026rs=AOn4CLDuiiLVp73kpLhWui3C5fibkEAlzA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CNTVqtYG-oaymwEICPABEPABSFqi85f_AwYI1dKcxwY=\u0026rs=AOn4CLBr9DttlDtOccY8GwM0MB6mRsEi_w",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CKK-qtYG-oaymwEICOADEOADSFqi85f_AwYI1dKcxwY=\u0026rs=AOn4CLAyVo_IOz9mEQCZ3q4Nh5wzL7P6aw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CKTzqtYG-oaymwEICOADEOADSFqi85f_AwYI1dKcxwY=\u0026rs=AOn4CLCA56LTnuRuKO2TENy5pXH-Npr9LA",
       "width": 480
     }
   ],
@@ -17549,12 +17549,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CPnZqtYG-oaymwEICPABEPABSFqi85f_AwYIwoq1wwY=\u0026rs=AOn4CLD3YTAUUow3cOFBA2c9QrFE7BReeg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CPDVqtYG-oaymwEICPABEPABSFqi85f_AwYIwoq1wwY=\u0026rs=AOn4CLC8DSK6hTEVdG4O-ioFMw8tuZ4EiA",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CPHBqtYG-oaymwEICOADEOADSFqi85f_AwYIwoq1wwY=\u0026rs=AOn4CLDGku0zizHx_E0VTRCiA95MmvVcZQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CNKyqtYG-oaymwEICOADEOADSFqi85f_AwYIwoq1wwY=\u0026rs=AOn4CLARN7thN_9te1_b2TkCZmYiz-Rplg",
       "width": 480
     }
   ],
@@ -17587,12 +17587,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CMPDqtYG-oaymwEICPABEPABSFqi85f_AwYIv82swwY=\u0026rs=AOn4CLBOcch7LEegnaPjn-JNAOlTAbFjyw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CLq7qtYG-oaymwEICPABEPABSFqi85f_AwYIv82swwY=\u0026rs=AOn4CLDn0yAOJJWlao1FNwlQ8hY47zJ7tQ",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CIDYqtYG-oaymwEICOADEOADSFqi85f_AwYIv82swwY=\u0026rs=AOn4CLBlk9yJeUD80KV0jp10j1kg5dTxbA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CMvJqtYG-oaymwEICOADEOADSFqi85f_AwYIv82swwY=\u0026rs=AOn4CLDBU63kCcU6nt02yKB8u_P0CQZFTg",
       "width": 480
     }
   ],
@@ -17625,12 +17625,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CNy9qtYG-oaymwEICPABEPABSFqi85f_AwYIj_iVvQY=\u0026rs=AOn4CLDnC5w7gGW-peO_Bbd-NWryemY98g",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CM7eqtYG-oaymwEICPABEPABSFqi85f_AwYIj_iVvQY=\u0026rs=AOn4CLCvjfiMEIxGRT38j0GzlgHSI2KGjA",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CKK8qtYG-oaymwEICOADEOADSFqi85f_AwYIj_iVvQY=\u0026rs=AOn4CLAz5ZZqWYphPHskxsa-QiUyRNG2dg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CK_OqtYG-oaymwEICOADEOADSFqi85f_AwYIj_iVvQY=\u0026rs=AOn4CLC6GaBvDVjtyEy97H38aCskMjEpFA",
       "width": 480
     }
   ],
@@ -17663,12 +17663,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CPjlqtYG-oaymwEICPABEPABSFqi85f_AwYIl6mZvQY=\u0026rs=AOn4CLBR2XK0x3a27VBMuySP2p7fLUqkOQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CILbqtYG-oaymwEICPABEPABSFqi85f_AwYIl6mZvQY=\u0026rs=AOn4CLCijU_4qDnejssNlOl7nRG7vc0DcA",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CLq5qtYG-oaymwEICOADEOADSFqi85f_AwYIl6mZvQY=\u0026rs=AOn4CLDHMPAfJznIc-PRSd0Bynp3y6smmg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CMPJqtYG-oaymwEICOADEOADSFqi85f_AwYIl6mZvQY=\u0026rs=AOn4CLB684kGaBnKWmyo0THSWEtM63aSVw",
       "width": 480
     }
   ],
@@ -17701,12 +17701,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CPbNqtYG-oaymwEICPABEPABSFqi85f_AwYI0puZvQY=\u0026rs=AOn4CLAIVTc10WaZbmW9gQsTF6Ombsv8zQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CM3UqtYG-oaymwEICPABEPABSFqi85f_AwYI0puZvQY=\u0026rs=AOn4CLCafd6tvdE7c7FUjwlX53AnCtO7qQ",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CKjQqtYG-oaymwEICOADEOADSFqi85f_AwYI0puZvQY=\u0026rs=AOn4CLA5cqz5UQ8drTFVA7ofdA1RDb9qUA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CM-zqtYG-oaymwEICOADEOADSFqi85f_AwYI0puZvQY=\u0026rs=AOn4CLBJpaQ80E5ULT99JhcINxvtr9EdUw",
       "width": 480
     }
   ],
@@ -17739,17 +17739,17 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CLfUqtYG-oaymwEICPABEPABSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLB2BGiEaqQ-FTi3o_Tp8nUOSIa3ZQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CKjdqtYG-oaymwEICPABEPABSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLBa63P3VtGq7jsrLbDh3Rw4SGYATA",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CMGsqtYG-oaymwEICOADEOADSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLDVquKFEYkVKu0x7Xd8C7HNebxr8w",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CNDrqtYG-oaymwEICOADEOADSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLDgh-u2YKghgwrGKvmOGDfW3ls5iA",
       "width": 480
     },
     {
       "height": 720,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CO_MqtYG-oaymwEICNAFENAFSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLC2s2BwnTL2kNeAei5U98MPOrQdfQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CIv3qtYG-oaymwEICNAFENAFSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLCeJkPBaTEIWGpltMkPEo4F3tLRcQ",
       "width": 720
     }
   ],
@@ -17782,12 +17782,12 @@
   "thumbnails": [
     {
       "height": 240,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CIbDqtYG-oaymwEICPABEPABSFqi85f_AwYIwLufvQY=\u0026rs=AOn4CLARZfENN-xJeNS4Bj03q4PWMLM3EA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CMzSqtYG-oaymwEICPABEPABSFqi85f_AwYIwLufvQY=\u0026rs=AOn4CLA4xgVFua58_5mYz_hfnC8DBOUT7g",
       "width": 240
     },
     {
       "height": 480,
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CJXbqtYG-oaymwEICOADEOADSFqi85f_AwYIwLufvQY=\u0026rs=AOn4CLA6mHtPC9Y2yzNlP7YaJFh-QKrmOQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CJrIqtYG-oaymwEICOADEOADSFqi85f_AwYIwLufvQY=\u0026rs=AOn4CLBUwkvaRMmpZTgMIkUDY-2E6shw8A",
       "width": 480
     }
   ],
@@ -17842,22 +17842,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLDmor30ORz4XmCrmnIuY1JH9ZjnUw",
+          "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLABJaD_k5mfZhSslFa0ptxzrnWurg",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLBp37isl4EX_iJtm9Y9Mw0WOMLY_w",
+          "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC3jlACS4cRmePqYY87ihxL8Flyqg",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCXf-FbylgQhtUWdVKZ7C9TV4fYcw",
+          "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDzgmRvQHn6rbFjEgxKFeASauNmaA",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLB-EkTxLTszJ_vKQMZiUhA9HsL8Mg",
+          "url": "https://i.ytimg.com/vi/y1oPhRCCxLU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAereRzWb7hQEdmACHBi8U76aaw3g",
           "width": 336
         }
       ],
@@ -17884,22 +17884,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLAazaisW9L6hnd0l5r_eDzPKcegLg",
+          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCeFUPY_g1BnzC6-4RDdN-jBBhVIQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLDjrtP52Di6mYuP3wCFqbh0lTu1AA",
+          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC_QTlpkz07-MJNPgSWAGwXLwVBuQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDsqX68tZ743Ml2_1GNzGMFCtfjFw",
+          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAB0NwJocHi_p2G3cRgcniaNkSPew",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAYfm1JXtGcMq8dlvC4XspGxK1q0g",
+          "url": "https://i.ytimg.com/vi/F9mPBBevqUE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDnl7GfYnPZWET2ESGqkiaRTScrOw",
           "width": 336
         }
       ],
@@ -17926,22 +17926,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLB3HlbosiRHdy_vjEAbPzawDXso_w",
+          "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDznc9yZYsd69-8x7mGAPt-uIdsYg",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLAxCc7suEzOUSJiN5PwbpWcGiABvQ",
+          "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCDTJHVWTGhf3fEpymMOLbCjEYNrA",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBdYLwS90BcMB6-HoLmMs2ebo1z2w",
+          "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDX94cY8EPbMvAlrsEFBifhNnqNrA",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCPGZXzWYPMj92vshBCcOs6KacLFw",
+          "url": "https://i.ytimg.com/vi/IIzaj6TtYEA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCtLHRFHieNyONdcNkA3mScblFCOw",
           "width": 336
         }
       ],
@@ -17968,22 +17968,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLB9Yc-C0rp7hIzqWQ7xTKfP-yrD1w",
+          "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA4_1P980UqvPlKNWH7wJYViyyN-Q",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLDipn0OhIljl8E6Ong4W4yuEGu3ew",
+          "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB1KcGx6Ex-f-utGnbxnaiuceINCg",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCbYLuQgZquFF92NkjqqL7Jeb3bgw",
+          "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAY3ThVmjavEJ0osNRj7SkH0MMYgQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDBPveBbUYvH6LGDQMfOLNOYvKTXA",
+          "url": "https://i.ytimg.com/vi/9BvJWyhQKyY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCPJZSJ0e2tncDZHMzoVZ2tt0-aUw",
           "width": 336
         }
       ],
@@ -18010,22 +18010,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLC5KQbvSrr9fiXJVIj1K3uk5kHGqw",
+          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCgRybp57fuXRSnE0yOXBEF5oFMJg",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLA51fUEp3R16NVsmR8v8iCHuVN6kA",
+          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBGFrSD2Z75OOxRwBgAV0SGk6Dchw",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBhm7Ymktqa-tQpv9fH0TKV4FZR4A",
+          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD_pfyqeIA8-WH1i8TOGcaEuMZGSw",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLALM4Rmh3HPuALtDo37Of14QiUriA",
+          "url": "https://i.ytimg.com/vi/2HPK0dh0_K8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCtqPB5krl9N9OYjfi-dJqeHciqCA",
           "width": 336
         }
       ],
@@ -18036,9 +18036,135 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=2HPK0dh0_K8",
       "view_count": 6700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 19698,
+      "id": "7AX8611v83U",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/7AX8611v83U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCPTqtG4XMYfnq66gPaGaq1jINi5g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/7AX8611v83U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAxCM5MR16f9eiIdPCXp2FvWTms9w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/7AX8611v83U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD5aSSSUD4VOTcMtqJJ2y224KfwGA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/7AX8611v83U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLByPr81kEIAgFbQ15DPNA4yw-n_pQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript \u043a\u0443\u0440\u0441. Part 1: Hello World",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=7AX8611v83U",
+      "view_count": 8700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 17820,
+      "id": "Dtgo9uB1fxU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAxABUlLEtfkgNQrLZT2VPmwcNHmw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBX0tAhb39HWT2RPgy1JIczPHcqZg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBowpKxsRyINWmJLnBtdwp60oQfzA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Dtgo9uB1fxU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCzyeiISiW_bgTcxcardTtOBqoltA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "AsForJS Talks: \u0427\u0442\u043e \u0442\u0430\u043c \u0437\u0430 \u043a\u0443\u0440\u0441 \u0438 \u0435\u0449\u0435",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Dtgo9uB1fxU",
+      "view_count": 3300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 8455,
+      "id": "4eyGrFv7pzM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/4eyGrFv7pzM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCyIy9u5FUOn09XvWWfUzCCKGevZQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/4eyGrFv7pzM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDTNF329Hb4srqKaj6XzKwulQk1xA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/4eyGrFv7pzM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAYP7fU_ZHqxblsuPSD2Bm7v2WPrw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/4eyGrFv7pzM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBcYRRMyEELdI9pBTn12zJVamXx2A",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0410\u043d\u043e\u043d\u0441 \u0438 \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u043a\u0443\u0440\u0441 JS Vanilla - non penis canina",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=4eyGrFv7pzM",
+      "view_count": 5500
     }
   ],
-  "epoch": 1791670101,
+  "epoch": 1791672640,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ",
@@ -18061,14 +18187,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CJHOqtYG-oaymwEICPABEPABSFqi85f_AwYIz__iywY=\u0026rs=AOn4CLCsXbkokb5kS_mJKbjjqVuGkiz4bg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CM7hqtYG-oaymwEICPABEPABSFqi85f_AwYIz__iywY=\u0026rs=AOn4CLAhXU5L-NE65FVWIRugvYI_xAYrXg",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CLDVqtYG-oaymwEICOADEOADSFqi85f_AwYIz__iywY=\u0026rs=AOn4CLC8iLE-eDvUOOvFOw_UYlcBiRczWw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ/studio_square_thumbnail.jpg?sqp=CJfTqtYG-oaymwEICOADEOADSFqi85f_AwYIz__iywY=\u0026rs=AOn4CLC6-SZlbpu6lEh74t3vKuKWtLWkYA",
       "width": 480
     }
   ],
@@ -18153,7 +18279,7 @@
       "view_count": 3200
     }
   ],
-  "epoch": 1791670102,
+  "epoch": 1791672641,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy",
@@ -18169,14 +18295,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CIznqtYG-oaymwEICPABEPABSFqi85f_AwYI-f6pyAY=\u0026rs=AOn4CLCmYIwIgy_at6ZusJ3ZZfSSl9lIBQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CJTdqtYG-oaymwEICPABEPABSFqi85f_AwYI-f6pyAY=\u0026rs=AOn4CLBttwv7wtKyXk5E70r8sF2YKZOCgA",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CMa5qtYG-oaymwEICOADEOADSFqi85f_AwYI-f6pyAY=\u0026rs=AOn4CLCUVvdibJdOcLy6pl2GrgaK98fd_g",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy/studio_square_thumbnail.jpg?sqp=CPLTqtYG-oaymwEICOADEOADSFqi85f_AwYI-f6pyAY=\u0026rs=AOn4CLCMF4QRTkcpkKRvusgP6qSZMC4t6g",
       "width": 480
     }
   ],
@@ -18233,22 +18359,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLAisN-wPR8som3kcJVJTayPoV2kuQ",
+          "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLByOMmwXhc7pf5r02FYA47DBYnZbw",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLCiOfSJy4rHZFsH0k3TM2lQkvZ7_Q",
+          "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLADyG8iGAq9GFJQFCkXUJiThI-nRw",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLDYOfILx7n7k_RtlLb83IBtrVnLOg",
+          "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCjsqq_OdrSx-4O74DJl6n7pCojPA",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLAyzwbytX4awnXnNOZgs-d6gpUZxQ",
+          "url": "https://i.ytimg.com/vi/Gz5PeNKkxwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBle70jieO3EndfI89nP69eY8dhzg",
           "width": 336
         }
       ],
@@ -18261,7 +18387,7 @@
       "view_count": 2200
     }
   ],
-  "epoch": 1791670102,
+  "epoch": 1791672642,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh",
@@ -18277,14 +18403,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=CK23qtYG-oaymwEICPABEPABSFqi85f_AwYIydSTyAY=\u0026rs=AOn4CLB2j7YMsGappT21TMJ7W5OWWnTsUw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=CLznqtYG-oaymwEICPABEPABSFqi85f_AwYIydSTyAY=\u0026rs=AOn4CLCHPN_3y5InQkO7lPWvjNHSZiGEEQ",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=CObhqtYG-oaymwEICOADEOADSFqi85f_AwYIydSTyAY=\u0026rs=AOn4CLAWop80Ztm7ePGQjnEsQdLIh4Mi_Q",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh/studio_square_thumbnail.jpg?sqp=CKfiqtYG-oaymwEICOADEOADSFqi85f_AwYIydSTyAY=\u0026rs=AOn4CLBS8o0unp6QvCNk_ecpTsmfqF-Ufw",
       "width": 480
     }
   ],
@@ -18495,7 +18621,7 @@
       "view_count": 2300
     }
   ],
-  "epoch": 1791670103,
+  "epoch": 1791672642,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc",
@@ -18511,14 +18637,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CO65qtYG-oaymwEICPABEPABSFqi85f_AwYI1dKcxwY=\u0026rs=AOn4CLB4-pQN32tNSPvt28-fHGBGd0sRHA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CMW9qtYG-oaymwEICPABEPABSFqi85f_AwYI1dKcxwY=\u0026rs=AOn4CLCm68PAwrYgU9bSV7ZEn7DU0GTDeQ",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CKjZqtYG-oaymwEICOADEOADSFqi85f_AwYI1dKcxwY=\u0026rs=AOn4CLBuOX8HubWckuslY3JcAmdimNikwg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc/studio_square_thumbnail.jpg?sqp=CMjrqtYG-oaymwEICOADEOADSFqi85f_AwYI1dKcxwY=\u0026rs=AOn4CLDp5K-3ZsjuFj8BUyAhnJoDpWGBuw",
       "width": 480
     }
   ],
@@ -18729,7 +18855,7 @@
       "view_count": 1200
     }
   ],
-  "epoch": 1791670104,
+  "epoch": 1791672643,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ",
@@ -18745,14 +18871,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CL7rqtYG-oaymwEICPABEPABSFqi85f_AwYI7pC1wwY=\u0026rs=AOn4CLBZnp8SIrvAz2iZRGNuRWZ8OFeh3g",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CLPhqtYG-oaymwEICPABEPABSFqi85f_AwYI7pC1wwY=\u0026rs=AOn4CLAjZR8azvjl9gIfZo9q4SbjmtwrwQ",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=COLmqtYG-oaymwEICOADEOADSFqi85f_AwYI7pC1wwY=\u0026rs=AOn4CLAs7uvSYJzgsQkuOqV2n0Wjsvta6Q",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ/studio_square_thumbnail.jpg?sqp=CPTZqtYG-oaymwEICOADEOADSFqi85f_AwYI7pC1wwY=\u0026rs=AOn4CLAn7BPSEXR27zWMOPuEFidS-9KD1Q",
       "width": 480
     }
   ],
@@ -18809,22 +18935,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBOyQ8OuGeY5ydnJ4jglAlQ5JjhcQ",
+          "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLD1MYR-WTrFeVg7frhbB8bRdIQH8w",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBP2eifo08uZBwUakDt-SJlyiCtyQ",
+          "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLBls6hte1O95EAia8BaXVIok0kQXQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCkYk1ETDNtHjbanTXnqrEwJjoKhA",
+          "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBXMUalV8G0oorzNVlpVptVPz_63Q",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD1rkiA8uVoCQlpIfTQdiqND7-bmA",
+          "url": "https://i.ytimg.com/vi/qjVKgy835KQ/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLABrKk8yfjDeOYtGki2rxv9lNypiA",
           "width": 336
         }
       ],
@@ -18851,22 +18977,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD4z8aOaiLOWuO3GB9_X0BEkO4rlA",
+          "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLDUHc_D3sJFgFteTyyVIIqBuPob2Q",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBoqt9cvFom_2nXwEkKqc6ih9CLyg",
+          "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLCMTNL_D8u5w_mwt9dtLS7TJVYoyQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC-IUUo4FwbjwwtaaZmMt1w9Qv3hw",
+          "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLAvxld3lRfn86WTsJk_NBSr241bgA",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCS0q_tBORvPeJ0FoXzyK_JXHcH6w",
+          "url": "https://i.ytimg.com/vi/nCM2-bsdnKI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBtMrOUzcjq435Ogzj8rnHsMOnRPA",
           "width": 336
         }
       ],
@@ -18893,22 +19019,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDc7CVkvKGIq2p1vs0Brxoa3msaeA",
+          "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLDntf4RloXdiAyxuzSlJNQQvUBaZw",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDYe65Pijna0qKJOzFv81eIESssrg",
+          "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLB267JSCn93pm4rSQx7TwsIVA9P6g",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBuaDR7gZgjHqS57Hc5a86SPhfBKA",
+          "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLD6RitzYpaKnjs80ieWGzlthTgMLg",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDk39j3RyrJ5CS1CF3uQTuw2UQPeQ",
+          "url": "https://i.ytimg.com/vi/gDlpECfuOc0/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDSdjq7rme7VtyxYTKwTlWJnduTUw",
           "width": 336
         }
       ],
@@ -18935,22 +19061,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAS3sgR8qFBIo99hrXjgMZ3kbU1kA",
+          "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLB5_ReBop4Zg12XLcu5aF7Zl-oZNg",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCZ__Q0PE-iXbknIP0wuBgWcAEixg",
+          "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLAzB1eydY3ff45PxPIT2SKJN9u-fA",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDM2jmrA0d0b8W0G_yjvnmRvK1PGg",
+          "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBLYYlAMWTJe_0Vhme_31Tii8ICHQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDck8ysHYd9rfmJIzewH2GLeP57yw",
+          "url": "https://i.ytimg.com/vi/JUDPQLb7QnQ/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLDH8BYqDTrO6bYf16w5xVTjBL7K-g",
           "width": 336
         }
       ],
@@ -18977,22 +19103,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCD-TtIir4k1xatua0H1IG4TNFL4A",
+          "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLD9rfjA32k97qQlhzGYFRVwvjnqZA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBk-IZbnQ-CHfEKQe0QzusCxSenuw",
+          "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuALzGA==\u0026rs=AOn4CLDmj7Woq_CPc9qdiY7m3NyKywxlWw",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAnUuOhtYovPp5Y2PM0n6I99BikMA",
+          "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLBr-L1_i982rE2dV_eY1upXVGb_2Q",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDTtn8XKDKQ_UCSEFPuco57rWWDGw",
+          "url": "https://i.ytimg.com/vi/MHNKeEo0HOQ/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=\u0026rs=AOn4CLCNZYp4-oU4aXLfXuCsK5xjjdpoBA",
           "width": 336
         }
       ],
@@ -19005,7 +19131,7 @@
       "view_count": 12000
     }
   ],
-  "epoch": 1791670104,
+  "epoch": 1791672644,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks",
@@ -19021,14 +19147,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CLDmqtYG-oaymwEICPABEPABSFqi85f_AwYIwoq1wwY=\u0026rs=AOn4CLCrlK648-4Zjcrp_0i7QMj6gH73DA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CN7VqtYG-oaymwEICPABEPABSFqi85f_AwYIwoq1wwY=\u0026rs=AOn4CLDADgTv4y9RcIHsRMBuMU1V1lqvaQ",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CIvmqtYG-oaymwEICOADEOADSFqi85f_AwYIwoq1wwY=\u0026rs=AOn4CLDicVOKx-O7EEj9bPqEZ8hhzxvTnw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks/studio_square_thumbnail.jpg?sqp=CIyCq9YG-oaymwEICOADEOADSFqi85f_AwYIwoq1wwY=\u0026rs=AOn4CLAkeZBmTijbElPj00TojMAw0LiJvg",
       "width": 480
     }
   ],
@@ -19085,22 +19211,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLBI_pCP-tZPjIqZPB7HZNEDPPdegQ",
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBQK58x_E_FvKUNuYLp6lQ8TW5SnA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLC5751BSqzeqY4wTWClZFFg7Y7XOg",
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAVL6GE-NBDgcIC5sOz9vX1ooj4QA",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLAPlpW4wX1QF-eh5Eb6QDLmffAcZA",
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAZQU2iRhMUg3btDzbfoDxwabbzAw",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLBHhwQfFOA3sE0YO9g1HsphZp7_0Q",
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAKZxB_oPMAocJlsETITlR6ggJZrA",
           "width": 336
         }
       ],
@@ -19127,22 +19253,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLD0Fji4FKs5jSQmRCdJ_Jn_NRkcfQ",
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCe9Tibi-gTX1We-JZU8BiEkJFKJg",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLDtl2shbMdm2tmLTByGS8NDBTAb2A",
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBTDeTvmXADDOlgfZ0g_5MlEL9dVw",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCX2U8mzL_9KqLlmVkkeETLI_syIg",
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDsZsZS3hJnQHEJdIGVkGVDacOT1g",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLD-lfMNib2IJ5BdC6BF6S_2PFYwAA",
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAlcre2RQq3jd1r1jEydjgYi5nfzw",
           "width": 336
         }
       ],
@@ -19169,22 +19295,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLD2ChtpLPESzfHvHiVA3KrTm9aQXg",
+          "url": "https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDU9nQW3q2q3MuqkuvUonDx49qfNA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLAKUcX04wDncbc-naPtRRNxvnxSpg",
+          "url": "https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCek91iZR7hA8igHW5sfxWwATkSqQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLBFlxxlWFXvB_AVc9_gJqA-SXhefg",
+          "url": "https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBIsKPUClCg1DgyWIG9Dc-Vy_cxFA",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLDZVO-b-MCV3NQ-ZKCriOfA6nKBdA",
+          "url": "https://i.ytimg.com/vi/fy8raIuNewE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAZB5VbY31g2ATBtYZQWSolk-2tzA",
           "width": 336
         }
       ],
@@ -19211,22 +19337,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLDNxl6V-nHltgO6P92MnZPhL0Ab4g",
+          "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAvRqCawa3oAfEQ_PeOPmeW-nEmWA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLCyoNedIIhSAVtC5P7pmfS9vS5kqg",
+          "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD_q1XiScF_i2wjDLkWmxyWUme31g",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLBDcFzZLjJ5yERPxAGh6eeGOKtBQg",
+          "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABvXn-oJ9eexwMgCKfF-bvjXZ4mA",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLBeBLL3xq-iB_xAM2ieTQyCwit7aw",
+          "url": "https://i.ytimg.com/vi/8MPsmik4h_Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDNadYe4R92AMHMYz9cBhmtaclAGg",
           "width": 336
         }
       ],
@@ -19253,22 +19379,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLDrs1V-7xDr-hN23SV_i3fnndUaxw",
+          "url": "https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDMVl8GXMeR362UFg-GXNORzNDDYA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLASuSpzc2wpNlLWvIPGqfFZ6phfmA",
+          "url": "https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBKnrvV_8_9sTyCDrRGTpPlc2DG_A",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCJpHYIcKWHr0BakwJbBvlFFLIGKg",
+          "url": "https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBjp0dmzw1hEArluRC9i4N4Ivj0sg",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCyM1UkcLdiTTEaylrxHjpIn9mIFA",
+          "url": "https://i.ytimg.com/vi/hU-mdaemKng/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBLu8Ccg3iNMKCVcKg1ejB0Inqxpg",
           "width": 336
         }
       ],
@@ -19279,9 +19405,93 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=hU-mdaemKng",
       "view_count": 4000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5787,
+      "id": "_Uyzj7ycemc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/_Uyzj7ycemc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC4SunjqbswCEcXdYDwp3x2rGNt6A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/_Uyzj7ycemc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAgPa4mzzNhNZ8eVfyzKFfIK9H-Bw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/_Uyzj7ycemc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAIjtT-MGhwx00NoW1NegCXfH0ciw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/_Uyzj7ycemc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAd5DzAiAav_RP1pxsI1OhDFA4ttQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Google leaks: \u0420\u0430\u0437\u0431\u043e\u0440 \u0443\u0442\u0435\u0447\u043a\u0438 2500 Google \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u043e \u0434\u0435\u0442\u0430\u043b\u044f\u0445 \u043f\u043e\u0438\u0441\u043a\u0430.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=_Uyzj7ycemc",
+      "view_count": 5900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 625,
+      "id": "7b3Qc0Q7bQ8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDmFWy2W5abPJ7qVlQeWuqJ5wTG6w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCWTbU_dvZZndhXZL-IjFB6lhaozw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCtLqTuWtAtdJdz1icARq2i8cW97g",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/7b3Qc0Q7bQ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCnK-8SVDBxfJYaUOj92uD8UR0ZxQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0412\u0441\u044f \u043f\u0440\u0430\u0432\u0434\u0430 \u043e Google leaks \u0443\u0442\u0435\u0447\u043a\u0435 2500 Google \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=7b3Qc0Q7bQ8",
+      "view_count": 2800
     }
   ],
-  "epoch": 1791670105,
+  "epoch": 1791672644,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf",
@@ -19304,14 +19514,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CJbZqtYG-oaymwEICPABEPABSFqi85f_AwYIsqyfvQY=\u0026rs=AOn4CLBjeu5L_b53kaCID5FWY6SNChIzlA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CL7-qtYG-oaymwEICPABEPABSFqi85f_AwYIsqyfvQY=\u0026rs=AOn4CLDA9WlEEMWbAEho58CXOIHyTcQ0lg",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=COK-qtYG-oaymwEICOADEOADSFqi85f_AwYIsqyfvQY=\u0026rs=AOn4CLCLtLu3GhpFHphVJEXX630CfaqDZw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf/studio_square_thumbnail.jpg?sqp=CL71qtYG-oaymwEICOADEOADSFqi85f_AwYIsqyfvQY=\u0026rs=AOn4CLCBz2_2bBrqUCl0b0ZWFgFVRc92Pg",
       "width": 480
     }
   ],
@@ -19562,9 +19772,51 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=dsrPYivNgXc",
       "view_count": 2000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 455,
+      "id": "sj1VEnlEtQw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCxaTnpA5Tx4TxYOW8B86Isqwvixg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDdSgQEQ6Uft9wsTL_5aw5mnWX8hg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDihwhzCecSOlS1FlRHQtUjUV8iNw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC6KeZ-y5wulIA5H0poPl3hRquy5w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Try to hack My JavaScript: readyState",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=sj1VEnlEtQw",
+      "view_count": 5000
     }
   ],
-  "epoch": 1791670106,
+  "epoch": 1791672645,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH",
@@ -19587,14 +19839,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CMq8qtYG-oaymwEICPABEPABSFqi85f_AwYIv6ifvQY=\u0026rs=AOn4CLDC52aebBWHNKrccBdqeUCNhepDpw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CNz7qtYG-oaymwEICPABEPABSFqi85f_AwYIv6ifvQY=\u0026rs=AOn4CLCIOVJ7_qc_M8qCyfnYix3ftk22lg",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CKC2qtYG-oaymwEICOADEOADSFqi85f_AwYIv6ifvQY=\u0026rs=AOn4CLDSBvwwqeGx6AhoUNZMBpysTDm9oA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CM6Bq9YG-oaymwEICOADEOADSFqi85f_AwYIv6ifvQY=\u0026rs=AOn4CLB0gjJ7otSMI_qu4-H2ivoRbml72w",
       "width": 480
     }
   ],
@@ -19805,7 +20057,7 @@
       "view_count": 16000
     }
   ],
-  "epoch": 1791670107,
+  "epoch": 1791672646,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l",
@@ -19821,14 +20073,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CNbZqtYG-oaymwEICPABEPABSFqi85f_AwYIv82swwY=\u0026rs=AOn4CLD_rhr_YUxKv5iSV0nQjSoDq5Ikjw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=COjcqtYG-oaymwEICPABEPABSFqi85f_AwYIv82swwY=\u0026rs=AOn4CLCvmhwu-DfFIbt_i4pst2WN6-bymA",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CIa0qtYG-oaymwEICOADEOADSFqi85f_AwYIv82swwY=\u0026rs=AOn4CLB_52ykuTwsD7BTNxQHwS1ViOKuwA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l/studio_square_thumbnail.jpg?sqp=CO7sqtYG-oaymwEICOADEOADSFqi85f_AwYIv82swwY=\u0026rs=AOn4CLDEdE0eKTphvm-_qkaNKmqvJqBFxg",
       "width": 480
     }
   ],
@@ -19913,7 +20165,7 @@
       "view_count": null
     }
   ],
-  "epoch": 1791670107,
+  "epoch": 1791672646,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde",
@@ -19929,14 +20181,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CIrNqtYG-oaymwEICPABEPABSFqi85f_AwYIl6mZvQY=\u0026rs=AOn4CLAVYjVukjp_cHLyxjt6YB9go5zngg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CIjvqtYG-oaymwEICPABEPABSFqi85f_AwYIl6mZvQY=\u0026rs=AOn4CLAJ-nljRLVGMPOxKxSzfeJRmftH3Q",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CMCyqtYG-oaymwEICOADEOADSFqi85f_AwYIl6mZvQY=\u0026rs=AOn4CLB8TNa99TyGxaJXLEsrKvnBkfbLqg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CIHcqtYG-oaymwEICOADEOADSFqi85f_AwYIl6mZvQY=\u0026rs=AOn4CLCTcxWRo1oFwM-qMVaX4exyqcv1JA",
       "width": 480
     }
   ],
@@ -19993,22 +20245,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLARbcmkOUP4pcZszGuMTB2bg0UmeQ",
+          "url": "https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLBV9ROGLvJOeB7z5CuxCekpV7PKqQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCEHiStDP3g_apyuM-w4cbYW5qxsA",
+          "url": "https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLCcycGglmkqmoL_T15WoAV9y9AwIA",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDECerLXsArQ5KeNJDNRsMQKAdqxA",
+          "url": "https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLDAbPvQ-ap9BrDz65-B0jtex7gIxw",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDiTmLMqGtw28Dva9VQdiS8JZTdBw",
+          "url": "https://i.ytimg.com/vi/VHzNbsR893A/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCQewV-XXOj3D6N7ZhBFP-5u7C6SA",
           "width": 336
         }
       ],
@@ -20035,22 +20287,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBnSyFuY25Fg5vxd1qvI424OtfP8Q",
+          "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLC0VpuuW63HAChFNqF1OBgcT_yE1g",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDGe4DoDUCcnEDjvIxFyc7OUg_7PA",
+          "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLBP5RYi1BAeax_ZASVEP7btGuakoQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBZoTAuja0pyd-a1DEfnE2s3p4ASg",
+          "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCvFJTCVuikApLlMVqGI8IXXjp5Rg",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBwWtfM90ARRvxAXHLOR7yuIVaBww",
+          "url": "https://i.ytimg.com/vi/n79z4l2Qrp4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLBybjLxjIZC1WR39o7VhYZD9JtJ6A",
           "width": 336
         }
       ],
@@ -20077,22 +20329,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBYLty1Sv70xVdnvqMpSdZkt4b0jQ",
+          "url": "https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLC-nAzkv2EfYSNEnNqShpwrS2ixqw",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAeG0iZITmgnevCtd0Bzk6_HbqY3w",
+          "url": "https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLBpMU8_eEA3aCXFcmVaNwnT3WLnDw",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC4GDSM6bfWgCjV754hjbYlaG_fCQ",
+          "url": "https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCixuoxNbxb5YIvyRSi8TT4Z74daA",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLATJ9Ap1BBU2iOfe2Ef9_yXgF5YNw",
+          "url": "https://i.ytimg.com/vi/lP82yJRujLM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCHmRIdH1GubM0uoCJlxTpvHSdTvg",
           "width": 336
         }
       ],
@@ -20119,22 +20371,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAITk7w0jKhj8uVIina7ofW8EcakQ",
+          "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLBGtn-99H4kJxv5sXxk2Za2jPd8Pg",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAcAordHY1EAbs21sca5-db9YAHKg",
+          "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLCEXKaT89Ll7K-0AlFP2LqacPQ-PQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDIwc-kmSAtv4gCERCmYHQ2TOI7Jg",
+          "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLD6dunOF_lM8G-hbphu0OGcw3VsFg",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBuEI-xHv7zchdSrU2zLPeNIpjV_g",
+          "url": "https://i.ytimg.com/vi/0_D2ox_N6hw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCe7aXCLAdHn2tL1sdHxYw0FXe8Ew",
           "width": 336
         }
       ],
@@ -20161,22 +20413,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBjtrq-vmpLuWKi0SdvOeBLUcVxGQ",
+          "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLCM8oPeKHwmKxdA-dlO9XDlddy_gQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLACCWZaGqwUE_wi3r4_mSo0-vN7hg",
+          "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLDXOCeklalHCdWw59QfgUUku5ZngQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA8CRX8MhUeh3418BmTYX5AX8BI6w",
+          "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCxhkfGOoPqqsG-yHI-Ml9II2Qqbw",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCXgl8y0ZPdCTnR-rZRYSawPRUqqQ",
+          "url": "https://i.ytimg.com/vi/cbuWLCCs1nQ/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLC-qnG0X33ee0_oJJRKzRNvhwWItA",
           "width": 336
         }
       ],
@@ -20189,7 +20441,7 @@
       "view_count": 8400
     }
   ],
-  "epoch": 1791670108,
+  "epoch": 1791672647,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY",
@@ -20205,14 +20457,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CKrVqtYG-oaymwEICPABEPABSFqi85f_AwYI0puZvQY=\u0026rs=AOn4CLCZTGFOBet6o-2UJxcc03oBE_syrg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CLjSqtYG-oaymwEICPABEPABSFqi85f_AwYI0puZvQY=\u0026rs=AOn4CLBuE7utuNT-JtoWgS0w6dsmtRgRGg",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CPG-qtYG-oaymwEICOADEOADSFqi85f_AwYI0puZvQY=\u0026rs=AOn4CLCFJPsijMpDjLvfC9rxHQ9wzIVBqg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY/studio_square_thumbnail.jpg?sqp=CObGqtYG-oaymwEICOADEOADSFqi85f_AwYI0puZvQY=\u0026rs=AOn4CLBEawkv5D7A894Qc0o2J-XlkN-4og",
       "width": 480
     }
   ],
@@ -20463,9 +20715,471 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=DxvJVpn82vA",
       "view_count": 2200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 20390,
+      "id": "yV6Mtpy44dk",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/yV6Mtpy44dk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBjK2mL7dQYLN_sWGIGRSsUM8MPQw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/yV6Mtpy44dk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCreL4xrxH0B2Hg8oTx_CBhwbAOVw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/yV6Mtpy44dk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDUpedynnIdrcNGtbkVJeHQwQsRxA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/yV6Mtpy44dk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD39DOXZN9-nYyKOXlobOQipvJqgg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0422\u0438\u043f String \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 ECMAScript. \u0427\u0430\u0441\u0442\u044c 1 \u0438\u0437 3.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=yV6Mtpy44dk",
+      "view_count": 3900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 24218,
+      "id": "r4fhata7xe0",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/r4fhata7xe0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB8t6jZ6obNyYY35hw_XEglG9nPxA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/r4fhata7xe0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC_7p0mU1CHIzQztCx4ogB2K-JMEQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/r4fhata7xe0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDMd8a4grM_rjgNv4sW1Wizws7d9Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/r4fhata7xe0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCseQ4UTy8PE1qSXS2Vy9mDOPU48g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041e\u0442\u0432\u0435\u0442\u044b \u043d\u0430 JavaScript \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u043b\u044e\u0431\u043e\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=r4fhata7xe0",
+      "view_count": 7300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 24661,
+      "id": "_PY3YqYZCRE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/_PY3YqYZCRE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBAte7qV_1KtFENDqTJNlQLlCrO8g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/_PY3YqYZCRE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBc5jB4SlloI5FEuN4BGVQrMhmSZw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/_PY3YqYZCRE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDTJsIHSQ2LhnIkuprCVpFADAyMtw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/_PY3YqYZCRE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCVfpBbvxOllACTZWKXefT0PFleyQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u043b\u0438 \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0442\u0438\u043f\u0430 \u0432 JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=_PY3YqYZCRE",
+      "view_count": 5600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10102,
+      "id": "6FqwosOqJCs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/6FqwosOqJCs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAFE1Xou0owWSLr1q-c8Ihan63sng",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/6FqwosOqJCs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCkE6a9VnRwaaXVorP51j-6SPbi3A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/6FqwosOqJCs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDW6Oy4Tf6d_BCbgis8akr4JSVDPA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/6FqwosOqJCs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBSCjYltVsS2z0wHCXDaHyBFJVXPg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 Object \u0432 JavaScript \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=6FqwosOqJCs",
+      "view_count": 6500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 529,
+      "id": "8G0qxh4HabA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDkF55Bt-O8PY599S_y9sQo_gKNNA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBEQDHUp27LsYzK6eQLAIROqjp0Pw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3hcGYOgMPrBq3bCOGBGKe1e_J6Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDmxG1Eu9bdYe-scgdiN4ofuLT4Jw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "A fat point in the debate about var let and const",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=8G0qxh4HabA",
+      "view_count": 11000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5471,
+      "id": "6yd_m64mlv8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/6yd_m64mlv8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA25PZHYVZ1eh1YtnAYKE45S8jk0g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/6yd_m64mlv8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLApYd4lYD5KLJW7fejjvnXbcFL_Gw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/6yd_m64mlv8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBKiXl5mxnA26mYAZJUjJcLtW145g",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/6yd_m64mlv8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBaAmFYANJbYOWbsO_AHN9x65nJ3w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1spec:05\u23a6  \u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u0438\u043b\u0438 \u043f\u043e\u0447\u0435\u043c\u0443 \u044f\u0437\u044b\u043a JavaScript, \u043e\u043a\u0430\u0437\u0430\u043b\u0441\u044f \u0441\u0430\u043c\u044b\u043c \u043d\u0435\u043f\u043e\u043d\u044f\u0442\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c \u043d\u0430 \u043f\u043b\u0430\u043d\u0435\u0442\u0435.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=6yd_m64mlv8",
+      "view_count": 10000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12381,
+      "id": "f6NZZ3z27Mk",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/f6NZZ3z27Mk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBn7IP44NxL2NnNJHcBvpez3HrjcA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/f6NZZ3z27Mk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCPQI0c5D-2H4xZoSUE9X5K5ZIdtg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/f6NZZ3z27Mk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAB7I90kLdqY5Og7seQs0K7SWsIBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/f6NZZ3z27Mk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCEAC3Eq-hqWE1wrtETf987NjGrMQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1spec03\u23a6  Hoisting \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=f6NZZ3z27Mk",
+      "view_count": 7600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 16914,
+      "id": "CE0BhheYFQk",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/CE0BhheYFQk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAGjygu-IMc4QTUUvRvk-LguQOFwQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/CE0BhheYFQk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCBpuO9YQFYEo4guAQtFd7Pw5oeZg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/CE0BhheYFQk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDq6bFGTPfNHAgYHm1qZKfhtNR0xA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/CE0BhheYFQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCiYb_u-xKTrbK0KU4sd2vsOGSiCQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1spec: 00\u23a6  JavaScript \u0438 Call Stack \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=CE0BhheYFQk",
+      "view_count": 7700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10416,
+      "id": "T3fb_VKdZJA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCAgeshZ9CzMwhoxWxg_XvTp8uMrA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBdfKo8R3lK-dvXUFlE3uJ2dOw-0w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLALqxVBOLVcqS5glOKmmYxMvDH4Ew",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBmWCOXhHhz7Z2kgtRRsQHZlxAIBg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1UA\u23a6 JavaScript \u0442\u0430 this. \u0420\u043e\u0437\u0431\u0438\u0440\u0430\u0454\u043c\u043e\u0441\u044f \u043d\u0430 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u0430\u0445 \u0441\u043f\u0438\u0440\u0430\u044e\u0447\u0438\u0441\u044c \u043d\u0430 \u0441\u043f\u0435\u0446\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u044e.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=T3fb_VKdZJA",
+      "view_count": 2000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1666,
+      "id": "fQ7_GT8_zeM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/fQ7_GT8_zeM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDrqUPsVG38mTcIXm9BLPKisNxlzg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/fQ7_GT8_zeM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBMuouVs2_AqquI1qiDIXrX3xbf0A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/fQ7_GT8_zeM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDs_ku1VeAMzufQ8QXVul6rOmf-KQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/fQ7_GT8_zeM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCgkXhIo9KCuSLkrvIZ_CqCYV841Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "How this works in JavaScript. Let\u0027s look at some examples. [Short version] [RU]",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=fQ7_GT8_zeM",
+      "view_count": 10000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7461,
+      "id": "4tg4qokVS9o",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/4tg4qokVS9o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDk1G9IgRCNy7NX0AO1sIk_fdtC3A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/4tg4qokVS9o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB2n8FF--x-W2qrvO__GLKvrtoLAg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/4tg4qokVS9o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA1696Svy3prXfHch8uLJRMXX6wOQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/4tg4qokVS9o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCRWNI3expg89W58z856IpgUAoFkA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041a\u0430\u043a \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 this \u0432 javascript. \u0420\u0430\u0437\u0431\u0435\u0440\u0435\u043c\u0441\u044f \u043d\u0430 \u043f\u0440\u0438\u043c\u0435\u0440\u0430\u0445 \u043e\u043f\u0438\u0440\u0430\u044f\u0441\u044c \u043d\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0443\u044e \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044e. [RU]",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=4tg4qokVS9o",
+      "view_count": 40000
     }
   ],
-  "epoch": 1791670109,
+  "epoch": 1791672648,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37",
@@ -20488,14 +21202,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=COzbqtYG-oaymwEICPABEPABSFqi85f_AwYI_KSswwY=\u0026rs=AOn4CLD-ViXC53XkTj7AsYoQIJkT8wh58Q",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CJ_0qtYG-oaymwEICPABEPABSFqi85f_AwYI_KSswwY=\u0026rs=AOn4CLDGL1mY_cSXyboyA5nZTV484iOz-A",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CPjlqtYG-oaymwEICOADEOADSFqi85f_AwYI_KSswwY=\u0026rs=AOn4CLB9Slc2tVxF64Ak6xrom4O6O93fRg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37/studio_square_thumbnail.jpg?sqp=CMa7qtYG-oaymwEICOADEOADSFqi85f_AwYI_KSswwY=\u0026rs=AOn4CLDR0r4-IJSHj4swKsDzgAUhMmJggA",
       "width": 480
     }
   ],
@@ -20746,9 +21460,723 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=5o5kv-4TyYw",
       "view_count": 2400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10951,
+      "id": "ES2NPqlDnek",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/ES2NPqlDnek/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCtX72YoVaerM1JnYAZrp-Kxyz95g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/ES2NPqlDnek/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDOEFu9k3NFYWeWiZymltk26vyRXQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/ES2NPqlDnek/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBCuXH3FLz4qnv3zQxdseX6a0csTA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/ES2NPqlDnek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBdqwTaza5UvjjZK7FaZXV4sqUgvw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0412 \u0436\u0438\u0432\u0443\u044e \u0441 \u0412\u0438\u0442\u0430\u043b\u0438\u0439 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447\u0435\u043c \u0411\u0440\u0430\u0433\u0438\u043b\u0435\u0432\u0441\u043a\u0438\u043c \u0438 \u0422\u0438\u043c\u0443\u0440\u043e\u043c \u0438\u0431\u043d \u0414\u0436\u0430\u0444\u0430\u0440\u043e\u043c",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=ES2NPqlDnek",
+      "view_count": 5100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 13655,
+      "id": "iQ_PRQPBEgQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/iQ_PRQPBEgQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDDZrhPgTIOXzU_ESzIOIH8t5GObQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/iQ_PRQPBEgQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBwJjOtHcrBcX1vUn-jUgawj9auXA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/iQ_PRQPBEgQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAuDzjsZPZCRSFxiPHArfwngoK8_w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/iQ_PRQPBEgQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBrQPebyr6PVaA2ReR9GQG4vy3MRg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0412 \u0436\u0438\u0432\u0443\u044e \u0441 \u0412\u0438\u0442\u0430\u043b\u0438\u0439 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447\u0435\u043c \u0411\u0440\u0430\u0433\u0438\u043b\u0435\u0432\u0441\u043a\u0438\u043c \u043f\u0440\u043e \u041d\u0418\u0418\u0427\u0430\u0412\u043e.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=iQ_PRQPBEgQ",
+      "view_count": 2900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11587,
+      "id": "KeG2OfOYqQA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/KeG2OfOYqQA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDBMILbiMc2zVFqQmeh2q0Mh1rpAg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/KeG2OfOYqQA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDMg3b-FrMrchWpSd_iUIVAryHKQA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/KeG2OfOYqQA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAseDrqL3CTwi0l0rMOSl5DcAZyog",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/KeG2OfOYqQA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCT_0fgqQE_uFIkeulLY6PZYAhvrg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435: \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0438 \u044f",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=KeG2OfOYqQA",
+      "view_count": 2700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 15161,
+      "id": "Trhk4u6wc5g",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Trhk4u6wc5g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDKyuSR2fIAG3mAI7TxMr0inCjOZg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Trhk4u6wc5g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDZpgBactI36aSTeMZmb2IqnJAW_Q",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Trhk4u6wc5g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBiF-B1JxvX2ggc39McliNK_PIU6Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Trhk4u6wc5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC9q2jRwGHhNEOTSlxvzbAAvdduYA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e - \u0434\u0440\u0443\u0433\u0438\u0439 \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u0438\u0439 \u0441\u043f\u0456\u0432\u0431\u0435\u0441\u0456\u0434 \u0449\u043e\u0434\u043e JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Trhk4u6wc5g",
+      "view_count": 1200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12150,
+      "id": "aIvg0aaLuKo",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/aIvg0aaLuKo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAAtYZ3ifalXz6Y9UZCrEY3LGI0rw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/aIvg0aaLuKo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD_4KWikxJ-sR7CqHQlA2OBFMm9Eg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/aIvg0aaLuKo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBnLifwLt4FrWyVaOcn2xbHdRbabA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/aIvg0aaLuKo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD4tGFfQ61E0_L9u1tKjf6qAXcxXw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e - \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u0438\u0439 \u0441\u043f\u0456\u0432\u0431\u0435\u0441\u0456\u0434 \u0449\u043e\u0434\u043e JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=aIvg0aaLuKo",
+      "view_count": 1900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9919,
+      "id": "hpG_RdVy0Lo",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/hpG_RdVy0Lo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAfUnpSRiSD8-aDDHQwxwN2HVYuyw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/hpG_RdVy0Lo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBPftuaVIpVkzL6wPaaZQeTgHQerg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/hpG_RdVy0Lo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCqyCi2AWU68UJWb42adMvezRhdMQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/hpG_RdVy0Lo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCA7dCgGLL9MLvz-96frsZEppMmVQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u043e\u0431\u0430\u043b\u0430\u043a\u0430\u0454\u043c\u043e \u0449\u043e\u0434\u043e String \u0432 JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=hpG_RdVy0Lo",
+      "view_count": 1300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5660,
+      "id": "wYHO3UcHyBY",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDKPQejcGbwEDzqr4v734U6nyB6iA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDxSQaTT4wgkWGDTN9wAa6qSYARtg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB16yn7GQvNDiFXngi94aB7eHbErQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCq1oMvlBQDjsnA6XSdWwV-inFSqA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041c\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u0437\u043d\u0430\u0442\u044c \u043e JavaScript: ArisenRising",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=wYHO3UcHyBY",
+      "view_count": 6600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 14675,
+      "id": "LJJpbFcmKQs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBXGbgs_jXqLcjJOEXWYNpSy1O1bQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDmnW_d6a-TXSeZDkEgJ7ewW6x7_Q",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCm4xUIM9u3cSOjF-IKrGvp2WYQ-w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/LJJpbFcmKQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDrOgrVYos4YhdG7mrmPktRg0-UOw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0411\u0435\u0441\u0435\u0434\u0430 \u0441 \u0422\u0438\u043c\u0443\u0440\u043e\u043c \u0428\u0435\u043c\u0441\u0435\u0434\u0438\u043d\u043e\u0432\u044b\u043c \u043e \u043f\u0435\u0440\u0435\u043e\u0441\u043c\u044b\u0441\u043b\u0435\u043d\u0438\u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u043e\u0432 GRASP, SOLID, GoF \u0432 JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=LJJpbFcmKQs",
+      "view_count": 19000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12620,
+      "id": "sxkJZjMQFqg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBrlcnPl_zvK8SuhvuoTJvYCkyonQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDF4XBTKjQYtFuOlRtrkqjbQaIzWw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAAj1lH_xVk4veEsBRw-cMU1yIAxA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCHSNZng7LFjTFG2aq0dAdtkuSllQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: [Try2] Ulbi - \u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 \u0410 \u0434\u043e \u042f. \u0424\u041f \u043d\u0430 JS.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=sxkJZjMQFqg",
+      "view_count": 9800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9614,
+      "id": "if5QNyvY6YE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDvrciditL2q5TYHsoQ02CsryWwzA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA59yFbJ6MVl4BOWqTcJXAyIDJEMg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDTHSq8A5wSoF0L7ZaLZ-rR2kyL2A",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABvcJSF-bONJRDDys6Xs9ZBw2ukg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: Ulbi - \u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 \u0410 \u0434\u043e \u042f. \u0424\u041f \u043d\u0430 JS.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=if5QNyvY6YE",
+      "view_count": 28000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10595,
+      "id": "obrvyaU6Plg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCZuVHa1aCCnioR8RCd8Va-kHXHWw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAKmxDRNWacFjOmZWMIlrRaGsZ9Sw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCXrhDwm8HKG05XWAfxxIC3Z058YA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABYqiVzHoD41BWNrbofCuQ8atEAQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: Ulbi - SEO \u043e\u0442 \u0410 \u0434\u043e \u042f",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=obrvyaU6Plg",
+      "view_count": 12000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6807,
+      "id": "JcrguEFkW0k",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/JcrguEFkW0k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCoc9LZq90GL6Hdh3dOHTu0WZAJ4w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/JcrguEFkW0k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB4eZ8EeWnwXem-A_QErsqId6bf-g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/JcrguEFkW0k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBD5fY6aFKASwmU7FtvwnzjzoCegQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/JcrguEFkW0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD01FCknIRJwPysxvYev42ACqd1pg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1dlgs:6\u23a6 On JavaScript data optimization in the browser",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=JcrguEFkW0k",
+      "view_count": 5200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 8375,
+      "id": "txtjFC4SPJI",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/txtjFC4SPJI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC7z0yEWFUWF0uP2hmLWSKJLuqAcw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/txtjFC4SPJI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBkPrNVUwgC8TvxLoVhnfDLWNJ2Sg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/txtjFC4SPJI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBE0GRYYHgKyYaU9rheKJuelGL4bg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/txtjFC4SPJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA31LmU6CH-ZV-ROaFZvl-TVM6ckw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1dlgs:5\u23a6 JavaScript, HTML5 \u0438 SEO",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=txtjFC4SPJI",
+      "view_count": 4800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10015,
+      "id": "MrWXqXWRG2o",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/MrWXqXWRG2o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA0scJq_7enEZc5_ZLD25mjBANUaQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/MrWXqXWRG2o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCYNzgxKXnVTKo3eMho-m0Xrd2Dmw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/MrWXqXWRG2o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAVfe04sIstHq6DrGCOJ1rBw3tT4Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/MrWXqXWRG2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBNpNSV7YKilOOBA8UGbpKXFKBG8g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1dlgs:4\u23a6 JavaScript \u0438 HTML5 \u0438\u043b\u0438 \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0432\u0435\u0440\u0441\u0442\u043a\u0430 \u0434\u043b\u044f \u0431\u043e\u0440\u043e\u0434\u0430\u0442\u0435\u043d\u044c\u043a\u0438\u0445",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=MrWXqXWRG2o",
+      "view_count": 7500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10541,
+      "id": "hjYb9tOsumM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/hjYb9tOsumM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB7xHc1WChGi4RHjRYkvJudSdnAFg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/hjYb9tOsumM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDiLcde631qcpkgVMvA8c3VsHsubQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/hjYb9tOsumM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBCBMV_cGyVraOG3UAj7M_yeavHBg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/hjYb9tOsumM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCFxrX2Hv944NjrWKjSKhAdVdj7gw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1dlgs:3\u23a6 \u0411\u0435\u0441\u0435\u0434\u0430 \u043e \u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0441\u0442\u0438 \u0438 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0432 JS",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=hjYb9tOsumM",
+      "view_count": 4700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 14196,
+      "id": "OQ3yaWfOfQs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/OQ3yaWfOfQs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBIGWZLpRm3WthSdtNDDUwxqUeC3w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/OQ3yaWfOfQs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDcxUYrXXDP6_spMRa-27RpD73KPA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/OQ3yaWfOfQs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC0UKQwMi8YT32mPmDQ_DbSIeRYMQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/OQ3yaWfOfQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBHC-i9bL3na8SxJYrAHZjm5o7xLg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1dlgs:02\u23a6   JavaScript \u0411\u0435\u0441\u0435\u0434\u044b: Reduce, For, Wasm...",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=OQ3yaWfOfQs",
+      "view_count": 4200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11291,
+      "id": "02KDxt_u2To",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/02KDxt_u2To/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAhcvhqZ6WlO5LTjMFioTPYPh7_zg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/02KDxt_u2To/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAYvryzjarjKioHlKbgF5x6exCTdA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/02KDxt_u2To/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCDr7aYyl7mMgh1fgP2wrDqBcxUXQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/02KDxt_u2To/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBBpt-BhJT5bbNcNCwVbDhM8Zrv2A",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1dlgs:01\u23a6   JavaScript \u0411\u0435\u0441\u0435\u0434\u044b: Service Worker-\u044b",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=02KDxt_u2To",
+      "view_count": 4000
     }
   ],
-  "epoch": 1791670109,
+  "epoch": 1791672648,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96",
@@ -20771,7 +22199,7 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96/studio_square_thumbnail.jpg?sqp=CN_LqtYG-oaymwEICPABEPABSFqi85f_AwYIrayswwY=\u0026rs=AOn4CLDkxZYqe_ulR3xpXlpPiuPujEV4Fg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96/studio_square_thumbnail.jpg?sqp=CJTsqtYG-oaymwEICPABEPABSFqi85f_AwYIrayswwY=\u0026rs=AOn4CLD0itXkomMnySQVzxSRK4lpXJqyZg",
       "width": 240
     },
     {
@@ -21025,9 +22453,219 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=lq5vi6DmEpA",
       "view_count": 8600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10545,
+      "id": "-FmCm-Wjdok",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCW3vADfnG8nq0zLznD8nlBHISg7g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDJ9V-szPVPHQSAqZEfH1WNW25nkA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBIYBksbXk7gRQg_aSrHK549FJHbA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDH0McgNxKW3NsjQ1dqos63rJRUeA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1JSbook: 02.2\u23a6   JavaScript: \u041e\u0442 \u043c\u0438\u0444\u043e\u0432 \u043a \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438. \u0421\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=-FmCm-Wjdok",
+      "view_count": 8800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3371,
+      "id": "1F-8pn30bOI",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA0GB-t6TOLJ_zPEBjdUB_DgLq1Pg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDTqu3ur6PtFmShRy5XyrYWHtf-xg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLANmtzCDH9AAFwKgCmRf9RgPrcCJA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC8Fem8iN7VfSiWhFKhu2xGEPSQ4g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1JSbook: 02.0\u23a6   JavaScript: \u041e\u0442 \u043c\u0438\u0444\u043e\u0432 \u043a \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438. \u0422\u0440\u0438 JS \u043a\u0438\u0442\u0430.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=1F-8pn30bOI",
+      "view_count": 5400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7196,
+      "id": "Rk79CNSQuWQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCJZUgt29JGMIOWlNtnUil5Qjwoig",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA5q4CAI_AJFZiTbeVgGw8z6d-cbQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD9vYGXJ0jKaxD7DCV6lFbExWfuJw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA9YNz51j9Tc_Kot4fTug8ugpr1oQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1JSbook: 01.2\u23a6 JavaScript: From Myths to Specification. Introduction: Who Is This Book For?",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Rk79CNSQuWQ",
+      "view_count": 4200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 4600,
+      "id": "rvt2EdYoCq4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAPy3bVFz30arPaDEAeUHLETOQfIg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD78rMCnTW83mFI57YISeNw6k4zXg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDLGTxRSy7tUicDHCIlj7OW2NizcA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDqEt3esACQnfoGgWKnFDqMM7VtSA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1JSbook: 01.1\u23a6 JavaScript: From Myths to Specification. Introduction: About the Author",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=rvt2EdYoCq4",
+      "view_count": 3800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5655,
+      "id": "2JYATSfmsAs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBKKAHeMF90vU3JyYeCChSx_ijy-A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDlhzTQoaIOirzzuoioP75K851fpQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBMetLESsYyLBwenqzjyUiRudzThQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAxRwumhZ9x32bApIc8kE7myJSuyA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1JSbook: 01.0\u23a6   JavaScript: \u041e\u0442 \u043c\u0438\u0444\u043e\u0432 \u043a \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438. \u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=2JYATSfmsAs",
+      "view_count": 6200
     }
   ],
-  "epoch": 1791670110,
+  "epoch": 1791672649,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg",
@@ -21050,21 +22688,21 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CIjhqtYG-oaymwEICPABEPABSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLDdKwHytDo99upNbmAR_A35FSw0Dw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CJ28qtYG-oaymwEICPABEPABSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLAnl0TsQAXlje2izRRs2DEtpq3z0A",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CK-2qtYG-oaymwEICOADEOADSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLAAGvUFKSw-ySd8T9qSIAzplQK0QA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CLDQqtYG-oaymwEICOADEOADSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLAEG1Gen57-TiznZq520nfwVmVeeA",
       "width": 480
     },
     {
       "height": 720,
       "id": "2",
       "resolution": "720x720",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CJ7nqtYG-oaymwEICNAFENAFSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLAuAAppElXDrnqA69WcdSg_JqYyXA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CM3dqtYG-oaymwEICNAFENAFSFqi85f_AwYIsJGSpwY=\u0026rs=AOn4CLBdQSfcO5sHDnVfDjvZYrJNxLPCEw",
       "width": 720
     }
   ],
@@ -21315,9 +22953,891 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=GhxYRkXZAB4",
       "view_count": 3600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6720,
+      "id": "xLMdNk4DGOc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/xLMdNk4DGOc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAV3ALtguBm32NJOXF1rBL0glfGhw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/xLMdNk4DGOc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLALWFw7WuZlnJvkGYxb0S-k5xmZXA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/xLMdNk4DGOc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBwsAL4iKfHq7-iiwOefQVJ2rseIA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/xLMdNk4DGOc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDvKS_tBLka6xFkTDx-xBQBABXacg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Live Coding: \u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f \u0443\u0434\u043e\u0431\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 V8 Native Syntax",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=xLMdNk4DGOc",
+      "view_count": 1700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 16355,
+      "id": "NYs1pHJIZQA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/NYs1pHJIZQA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBEg2ADVjqUajbGWi7Om4g1MZYgvg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/NYs1pHJIZQA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBJA7fgSy1OIIwtHq_s0MU4dV9OAg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/NYs1pHJIZQA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB-ltKf1A1iYUWX1Fb02-az3OMsMQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/NYs1pHJIZQA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAStj8ln6IfSTuJQZjSI6UqgmYaAQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:16\u23a6 \u0424\u043b\u0435\u0448\u0431\u0435\u043a\u0438 \u043f\u043e \u0434\u0435\u043c\u043e-\u0441\u0446\u0435\u043d\u0435 90\u0442\u044b\u0445: \u0447\u0430\u0441\u0442\u044c 2 -  \u0438\u043b\u0438 Bern baby bern",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=NYs1pHJIZQA",
+      "view_count": 9300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 16273,
+      "id": "kIjm6ZEbkiU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/kIjm6ZEbkiU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCzvNzRUM7dZiFeGGW0qrHjGm38Bw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/kIjm6ZEbkiU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCJtWisBnO8kPFGeTW9Tm9HiLkOXg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/kIjm6ZEbkiU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA--E5Ld19esTnyit4lbKWasaK3vA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/kIjm6ZEbkiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB8T97X26pu5f23S2Ikmv_b26dQug",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:15\u23a6 \u0424\u043b\u0435\u0448\u0431\u0435\u043a\u0438 \u043f\u043e \u0434\u0435\u043c\u043e-\u0441\u0446\u0435\u043d\u0435 90\u0442\u044b\u0445",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=kIjm6ZEbkiU",
+      "view_count": 4000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 17485,
+      "id": "oDUPhZuyam0",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/oDUPhZuyam0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCuqsSCGHdoGkMHVR3kOzM_60_XvA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/oDUPhZuyam0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD-YwkjRamG5mFrfBq7-FXqq_T66g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/oDUPhZuyam0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCVIygziiIGLxJYECd_jRHeG3_xBg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/oDUPhZuyam0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDVl7v8hs0466-Xu4k8xMUEcEGoUw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:14\u23a6 LeetCode: \u0420\u0435\u0448\u0430\u0435\u043c hard \u0437\u0430\u0434\u0430\u0447\u0438, \u043e\u0442\u0432\u0435\u0447\u0430\u0435\u043c \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=oDUPhZuyam0",
+      "view_count": 6900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 22885,
+      "id": "z1COvf7QFOs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/z1COvf7QFOs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB7RK6sq2OCogs6VrL8ZHllD8f-oA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/z1COvf7QFOs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB-WkxWHcgXmn0WibzwERyl_K6YFA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/z1COvf7QFOs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBsogGgxKJtG8KnA7CfLn6E1jZpXA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/z1COvf7QFOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBNi8QKas9en-lvynIH_abU-ljKQg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:13.1\u23a6 LeetCode: \u0420\u0435\u0448\u0430\u0435\u043c hard \u0437\u0430\u0434\u0430\u0447\u0443: Design Cancellable Function + \u043e\u0442\u0432\u0435\u0442\u044b \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=z1COvf7QFOs",
+      "view_count": 6000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 42895,
+      "id": "X1XXsk79ZE8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/X1XXsk79ZE8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCyN1_N9Prqf3vzuJIO8OMZ4Q8Wbw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/X1XXsk79ZE8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDZWvqwoBaTPuNfHuKQORhAXcxQ0g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/X1XXsk79ZE8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDn2yHDybNQlTyjdYnhq_eTYpQ8Dg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/X1XXsk79ZE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCOD-FqUZwNgJSQnXvzBDukd-pv_w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:13\u23a6 LeetCode: \u0420\u0435\u0448\u0430\u0435\u043c hard \u0437\u0430\u0434\u0430\u0447\u0443: Design Cancellable Function + \u043e\u0442\u0432\u0435\u0442\u044b \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=X1XXsk79ZE8",
+      "view_count": 8200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 19321,
+      "id": "_su4lhLXwfk",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/_su4lhLXwfk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB8cqmJBSplPuWH_rRD4_NTgjF68w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/_su4lhLXwfk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAR0s9kDLR4nrO6e5T75myETTtLaA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/_su4lhLXwfk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAsM41VHHeBG58PPyuZaK4cEqaVVQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/_su4lhLXwfk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDNMpRT5GTkennfPoWv-Z2pZaFn3g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:12-3\u23a6 LeetCode: 30 JavaScript \u0437\u0430\u0434\u0430\u0447 \u0437\u0430 30 \u0447\u0430\u0441\u043e\u0432 - Part3 - JavaScript Live Coding.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=_su4lhLXwfk",
+      "view_count": 4500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21852,
+      "id": "9h60U429efA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/9h60U429efA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC0cbOzK88qo2j3d_0DMv8Q-ALwUQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/9h60U429efA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD1n8eytlcbcY1Ygk_lqAgu1ORdWQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/9h60U429efA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAAAtHR3VY7QFlub3UNjzegDSzH0g",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/9h60U429efA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAyv1l8neZK-PYRIAQsua_LhR9GoQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:12-2\u23a6 LeetCode: 30 JavaScript \u0437\u0430\u0434\u0430\u0447 \u0437\u0430 30 \u0447\u0430\u0441\u043e\u0432 - Part2 - JavaScript Live Coding.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=9h60U429efA",
+      "view_count": 3700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21521,
+      "id": "YOpSqoidvwA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/YOpSqoidvwA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBXYbmPj0VxlJAau6i1MLzbvdAA0A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/YOpSqoidvwA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAtey31FC9mEDgUixUrXLHGv-Uyfg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/YOpSqoidvwA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD6fZjUXVqX-wXeOj4VR5FJNLEX5w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/YOpSqoidvwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAJWkhzDm8HuJr5MAutM5JoMDGRRQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:12\u23a6 LeetCode: 30 JavaScript \u0437\u0430\u0434\u0430\u0447 \u0437\u0430 30 \u0447\u0430\u0441\u043e\u0432  - JavaScript Live Coding.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=YOpSqoidvwA",
+      "view_count": 31000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 20865,
+      "id": "sQ07i7J8Azo",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/sQ07i7J8Azo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBpUT-jw1nQAsxbl6Vfjj9qOxAsIw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/sQ07i7J8Azo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD8UTZSMUPvvrESg01WP-vhWChSGw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/sQ07i7J8Azo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD7tu2Uqafs9CfifW26cIqG3Gx9Bg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/sQ07i7J8Azo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAJkLULJf8Hcwe10MGa91sxOkuaEQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding:11\u23a6 LeetCode \u0438\u043b\u0438 \u043a\u043e\u0441\u0442\u043e\u043b\u043e\u043c\u044b \u0441\u043d\u043e\u0432\u0430 \u0432 \u0434\u0435\u043b\u0435  - JavaScript Live Coding.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=sQ07i7J8Azo",
+      "view_count": 12000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9980,
+      "id": "Qf1Ny0lSxHA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Qf1Ny0lSxHA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC50FrKZSDsxMS8S7rfIEm0ecBYxQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Qf1Ny0lSxHA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDsM3nYQicKImMPymhnIPYNxWlv9w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Qf1Ny0lSxHA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBec2_gchpgjUdA3Sp5NnrYDOPv-A",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Qf1Ny0lSxHA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBygl6OFHIzBCYSTABkyMuZ2v7Z4Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 10\u23a6   JavaScript Live Coding: \u0412\u0442\u043e\u0440\u043e\u0435 \u0432 \u043c\u0438\u0440\u0435 JS \u0440\u0430\u0434\u0438\u043e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Qf1Ny0lSxHA",
+      "view_count": 2500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21525,
+      "id": "wm2p5Cksh8k",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/wm2p5Cksh8k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAZhmrui52Pinw4-Ds-sqsZuZHSZQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/wm2p5Cksh8k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCOfCdyqx0EAoprjjd7HkJoVXUunQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/wm2p5Cksh8k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDG30gxdgo1Q1YkSubaRP5lgQ6YHw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/wm2p5Cksh8k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC7Lpj6c_oxL0UfAmyQfaMqd1Gg8w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1dlgs: 00\u23a6   JavaScript \u0411\u0435\u0441\u0435\u0434\u044b: \u0418\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u044b",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=wm2p5Cksh8k",
+      "view_count": 3100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 20302,
+      "id": "CmTn9t9q14Y",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/CmTn9t9q14Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBtWnnI_6X9eKRqcmE_L5PWq0RgCw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/CmTn9t9q14Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDN7E--CG9SzmEaWzBG0k6vNuHyYg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/CmTn9t9q14Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDX_WIU9RjWUlWqMwhfy3qM1SV-eg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/CmTn9t9q14Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAi6O0t0ANECwUvmEeakBTtdXGhAg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 09\u23a6   JavaScript Live Coding: Proxy - \u0418\u043b\u0438 \u043a\u043e\u0441\u0442\u043e\u043b\u043e\u043c\u044b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=CmTn9t9q14Y",
+      "view_count": 1800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21510,
+      "id": "mXNdpPmtvF8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/mXNdpPmtvF8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLALVCgVM2sSbNLtoGWLhd-4hWCdDA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/mXNdpPmtvF8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDm6gtwZF7xcVYLEEd9LqTkmANDIw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/mXNdpPmtvF8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB9t3tdO1UuZhsnZCXn-Bbv5uumcw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/mXNdpPmtvF8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLADveCA5ieG0TKFlt00DRPFhdR6EA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 08\u23a6   JavaScript Live Coding: Proxy - \u0418\u043b\u0438 \u043c\u044b \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0435 \u043a\u043e\u0441\u0442\u043e\u043b\u043e\u043c\u044b",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=mXNdpPmtvF8",
+      "view_count": 2300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7416,
+      "id": "b9ommSutEvo",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/b9ommSutEvo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDIs8vk34xQ37pmZyMkRVrScON04Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/b9ommSutEvo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBxNnhzLdA7pOrk63yhGD_RI46YGA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/b9ommSutEvo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDSftByMKxPU7agEX_CQ4eA9ZUpeA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/b9ommSutEvo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCNpHgcR-wAt_n119lp2OnGbkMnsw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 07\u23a6   JavaScript Live Coding: Morse. \u0427\u0430\u0441\u0442\u044c 4.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=b9ommSutEvo",
+      "view_count": 801
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 19621,
+      "id": "hX0w6efA-oo",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/hX0w6efA-oo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAbAAZfjHLnHiKYQmlGRw7JxHV0sw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/hX0w6efA-oo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA_1yzwMtFLY3MdpcyhdLRz7OxyoA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/hX0w6efA-oo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDLchO--MfskUTHK-DsiWHnq1bZeQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/hX0w6efA-oo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAfBStKK0fsAV0G54v1HCAxBSzK6w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 06\u23a6   JavaScript Live Coding: Morse. \u0427\u0430\u0441\u0442\u044c 3.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=hX0w6efA-oo",
+      "view_count": 2500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10296,
+      "id": "ZU0St05ifyQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/ZU0St05ifyQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCYbw_ZMwPbV8SJRaUUGSJ5ylgOBA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/ZU0St05ifyQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDU4yi1QjWL2UwBPc7I8KvMmj7qsA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/ZU0St05ifyQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB9DLSeTzzXx_tzmcCGT5kOnn_ayg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/ZU0St05ifyQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA0seZB_G5cXtqJIkMkIsiXSnhdIQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 05\u23a6   JavaScript Live Coding: Morse. \u0427\u0430\u0441\u0442\u044c 2.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=ZU0St05ifyQ",
+      "view_count": 1200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11100,
+      "id": "jVoNLKT1pfc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/jVoNLKT1pfc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCpAe62GFhJDlPt6Ly_RfEkzA44kg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/jVoNLKT1pfc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBTZp8zw0-HP91S0x0Whe_ZI0xzbw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/jVoNLKT1pfc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAK0AM7knaahcc49NjUROQNsJCuMA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/jVoNLKT1pfc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAo-rdbXYome4UAd2ar3i0xF-tcsQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 04\u23a6   JavaScript Live Coding: Morse. \u0427\u0430\u0441\u0442\u044c 1.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=jVoNLKT1pfc",
+      "view_count": 1300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12200,
+      "id": "ono0TAEE95Q",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/ono0TAEE95Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDCRubQQnbXalfxMu-4RYF5FtF6Hg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/ono0TAEE95Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBkVvJZs0FjTlmnOA3SF59izmam_w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/ono0TAEE95Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDadCYodyDBounkVChtbW73_krObQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/ono0TAEE95Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDna_e_7ZvgsA7uNeddXFnZn6x0MA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 03\u23a6   JavaScript Live Coding. \u041a\u043e\u0434\u0438\u043d\u0433\u0430 \u0442\u0443\u0442 \u043d\u0435\u0442. \u041c\u043e\u0440\u0437\u0435 \u0442\u043e\u0436\u0435. \u0422\u043e\u043b\u044c\u043a\u043e \u0442\u0440\u044b\u043d\u0434\u0435\u0436.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=ono0TAEE95Q",
+      "view_count": 1200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5616,
+      "id": "-kBKbg6QWug",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/-kBKbg6QWug/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCwg4RDuzpDjGJS9c_Qk5fqcwGXtA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/-kBKbg6QWug/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBFDcBTyDDvIlPPVl3MymLkjALG4A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/-kBKbg6QWug/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBq2MHa5uruMA1KSvD5PbSMePZNFA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/-kBKbg6QWug/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLARuNvePYXcL8X_0dgkzQTAPIaDAQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 02\u23a6   JavaScript Live Coding: Demimurych\u0027s head roaches, light on",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=-kBKbg6QWug",
+      "view_count": 1200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 8925,
+      "id": "CcwkAS1v0bA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/CcwkAS1v0bA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDI1kjRyJXDdFq2g5VM49wHl9ppqA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/CcwkAS1v0bA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDZApWL_gsb5XAStMtyo9buua7Dwg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/CcwkAS1v0bA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCJwzwbnMdw_4K7ei-KqFDOzvI3lw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/CcwkAS1v0bA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCZjacef04Nv4xCuv3OLV9uxg_nTQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1coding: 01\u23a6   JavaScript Live Coding: Demimurych\u0027s head roaches",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=CcwkAS1v0bA",
+      "view_count": 2300
     }
   ],
-  "epoch": 1791670111,
+  "epoch": 1791672651,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ",
@@ -21340,21 +23860,21 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=COa2qtYG-oaymwEICPABEPABSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLCkKbVBDXfuLgqTNbkiV_GGXr5M9A",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CPvnqtYG-oaymwEICPABEPABSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLDnw6aG03T2OqUMKit18a8T4b4jVw",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CJLNqtYG-oaymwEICOADEOADSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLATPG_egWODawQGfbCcVeYWpoHSCA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CIDUqtYG-oaymwEICOADEOADSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLDEb3TBRRQSnH-xF9xPMOmdUs9QcA",
       "width": 480
     },
     {
       "height": 720,
       "id": "2",
       "resolution": "720x720",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=CLDnqtYG-oaymwEICNAFENAFSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLAYb8iRKLMRL0fHPCqlSJ_U-7kJvQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ/studio_square_thumbnail.jpg?sqp=COS-qtYG-oaymwEICNAFENAFSFqi85f_AwYIi6aZvQY=\u0026rs=AOn4CLBz2ipgrOoCsPn_0ZqAWmJRcnp0wg",
       "width": 720
     }
   ],
@@ -21605,9 +24125,1345 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=7BwsPaFDl9E",
       "view_count": 4300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 529,
+      "id": "8G0qxh4HabA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDkF55Bt-O8PY599S_y9sQo_gKNNA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBEQDHUp27LsYzK6eQLAIROqjp0Pw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3hcGYOgMPrBq3bCOGBGKe1e_J6Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDmxG1Eu9bdYe-scgdiN4ofuLT4Jw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "A fat point in the debate about var let and const",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=8G0qxh4HabA",
+      "view_count": 11000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5660,
+      "id": "wYHO3UcHyBY",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDKPQejcGbwEDzqr4v734U6nyB6iA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDxSQaTT4wgkWGDTN9wAa6qSYARtg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB16yn7GQvNDiFXngi94aB7eHbErQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/wYHO3UcHyBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCq1oMvlBQDjsnA6XSdWwV-inFSqA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041c\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u0437\u043d\u0430\u0442\u044c \u043e JavaScript: ArisenRising",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=wYHO3UcHyBY",
+      "view_count": 6600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6973,
+      "id": "4UwH9I-l7u4",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/4UwH9I-l7u4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=\u0026rs=AOn4CLCe1x1zU8H5EWTrn0Jej1Wu6tCABA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/4UwH9I-l7u4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=\u0026rs=AOn4CLDQ74shrw5YlLK7ovmWrI9AqrGhgw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/4UwH9I-l7u4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP\u0026rs=AOn4CLDk7RgVh0Lvm-CSyugQU9q4djQ1IQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/4UwH9I-l7u4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP\u0026rs=AOn4CLAbaFRprU0vZJan0528BTE7JdT6iw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=4UwH9I-l7u4",
+      "view_count": 1200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7837,
+      "id": "YLvbza4GtiM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA_WY5S8NjVWFFWQAENTpSbNcJi3g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBbAxEWauqOPkOiD-gXK4F640PJSg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAxcl9-lOrMlZUc4i2LJCxg9oviQg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBGReYbuIAK3WwtRP6wwYOcHEeGiA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0438\u0437\u044e\u043a\u0438\u043d - \u041f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u044b\u0439 JS. \u0428\u0420\u0418 2024",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=YLvbza4GtiM",
+      "view_count": 7500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6955,
+      "id": "XUk3zsPRq34",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAjInrISTZjd8mAz4GrI17ciqTfnQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAyLgGll5sZdFZDW1vn9MjyDb4E5w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAbnUYdMvePs9sIQcOe2nuKIIDjYg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCI8qFngYN06I_l9lPtVK_aD8Oixw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: Part2 - \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0438\u0437\u044e\u043a\u0438\u043d - \u0410\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e\u0441\u0442\u044c \u0428\u0420\u0418 2024",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=XUk3zsPRq34",
+      "view_count": 4800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3078,
+      "id": "vGm-FPhPwcs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCKsAsykyzzGVykrTw-81R1lF5fgg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDvBU7EMjtAy1EPfMq_NLKbFW18fg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBIT-7NRPCE_-ruJLanmatUs30hag",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAEmQlAZzjuRV1wBlCyhMUUGBf-QQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Watching together YT: Performance and Clean Code",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=vGm-FPhPwcs",
+      "view_count": 5600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12799,
+      "id": "vFSvq_ablAM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAOBEYx_n8j_8k49fGQU8DOMM3SXQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC9QtXrrLGKXk0GOKfssSRYnCaQKQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCCgQqFQ89sTF8_wio2bWjxF3Yjeg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBB5MCV_6LQIrh-tyyHqqQO5hsuSw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0438\u0437\u044e\u043a\u0438\u043d - \u0410\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e\u0441\u0442\u044c \u0428\u0420\u0418 2024",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=vFSvq_ablAM",
+      "view_count": 12000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12620,
+      "id": "sxkJZjMQFqg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBrlcnPl_zvK8SuhvuoTJvYCkyonQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDF4XBTKjQYtFuOlRtrkqjbQaIzWw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAAj1lH_xVk4veEsBRw-cMU1yIAxA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCHSNZng7LFjTFG2aq0dAdtkuSllQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: [Try2] Ulbi - \u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 \u0410 \u0434\u043e \u042f. \u0424\u041f \u043d\u0430 JS.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=sxkJZjMQFqg",
+      "view_count": 9800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9614,
+      "id": "if5QNyvY6YE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDvrciditL2q5TYHsoQ02CsryWwzA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA59yFbJ6MVl4BOWqTcJXAyIDJEMg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDTHSq8A5wSoF0L7ZaLZ-rR2kyL2A",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABvcJSF-bONJRDDys6Xs9ZBw2ukg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: Ulbi - \u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 \u0410 \u0434\u043e \u042f. \u0424\u041f \u043d\u0430 JS.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=if5QNyvY6YE",
+      "view_count": 28000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10595,
+      "id": "obrvyaU6Plg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCZuVHa1aCCnioR8RCd8Va-kHXHWw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAKmxDRNWacFjOmZWMIlrRaGsZ9Sw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCXrhDwm8HKG05XWAfxxIC3Z058YA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABYqiVzHoD41BWNrbofCuQ8atEAQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: Ulbi - SEO \u043e\u0442 \u0410 \u0434\u043e \u042f",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=obrvyaU6Plg",
+      "view_count": 12000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12515,
+      "id": "AbHf_k9ydcU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/AbHf_k9ydcU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAXWsKCtHgQ6gv0KvXYb1LaMpoLBg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/AbHf_k9ydcU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDDsd66CFH-1NW4BwVKzaj676ENRg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/AbHf_k9ydcU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAmb534HbGVF8XGarwDlKOxNRApLw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/AbHf_k9ydcU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCYi0ORtDK1Q6Ic4QcS8mw-6lQ4_Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041e\u0442\u0432\u0435\u0447\u0430\u0435\u043c \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u0438 \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b: Optimizing JavaScript for fun and for profit",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=AbHf_k9ydcU",
+      "view_count": 4300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11765,
+      "id": "SMsVPyI6wzA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/SMsVPyI6wzA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCUVlJqFF3NTbsSKOJf5hlIC96PTA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/SMsVPyI6wzA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCXdIPpIYQOpMlT_9-OiM-zvuydkg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/SMsVPyI6wzA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBbvKiZTla8lLUzdwYVZ9Neo9-isg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/SMsVPyI6wzA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDMCjGTsT3UUnaxXl9wBTLXyjvB6Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks:15\u23a6 \u0418\u0433\u0440\u044b + \u0410 \u0434\u0435 \u0434\u0435\u043b\u0441\u044f \u043c\u0443\u0440\u044b\u0447",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=SMsVPyI6wzA",
+      "view_count": 4900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11451,
+      "id": "xpFPhMERCLc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/xpFPhMERCLc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCgLPZfI9EAxWe683wwEvL6-D-ZDQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/xpFPhMERCLc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBD5O5-xIPkzdmbEcCsm-zD9ouSTA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/xpFPhMERCLc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBGdtmIJG3UC9NYKu7gSudmnEJf6w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/xpFPhMERCLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDiSagc0swMFKmsk1QvgEbNTtHWUw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks:14\u23a6 \u041e\u0442\u0432\u0435\u0447\u0430\u044e \u043d\u0430 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438, \u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0435 \u043f\u043e\u0434 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u043c\u0438 \u0441\u0442\u0440\u0438\u043c\u0430\u043c\u0438",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=xpFPhMERCLc",
+      "view_count": 3000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 26632,
+      "id": "kk8tzKB45Sk",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/kk8tzKB45Sk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA3ol9Pp2WCrghD-XtfL062UaB75g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/kk8tzKB45Sk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLANtG6p-OxVm88rbSGn1wRqlSuyLA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/kk8tzKB45Sk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC0pp1wb0EyCXWoLbopJwwJIF1lfg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/kk8tzKB45Sk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLACgzaT1pZ_TnL8I5uEIN9a5T6Vog",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks:13-3\u23a6 \u041d\u043e\u0432\u044b\u0439 \u0433\u043e\u0434 \u0438 \u0448\u043e\u041f\u043e\u043f\u0430\u043b\u043e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=kk8tzKB45Sk",
+      "view_count": 3400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 24741,
+      "id": "jJq6jxuKm28",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/jJq6jxuKm28/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBt7J5HXHu3Lh68iaUDaLsMohNPFQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/jJq6jxuKm28/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBohNdt9rr2jUi9Zu0B0GO-ddZHuQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/jJq6jxuKm28/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAzrNEy6ne02d5grK1uip-OMnBMaA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/jJq6jxuKm28/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLARdOtKXTzZOutKquKwn97GuxzjoQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks:13-3\u23a6 \u041d\u043e\u0432\u044b\u0439 \u0433\u043e\u0434 \u0438 \u0424\u041f",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=jJq6jxuKm28",
+      "view_count": 3200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 20408,
+      "id": "m0FfqI2zB4U",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/m0FfqI2zB4U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDGtEM5YVkRbKMU_hvv0agl2W4VoQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/m0FfqI2zB4U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBqmZimjAdvUy-c-ZYCfaiFSLufRw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/m0FfqI2zB4U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBQcx5Ff6lLyfRBiME1DL6YxhQK3Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/m0FfqI2zB4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC6qjA_ZzuHafmth7Gm3qHTHF0sxQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks:13-2\u23a6 \u041d\u043e\u0432\u044b\u0439 \u0433\u043e\u0434, \u0438\u0442\u043e\u0433\u0438, \u0433\u043e\u0441\u0442\u0438 \u0432 \u0441\u0442\u0443\u0434\u0438\u0438",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=m0FfqI2zB4U",
+      "view_count": 2700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "vCQfgB91i18",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/vCQfgB91i18/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAt2t3btxYOMdxQsjFTpOZHCu--iw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/vCQfgB91i18/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCXA3F6RzB1B6LXcv6mm92OVbZTJA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/vCQfgB91i18/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBASWFEWR5PHiZAlgRV7YUMIzj0hw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/vCQfgB91i18/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCu2GY1VTuWvlDhydClq1WyZnsaWg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": null,
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=vCQfgB91i18",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 15024,
+      "id": "bOJoFZeuxho",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/bOJoFZeuxho/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD1O_bW4KPT77cfKrdGhIfQ2kYaEg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/bOJoFZeuxho/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCR8W2T7kfgMjBU5fUjXtb0ZhBFgw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/bOJoFZeuxho/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCEb5QZI1Fyi70FSG8WkGC1bqnC_g",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/bOJoFZeuxho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDCtQWqE9afmqlTCYgWM_m67dIUqg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks:12\u23a6 \u0411\u0430\u0441\u043d\u044f + \u0427\u0442\u043e-\u0442\u043e \u043f\u0440\u043e \u043f\u043e\u0441\u0442\u0435\u043b\u044c +The  Way of the exploding fist",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=bOJoFZeuxho",
+      "view_count": 3000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21066,
+      "id": "mapxDGl0rSM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/mapxDGl0rSM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDYbaIucnunUTvZ4O2nWsGjjoUdZw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/mapxDGl0rSM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDfsCrO86eRqii7usRgAp0Qoh6KKw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/mapxDGl0rSM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDbbpdyWojsxeqz8vITAfnabQ7TDw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/mapxDGl0rSM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAxrQOfkbdL3lVJ8uyDRTaFZR0aPQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks:11\u23a6 \u041d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u0435 AsForJS \u043f\u043b\u044e\u0441 \u043e\u0442\u0432\u0435\u0442\u044b \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=mapxDGl0rSM",
+      "view_count": 9200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3555,
+      "id": "5v32mDS7RjM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/5v32mDS7RjM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBa3YabC1TbfrdLWJx96rcA5IyB2A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/5v32mDS7RjM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAamzvxL0nupO4GGYEUblAU088wUw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/5v32mDS7RjM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDYwopBVn5H8jxEvrN6o-VyX8ZqFg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/5v32mDS7RjM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA1YwjLGZp11kpCWHtNGRuNDHa23w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks: 10\u23a6 Let\u0027s watch together: All about Dart with Vyacheslav Egorov AKA mraleph",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=5v32mDS7RjM",
+      "view_count": 2100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 13017,
+      "id": "8gl4oTXwLtU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/8gl4oTXwLtU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDGzfWOs6ST1C5FU2d-w9VnJN8qkQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/8gl4oTXwLtU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBgR-H-a2gpJp0yYmBtJ5C2o0HReQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/8gl4oTXwLtU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBMfD9CjNwbr4T0s1Xhf2D-T_XLSQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/8gl4oTXwLtU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDQz7vunaM1YHr-2viXU9kX3H51gw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks: 09\u23a6 To se",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=8gl4oTXwLtU",
+      "view_count": 679
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 15450,
+      "id": "6b3Ix7hXZMA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/6b3Ix7hXZMA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB5pzomIpzdlruVjOHlYsCIjYHH8Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/6b3Ix7hXZMA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBZh6WoMHhV1lW_Kp8drMEtvAQx1g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/6b3Ix7hXZMA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCF8CanYZInVDnY-9Qhya9jOxoYCw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/6b3Ix7hXZMA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB7_-TeiB2BiyHSLZB3nxHBoVWpYQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1talks: 08\u23a6 Hack And Code",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=6b3Ix7hXZMA",
+      "view_count": 2200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21391,
+      "id": "7CRrc3niEto",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/7CRrc3niEto/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAfdyU8coNgUno1zx1_kjBj8rOfGg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/7CRrc3niEto/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBbbWrmI_xuBb9JIOO3Si4XIvVwHA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/7CRrc3niEto/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDKKi80-7ZyfIotFPELTe2QdrkSbA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/7CRrc3niEto/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCSMuAPelnnHuDv2zYYl_FELY5IsQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u23a1talks: 07\u23a6 \u041f\u0440\u0435\u0434\u0432\u0437\u044f\u0442\u044b\u0439 \u043e\u0431\u0437\u043e\u0440 YouTube JavaScript \u0441\u0442\u0440\u0438\u043c\u043b\u0435\u0440\u043e\u0432.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=7CRrc3niEto",
+      "view_count": 5200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 17250,
+      "id": "LMzNx-QHudU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/LMzNx-QHudU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAqu8QnJlWnYO96oLyR4HQ1x9UI2g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/LMzNx-QHudU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAZcP1wvZ0k829QjtyBol1Fmz-zKA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/LMzNx-QHudU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAvzST8L_PfRWkI7niM1XpNrkFTow",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/LMzNx-QHudU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA8UlxYdd8TMVGpLX9fimNrJ88HyA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u23a1talks: 06.2\u23a6 Live coding: Hall of flame",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=LMzNx-QHudU",
+      "view_count": 568
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 20785,
+      "id": "8c88s8dawxw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/8c88s8dawxw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCiUH6BBjjfHxm3QaKRbcy8ShJpuA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/8c88s8dawxw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBOGB5SqjlO3ADUl5tRpEi-5iTp4g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/8c88s8dawxw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLALb_Q28NzlvZ5rGZI3PkXrqYZ6rA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/8c88s8dawxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLByEJqq5GHpn4cc8uClO7rnX2mKhw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u23a1talks: 06\u23a6 Live coding: Hall of flame",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=8c88s8dawxw",
+      "view_count": 914
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 72064,
+      "id": "nd6xir1nDLQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/nd6xir1nDLQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDxQAW7ifhmplr1hzDevm40l1SCBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/nd6xir1nDLQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAdeqb7oyHGAx5ywvtJN4QCbK2wcw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/nd6xir1nDLQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCpaDMms6vW6VgkxbngSxqq3Vp0FQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/nd6xir1nDLQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBSKBPRYKKccW00IZxDq8BkaNxXXQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u23a1talks: 06\u23a6 Live coding: Hall of flame",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=nd6xir1nDLQ",
+      "view_count": 672
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21473,
+      "id": "MoI8oZPCuZA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/MoI8oZPCuZA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA3AnUF4iwoyzh3lS311Veg9phEpA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/MoI8oZPCuZA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD9ueUtRm7SQzPbbnd540U8fgT_nw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/MoI8oZPCuZA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDeayohXCSXfU0njA-Zqn67ZjBIbg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/MoI8oZPCuZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDbYYVa0fHUEIJCKmxXrJ0PqxzzLw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u23a1talks: 06\u23a6 Live coding: Hall of flame",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=MoI8oZPCuZA",
+      "view_count": 457
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "aYanGBqNiC8",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/aYanGBqNiC8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAeqBmW7eWwHAZZIOZX871eD4mOHg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/aYanGBqNiC8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCaP7CeRhqb3ryrXSWBJsjGngvaCg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/aYanGBqNiC8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC8JDA7-jXKIA2WFt6Vv82x17zKdA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/aYanGBqNiC8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCZJO-Fx0eSh6cdiGH7ssFZOa91HQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": null,
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=aYanGBqNiC8",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 19357,
+      "id": "Tfr4vXlc1sw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Tfr4vXlc1sw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDeQ6if1LdnwKLPhRuZZ9IMb1Ov-Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Tfr4vXlc1sw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBgrS04maFLheF-bVO92aOCACrZpQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Tfr4vXlc1sw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC943iaq02J9UbRMVH6oRwJHgTvew",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Tfr4vXlc1sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBA8A2HWJ6hXzI9mifxkvjS3FEZPA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u23a1talks\u23a6 \u0414\u0438\u0430\u043b\u043e\u0433 \u043e \u0442\u043e\u043c, \u043f\u043e\u0447\u0435\u043c\u0443 \u0430\u043d\u0430\u043b\u043e\u0433\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0435 \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, \u044d\u0442\u043e \u043d\u0435 \u0432\u0441\u0435\u0433\u0434\u0430 \u043f\u043b\u043e\u0445\u043e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Tfr4vXlc1sw",
+      "view_count": 1400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1041,
+      "id": "6im5CxBQ5t8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/6im5CxBQ5t8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLARlo-B-Kj7mdCzsTBCEo_rye8gng",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/6im5CxBQ5t8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA5tu61onJr8DkFOnI1szPSKCZ46g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/6im5CxBQ5t8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDD4OYuxKKZkFfWbIaWaNY_OF3miQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/6im5CxBQ5t8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBIy1eUsKvDtSdWpeR-Hk9BNg5czQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u23a1talks\u23a6 Let\u0027s discuss part of the interview with D. Crockford: Why We Should Stop Using Jav...",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=6im5CxBQ5t8",
+      "view_count": 880
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5645,
+      "id": "GZ0id4HE8ls",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/GZ0id4HE8ls/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDRyvURwD0ed5LKTp4D4UtkGrlKCA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/GZ0id4HE8ls/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAosqH2EPpF-0yBwF60FCG_BFRJnw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/GZ0id4HE8ls/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBBcMdsP_hoWY3LuQHppNcebYUs_A",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/GZ0id4HE8ls/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLApzeE9IVQes9dPov9zHeXffnv-ng",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[msk] [talks] JavaScript: Pass-by-Reference and Pass-by-Value through the lens of Dmitry Soshniko...",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=GZ0id4HE8ls",
+      "view_count": 1900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 24355,
+      "id": "eULXuxZZuPw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/eULXuxZZuPw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDpdmsLTw_wYWpdWP90UaXw7X_zrg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/eULXuxZZuPw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBBQrbNbTvT-J83drparWX53ZPEHQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/eULXuxZZuPw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC2yybwj1nzt2v2AP8oH-AvLP3ieQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/eULXuxZZuPw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDLQFlDc97F3AHx2SqOUGue7gJKDw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u23a1talks\u23a6 \u041e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u0441 \u043f\u043e\u0434\u043f\u0438\u0441\u0447\u0438\u043a\u0430\u043c\u0438 \u0432\u043e\u043f\u0440\u043e\u0441\u0430 \u043e \u0442\u043e\u043c, \u043f\u043e\u0447\u0435\u043c\u0443 \u0432 V8 SMI 31 \u0431\u0438\u0442 \u043f\u0440\u043e\u0442\u0438\u0432 32 \u0432 NodeJs",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=eULXuxZZuPw",
+      "view_count": 1500
     }
   ],
-  "epoch": 1791670112,
+  "epoch": 1791672652,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4",
@@ -21630,14 +25486,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CPG-qtYG-oaymwEICPABEPABSFqi85f_AwYIgPKozAY=\u0026rs=AOn4CLCaZtXDORznHF-xeU5zsbTRjqgWHw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CMDfqtYG-oaymwEICPABEPABSFqi85f_AwYIgPKozAY=\u0026rs=AOn4CLD3Krl8-k6d1EZmtpZhwgNecrysDg",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CIzOqtYG-oaymwEICOADEOADSFqi85f_AwYIgPKozAY=\u0026rs=AOn4CLBzM4db0SrK0ZbvIcvXfe6So9tAFA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4/studio_square_thumbnail.jpg?sqp=CKj4qtYG-oaymwEICOADEOADSFqi85f_AwYIgPKozAY=\u0026rs=AOn4CLAW9hHQwgoQav3NDPBWDvf5iBvfMw",
       "width": 480
     }
   ],
@@ -21888,9 +25744,51 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=vZyyFMaprIY",
       "view_count": 2500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1105,
+      "id": "kWBHCtJwCR8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAOkHuf8_nEWPixUzAglo-LbeOitQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAnWLyOEBmdbexQ9WeLrD47G2CTlQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBp5mVnHKkehg74wtwDXcHJZiu9nA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAtMvsYPyjYGTKhgW7ghTJSw551GA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6\u23a1RegExp\u23a6\u23a101\u23a6 Regular 5 Minutes. Or Introduction to Regular Epressions",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=kWBHCtJwCR8",
+      "view_count": 2000
     }
   ],
-  "epoch": 1791670113,
+  "epoch": 1791672652,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9",
@@ -21913,14 +25811,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CIzqqtYG-oaymwEICPABEPABSFqi85f_AwYIwLufvQY=\u0026rs=AOn4CLCyrAnbGgtqnMjNktg4fnFoqp-qtw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CPTgqtYG-oaymwEICPABEPABSFqi85f_AwYIwLufvQY=\u0026rs=AOn4CLCylKbt8fbAnxyxA2SNpPpWC_3cYQ",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CNC5qtYG-oaymwEICOADEOADSFqi85f_AwYIwLufvQY=\u0026rs=AOn4CLC3_pels63DhvvaOwv-Hsd19O2agg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CIn8qtYG-oaymwEICOADEOADSFqi85f_AwYIwLufvQY=\u0026rs=AOn4CLBQ6zbhY2jqrrS4JBRqwAqRbtisLg",
       "width": 480
     }
   ],
@@ -22171,9 +26069,765 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=ks0o4gXh9NI",
       "view_count": 7200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11365,
+      "id": "6H0e4c-SPgo",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/6H0e4c-SPgo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDC1Eq-zgjTk1fhmqJtr4GMXulMrA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/6H0e4c-SPgo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCH1WKkm8L0PG4Nt0cQ7SX17-ED7Q",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/6H0e4c-SPgo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBYRswnqK5w-_MLu32o8X-6OdjIdA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/6H0e4c-SPgo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDp4473al8MytX_o7GKU7GKfpJVHA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e\u0445\u043e\u0434\u0438\u043c \u0442\u0435\u0441\u0442 javascript.ru \u0431\u0435\u0437 \u043f\u043e\u0434\u0433\u043b\u044f\u0434\u044b\u0432\u0430\u043d\u0438\u044f \u0432 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=6H0e4c-SPgo",
+      "view_count": 3600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 14511,
+      "id": "CxD9xy_NmFQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/CxD9xy_NmFQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDb1xyAlk2QBbrM5FS1bhAjYZmJiQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/CxD9xy_NmFQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAaXcCStOJE-2oDI6arcXSpWX45XA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/CxD9xy_NmFQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB_eXLswUB9Cz5D5IAt8scGT32Utg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/CxD9xy_NmFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD2_hZM69G1fuQ8FlMJU1ubH7GBCw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041b\u043e\u043c\u0430\u0435\u043c \u0442\u0435\u0441\u0442 \u043d\u0430 Head Hunter",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=CxD9xy_NmFQ",
+      "view_count": 8400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 8346,
+      "id": "NC5HMquGn4s",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/NC5HMquGn4s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAfy7hXRnA11a8eYQOGpclotT43Iw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/NC5HMquGn4s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAVdXh1NGua0ZlMY26-xyFPBHzAtg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/NC5HMquGn4s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBsn70MJm3QKxTo1y3grHhJbB7xhQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/NC5HMquGn4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLArc332YhyCc_zvVYi94ufDgoGU5w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e\u0445\u043e\u0434\u0438\u043c \u0442\u0435\u0441\u0442 \u043d\u0430 Head Hunter",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=NC5HMquGn4s",
+      "view_count": 5500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1115,
+      "id": "nwrN8FY_cVo",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/nwrN8FY_cVo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDw3D1n1YJPUEy2auXIch3sdK0tSg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/nwrN8FY_cVo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDaF2JGXGFnekJGCFIRAUR6qWk0xg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/nwrN8FY_cVo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCEg7NxDPP4aDHmuL2HEMtfIAYwdg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/nwrN8FY_cVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCR7uScNs0m6WiPNjV-ppZ2bjoJFQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0412\u0438\u0440\u0456\u0448\u0443\u0454\u043c\u043e \u0437\u0430\u0432\u0434\u0430\u043d\u043d\u044f \u0456\u0437 \u0441\u043f\u0456\u0432\u0431\u0435\u0441\u0456\u0434: this \u0442\u0430\u043a, this \u0441\u044f\u043a, this \u043d\u0430\u043f\u0435\u0440\u0435\u043a\u043e\u0441\u044f\u043a",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=nwrN8FY_cVo",
+      "view_count": 4800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12695,
+      "id": "Bz7pIC4h-7U",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Bz7pIC4h-7U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCRQrIrp_5GjtRppUuTrTXBG4cRXg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Bz7pIC4h-7U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCstFjUiSb-DnO1168xwrxVW54T-Q",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Bz7pIC4h-7U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC7I1rvxYBpCRS2H2jAujGiMU_AUg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Bz7pIC4h-7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCQShj7lFxNR74qrYYjX6DEMxRhcA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0420\u0435\u0448\u0435\u043d\u0438\u0435 \u0437\u0430\u0434\u0430\u0447\u0438 \u0441 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f: numberWithSpaces",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Bz7pIC4h-7U",
+      "view_count": 7200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 19071,
+      "id": "slTxpJIbhAM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/slTxpJIbhAM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBw2HDD3YuWJ59K0msLrnldT-zGDw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/slTxpJIbhAM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBm1hP10abxrv7Kv3X1VDVCeuS__g",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/slTxpJIbhAM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAAAtPKw6Ejs8ohQoTCH_0Ag5K2uw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/slTxpJIbhAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLATuT7V_EwRAxGKt5OCIzfe6Ij8EQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1sobes: 13\u23a6   JavaScript \u0437\u0430\u0434\u0430\u0447\u0438 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439: \u0420\u0435\u0448\u0430\u0435\u043c \u0437\u0430\u0434\u0430\u0447\u0438 \u0441 \u042d\u043b\u044c\u0431\u0440\u0443\u0441 \u0411\u0443\u0442\u043a\u0435\u043c\u043f \u21162",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=slTxpJIbhAM",
+      "view_count": 5900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 15185,
+      "id": "VEPHWJ5SQko",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/VEPHWJ5SQko/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAKYBLCnFuvBBqCmt8LalswFIyu1Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/VEPHWJ5SQko/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCmR6JNRw_DS3e5QerBn60SL4o4zw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/VEPHWJ5SQko/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC6NS8qXLaFh1omZ0ugmR9p_MZ5cA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/VEPHWJ5SQko/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB2i7NuGqxJZaU9clOP_JfwCJ2D0g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1sobes: 12\u23a6  \u0417\u0430\u0434\u0430\u0447\u0438 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439: \u042d\u0442\u0430\u043f\u044b \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0446\u0438\u0438 JS \u043a\u043e\u0434\u0430",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=VEPHWJ5SQko",
+      "view_count": 4000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10746,
+      "id": "Bf6uEqrfsOU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Bf6uEqrfsOU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAwTrRZLfzuGqUGNI3nnoRrWR6OGQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Bf6uEqrfsOU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA2GuDVRKz3FXzgYo7d_n-LdGKtJw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Bf6uEqrfsOU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDn6bH8aNGjva_PQ4G5OFs-mX1QfA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Bf6uEqrfsOU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDSQLlBnyDl0exEwY_k2MpZrQEVlA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1sobes: 11\u23a6   JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f: \u0420\u0435\u0448\u0430\u0435\u043c \u0437\u0430\u0434\u0430\u0447\u0438 wtfjs.com - \u0447\u0430\u0441\u0442\u044c 2",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Bf6uEqrfsOU",
+      "view_count": 1400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11361,
+      "id": "I2RpUoH8WwI",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/I2RpUoH8WwI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAbqoZ52WZcdzdH42lcR6u6OqT5Cg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/I2RpUoH8WwI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAKv0r5aez_sBD9xiLjcqLqxEW-Aw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/I2RpUoH8WwI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDn7hS7cwipyCdoLTbxyrrCcdYAtg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/I2RpUoH8WwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBMb4SMa-NhitahxlSLVQt9fkV7ng",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1sobes: 10\u23a6   JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f: \u0420\u0435\u0448\u0430\u0435\u043c \u0437\u0430\u0434\u0430\u0447\u0438 https://wtfjs.com/",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=I2RpUoH8WwI",
+      "view_count": 1700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 21736,
+      "id": "ICwDR01RgnA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/ICwDR01RgnA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD5jm9uYjL6hu4c_PzvA8v6mwmXtA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/ICwDR01RgnA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDiBmS5YMtKeeSfB81U9MWQWSOCzw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/ICwDR01RgnA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDy-9nmHOxmhj-z426OMn0PrJ5OoQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/ICwDR01RgnA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAuAacqUx8xcSlneY0AkmesIr1nJA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1sobes: 09\u23a6   JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f: \u041f\u0430\u043b\u0438\u043d\u0434\u0440\u043e\u043c, \u043f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0430\u0441\u0441\u0438\u0432, \u043f\u043e\u0438\u0441\u043a \u043f\u0443\u0442\u0438 \u0438 \u0435\u0449\u0435 \u0434\u0432\u0435",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=ICwDR01RgnA",
+      "view_count": 4400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1446,
+      "id": "MxL04wXIyBQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/MxL04wXIyBQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAyX57H2DvSfK-3LOSddc3a63qXXQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/MxL04wXIyBQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC1QNxqTW3sKWWI-h1-W97l7zTAVQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/MxL04wXIyBQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLASN8ZYlU1kiOUgXwMPEuz11NEusg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/MxL04wXIyBQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA6akSarw3WeeMsLa-jh6lssD1ocg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6\u23a1sobes: 08\u23a6 JavaScript interviews: Timers",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=MxL04wXIyBQ",
+      "view_count": 2600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9165,
+      "id": "_P2YmY3sxhY",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/_P2YmY3sxhY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAOMIMTRr9-k7yGcn4x4M-UkiQqbA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/_P2YmY3sxhY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCNOzL_GfTfX-x9Ve5MS89fGqF_BA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/_P2YmY3sxhY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBXdBCQY3HdvY93NKVP5Pr7ed3Edg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/_P2YmY3sxhY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBp05qKVhhry3NJYFfu4MnWStWGkA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6\u23a1sobes: 07\u23a6   JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f: Event Loop \u0438 \u0432\u0441\u044f \u043f\u0440\u0430\u0432\u0434\u0430 \u043e \u043d\u0435\u043c",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=_P2YmY3sxhY",
+      "view_count": 13000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 15065,
+      "id": "QgssEu9y_Rc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/QgssEu9y_Rc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD4ZdKAeOnzI5d0B-YBZ1PogQbtrw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/QgssEu9y_Rc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAGxylSPcDQNiNPstulP-2BN5FFEg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/QgssEu9y_Rc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAcbGiHyqMlOI3LxFnOaLLf7540HQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/QgssEu9y_Rc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDXcdwkelOptF1OSiomUBubMk0E3A",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6\u23a1sobes: 06\u23a6   \u0420\u0435\u0448\u0435\u043d\u0438\u0435 JS Is Weird \u0441 \u043f\u043e\u044f\u0441\u043d\u0435\u043d\u0438\u044f\u043c\u0438 \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=QgssEu9y_Rc",
+      "view_count": 1900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7990,
+      "id": "WsBe8ysO_uA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/WsBe8ysO_uA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC3Hlt3UNw-IGgwkkiCcTf9q7-lPg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/WsBe8ysO_uA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAoZ8KnFgAhEq6nCW2Y7274lxomzw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/WsBe8ysO_uA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBQ5tGUDuuEjv1vYj4hOPirjc-epw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/WsBe8ysO_uA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAyhdTuuwicCwUPFqDRfEa__BD8sg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6\u23a1sobes\u23a6\u23a105\u23a6   \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0437\u0430\u0434\u0430\u0447\u0443 JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u043e 100500 \u0441\u043f\u043e\u0441\u043e\u0431\u0430\u0445 \u043d\u0430\u0440\u0438\u0441\u043e\u0432\u0430\u0442\u044c \u0431\u0430\u0448\u043d\u044e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=WsBe8ysO_uA",
+      "view_count": 1800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3125,
+      "id": "AqWU1ZBPLC4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/AqWU1ZBPLC4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDdItJE6J1z-fBDiXwEomGtNgZd_A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/AqWU1ZBPLC4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA9DU0edxmxWvXOV31TkYIOQF_uEA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/AqWU1ZBPLC4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBhBZO3KztoXJvWZyhKqrtniSwAzQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/AqWU1ZBPLC4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABDKFBKLsu1xBdBqoyqMXOPDhlDA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6\u23a1sobes\u23a6\u23a104\u23a6 Analyzing the JavaScript interview task about type casting - addendum",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=AqWU1ZBPLC4",
+      "view_count": 1300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 2275,
+      "id": "ZzxhnWf4HNc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/ZzxhnWf4HNc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDuvnC0F8mgHT4kprCMq-fw316GWQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/ZzxhnWf4HNc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBONGnT6HSekKffrpKwBsA4kQ8Fqw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/ZzxhnWf4HNc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC5qsH6mNSOheanIMawrUvoRflAng",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/ZzxhnWf4HNc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB3ukCi3Uuw21N-i4mK7mhlKg4nvA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[msk][interview][03] Breaking down a JavaScript interview task on type coercion",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=ZzxhnWf4HNc",
+      "view_count": 1700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7635,
+      "id": "wn4O3Pq6zYE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/wn4O3Pq6zYE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDklJetgWlWjMwtePIWaSF1QKlT0A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/wn4O3Pq6zYE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCAYXjNYumbFieNUVUb37kUmpYIuQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/wn4O3Pq6zYE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB0iXNpZYG7rDyGwR6TPpnz7UbjkA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/wn4O3Pq6zYE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCOhiowCVXaA7qR41eZIqYX2yp1zg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0432\u043e\u043f\u0440\u043e\u0441 JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u043e \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u043f\u043e \u0441\u0441\u044b\u043b\u043a\u0435 \u0438 \u043f\u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=wn4O3Pq6zYE",
+      "view_count": 2800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 4267,
+      "id": "yfJ475DYo2w",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/yfJ475DYo2w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBSvez-oewzRlixpuhmjXH3Zhgg4Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/yfJ475DYo2w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC4ajDHwUQLZ2tyfvPwJ1RLLlkMkw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/yfJ475DYo2w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB7R5lxOXrWdYLBYCILChpbogrbXw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/yfJ475DYo2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC3XmCtvzrOTBY3zloRZRPnS58MoQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0417\u0430\u0434\u0430\u0447\u0430 \u0441 JavaScript \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043e \u0440\u0430\u0437\u0431\u0438\u0435\u043d\u0438\u0438 \u0442\u0435\u043a\u0441\u0442\u0430 \u043d\u0430 \u0441\u0442\u0440\u043e\u043a\u0438 \u0437\u0430\u0434\u0430\u043d\u043d\u043e\u0439 \u0434\u043b\u0438\u043d\u044b",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=yfJ475DYo2w",
+      "view_count": 2100
     }
   ],
-  "epoch": 1791670114,
+  "epoch": 1791672653,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx",
@@ -22196,14 +26850,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CMy1qtYG-oaymwEICPABEPABSFqi85f_AwYI9qmswwY=\u0026rs=AOn4CLA9jtiAT0s-bvF9wQ3gYGoPg-wqkQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=COnJqtYG-oaymwEICPABEPABSFqi85f_AwYI9qmswwY=\u0026rs=AOn4CLDmbKE-fhtB87Cj64c8kzk0sbtC4A",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CIvmqtYG-oaymwEICOADEOADSFqi85f_AwYI9qmswwY=\u0026rs=AOn4CLDM3lQKQqJ7RpzysKTObbP7lie_fw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx/studio_square_thumbnail.jpg?sqp=CObSqtYG-oaymwEICOADEOADSFqi85f_AwYI9qmswwY=\u0026rs=AOn4CLAGXyHySBizZhnFU9EOLahQvhZ7Mg",
       "width": 480
     }
   ],
@@ -22260,22 +26914,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBnUm8ad3Mb4l-WVyLJOM0e6XWIrg",
+          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBnUm8ad3Mb4l-WVyLJOM0e6XWIrg\u0026usqp=CBQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBXHCwEccXkEkIVYDsMNFFv7Fid-A",
+          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBXHCwEccXkEkIVYDsMNFFv7Fid-A\u0026usqp=CBQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCjNrCSOuMUE0_X_V0K1etkhyO9EQ",
+          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCjNrCSOuMUE0_X_V0K1etkhyO9EQ\u0026usqp=CBQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDNQp6nZJIWWrMznwD-pYG4f4lceQ",
+          "url": "https://i.ytimg.com/vi/DjuK8h7-ep8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDNQp6nZJIWWrMznwD-pYG4f4lceQ\u0026usqp=CBQ",
           "width": 336
         }
       ],
@@ -22302,22 +26956,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAoCfdLG3BuVnUiWqmAHwAhwtMcbg",
+          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAoCfdLG3BuVnUiWqmAHwAhwtMcbg\u0026usqp=CBQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAHs9qy-xRouALVmcz1zywMiPXEbQ",
+          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAHs9qy-xRouALVmcz1zywMiPXEbQ\u0026usqp=CBQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD60hkBZgvkmfRamVXxMACj6xRFtQ",
+          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD60hkBZgvkmfRamVXxMACj6xRFtQ\u0026usqp=CBQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCC7tkuDHYk6X6XbCcdQL95rC38Fw",
+          "url": "https://i.ytimg.com/vi/OpJLmIvXs5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCC7tkuDHYk6X6XbCcdQL95rC38Fw\u0026usqp=CBQ",
           "width": 336
         }
       ],
@@ -22344,22 +26998,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCR36_HTV-vfnUn8pS-4H8BQeOL1Q",
+          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCR36_HTV-vfnUn8pS-4H8BQeOL1Q\u0026usqp=CBQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB7YRxjnYqKKUgIsRZeI1rJM0xjGA",
+          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB7YRxjnYqKKUgIsRZeI1rJM0xjGA\u0026usqp=CBQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCDfNfa5kRClAjwtUCz8QIbinYJxw",
+          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCDfNfa5kRClAjwtUCz8QIbinYJxw\u0026usqp=CBQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAHrMIl4ztPJJentBmyjkGwVOHwMQ",
+          "url": "https://i.ytimg.com/vi/kz6TmnP9U5s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAHrMIl4ztPJJentBmyjkGwVOHwMQ\u0026usqp=CBQ",
           "width": 336
         }
       ],
@@ -22386,22 +27040,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCNN2icGo7y5wrFiaejU_iy8vZn4g",
+          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCNN2icGo7y5wrFiaejU_iy8vZn4g\u0026usqp=CBQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCnulsoCxOgodgYSz-2zXyan2vKkg",
+          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCnulsoCxOgodgYSz-2zXyan2vKkg\u0026usqp=CBQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDBd1kExylHERLaVQVBay9goV3gFw",
+          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDBd1kExylHERLaVQVBay9goV3gFw\u0026usqp=CBQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBx_jpESBKIYPUKhN__VdEH39uRJQ",
+          "url": "https://i.ytimg.com/vi/_EtTRVJAahY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBx_jpESBKIYPUKhN__VdEH39uRJQ\u0026usqp=CBQ",
           "width": 336
         }
       ],
@@ -22428,22 +27082,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDJnpIrEpjDyavjlxbvI6GlQG7wZw",
+          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDJnpIrEpjDyavjlxbvI6GlQG7wZw\u0026usqp=CBQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC0I8R3kCOarO5HmKskaa9xHlNZnw",
+          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC0I8R3kCOarO5HmKskaa9xHlNZnw\u0026usqp=CBQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA8l0ghTnnTGRilshwWAPmOU6ETSg",
+          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA8l0ghTnnTGRilshwWAPmOU6ETSg\u0026usqp=CBQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCc8Ty3Jxms02WwMYeHQdsO146nJA",
+          "url": "https://i.ytimg.com/vi/dgZG-OHOyUs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCc8Ty3Jxms02WwMYeHQdsO146nJA\u0026usqp=CBQ",
           "width": 336
         }
       ],
@@ -22454,9 +27108,891 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=dgZG-OHOyUs",
       "view_count": 1100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 14213,
+      "id": "663CqugApf4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/663CqugApf4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAWuNEg-C4usPQRJ39VSX99qQwKTw\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/663CqugApf4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCBtFW3grPTIZ_0d_1DW_ZJwe0_xQ\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/663CqugApf4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCubGkZrhOOMb1KXoJel8t7Q27sFA\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/663CqugApf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBI24YJ4zzUQ65x9OeB3mQl7xlmFg\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "OSR (On-Stack Replacement) \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f \u0432 V8",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=663CqugApf4",
+      "view_count": 1500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 19403,
+      "id": "g7bXeDJDZaA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/g7bXeDJDZaA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAtfDyGD4jmmnCFZGx2VDvN9Azd5w\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/g7bXeDJDZaA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBdKeb-E_Ejl3A7mRcBU-GPi_hmuw\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/g7bXeDJDZaA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCR0pDCn7jR0NAEHH2xBcXWwygvmA\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/g7bXeDJDZaA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3a-rexEJPN11YwhSM9hkbHTPlfw\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041a\u0430\u043a \u0438\u043c\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043a\u043e\u0434 \u043b\u0435\u0433\u043a\u043e \u043b\u043e\u0436\u0438\u0442\u0441\u044f \u043d\u0430 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=g7bXeDJDZaA",
+      "view_count": 2400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 8646,
+      "id": "Ri0PZdV2zvI",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Ri0PZdV2zvI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDJpVFjOBri6RGvz_sN89mYx71h8A\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Ri0PZdV2zvI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCzA5AKb6o3uDQzxgCj7DpYIKtDVw\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Ri0PZdV2zvI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD4wHYTy16xtujT-RmwTWk1vnNWFQ\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Ri0PZdV2zvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBFL91wE6XA4q-89c9vMtoONJej7Q\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0422\u0430\u043a \u043b\u0438 \u0431\u044b\u0441\u0442\u0440 WASM / WebAssembly - \u0447\u0430\u0441\u0442\u044c 2.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Ri0PZdV2zvI",
+      "view_count": 1200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11487,
+      "id": "yGjqZeTVq24",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/yGjqZeTVq24/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCbN5zJbe99Y873RjV3UvP7elQFQA\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/yGjqZeTVq24/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD3puPugnfYVpCeGjsP3-CjnPjQOg\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/yGjqZeTVq24/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCvkq7Q3by75lgYuyrZHcWLUbwSzw\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/yGjqZeTVq24/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC_ZL-PwXAY0iQGeGMa_B0AVf7tIQ\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0422\u0430\u043a \u043b\u0438 \u0431\u044b\u0441\u0442\u0440 WASM / WebAssembly \u043a\u0430\u043a \u043e \u043d\u0435\u043c \u0433\u043e\u0432\u043e\u0440\u044f\u0442",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=yGjqZeTVq24",
+      "view_count": 2900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9204,
+      "id": "ZECTIKGj3ds",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/ZECTIKGj3ds/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC6eyHEDORLsC2Lu-Jh4tyMnii8AQ\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/ZECTIKGj3ds/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCTvGrT30ljFGB50AdOmFoqjTzZeQ\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/ZECTIKGj3ds/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAj1dK11Qmq9uRhTXGUL_h6tYsnLQ\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/ZECTIKGj3ds/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDybRdgPkKoaQrhRfjxBhmdifHNkw\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0422\u0435\u0441\u0442\u044b Array Allocation. \u0414\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a \u0432\u0438\u0434\u0435\u043e \u043e \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u043e\u0432",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=ZECTIKGj3ds",
+      "view_count": 2000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 18665,
+      "id": "Qfi0_0w0dsM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Qfi0_0w0dsM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCAeHaF1sPEe41-LE132SwjEPLKZw\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Qfi0_0w0dsM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDVgPqkgJjhBCeLSkjkLFCDyPMgZQ\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Qfi0_0w0dsM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCCenDQHTfBoUia-XdoaDdvBY3y7A\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Qfi0_0w0dsM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD9FL6NXm_srnuI7oUm0Td7xOIyrQ\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u0438 \u0442\u0435\u043e\u0440\u0438\u044f \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u043e\u0432 \u0432 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u0435 \u044f\u0437\u044b\u043a\u0430 JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Qfi0_0w0dsM",
+      "view_count": 4900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 19822,
+      "id": "VfQiG2jATgQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/VfQiG2jATgQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDr5IowHGiqEn3jflUu86mjA5jpyw\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/VfQiG2jATgQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAhtGV2CjJ0btmgl_Fe3no8FwiWdg\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/VfQiG2jATgQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA47xxJXecDZ20OZa4oUDiMTezoUg\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/VfQiG2jATgQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCKR2FoY3F-GYEDt7Y4RjqEyn9QHA\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c  Async Function",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=VfQiG2jATgQ",
+      "view_count": 3800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7693,
+      "id": "NOFRVCT2Xx0",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/NOFRVCT2Xx0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBEUppLcm9APXNJYAPIorJazuGmcw\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/NOFRVCT2Xx0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAQbWoOLVzSODdNZsTv6o44_ZOtmQ\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/NOFRVCT2Xx0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA0vR-uaFt7TfrbLda8GUP9wqlyDg\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/NOFRVCT2Xx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCoEJQvO5KVhAXsnvr8xEekE9ocXQ\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c  V8 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432  \u0432 \u043f\u0440\u0438\u043c\u0435\u0440\u0430\u0445",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=NOFRVCT2Xx0",
+      "view_count": 3000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 25556,
+      "id": "KMrVKtVrJ3Q",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/KMrVKtVrJ3Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCSDE9UNwfrjpDSCxhlP2xu51JlSw\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/KMrVKtVrJ3Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDo2upSTw6RdVmA6h3U5xdDmTVGSQ\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/KMrVKtVrJ3Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBXVAXx1bJv2xOoYC4plWJjxxP0kg\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/KMrVKtVrJ3Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDIANe5tjlaK2aRimhE11226WZ_eg\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c JS:  \u041e\u0431\u044c\u0435\u043a\u0442\u044b \u0432 V8",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=KMrVKtVrJ3Q",
+      "view_count": 5300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7196,
+      "id": "qW3iZCv7vSA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/qW3iZCv7vSA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBo3TMFzQgyMk9WxT1zeGeTiKaUVQ\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/qW3iZCv7vSA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCzTzTN4YronReJWkAAxQmYY5FrGw\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/qW3iZCv7vSA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA1XPvTqrlnEvtiyo0OY5PwCuUHDQ\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/qW3iZCv7vSA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDoZzIocgCAaX_oPq63CbgtZ85srw\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c JS:  Switch \u043f\u0440\u043e\u0442\u0438\u0432 IF",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=qW3iZCv7vSA",
+      "view_count": 4700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 529,
+      "id": "8G0qxh4HabA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDkF55Bt-O8PY599S_y9sQo_gKNNA\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBEQDHUp27LsYzK6eQLAIROqjp0Pw\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3hcGYOgMPrBq3bCOGBGKe1e_J6Q\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/8G0qxh4HabA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDmxG1Eu9bdYe-scgdiN4ofuLT4Jw\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "A fat point in the debate about var let and const",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=8G0qxh4HabA",
+      "view_count": 11000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6973,
+      "id": "4UwH9I-l7u4",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/4UwH9I-l7u4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=\u0026rs=AOn4CLCe1x1zU8H5EWTrn0Jej1Wu6tCABA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/4UwH9I-l7u4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=\u0026rs=AOn4CLDQ74shrw5YlLK7ovmWrI9AqrGhgw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/4UwH9I-l7u4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP\u0026rs=AOn4CLDk7RgVh0Lvm-CSyugQU9q4djQ1IQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/4UwH9I-l7u4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP\u0026rs=AOn4CLAbaFRprU0vZJan0528BTE7JdT6iw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=4UwH9I-l7u4",
+      "view_count": 1200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9964,
+      "id": "fsgT-1KDqpI",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/fsgT-1KDqpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDBM53gdduDZ-4Li4VW70EIDN_JRQ\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/fsgT-1KDqpI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLChxHon5x5jB-J8v6bx3tvQK1lF8A\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/fsgT-1KDqpI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBKJP9MMzjSpdOW3896xdeCoqrQnw\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/fsgT-1KDqpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBY8aR6NTSYLuE4v0jF4fWaxc-KLw\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c JS:  V8 lazy Compilation \u0438\u043b\u0438 \u043a\u0430\u043a \u042f\u043d\u0434\u0435\u043a\u0441 \u043d\u043e\u0433\u0442\u0435\u0439 \u043d\u0430\u0431\u0440\u043e\u0441\u0430\u043b.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=fsgT-1KDqpI",
+      "view_count": 6500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3078,
+      "id": "vGm-FPhPwcs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCKsAsykyzzGVykrTw-81R1lF5fgg\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDvBU7EMjtAy1EPfMq_NLKbFW18fg\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBIT-7NRPCE_-ruJLanmatUs30hag\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAEmQlAZzjuRV1wBlCyhMUUGBf-QQ\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Watching together YT: Performance and Clean Code",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=vGm-FPhPwcs",
+      "view_count": 5600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3060,
+      "id": "OkVgzONhpiU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/OkVgzONhpiU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDo8ZjShoAwIcNjTt8al6j23jBTlg\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/OkVgzONhpiU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCI6dQGOvp1yYy9tSxx8qkkPX-Lcg\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/OkVgzONhpiU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3X5qaBV26i5AEadbdT-900CxKOg\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/OkVgzONhpiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB4X2lUq8rOjhNHK6HXXcwv4s7ssQ\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Comparing the JavaScript Array reduce method with a for statement",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=OkVgzONhpiU",
+      "view_count": 5700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11070,
+      "id": "fWqOswHMjEo",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/fWqOswHMjEo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBFpGcFoYmR1nxghktZ7vgNUnqt2Q\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/fWqOswHMjEo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD0iUB8M972QlVsiqcaCi-8mBMCJA\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/fWqOswHMjEo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDuHKBYkHl5Wwo_d6igZW6Mi4MiKw\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/fWqOswHMjEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCcVIqOFQSwLKzp2wQK-3htVqIazA\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c JavaScript Array \u0432 V8. \u23a1perf:5\u23a6",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=fWqOswHMjEo",
+      "view_count": 6200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 14940,
+      "id": "gdrDBiNLRVU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/gdrDBiNLRVU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD4xTsgcDlfhqL4ewx8bVIWZDeOfQ\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/gdrDBiNLRVU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCzJ4Tlo_qk96aYgioSyWqJmgTR8Q\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/gdrDBiNLRVU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAv4_PhDgfC7qzXE8YeUn6CCosQkQ\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/gdrDBiNLRVU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLATEnnWuJI0yM8QkvpaHdMb4qInSw\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1perf: 05\u23a6   JavaScript Performance: \u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u043e\u0446\u0435\u043d\u0438\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c JS \u043a\u043e\u0434\u0430.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=gdrDBiNLRVU",
+      "view_count": 4900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 2005,
+      "id": "YntHgxlmKy4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/YntHgxlmKy4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCktUsU6SHx_Sd95AdKDJbANk2xoA\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/YntHgxlmKy4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBM0D2i7OB0G4UbDbvyZbFaH4WZWg\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/YntHgxlmKy4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBK2IwYoIIYN5toa6nbS6PLOFwriQ\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/YntHgxlmKy4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD6pY3fXlIhBx-vttOAp1m8azrHAg\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6\u23a104\u23a6 JavaScript Performance and Data Types: Numbers / Number.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=YntHgxlmKy4",
+      "view_count": 2700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1295,
+      "id": "IvlpOQfKi9U",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/IvlpOQfKi9U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC7pnrrCShLxrzOivfJ4rwNCaQ8SQ\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/IvlpOQfKi9U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAG0Yu1wkvZ9tJC9V1BXCL7ZsgvtQ\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/IvlpOQfKi9U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCmCF_N4YpiveTO1x0IFJ2BWJ5zBQ\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/IvlpOQfKi9U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDPtxgzsY4BLKiJZdyyr67hRzzkCg\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6\u23a103\u23a6 Performance of JavaScript \"variables\" / identifiers",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=IvlpOQfKi9U",
+      "view_count": 2800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5650,
+      "id": "VZlhhFDVa24",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/VZlhhFDVa24/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCLB0-lOXFRg-C01MvK7mrJhE-R5w\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/VZlhhFDVa24/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAZyD5XZ-L0rb6mgazfITcdeCd7dg\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/VZlhhFDVa24/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDRvyWaXfXWP1DKbkO5qB6gZgEhew\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/VZlhhFDVa24/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAABofGqV-lQb96BvKqJkfJGU_Clg\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[msk] How JavaScript code impacts performance during the preparation stage for execution",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=VZlhhFDVa24",
+      "view_count": 4900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 4213,
+      "id": "UNSjfNfvUFU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/UNSjfNfvUFU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC__b5xUp3sXWJGyUaQRVK64eh2Pg\u0026usqp=CBQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/UNSjfNfvUFU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCGScCjpH2tPT_VKuDqdJLK2yGvug\u0026usqp=CBQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/UNSjfNfvUFU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCeVDHfb6JUy-2BiyAuXt6Q8IdayA\u0026usqp=CBQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/UNSjfNfvUFU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA05jw7YbzTU2rrFOoylKxy5NGJLQ\u0026usqp=CBQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c JavaScript \u043a\u043e\u0434\u0430",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=UNSjfNfvUFU",
+      "view_count": 6000
     }
   ],
-  "epoch": 1791670115,
+  "epoch": 1791672654,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph",
@@ -22479,14 +28015,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CM6nqtYG-oaymwEICPABEPABSFqi85f_AwYIzo21wwY=\u0026rs=AOn4CLADG8Y8gfR--H223agcmw--nNgDJQ",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CIHmqtYG-oaymwEICPABEPABSFqi85f_AwYIzo21wwY=\u0026rs=AOn4CLBa_K-RkAujKrXoYqnluAdA4m2hsA",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CMDWqtYG-oaymwEICOADEOADSFqi85f_AwYIzo21wwY=\u0026rs=AOn4CLBwl_00dz6-gitNVufN95nTkQGJCw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph/studio_square_thumbnail.jpg?sqp=CJXwqtYG-oaymwEICOADEOADSFqi85f_AwYIzo21wwY=\u0026rs=AOn4CLCWjD0U3uFuCX7XsClARBrGGfpS6w",
       "width": 480
     }
   ],
@@ -22737,9 +28273,303 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=tHOS3zlr9jU",
       "view_count": 1800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3221,
+      "id": "k9lpuV9UlBc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA6xPneWYr-QAInXw67AuETMhr-vA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD-zaka9SIL4vu_bK85uFXnoJ9ZEA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAfEFwuwYyMSwcZFOfUc3x93kSFLg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAu__po6gwIfrbLK3kutqcNzYtTFA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 JavaScript \u043f\u043e\u0441\u0440\u0430\u043c\u0438\u043b chat GPT",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=k9lpuV9UlBc",
+      "view_count": 1700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 749,
+      "id": "yxziSZb2Ogg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDjxzgZ-bc3sS6ZcX3lPacetuc7eA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBafmM8WRyKuPmtF0Tn9B2aXdJ36A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDuyAgc9AHLEBU2fEyEgun7DNxFLA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBhFydyKLfia-0k-c4s31HFP6ACQQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[msk] JavaScript Arrays and Default Values",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=yxziSZb2Ogg",
+      "view_count": 1600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 4955,
+      "id": "awoFe_9kbuU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBB9Gutgk5XvEYjp11q2Zl4N0zbtw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD1YsFOy0l4wdOKgTKDpNnk4dqP8w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAT52nBG5HkM9whnCTAszMk45G7GQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB2vb13ZAjsf8WnGmY3kE8_lBUheA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 JavaScript expressions",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=awoFe_9kbuU",
+      "view_count": 2400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 2934,
+      "id": "wkwgWbIdMrQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCDByr6E6FX3dFPl8qgK7AYqBL8Aw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLASLCIkFHYdW-U6kjQDz8tWuLZnVQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCKaHPxD928mJ4lxogt6ekVsRVo9A",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBtTMyABoDltP7c2RrUSQm80FqSaA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 Why adding a number to an object in JavaScript is cool, not an architectural flaw",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=wkwgWbIdMrQ",
+      "view_count": 4000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1495,
+      "id": "P3KQkLUvFFw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAB33ckFtrtAM4jxDZwaULJJ47U7g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAIEdMEimzRpoEM4c6XobCEYyH66w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBwytnM3ZZbonNax34kA1UV0E7r8Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDCKJr03MOwRKtldejKa_EakFytZg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[msk] JavaScript JSON as an effective technique for optimizing JS cold starts.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=P3KQkLUvFFw",
+      "view_count": 1900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 961,
+      "id": "98mOkxRFHYA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAz4QJ7b8K-TkaQR4iDmnowLEaOTw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBz6c02PkNLBJbcuU6ZkAnWYOV2OA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA0aNVNHIyFDPSAYO8-nEjlGTr-yg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA5tBaIEvnaUo-F2CM9JMd1oQ0I9Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 JavaScript Destructuring Assignment or not all that is written is gold.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=98mOkxRFHYA",
+      "view_count": 2100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 908,
+      "id": "biy50-ssgVQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD4F7zEykz22LW-oMPzd_w_CPD0Jw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCkEZvG-5XegKrbLok_AmJgKmUTww",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCDcqqPtX6EVgMHeTCt92XxdWHupg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC_Z_vFhOAKOvofu3cUuthzaCtA4A",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript and identifiers. Part of the Tips and Tricks podcast [Msk] [JavaScript shorts]",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=biy50-ssgVQ",
+      "view_count": 3300
     }
   ],
-  "epoch": 1791670115,
+  "epoch": 1791672655,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog",
@@ -22762,14 +28592,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CIrWqtYG-oaymwEICPABEPABSFqi85f_AwYIj_iVvQY=\u0026rs=AOn4CLBPhG4ypvPdQqhAjCDptBVFZwDzTw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CNbZqtYG-oaymwEICPABEPABSFqi85f_AwYIj_iVvQY=\u0026rs=AOn4CLDj57qYI1FoDe-SzMIQmOFNaOq6lw",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CLHfqtYG-oaymwEICOADEOADSFqi85f_AwYIj_iVvQY=\u0026rs=AOn4CLAB-rnS806XaYsBWsj8s9d3SWsgfg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CMjkqtYG-oaymwEICOADEOADSFqi85f_AwYIj_iVvQY=\u0026rs=AOn4CLB9X5gH8YEbyFwAusHynwZL8fSuMA",
       "width": 480
     }
   ],
@@ -22826,22 +28656,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLDuhOxzvHHkA568obbqbE4J_JmEgw",
+          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBgCaLBhOkG0CuZwLKh-DYzlb8rXQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLAW-WkENj9UNkVxaAxh5NUUObtI4g",
+          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAEHgB5vEe-4EtOR1JH2_aMi6IRmA",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLDtQ6bMFK-VLTu8VTT0yUBVbv4kNQ",
+          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDJMXVclf9Q0kto8Un0Hi93_v5Dnw",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLAxprpWL2Nnc6EuLNXQM2PSvcW0Qw",
+          "url": "https://i.ytimg.com/vi/3r4X5OSQMFs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA01Ef3vSk99TkOZNSoUsYfUjHtqg",
           "width": 336
         }
       ],
@@ -22868,22 +28698,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLBI_pCP-tZPjIqZPB7HZNEDPPdegQ",
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBQK58x_E_FvKUNuYLp6lQ8TW5SnA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLC5751BSqzeqY4wTWClZFFg7Y7XOg",
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAVL6GE-NBDgcIC5sOz9vX1ooj4QA",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLAPlpW4wX1QF-eh5Eb6QDLmffAcZA",
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAZQU2iRhMUg3btDzbfoDxwabbzAw",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLBHhwQfFOA3sE0YO9g1HsphZp7_0Q",
+          "url": "https://i.ytimg.com/vi/zXITWw0ctDM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAKZxB_oPMAocJlsETITlR6ggJZrA",
           "width": 336
         }
       ],
@@ -22910,22 +28740,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLD0Fji4FKs5jSQmRCdJ_Jn_NRkcfQ",
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCe9Tibi-gTX1We-JZU8BiEkJFKJg",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLDtl2shbMdm2tmLTByGS8NDBTAb2A",
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBTDeTvmXADDOlgfZ0g_5MlEL9dVw",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLCX2U8mzL_9KqLlmVkkeETLI_syIg",
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDsZsZS3hJnQHEJdIGVkGVDacOT1g",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLD-lfMNib2IJ5BdC6BF6S_2PFYwAA",
+          "url": "https://i.ytimg.com/vi/Z8fzImsl-RM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAlcre2RQq3jd1r1jEydjgYi5nfzw",
           "width": 336
         }
       ],
@@ -22952,22 +28782,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLBVOiYLPAlaz4kXNn7qxKCU08gKEQ",
+          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAaVQfe5ANGI3mj5BEUszvjhSMOZA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLB5--yJDtMMb0vQBCL5NogxGOAbpQ",
+          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCxAuM5u6yAmI-1jGeMA5btNouPGQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLC0PugyhWl02O7E0uwM7R2tKy_QHA",
+          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB4yKKr8YaJe0bY9SyVz-yDBBrcKg",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLDvtPo3_be1CWwQv6iVnilqnNWcjQ",
+          "url": "https://i.ytimg.com/vi/zKlAoqhc49I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCfRWMf6pN6SMtGiE_MDXmnYkpyBA",
           "width": 336
         }
       ],
@@ -22994,22 +28824,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEfCKgBEF5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLCtM7Ag1G0mgYXIi1UjpA4ZRNLiZA",
+          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB_3jNG-W0j_VkvStulRMMmwMo3FQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEfCMQBEG5IVfKriqkDEggBFQAAiEIYAXABwAEGuAL3GA==\u0026rs=AOn4CLDp-PSX5_4hke_tsqzfr2MUTLN1mg",
+          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBhbaalLDlwajlvEcrB0kw6TEYLjQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLC82jVN8jEDX0iTF6mX6gVl3NzS5w",
+          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBIDKsSodgCzEFDeFYSf-Dd4tVjhQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=\u0026rs=AOn4CLB18aPkRKdAM1RW6uIQLybW4jlCEQ",
+          "url": "https://i.ytimg.com/vi/TLL4BChnRqg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAgzKkhE-IC7qdJe9BQn0B0DwkG0w",
           "width": 336
         }
       ],
@@ -23020,9 +28850,1517 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=TLL4BChnRqg",
       "view_count": 3400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11911,
+      "id": "DUaKtpc1zK8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/DUaKtpc1zK8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBof42riHhoI5ujz6uamIStY6mOFw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/DUaKtpc1zK8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBGaE1qBsbPq0Ucn6wPebn_xJ0XVQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/DUaKtpc1zK8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC3zLMFIhyqIZVHBS07WF8QN1208w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/DUaKtpc1zK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDArqVW1-WRtWiTLTMMfF7JMMqmPA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT:  \u0427\u0442\u043e \u043f\u043e\u043f\u0430\u043b\u043e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=DUaKtpc1zK8",
+      "view_count": 2100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9611,
+      "id": "SzH2G0yFBHY",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/SzH2G0yFBHY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBZiJ7jmf5W70CtAZHeJBDuQTnAAQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/SzH2G0yFBHY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBQSz44BnfDjHRJuFagcspXtEZbIQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/SzH2G0yFBHY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLATq-vXPGrAp9k8oIXGTejD6z-wFA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/SzH2G0yFBHY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA7V06gsa1MA_JtiLCDE4Dy16ZwkA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT:   \u0412\u044b\u0432\u043e\u0434\u0438\u043c \u0421\u043e\u0435\u0440\u0430 \u043d\u0430 \u0447\u0438\u0441\u0442\u0443\u044e \u0432\u043e\u0434\u0443",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=SzH2G0yFBHY",
+      "view_count": 3500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 17804,
+      "id": "_36Z4U07o3g",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/_36Z4U07o3g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLActXvxHE20CLV6Z1n_U0xNyKqSmQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/_36Z4U07o3g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBWh2qeRISMm4cdUGNG8-qoa0a9DQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/_36Z4U07o3g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAWOeyqxoM0x8NkfvEMNMTVdRcYFg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/_36Z4U07o3g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBzAERaa0DHkKRFZKB3U6EtS7SkcA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT:   \u041e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u043e\u0432",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=_36Z4U07o3g",
+      "view_count": 2600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 18302,
+      "id": "0mnjOf4ViX4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/0mnjOf4ViX4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCD32-wgi4s2695daLEU-zTRPrCbA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/0mnjOf4ViX4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBOxSxKMLxOUheiaOTHcYokWJHjvA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/0mnjOf4ViX4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDZywpdFFQEWm-0-QRQK2vzJqobtw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/0mnjOf4ViX4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBUjhEE2jixFYZj1Rfj4Y3a9osNHg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0420\u0430\u0437\u0431\u0435\u0440\u0435\u043c \u0432\u0438\u0434\u0435\u043e \u043e\u0442 \u041c\u0438\u0448\u0438 \u041b\u0430\u0440\u0447\u0435\u043d\u043a\u043e",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=0mnjOf4ViX4",
+      "view_count": 5900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 15682,
+      "id": "e0DKj6JGDVQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/e0DKj6JGDVQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAGU2OvQbZK-QMmumTDOTKmMzfarg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/e0DKj6JGDVQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBirnwhzMz1eUXOb2kD-mutXkcqUg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/e0DKj6JGDVQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB5fWXivb2rQFG9FlYSchwxGIAqOw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/e0DKj6JGDVQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDzKxXdFH77B0b_8LKyQUBILZqwug",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT:   Ulbi TV, \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430  Middle  FrontEnd \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=e0DKj6JGDVQ",
+      "view_count": 9500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 15267,
+      "id": "L4AW6-kDK84",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/L4AW6-kDK84/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB2wLZVshizUk9Q42i-uumwj_DiIQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/L4AW6-kDK84/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDh7_jCq0-6ox1GaBKJKTRcoME_FA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/L4AW6-kDK84/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBbVb3sE0whQONoOCcrKYh-sxslQw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/L4AW6-kDK84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDi_wJEBs2WeOrdYHTAcY3_QmkLBA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1razbor:16\u23a6 \u0420\u0430\u0437\u0431\u0435\u0440\u0435\u043c \u0432\u0438\u0434\u0435\u043e: 6 \u043d\u0435\u043d\u0443\u0436\u043d\u044b\u0445 \u0444\u0438\u0447 \u0432 JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=L4AW6-kDK84",
+      "view_count": 4600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11295,
+      "id": "_v6OyPyqt9U",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/_v6OyPyqt9U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBW28lWLGdRM_b_AGi2AyTxjvyllg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/_v6OyPyqt9U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC55txhbkvbrd2um4qrz8TdwunMbA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/_v6OyPyqt9U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC07XtTVvUFj-6iW7LjZxHtxDs5cg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/_v6OyPyqt9U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDBNeJee3CTSyYhJFuXiqL8CZtsyw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1razbor:15.1\u23a6 \u0414\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a \u0440\u0430\u0437\u0431\u043e\u0440\u0443 \u0432\u0438\u0434\u0435\u043e: Let \u0438 Const \u0434\u0438\u0441\u0441\u0438\u0434\u0435\u043d\u0442\u044b \u0432 \u044f\u0437\u044b\u043a\u0435 JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=_v6OyPyqt9U",
+      "view_count": 2100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 16291,
+      "id": "t1JY_MMPyhU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/t1JY_MMPyhU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC6GXOJrJ4URZiMYpOQwbyQxRa-og",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/t1JY_MMPyhU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAQX9fxZvH0n9P_D7wDqVjBVbJ0OA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/t1JY_MMPyhU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAlyIDlxxWawK2rQdVStSA3HBIKiA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/t1JY_MMPyhU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDAZE_cwW1MgCytrpSlRHDnxbR9_A",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1razbor:15\u23a6 \u0420\u0430\u0437\u0431\u043e\u0440 \u0432\u0438\u0434\u0435\u043e: Let \u0438 Const \u0434\u0438\u0441\u0441\u0438\u0434\u0435\u043d\u0442\u044b \u0432 \u044f\u0437\u044b\u043a\u0435 JavaScript",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=t1JY_MMPyhU",
+      "view_count": 4900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12050,
+      "id": "OjAWVXB6_F0",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/OjAWVXB6_F0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBqNJmBvCxwGgD7D6tyJ4-DVuu1xA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/OjAWVXB6_F0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDprGWvCwZrsWKs2nAE9shN4ti2Jg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/OjAWVXB6_F0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAAxmG4j8oX2hMM21KlnFDGVV4IhQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/OjAWVXB6_F0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB_Z8twX5bEct_G5xKd6YvkyGktrA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1razbor:14\u23a6 \u0420\u0430\u0437\u0431\u043e\u0440 \u043a\u043e\u0434\u0430: \u043e\u0434\u043d\u043e\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0444\u0440\u0435\u0439\u043c\u0432\u043e\u0440\u043a\u0430",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=OjAWVXB6_F0",
+      "view_count": 6600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12596,
+      "id": "uGm9ygpMxeU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/uGm9ygpMxeU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBh6L16aNnhPNcHnYdupEOM1CQTkA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/uGm9ygpMxeU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDGC5yoO58r20KyfNWTc5jZzqpZuQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/uGm9ygpMxeU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDclnX8tozZb0RXCKLXQaDqUlEJyA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/uGm9ygpMxeU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCXyK4a1iApkADFwuntf1-Ky5RI9w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT:   JavaScript \u0434\u043b\u044f \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0445 \u0438 \u0442\u0443\u043f\u044b\u0445. \u0423\u0440\u043e\u043a #1",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=uGm9ygpMxeU",
+      "view_count": 11000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 16474,
+      "id": "52_qDIBcexA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/52_qDIBcexA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCTVZZDBA_eNtyrHHeLUCNS41hGsQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/52_qDIBcexA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLClxs0mGw24ai-_FT8dQD9Y9w4QOw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/52_qDIBcexA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDO0P2R0vkcOcxt4qHvWDi9zlzgyA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/52_qDIBcexA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAnSolDc-2OpN7v2hU2DtIjbUXL1g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT:  16 \u0421\u0410\u041c\u042b\u0425 \u041f\u041e\u041f\u0423\u041b\u042f\u0420\u041d\u042b\u0425 \u0432\u043e\u043f\u0440\u043e\u0441\u043e\u0432 \u043f\u043e JavaScript \u043d\u0430 \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\u0445",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=52_qDIBcexA",
+      "view_count": 13000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5845,
+      "id": "LIn-vq1y9m0",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/LIn-vq1y9m0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC9GlNbqssQLRqmC3svzkM_tuepeg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/LIn-vq1y9m0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB-rXM3o0b4gs06uQNiBTo482MF0w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/LIn-vq1y9m0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAXXIboC2Zx342Uz7NIpYNJkaDfOg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/LIn-vq1y9m0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD7hCsbO8Xrvx3ts1xhJXBwi8zSbA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT:  \u041e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f Frontend \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 (23 \u0441\u043e\u0432\u0435\u0442\u0430)",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=LIn-vq1y9m0",
+      "view_count": 10000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5481,
+      "id": "0fPH7mhlSGg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/0fPH7mhlSGg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD6wdmo1NteYh-7BqabHEUzLg9l_A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/0fPH7mhlSGg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC_ZmuVYLldyjVDcpzNP5wN1XniZA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/0fPH7mhlSGg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCUrc53rkUAJEpP72Fa78LEnIaTKw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/0fPH7mhlSGg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB1DpN7zcgRaL4vmzEVOuZh5zemqQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Watching Together YT: Data Storage Implementation. Stack and Heap. Oddball and Immutable Primitives",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=0fPH7mhlSGg",
+      "view_count": 4500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7837,
+      "id": "YLvbza4GtiM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA_WY5S8NjVWFFWQAENTpSbNcJi3g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBbAxEWauqOPkOiD-gXK4F640PJSg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAxcl9-lOrMlZUc4i2LJCxg9oviQg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/YLvbza4GtiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBGReYbuIAK3WwtRP6wwYOcHEeGiA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0438\u0437\u044e\u043a\u0438\u043d - \u041f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u044b\u0439 JS. \u0428\u0420\u0418 2024",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=YLvbza4GtiM",
+      "view_count": 7500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6955,
+      "id": "XUk3zsPRq34",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAjInrISTZjd8mAz4GrI17ciqTfnQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAyLgGll5sZdFZDW1vn9MjyDb4E5w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAbnUYdMvePs9sIQcOe2nuKIIDjYg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/XUk3zsPRq34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCI8qFngYN06I_l9lPtVK_aD8Oixw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: Part2 - \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0438\u0437\u044e\u043a\u0438\u043d - \u0410\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e\u0441\u0442\u044c \u0428\u0420\u0418 2024",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=XUk3zsPRq34",
+      "view_count": 4800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12799,
+      "id": "vFSvq_ablAM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAOBEYx_n8j_8k49fGQU8DOMM3SXQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC9QtXrrLGKXk0GOKfssSRYnCaQKQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCCgQqFQ89sTF8_wio2bWjxF3Yjeg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/vFSvq_ablAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBB5MCV_6LQIrh-tyyHqqQO5hsuSw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0438\u0437\u044e\u043a\u0438\u043d - \u0410\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e\u0441\u0442\u044c \u0428\u0420\u0418 2024",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=vFSvq_ablAM",
+      "view_count": 12000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12620,
+      "id": "sxkJZjMQFqg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBrlcnPl_zvK8SuhvuoTJvYCkyonQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDF4XBTKjQYtFuOlRtrkqjbQaIzWw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAAj1lH_xVk4veEsBRw-cMU1yIAxA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/sxkJZjMQFqg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCHSNZng7LFjTFG2aq0dAdtkuSllQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: [Try2] Ulbi - \u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 \u0410 \u0434\u043e \u042f. \u0424\u041f \u043d\u0430 JS.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=sxkJZjMQFqg",
+      "view_count": 9800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9614,
+      "id": "if5QNyvY6YE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDvrciditL2q5TYHsoQ02CsryWwzA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA59yFbJ6MVl4BOWqTcJXAyIDJEMg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDTHSq8A5wSoF0L7ZaLZ-rR2kyL2A",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/if5QNyvY6YE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABvcJSF-bONJRDDys6Xs9ZBw2ukg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: Ulbi - \u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 \u0410 \u0434\u043e \u042f. \u0424\u041f \u043d\u0430 JS.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=if5QNyvY6YE",
+      "view_count": 28000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10595,
+      "id": "obrvyaU6Plg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCZuVHa1aCCnioR8RCd8Va-kHXHWw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAKmxDRNWacFjOmZWMIlrRaGsZ9Sw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCXrhDwm8HKG05XWAfxxIC3Z058YA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/obrvyaU6Plg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLABYqiVzHoD41BWNrbofCuQ8atEAQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c \u0432\u043c\u0435\u0441\u0442\u0435 YT: Ulbi - SEO \u043e\u0442 \u0410 \u0434\u043e \u042f",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=obrvyaU6Plg",
+      "view_count": 12000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 11846,
+      "id": "RrGMG4S0hLQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/RrGMG4S0hLQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBlUF1sTLFMxhYl2QBjnuQDD01GEw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/RrGMG4S0hLQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC8YDYQpocFI5yYbk9G9bKJlECiQg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/RrGMG4S0hLQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAQ2M8CA4f_JAGIVkQn2jBMBQSjNQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/RrGMG4S0hLQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBcK0tJUHJIayDjym94slz553oHkw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1razbor:13\u23a6 \u0420\u0430\u0437\u0431\u043e\u0440 \u0432\u0438\u0434\u0435\u043e: \u0412\u044b\u0432\u043e\u0434\u0438\u043c \u041c\u0443\u0440\u044b\u0447\u0430 \u043d\u0430 \u0447\u0438\u0441\u0442\u0443\u044e \u0432\u043e\u0434\u0443 \u043e\u0442 \u0414\u043c\u0438\u0442\u0440\u0438\u044f \u041a\u0430\u0440\u043b\u043e\u0432\u0441\u043a\u043e\u0433\u043e.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=RrGMG4S0hLQ",
+      "view_count": 16000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel_url": null,
+      "creators": null,
+      "duration": null,
+      "id": "iSvYVlnZCn0",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/iSvYVlnZCn0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB6tZZOFDCHsnQsa6k_7CyQRe_n9g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/iSvYVlnZCn0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD7HflyPIkor1Y9DJSR62r1SY23MA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/iSvYVlnZCn0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA0snGWj8IBrQcBZEO5dgsdC5aJkg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/iSvYVlnZCn0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC6bYmHY45oBW6lRn0zNGfb_1XCzw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": null,
+      "uploader_url": null,
+      "url": "https://www.youtube.com/watch?v=iSvYVlnZCn0",
+      "view_count": null
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9826,
+      "id": "lC2j5DXSXOE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/lC2j5DXSXOE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDzMIvKzIdzy5EqwZJsX2gyny_low",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/lC2j5DXSXOE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBLVjYlnXLyR4iyZhFFL-uhnKlsFw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/lC2j5DXSXOE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB4MD9mpHBv8-GCi-bJKtIxkEogrw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/lC2j5DXSXOE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC_cmaH7sZ_ZJz2GI1nA01DU1iu5A",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1razbor:12\u23a6 \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0432\u0438\u0434\u0435\u043e:  \u041f\u0430\u043b\u0438\u043d\u0434\u0440\u043e\u043c, \u043f\u043b\u043e\u0441\u043a\u0438\u0439 \u043c\u0430\u0441\u0441\u0438\u0432, \u043f\u043e\u0438\u0441\u043a \u043f\u0443\u0442\u0438 \u0438 \u0435\u0449\u0435 \u0434\u0432\u0435",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=lC2j5DXSXOE",
+      "view_count": 3800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7970,
+      "id": "INp5Y1-3-48",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/INp5Y1-3-48/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDG-cLt9rNoWhGXBvySI0wGYRUG5g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/INp5Y1-3-48/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAYAeBA4fAIdzLNfkH1XkxFUYW8Uw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/INp5Y1-3-48/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCoCEwUv_ejRnUG9aLOtrll8kux1g",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/INp5Y1-3-48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAp9Py49KL8rKhsDQ0GBhjRiGjROQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1razbor:11\u23a6 \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0432\u0438\u0434\u0435\u043e:  \"\u042f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u041f\u041e\u0414 \u041a\u0410\u041f\u041e\u0422\u041e\u041c [...] Kotlin - \u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0416\u0435\u043c\u0435\u0440\u043e\u0432.\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=INp5Y1-3-48",
+      "view_count": 4900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 8905,
+      "id": "dLSPBz3wK_Y",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/dLSPBz3wK_Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDHftPTG4G9RZ1ambU0r9pDKM329Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/dLSPBz3wK_Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA2z18fycSDQyFZ8rfu39Oq9TtKvg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/dLSPBz3wK_Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAZ0nGrEIMUAzXWDEyqR-43hZr-dA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/dLSPBz3wK_Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLA3awTOCM8pVUiGngFpdrwmn8cQ7w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1razbor:10\u23a6 \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0432\u0438\u0434\u0435\u043e:  \"\u0423\u0442\u0435\u0447\u043a\u0438 \u043f\u0430\u043c\u044f\u0442\u0438 \u0432 SSR. \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0417\u0430\u0445\u0430\u0440\u043e\u0432.\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=dLSPBz3wK_Y",
+      "view_count": 3000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 12966,
+      "id": "mIxGEGgxNiI",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/mIxGEGgxNiI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAZINxBFi0Xru-RXCY5qY0Aay1j3w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/mIxGEGgxNiI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCxsOKgefiwriO7edscIgLNrcSgsQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/mIxGEGgxNiI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDEQlur4iWI3wq7rcjQdZkZGOO1Mg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/mIxGEGgxNiI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLALnBkTYXT7OYsXzCSaYpN6IOJiBw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0432\u0438\u0434\u0435\u043e:  \"\u0410\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e\u0441\u0442\u044c \u0432 JS - \u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0438\u0437\u044e\u043a\u0438\u043d\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=mIxGEGgxNiI",
+      "view_count": 11000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9771,
+      "id": "atBBDQXDSGk",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/atBBDQXDSGk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDxR15RpYddvuO6Ld4Qg1FT0K1d0Q",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/atBBDQXDSGk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCpH86BnIIRUUfuy11aaiQ8pxF0nQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/atBBDQXDSGk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD_1NRZYrBNDM0f-fBcw9mwNz2ppA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/atBBDQXDSGk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD5XCEbaMJCgyhsmCZzlkzAiZuvxg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0432\u0438\u0434\u0435\u043e:  \"\u041f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u044b\u0439 JS (\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0411\u0438\u0437\u044e\u043a\u0438\u043d)\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=atBBDQXDSGk",
+      "view_count": 19000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 6494,
+      "id": "P7HqGHJ94AI",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/P7HqGHJ94AI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCRZuO1XGa-pqNR_ypKz3JV1CmxUw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/P7HqGHJ94AI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCnCevMh6S3XLNikaeumNtmmP2MxQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/P7HqGHJ94AI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCYmOsAPNsuWJrBaV-9diN5U9yawg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/P7HqGHJ94AI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBh30nrdy4lHbn9fIyRpPAQ31bipw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[msk] Video Breakdown: \"How \u0027this\u0027 works in JavaScript. Let\u2019s break it down with examples...\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=P7HqGHJ94AI",
+      "view_count": 6700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3870,
+      "id": "3GgfeCy8WuY",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/3GgfeCy8WuY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBFh_2Y5rQiBCaNNDENnaHpUoej_w",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/3GgfeCy8WuY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB-NHz_-B-X9Cs06a_6qZw8lW2qrA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/3GgfeCy8WuY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBd34yjrlEs_LlHciCr4E7A-MLk8A",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/3GgfeCy8WuY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCWK7Y-DlwR14tkfUOW0aHlF0W1kQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0420\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u043c \u0432\u0438\u0434\u0435\u043e:  \"\u0421\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f Java vs JavaScript\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=3GgfeCy8WuY",
+      "view_count": 5800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 14108,
+      "id": "MSLHs4z6sE4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/MSLHs4z6sE4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLD5KxDiKicfluOiNAbMhdkmIyl4UA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/MSLHs4z6sE4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBot0vfrE60yO3Z9f-7KL1EhrItzA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/MSLHs4z6sE4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCg-QQqMZtQ04fP4UuSGl0RTvOlUA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/MSLHs4z6sE4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAF5jVKiSU88v0CwzHe74Mlq4D2vQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0420\u0430\u0437\u0431\u0438\u0440\u0435\u043c \u0432\u0438\u0434\u0435\u043e:  \"\u042f \ud83d\udc9b \u0424\u0440\u043e\u043d\u0442\u0435\u043d\u0434. \u041a\u0430\u043a \u044d\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u043f\u0438\u0441\u0430\u0442\u044c?\" \u0438 \u043f\u043e\u0438\u0449\u0435\u043c \u0432\u0435\u0440\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=MSLHs4z6sE4",
+      "view_count": 10000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5650,
+      "id": "vgHNERQGcPk",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/vgHNERQGcPk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDzfR6FT-s8X-hTSk0S1SRzqLwI-A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/vgHNERQGcPk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBGafwtjurhIBT_5QAEqWU2s8esvA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/vgHNERQGcPk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBgYbruoE1DRH-kr1Ii_zZ-Y10DKA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/vgHNERQGcPk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDbMvVw3Bc28gb7ykryglFtmwSDpA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0420\u0430\u0437\u0431\u043e\u0440 \u0432\u043e\u043f\u0440\u043e\u0441\u0430 \u0438\u0437 Telegram \u043e Array Double vs Array SMI",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=vgHNERQGcPk",
+      "view_count": 1300
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 9681,
+      "id": "NHVkpdzGL7M",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/NHVkpdzGL7M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDdVfP50xyuc1SLtJBB98ndEJpjJA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/NHVkpdzGL7M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA_WbRwW-tb0X4OpMFnOv_QQzq0ag",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/NHVkpdzGL7M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC_ngG-SKFvEvDBYxTBP0htDftC_Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/NHVkpdzGL7M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCHldp5DfTsPrDFBe9FC4Shuw7GRQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u0420\u0430\u0431\u043e\u0442\u0430 \u043d\u0430\u0434 \u043e\u0448\u0438\u0431\u043a\u0430\u043c\u0438, \u0438\u043b\u0438 \u043f\u043e\u0447\u0435\u043c\u0443 Live \u044d\u0442\u043e \u043a\u0440\u0443\u0442\u043e, \u0430 JavaScript var \u0432\u0441\u0435 \u0442\u0430\u043a \u0436\u0435 \u0431\u044b\u0441\u0442\u0440\u0435\u0435 let",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=NHVkpdzGL7M",
+      "view_count": 2200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7579,
+      "id": "aPzY-1aLQ8c",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/aPzY-1aLQ8c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLA9MRccIUGbFYYyWlS1nScRRR0qdw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/aPzY-1aLQ8c/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAp3-1wMoIV-waMRmiMsQtcAlbPjw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/aPzY-1aLQ8c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLB3UH0-iSEOUcdCKVnaMzaEuOzycw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/aPzY-1aLQ8c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDlOQBWqiBSQbIt7VaPG6PgIAXfRA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u041e\u0431\u0437\u043e\u0440 \u043d\u0430 JavaScript \u0432\u0438\u0434\u0435\u043e \"\u041f\u043e\u0434\u0441\u0432\u0435\u0447\u0438\u0432\u0430\u0435\u043c \u041d\u0415 \u041b\u0410\u0422\u0418\u041d\u0421\u041a\u0418\u0415 \u0421\u0418\u041c\u0412\u041e\u041b\u044b \u0432 \u043a\u043e\u0434\u0435 \u0438 \u0442\u0435\u043a\u0441\u0442\u0435\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=aPzY-1aLQ8c",
+      "view_count": 1700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5106,
+      "id": "VvdllDzxYtw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/VvdllDzxYtw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCVjE32k9zMf5i6JBIePwlIm2dC3g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/VvdllDzxYtw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBYa38ehC_WdbnXSAFHb0d1UGFDwA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/VvdllDzxYtw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCquW3bZqbwGFcMsAwLpMTSCrZTBg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/VvdllDzxYtw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLDVGzW4PFXFJGkSIPW7RzBeLQrtpQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 Review of the video: \"New JavaScript!\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=VvdllDzxYtw",
+      "view_count": 3600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7543,
+      "id": "jWiHMeYR1R4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/jWiHMeYR1R4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCXDwcPPl6FUJM52udbEpaDU81ckQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/jWiHMeYR1R4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB0gYfcgPbd4e73Se7UHf40BcSW2A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/jWiHMeYR1R4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCp84vglYhWl4Dxj4qZ_vqMT0vesQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/jWiHMeYR1R4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBP_Ht00ouFN2T31t4gs5kqjrIqIQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "\u23a1msk\u23a6 \u041e\u0431\u0437\u043e\u0440 \u043d\u0430 \u0432\u0438\u0434\u0435\u043e: \"2 \u0432\u0435\u0449\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0443\u0431\u0438\u0432\u0430\u044e\u0442 \u043f\u0435\u0440\u0444\u043e\u0440\u043c\u0430\u043d\u0441 \u0432 JavaScript\"",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=jWiHMeYR1R4",
+      "view_count": 4800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3437,
+      "id": "eghLLFbTDYM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/eghLLFbTDYM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB2KBUtM9Gr0lKWueWKGXXXSDx_ww",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/eghLLFbTDYM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCrqNvM3EcGoLPGpiKy7LGBFjQjoA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/eghLLFbTDYM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAsNsLEEnt1Ll9LMZcCb4azwHauLw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/eghLLFbTDYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBlX35sCbhVnQJy6gAQT78NXXOOMw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript and the Lexical Environment. Let\u0027s look at examples. [Msk] [JavaScript shorts]",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=eghLLFbTDYM",
+      "view_count": 5500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3683,
+      "id": "aaoZm1yHCxw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/aaoZm1yHCxw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDHGFSTDaTfNDI2hqAd9fj2H7nnjQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/aaoZm1yHCxw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAJVfgpOrwwWcCJdCMWKMC5WPLqlg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/aaoZm1yHCxw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCsbQVdkFcibmnYxn26jBoKgJJOzw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/aaoZm1yHCxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLCKUPgDEDyHwXeDjtNbgKVKabDC7w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Logical Expressions in JavaScript. Let\u0027s break them down with examples. [EN] [JavaScript Shorts]",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=aaoZm1yHCxw",
+      "view_count": 2700
     }
   ],
-  "epoch": 1791670116,
+  "epoch": 1791672655,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS",
@@ -23045,14 +30383,14 @@
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CIDnqtYG-oaymwEICPABEPABSFqi85f_AwYI2aWswwY=\u0026rs=AOn4CLCvsvLifbcJFZmQfgRB_D3pAb4D2w",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CMf7qtYG-oaymwEICPABEPABSFqi85f_AwYI2aWswwY=\u0026rs=AOn4CLCza17O3lDF3-GmHrgmtBmIw7QruQ",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CPLLqtYG-oaymwEICOADEOADSFqi85f_AwYI2aWswwY=\u0026rs=AOn4CLA4CXerpkSl1bsskPqxc5UOzsBk6g",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS/studio_square_thumbnail.jpg?sqp=CMLkqtYG-oaymwEICOADEOADSFqi85f_AwYI2aWswwY=\u0026rs=AOn4CLC9AChJf_H3EfETDXy_fC0oOwhQnA",
       "width": 480
     }
   ],
@@ -23137,7 +30475,7 @@
       "view_count": 6100
     }
   ],
-  "epoch": 1791670117,
+  "epoch": 1791672656,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Kk5XLcDnl73jiLZysHDjCZC",
@@ -23231,22 +30569,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBJ_3Mzg2YMtfaV5oU4sD3INthIoA\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBJ_3Mzg2YMtfaV5oU4sD3INthIoA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAJZRisOQFundr-v1VlmOSpvlNncg\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAJZRisOQFundr-v1VlmOSpvlNncg",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAw3CHxVZ1xLTq-FCbbvp69d-WQEA\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAw3CHxVZ1xLTq-FCbbvp69d-WQEA",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD_1jYb2MddMJMoT865A5aSD7qENQ\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLD_1jYb2MddMJMoT865A5aSD7qENQ",
           "width": 336
         }
       ],
@@ -23273,22 +30611,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDTQU7nCpzaGqu2vzCAMUaayM-d0A\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDTQU7nCpzaGqu2vzCAMUaayM-d0A",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDSfRhTAY11Mo5hee_nPxUQ4prJ5g\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDSfRhTAY11Mo5hee_nPxUQ4prJ5g",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC1jsg8l8JkOpVQ6PbcGw6bZ5fXQQ\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLC1jsg8l8JkOpVQ6PbcGw6bZ5fXQQ",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAQWnIT7YXVeLgLS1s6EoFui3enRw\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/XIVd2jwrpy4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLAQWnIT7YXVeLgLS1s6EoFui3enRw",
           "width": 336
         }
       ],
@@ -23315,22 +30653,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAPboWqKwLQnDeQPpqww-ke35s1dQ\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLAPboWqKwLQnDeQPpqww-ke35s1dQ",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDjm6Y2fRUyHqZFYHYWYsuo52QnSQ\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDjm6Y2fRUyHqZFYHYWYsuo52QnSQ",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBrrCmvICSoIAtNfK8c3NZ0wnv5Ig\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBrrCmvICSoIAtNfK8c3NZ0wnv5Ig",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBvU6_umR_irBBg7brKvhP14o1EwQ\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/nID_kz4a89A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBvU6_umR_irBBg7brKvhP14o1EwQ",
           "width": 336
         }
       ],
@@ -23357,22 +30695,22 @@
       "thumbnails": [
         {
           "height": 94,
-          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCAgeshZ9CzMwhoxWxg_XvTp8uMrA\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLCAgeshZ9CzMwhoxWxg_XvTp8uMrA",
           "width": 168
         },
         {
           "height": 110,
-          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBdfKo8R3lK-dvXUFlE3uJ2dOw-0w\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLBdfKo8R3lK-dvXUFlE3uJ2dOw-0w",
           "width": 196
         },
         {
           "height": 138,
-          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLALqxVBOLVcqS5glOKmmYxMvDH4Ew\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLALqxVBOLVcqS5glOKmmYxMvDH4Ew",
           "width": 246
         },
         {
           "height": 188,
-          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBmWCOXhHhz7Z2kgtRRsQHZlxAIBg\u0026usqp=CBQ",
+          "url": "https://i.ytimg.com/vi/T3fb_VKdZJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\u0026rs=AOn4CLBmWCOXhHhz7Z2kgtRRsQHZlxAIBg",
           "width": 336
         }
       ],
@@ -23385,7 +30723,7 @@
       "view_count": 2000
     }
   ],
-  "epoch": 1791670118,
+  "epoch": 1791672657,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Km7NHgX4jhZ5fOo2Xy8zZ51",
@@ -23401,28 +30739,28 @@
       "height": 94,
       "id": "0",
       "resolution": "168x94",
-      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLDPfgQZO7R19zUUWdHelB0c4kjqpA\u0026usqp=CBQ",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLDPfgQZO7R19zUUWdHelB0c4kjqpA",
       "width": 168
     },
     {
       "height": 110,
       "id": "1",
       "resolution": "196x110",
-      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLAxrQ4JFfWMwCrWYhG32QdEqRhXIA\u0026usqp=CBQ",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLAxrQ4JFfWMwCrWYhG32QdEqRhXIA",
       "width": 196
     },
     {
       "height": 138,
       "id": "2",
       "resolution": "246x138",
-      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=\u0026rs=AOn4CLCJSsEm7eYZvOZ3OLB55Q8guYKPoQ\u0026usqp=CBQ",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=\u0026rs=AOn4CLCJSsEm7eYZvOZ3OLB55Q8guYKPoQ",
       "width": 246
     },
     {
       "height": 188,
       "id": "3",
       "resolution": "336x188",
-      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=\u0026rs=AOn4CLAVfuDYDg1_cW54WoQg_MIsuLJVnQ\u0026usqp=CBQ",
+      "url": "https://i.ytimg.com/vi/g_VO2ioDsnA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=\u0026rs=AOn4CLAVfuDYDg1_cW54WoQg_MIsuLJVnQ",
       "width": 336
     }
   ],
@@ -23549,7 +30887,7 @@
       "view_count": 5600
     }
   ],
-  "epoch": 1791670118,
+  "epoch": 1791672657,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Kn-GfNVdRnse2f4EmC6AcXa",
@@ -23608,6 +30946,867 @@
 
 Часть записей не удалось дополнить полными метаданными. Исходные поля плоского архива сохранены.
 
+- subtitles neqdcpPz1Ic: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] neqdcpPz1Ic: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles A6zgTaxo3R4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] A6zgTaxo3R4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles IcWSZQEdQMQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] IcWSZQEdQMQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles wCcVWQ9bikg: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] wCcVWQ9bikg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles s2U6LYGO67o: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] s2U6LYGO67o: Join this channel to get access to members-only content like this video, and other exclusive perks.
+- subtitles DtsikjAzDjA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] DtsikjAzDjA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles aEWXtdgusR8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] aEWXtdgusR8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles YHo7sh-TY_8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] YHo7sh-TY_8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles cRRytPpV1sM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] cRRytPpV1sM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 196yyub_Kro: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 196yyub_Kro: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles IMS-LVHlXuU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] IMS-LVHlXuU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 3r4X5OSQMFs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 3r4X5OSQMFs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 6curTcJF-u4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 6curTcJF-u4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles DjuK8h7-ep8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] DjuK8h7-ep8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles zXITWw0ctDM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] zXITWw0ctDM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Z8fzImsl-RM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Z8fzImsl-RM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles F9mPBBevqUE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] F9mPBBevqUE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles y1oPhRCCxLU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] y1oPhRCCxLU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles OpJLmIvXs5A: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] OpJLmIvXs5A: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles zKlAoqhc49I: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] zKlAoqhc49I: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles IIzaj6TtYEA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] IIzaj6TtYEA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles TLL4BChnRqg: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] TLL4BChnRqg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 2HPK0dh0_K8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 2HPK0dh0_K8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 9BvJWyhQKyY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 9BvJWyhQKyY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 7AX8611v83U: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 7AX8611v83U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ZFjo4Zs2YYA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ZFjo4Zs2YYA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Dtgo9uB1fxU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Dtgo9uB1fxU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 4eyGrFv7pzM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 4eyGrFv7pzM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles WYhufFc4uYI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] WYhufFc4uYI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 7-KMWtDmLYs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 7-KMWtDmLYs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles bPy9h7m6NzA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] bPy9h7m6NzA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles DUaKtpc1zK8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] DUaKtpc1zK8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles KC4T79ltigE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] KC4T79ltigE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles z6m6FT-Tj90: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] z6m6FT-Tj90: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Wz0Lh0dEyyc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Wz0Lh0dEyyc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles kz6TmnP9U5s: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] kz6TmnP9U5s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles PlXh9l04Uz8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] PlXh9l04Uz8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Gz5PeNKkxwA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Gz5PeNKkxwA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 5o5kv-4TyYw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 5o5kv-4TyYw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles GhxYRkXZAB4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] GhxYRkXZAB4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 3LTiRS55WoQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 3LTiRS55WoQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles _EtTRVJAahY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _EtTRVJAahY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles dgZG-OHOyUs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] dgZG-OHOyUs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles z_DrRM7F_24: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] z_DrRM7F_24: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ij_PCCZVTEs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ij_PCCZVTEs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 663CqugApf4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 663CqugApf4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 8o4QOUvjB1k: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 8o4QOUvjB1k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles _On4jSu1vUQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _On4jSu1vUQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles g7bXeDJDZaA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] g7bXeDJDZaA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ES2NPqlDnek: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ES2NPqlDnek: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Ri0PZdV2zvI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Ri0PZdV2zvI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles yGjqZeTVq24: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] yGjqZeTVq24: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles iQ_PRQPBEgQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] iQ_PRQPBEgQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles qjVKgy835KQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] qjVKgy835KQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles rVfNr7aYYm0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] rVfNr7aYYm0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles QxmS2ny5o3s: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] QxmS2ny5o3s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles fy8raIuNewE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] fy8raIuNewE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 8MPsmik4h_Y: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 8MPsmik4h_Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles hU-mdaemKng: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] hU-mdaemKng: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles KeG2OfOYqQA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] KeG2OfOYqQA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Trhk4u6wc5g: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Trhk4u6wc5g: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles aIvg0aaLuKo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] aIvg0aaLuKo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles SzH2G0yFBHY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] SzH2G0yFBHY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ZECTIKGj3ds: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ZECTIKGj3ds: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles _36Z4U07o3g: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _36Z4U07o3g: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Qfi0_0w0dsM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Qfi0_0w0dsM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 0mnjOf4ViX4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 0mnjOf4ViX4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles xp79fBrLlFw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] xp79fBrLlFw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles VfQiG2jATgQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] VfQiG2jATgQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles xUvdte3tzYM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] xUvdte3tzYM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 2zKya01zYK4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 2zKya01zYK4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles RvYq-wt_GEU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] RvYq-wt_GEU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles e0DKj6JGDVQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] e0DKj6JGDVQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles cYxohlw4mV0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] cYxohlw4mV0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles DxvJVpn82vA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] DxvJVpn82vA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles yV6Mtpy44dk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] yV6Mtpy44dk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles L4AW6-kDK84: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] L4AW6-kDK84: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles hpG_RdVy0Lo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] hpG_RdVy0Lo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles r4fhata7xe0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] r4fhata7xe0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 7BwsPaFDl9E: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 7BwsPaFDl9E: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 3BoU1jYz384: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 3BoU1jYz384: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Cc9XBcUioBI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Cc9XBcUioBI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles _PY3YqYZCRE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _PY3YqYZCRE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles RX5kgTpvK8o: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] RX5kgTpvK8o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles xLMdNk4DGOc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] xLMdNk4DGOc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles BAEqGUm_wxs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] BAEqGUm_wxs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles qe3NQ2lL2V4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] qe3NQ2lL2V4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ks0o4gXh9NI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ks0o4gXh9NI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles NOFRVCT2Xx0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] NOFRVCT2Xx0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles FeLs8aJF2wk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] FeLs8aJF2wk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles dsrPYivNgXc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] dsrPYivNgXc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles KMrVKtVrJ3Q: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] KMrVKtVrJ3Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 6H0e4c-SPgo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 6H0e4c-SPgo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles CxD9xy_NmFQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] CxD9xy_NmFQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles NC5HMquGn4s: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] NC5HMquGn4s: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 6FqwosOqJCs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 6FqwosOqJCs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles pvfM_oWFs-o: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] pvfM_oWFs-o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles qW3iZCv7vSA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] qW3iZCv7vSA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles nCM2-bsdnKI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] nCM2-bsdnKI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 8G0qxh4HabA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 8G0qxh4HabA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles _v6OyPyqt9U: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _v6OyPyqt9U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles t1JY_MMPyhU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] t1JY_MMPyhU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles OjAWVXB6_F0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] OjAWVXB6_F0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles uGm9ygpMxeU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] uGm9ygpMxeU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 52_qDIBcexA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 52_qDIBcexA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles wYHO3UcHyBY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] wYHO3UcHyBY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles LJJpbFcmKQs: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] LJJpbFcmKQs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles LIn-vq1y9m0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] LIn-vq1y9m0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles gDlpECfuOc0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] gDlpECfuOc0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles JUDPQLb7QnQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] JUDPQLb7QnQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles MHNKeEo0HOQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] MHNKeEo0HOQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles fsgT-1KDqpI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] fsgT-1KDqpI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 0fPH7mhlSGg: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 0fPH7mhlSGg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles YLvbza4GtiM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] YLvbza4GtiM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles XUk3zsPRq34: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] XUk3zsPRq34: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles vFSvq_ablAM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] vFSvq_ablAM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles vGm-FPhPwcs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] vGm-FPhPwcs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles sxkJZjMQFqg: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] sxkJZjMQFqg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 7b3Qc0Q7bQ8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 7b3Qc0Q7bQ8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles _Uyzj7ycemc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _Uyzj7ycemc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles if5QNyvY6YE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] if5QNyvY6YE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles obrvyaU6Plg: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] obrvyaU6Plg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles sj1VEnlEtQw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] sj1VEnlEtQw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles nwrN8FY_cVo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] nwrN8FY_cVo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Bz7pIC4h-7U: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Bz7pIC4h-7U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles OkVgzONhpiU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] OkVgzONhpiU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles AbHf_k9ydcU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] AbHf_k9ydcU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles fWqOswHMjEo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] fWqOswHMjEo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles JcrguEFkW0k: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] JcrguEFkW0k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 6yd_m64mlv8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 6yd_m64mlv8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles RrGMG4S0hLQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] RrGMG4S0hLQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles txtjFC4SPJI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] txtjFC4SPJI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles MrWXqXWRG2o: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] MrWXqXWRG2o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles SMsVPyI6wzA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] SMsVPyI6wzA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles hjYb9tOsumM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] hjYb9tOsumM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles xpFPhMERCLc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] xpFPhMERCLc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles eDkheYAsqro: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] eDkheYAsqro: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles kk8tzKB45Sk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] kk8tzKB45Sk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles jJq6jxuKm28: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] jJq6jxuKm28: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles m0FfqI2zB4U: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] m0FfqI2zB4U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles NYs1pHJIZQA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] NYs1pHJIZQA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles kIjm6ZEbkiU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] kIjm6ZEbkiU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles u_bsXuBOO74: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] u_bsXuBOO74: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles bOJoFZeuxho: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] bOJoFZeuxho: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 65mxbswN1DM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] 65mxbswN1DM: This video is available to this channel&#39;s members on level: Thank you &amp;&amp; FA (or any higher level). Join this channel to get access to members-only content and other exclusive perks.
+- subtitles VHzNbsR893A: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] VHzNbsR893A: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles mapxDGl0rSM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] mapxDGl0rSM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles n79z4l2Qrp4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] n79z4l2Qrp4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles lP82yJRujLM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] lP82yJRujLM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 0_D2ox_N6hw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 0_D2ox_N6hw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles cbuWLCCs1nQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] cbuWLCCs1nQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles oDUPhZuyam0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] oDUPhZuyam0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles z1COvf7QFOs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] z1COvf7QFOs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles X1XXsk79ZE8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] X1XXsk79ZE8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles _su4lhLXwfk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _su4lhLXwfk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 9h60U429efA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 9h60U429efA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles YOpSqoidvwA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] YOpSqoidvwA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles sQ07i7J8Azo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] sQ07i7J8Azo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles OQ3yaWfOfQs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] OQ3yaWfOfQs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 02KDxt_u2To: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 02KDxt_u2To: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles f6NZZ3z27Mk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] f6NZZ3z27Mk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Qf1Ny0lSxHA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Qf1Ny0lSxHA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles slTxpJIbhAM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] slTxpJIbhAM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles CE0BhheYFQk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] CE0BhheYFQk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles VEPHWJ5SQko: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] VEPHWJ5SQko: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 5v32mDS7RjM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 5v32mDS7RjM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles gdrDBiNLRVU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] gdrDBiNLRVU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles lC2j5DXSXOE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] lC2j5DXSXOE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 8gl4oTXwLtU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 8gl4oTXwLtU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles wm2p5Cksh8k: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] wm2p5Cksh8k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles CmTn9t9q14Y: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] CmTn9t9q14Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles mXNdpPmtvF8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] mXNdpPmtvF8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 6b3Ix7hXZMA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 6b3Ix7hXZMA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 7CRrc3niEto: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 7CRrc3niEto: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 1hkPcXEE7to: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 1hkPcXEE7to: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Bf6uEqrfsOU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Bf6uEqrfsOU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles bxSpi3AEshk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] bxSpi3AEshk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles I2RpUoH8WwI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] I2RpUoH8WwI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles b9ommSutEvo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] b9ommSutEvo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles U5BN_lFE5d8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] U5BN_lFE5d8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ICwDR01RgnA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ICwDR01RgnA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles INp5Y1-3-48: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] INp5Y1-3-48: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles hX0w6efA-oo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] hX0w6efA-oo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles dLSPBz3wK_Y: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] dLSPBz3wK_Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles lq5vi6DmEpA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] lq5vi6DmEpA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ZU0St05ifyQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ZU0St05ifyQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles jVoNLKT1pfc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] jVoNLKT1pfc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ono0TAEE95Q: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ono0TAEE95Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles MxL04wXIyBQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] MxL04wXIyBQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles -FmCm-Wjdok: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] -FmCm-Wjdok: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles _P2YmY3sxhY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] _P2YmY3sxhY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 1F-8pn30bOI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 1F-8pn30bOI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles -kBKbg6QWug: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] -kBKbg6QWug: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Rk79CNSQuWQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Rk79CNSQuWQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles rvt2EdYoCq4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] rvt2EdYoCq4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 2JYATSfmsAs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 2JYATSfmsAs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles CcwkAS1v0bA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] CcwkAS1v0bA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles QgssEu9y_Rc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] QgssEu9y_Rc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles LMzNx-QHudU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] LMzNx-QHudU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 8c88s8dawxw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 8c88s8dawxw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles WsBe8ysO_uA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] WsBe8ysO_uA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles AqWU1ZBPLC4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] AqWU1ZBPLC4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles mIxGEGgxNiI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] mIxGEGgxNiI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ZzxhnWf4HNc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ZzxhnWf4HNc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Tfr4vXlc1sw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Tfr4vXlc1sw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles atBBDQXDSGk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] atBBDQXDSGk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 6im5CxBQ5t8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 6im5CxBQ5t8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles Hy_oU4iPIIY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] Hy_oU4iPIIY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles P7HqGHJ94AI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] P7HqGHJ94AI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles GZ0id4HE8ls: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] GZ0id4HE8ls: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles yGNltdKMtF8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] yGNltdKMtF8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles eULXuxZZuPw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] eULXuxZZuPw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 3GgfeCy8WuY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 3GgfeCy8WuY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles wn4O3Pq6zYE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] wn4O3Pq6zYE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles MSLHs4z6sE4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] MSLHs4z6sE4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles vgHNERQGcPk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] vgHNERQGcPk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles YntHgxlmKy4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] YntHgxlmKy4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles IvlpOQfKi9U: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] IvlpOQfKi9U: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles NHVkpdzGL7M: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] NHVkpdzGL7M: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles bPo3KXcYYBg: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] bPo3KXcYYBg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 4Pt0pLcebVk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 4Pt0pLcebVk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 9AlGxr8YsJ4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 9AlGxr8YsJ4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles vZyyFMaprIY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] vZyyFMaprIY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles kWBHCtJwCR8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] kWBHCtJwCR8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles yfJ475DYo2w: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] yfJ475DYo2w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles VZlhhFDVa24: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] VZlhhFDVa24: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles aPzY-1aLQ8c: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] aPzY-1aLQ8c: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 1ZatvhwihFo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 1ZatvhwihFo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles UNSjfNfvUFU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] UNSjfNfvUFU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles VvdllDzxYtw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] VvdllDzxYtw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles jWiHMeYR1R4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] jWiHMeYR1R4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles tHOS3zlr9jU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] tHOS3zlr9jU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles yxziSZb2Ogg: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] yxziSZb2Ogg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles k9lpuV9UlBc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] k9lpuV9UlBc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles awoFe_9kbuU: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] awoFe_9kbuU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles wkwgWbIdMrQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] wkwgWbIdMrQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles P3KQkLUvFFw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] P3KQkLUvFFw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 98mOkxRFHYA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 98mOkxRFHYA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles T3fb_VKdZJA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] T3fb_VKdZJA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles biy50-ssgVQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] biy50-ssgVQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles eghLLFbTDYM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] eghLLFbTDYM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles aaoZm1yHCxw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] aaoZm1yHCxw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles fQ7_GT8_zeM: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] fQ7_GT8_zeM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles 4tg4qokVS9o: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] 4tg4qokVS9o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles ii4uyl61xns: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] ii4uyl61xns: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles g_VO2ioDsnA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] g_VO2ioDsnA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles VJljZdg6nlY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] VJljZdg6nlY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles nID_kz4a89A: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] nID_kz4a89A: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles XIVd2jwrpy4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] XIVd2jwrpy4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles VC98ywj3J1Q: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] VC98ywj3J1Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles v0fpyOKCREQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] v0fpyOKCREQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles GysZ795sZHY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] GysZ795sZHY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles IKB61INTyrs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] IKB61INTyrs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles n_q_OHb0YOw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] n_q_OHb0YOw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles wnfZnnrsL1Q: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] wnfZnnrsL1Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles UT9VRYtpBFo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] UT9VRYtpBFo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles PNODfPg44tE: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] PNODfPg44tE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles IivYJj4w9wA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] IivYJj4w9wA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles esgflGn1rvA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] esgflGn1rvA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles FOYIf5UBD9Q: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] FOYIf5UBD9Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles LyQzyrZRNXs: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] LyQzyrZRNXs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles KtC3pm4q5vk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] KtC3pm4q5vk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles tgTsW_lUtsc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] tgTsW_lUtsc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles iOV8Aeo-xiw: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] iOV8Aeo-xiw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles msrbSSZQApI: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] msrbSSZQApI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable
+- subtitles 4UwH9I-l7u4: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] 4UwH9I-l7u4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- subtitles vP0YZ3bNoO8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] vP0YZ3bNoO8: This live event will begin in a few moments.
+- thumbnail yruE22Hx5r8: HTTP Error 404: Not Found
+- subtitles yruE22Hx5r8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] yruE22Hx5r8: Private video
+- thumbnail vCQfgB91i18: HTTP Error 404: Not Found
+- subtitles vCQfgB91i18: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] vCQfgB91i18: Private video
+- subtitles nd6xir1nDLQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] nd6xir1nDLQ: This live stream recording is not available.
+- subtitles MoI8oZPCuZA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] MoI8oZPCuZA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+- thumbnail aYanGBqNiC8: HTTP Error 404: Not Found
+- subtitles aYanGBqNiC8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] aYanGBqNiC8: Private video
+- thumbnail iSvYVlnZCn0: HTTP Error 404: Not Found
+- subtitles iSvYVlnZCn0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] iSvYVlnZCn0: Private video
+- subtitles XAqIpGU8ZZk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] XAqIpGU8ZZk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 - video neqdcpPz1Ic: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] neqdcpPz1Ic: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
@@ -23959,7 +32158,9 @@ ERROR: [youtube] qe3NQ2lL2V4: Sign in to confirm you’re not a bot. Use --cooki
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] ks0o4gXh9NI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] ks0o4gXh9NI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video NOFRVCT2Xx0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+- video NOFRVCT2Xx0: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] NOFRVCT2Xx0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] NOFRVCT2Xx0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
@@ -24286,9 +32487,7 @@ ERROR: [youtube] 8gl4oTXwLtU: Sign in to confirm you’re not a bot. Use --cooki
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] wm2p5Cksh8k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] wm2p5Cksh8k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video CmTn9t9q14Y: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+- video CmTn9t9q14Y: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] CmTn9t9q14Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] CmTn9t9q14Y: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
@@ -24420,9 +32619,7 @@ ERROR: [youtube] AqWU1ZBPLC4: Sign in to confirm you’re not a bot. Use --cooki
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] mIxGEGgxNiI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] mIxGEGgxNiI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video ZzxhnWf4HNc: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+- video ZzxhnWf4HNc: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] ZzxhnWf4HNc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] ZzxhnWf4HNc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
@@ -24510,9 +32707,7 @@ ERROR: [youtube] kWBHCtJwCR8: Sign in to confirm you’re not a bot. Use --cooki
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] yfJ475DYo2w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] yfJ475DYo2w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video VZlhhFDVa24: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+- video VZlhhFDVa24: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] VZlhhFDVa24: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] VZlhhFDVa24: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
@@ -24616,9 +32811,7 @@ ERROR: [youtube] VC98ywj3J1Q: Sign in to confirm you’re not a bot. Use --cooki
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] v0fpyOKCREQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] v0fpyOKCREQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video GysZ795sZHY: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+- video GysZ795sZHY: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] GysZ795sZHY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] GysZ795sZHY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
@@ -24634,9 +32827,7 @@ ERROR: [youtube] n_q_OHb0YOw: Sign in to confirm you’re not a bot. Use --cooki
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] wnfZnnrsL1Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] wnfZnnrsL1Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
-- video UT9VRYtpBFo: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+- video UT9VRYtpBFo: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] UT9VRYtpBFo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] UT9VRYtpBFo: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
@@ -24709,11 +32900,8 @@ ERROR: [youtube] PL3ziSA8uO7: This video is unavailable)
 - video PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 ERROR: [youtube] PL3ziSA8uO7: This video is unavailable (WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 ERROR: [youtube] PL3ziSA8uO7: This video is unavailable)
-- video PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ: WARNING: [youtube] unable to extract yt initial data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
-WARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-ERROR: [youtube] PL3ziSA8uO7: This video is unavailable (RNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.
-WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+- video PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] PL3ziSA8uO7: This video is unavailable (WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 ERROR: [youtube] PL3ziSA8uO7: This video is unavailable)
 - video PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 ERROR: [youtube] PL3ziSA8uO7: This video is unavailable (WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
@@ -24751,6 +32939,22 @@ ERROR: [youtube] vP0YZ3bNoO8: This live event will begin in a few moments.)
 - video yruE22Hx5r8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 ERROR: [youtube] yruE22Hx5r8: Private video (WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 ERROR: [youtube] yruE22Hx5r8: Private video)
+- video vCQfgB91i18: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] vCQfgB91i18: Private video (WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] vCQfgB91i18: Private video)
+- video nd6xir1nDLQ: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] nd6xir1nDLQ: This live stream recording is not available. (WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] nd6xir1nDLQ: This live stream recording is not available.)
+- video MoI8oZPCuZA: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] MoI8oZPCuZA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+ERROR: [youtube] MoI8oZPCuZA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies)
+- video aYanGBqNiC8: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] aYanGBqNiC8: Private video (WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] aYanGBqNiC8: Private video)
+- video iSvYVlnZCn0: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] iSvYVlnZCn0: Private video (WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: [youtube] iSvYVlnZCn0: Private video)
 - video XAqIpGU8ZZk: WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] XAqIpGU8ZZk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies (outube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
@@ -24759,4 +32963,2041 @@ ERROR: [youtube] XAqIpGU8ZZk: Sign in to confirm you’re not a bot. Use --cooki
 ## Локальные файлы
 
 При запуске `full.md` с параметром `--download-media` сборщик сохраняет доступные обложки канала и видео, ручные и автоматически созданные субтитры, текстовые транскрипты и JSON метаданных. Сам видеофайл не скачивается. Если YouTube не предоставляет субтитры, транскрипт не создаётся.
+
+<details>
+<summary>Видео ID: WYhufFc4uYI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/WYhufFc4uYI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KlGRFSykLfDiD4rEqU7lBVZ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: yxziSZb2Ogg</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/yxziSZb2Ogg.jpg`
+</details>
+
+<details>
+<summary>Видео ID: mapxDGl0rSM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/mapxDGl0rSM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: esgflGn1rvA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/esgflGn1rvA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: msrbSSZQApI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/msrbSSZQApI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: VC98ywj3J1Q</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/VC98ywj3J1Q.jpg`
+</details>
+
+<details>
+<summary>Видео ID: DtsikjAzDjA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/DtsikjAzDjA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: bPo3KXcYYBg</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/bPo3KXcYYBg.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 7-KMWtDmLYs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/7-KMWtDmLYs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: VJljZdg6nlY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/VJljZdg6nlY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: CmTn9t9q14Y</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/CmTn9t9q14Y.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 52_qDIBcexA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/52_qDIBcexA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: zKlAoqhc49I</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/zKlAoqhc49I.jpg`
+</details>
+
+<details>
+<summary>Видео ID: z_DrRM7F_24</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/z_DrRM7F_24.jpg`
+</details>
+
+<details>
+<summary>Видео ID: KC4T79ltigE</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/KC4T79ltigE.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 2zKya01zYK4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/2zKya01zYK4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 65mxbswN1DM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/65mxbswN1DM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: _PY3YqYZCRE</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/_PY3YqYZCRE.jpg`
+</details>
+
+<details>
+<summary>Видео ID: NOFRVCT2Xx0</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/NOFRVCT2Xx0.jpg`
+</details>
+
+<details>
+<summary>Видео ID: MSLHs4z6sE4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/MSLHs4z6sE4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: rVfNr7aYYm0</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/rVfNr7aYYm0.jpg`
+</details>
+
+<details>
+<summary>Видео ID: nID_kz4a89A</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/nID_kz4a89A.jpg`
+</details>
+
+<details>
+<summary>Видео ID: dLSPBz3wK_Y</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/dLSPBz3wK_Y.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 1ZatvhwihFo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/1ZatvhwihFo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Cc9XBcUioBI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Cc9XBcUioBI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KnPRwqMM6CqUxr779cZZFks.jpg`
+</details>
+
+<details>
+<summary>Видео ID: mIxGEGgxNiI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/mIxGEGgxNiI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 3LTiRS55WoQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/3LTiRS55WoQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: b9ommSutEvo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/b9ommSutEvo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 7AX8611v83U</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/7AX8611v83U.jpg`
+</details>
+
+<details>
+<summary>Видео ID: qjVKgy835KQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/qjVKgy835KQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: xp79fBrLlFw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/xp79fBrLlFw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: aIvg0aaLuKo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/aIvg0aaLuKo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: vZyyFMaprIY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/vZyyFMaprIY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: UT9VRYtpBFo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/UT9VRYtpBFo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: g_VO2ioDsnA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/g_VO2ioDsnA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KlZgQwEJELJtzLB5AOXa-zh.jpg`
+</details>
+
+<details>
+<summary>Видео ID: L4AW6-kDK84</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/L4AW6-kDK84.jpg`
+</details>
+
+<details>
+<summary>Видео ID: sQ07i7J8Azo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/sQ07i7J8Azo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: obrvyaU6Plg</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/obrvyaU6Plg.jpg`
+</details>
+
+<details>
+<summary>Видео ID: UNSjfNfvUFU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/UNSjfNfvUFU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: DxvJVpn82vA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/DxvJVpn82vA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: LJJpbFcmKQs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/LJJpbFcmKQs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog.jpg`
+</details>
+
+<details>
+<summary>Видео ID: GhxYRkXZAB4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/GhxYRkXZAB4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: lC2j5DXSXOE</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/lC2j5DXSXOE.jpg`
+</details>
+
+<details>
+<summary>Видео ID: _EtTRVJAahY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/_EtTRVJAahY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: CxD9xy_NmFQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/CxD9xy_NmFQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 6FqwosOqJCs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/6FqwosOqJCs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: _v6OyPyqt9U</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/_v6OyPyqt9U.jpg`
+</details>
+
+<details>
+<summary>Видео ID: VZlhhFDVa24</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/VZlhhFDVa24.jpg`
+</details>
+
+<details>
+<summary>Видео ID: MoI8oZPCuZA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/MoI8oZPCuZA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Z8fzImsl-RM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Z8fzImsl-RM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 3BoU1jYz384</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/3BoU1jYz384.jpg`
+</details>
+
+<details>
+<summary>Видео ID: xpFPhMERCLc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/xpFPhMERCLc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 6b3Ix7hXZMA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/6b3Ix7hXZMA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: RX5kgTpvK8o</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/RX5kgTpvK8o.jpg`
+</details>
+
+<details>
+<summary>Видео ID: wnfZnnrsL1Q</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/wnfZnnrsL1Q.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Bf6uEqrfsOU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Bf6uEqrfsOU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: sxkJZjMQFqg</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/sxkJZjMQFqg.jpg`
+</details>
+
+<details>
+<summary>Видео ID: y1oPhRCCxLU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/y1oPhRCCxLU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: INp5Y1-3-48</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/INp5Y1-3-48.jpg`
+</details>
+
+<details>
+<summary>Видео ID: WsBe8ysO_uA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/WsBe8ysO_uA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: txtjFC4SPJI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/txtjFC4SPJI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 9BvJWyhQKyY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/9BvJWyhQKyY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 0mnjOf4ViX4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/0mnjOf4ViX4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Ri0PZdV2zvI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Ri0PZdV2zvI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: xUvdte3tzYM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/xUvdte3tzYM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 7CRrc3niEto</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/7CRrc3niEto.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Hy_oU4iPIIY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Hy_oU4iPIIY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 3GgfeCy8WuY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/3GgfeCy8WuY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: YntHgxlmKy4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/YntHgxlmKy4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 8o4QOUvjB1k</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/8o4QOUvjB1k.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ICwDR01RgnA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ICwDR01RgnA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: AqWU1ZBPLC4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/AqWU1ZBPLC4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: T3fb_VKdZJA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/T3fb_VKdZJA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 5v32mDS7RjM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/5v32mDS7RjM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: OpJLmIvXs5A</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/OpJLmIvXs5A.jpg`
+</details>
+
+<details>
+<summary>Видео ID: wCcVWQ9bikg</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/wCcVWQ9bikg.jpg`
+</details>
+
+<details>
+<summary>Видео ID: cRRytPpV1sM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/cRRytPpV1sM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: hjYb9tOsumM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/hjYb9tOsumM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: _Uyzj7ycemc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/_Uyzj7ycemc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7Km1VqYJ_UUcIfCAaGnziRdQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: iQ_PRQPBEgQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/iQ_PRQPBEgQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ZECTIKGj3ds</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ZECTIKGj3ds.jpg`
+</details>
+
+<details>
+<summary>Видео ID: g7bXeDJDZaA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/g7bXeDJDZaA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 4UwH9I-l7u4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/4UwH9I-l7u4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: fWqOswHMjEo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/fWqOswHMjEo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: gdrDBiNLRVU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/gdrDBiNLRVU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KkaFwKLxBgpYwASiGU6wqTY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: XIVd2jwrpy4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/XIVd2jwrpy4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: VEPHWJ5SQko</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/VEPHWJ5SQko.jpg`
+</details>
+
+<details>
+<summary>Видео ID: uGm9ygpMxeU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/uGm9ygpMxeU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: IMS-LVHlXuU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/IMS-LVHlXuU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: I2RpUoH8WwI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/I2RpUoH8WwI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: nwrN8FY_cVo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/nwrN8FY_cVo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: XUk3zsPRq34</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/XUk3zsPRq34.jpg`
+</details>
+
+<details>
+<summary>Видео ID: mXNdpPmtvF8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/mXNdpPmtvF8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: n_q_OHb0YOw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/n_q_OHb0YOw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde.jpg`
+</details>
+
+<details>
+<summary>Видео ID: KeG2OfOYqQA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/KeG2OfOYqQA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PlXh9l04Uz8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PlXh9l04Uz8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 6curTcJF-u4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/6curTcJF-u4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: MrWXqXWRG2o</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/MrWXqXWRG2o.jpg`
+</details>
+
+<details>
+<summary>Видео ID: VHzNbsR893A</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/VHzNbsR893A.jpg`
+</details>
+
+<details>
+<summary>Видео ID: -FmCm-Wjdok</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/-FmCm-Wjdok.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg.jpg`
+</details>
+
+<details>
+<summary>Видео ID: nd6xir1nDLQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/nd6xir1nDLQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: qW3iZCv7vSA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/qW3iZCv7vSA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Qf1Ny0lSxHA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Qf1Ny0lSxHA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: hU-mdaemKng</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/hU-mdaemKng.jpg`
+</details>
+
+<details>
+<summary>Видео ID: NHVkpdzGL7M</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/NHVkpdzGL7M.jpg`
+</details>
+
+<details>
+<summary>Видео ID: hpG_RdVy0Lo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/hpG_RdVy0Lo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ks0o4gXh9NI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ks0o4gXh9NI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: yGNltdKMtF8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/yGNltdKMtF8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: vFSvq_ablAM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/vFSvq_ablAM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 9AlGxr8YsJ4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/9AlGxr8YsJ4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 4tg4qokVS9o</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/4tg4qokVS9o.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 8gl4oTXwLtU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/8gl4oTXwLtU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: GysZ795sZHY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/GysZ795sZHY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: IivYJj4w9wA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/IivYJj4w9wA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: RrGMG4S0hLQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/RrGMG4S0hLQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: vP0YZ3bNoO8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/vP0YZ3bNoO8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: if5QNyvY6YE</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/if5QNyvY6YE.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Trhk4u6wc5g</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Trhk4u6wc5g.jpg`
+</details>
+
+<details>
+<summary>Видео ID: TLL4BChnRqg</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/TLL4BChnRqg.jpg`
+</details>
+
+<details>
+<summary>Видео ID: bOJoFZeuxho</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/bOJoFZeuxho.jpg`
+</details>
+
+<details>
+<summary>Видео ID: eDkheYAsqro</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/eDkheYAsqro.jpg`
+</details>
+
+<details>
+<summary>Видео ID: SMsVPyI6wzA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/SMsVPyI6wzA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: YLvbza4GtiM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/YLvbza4GtiM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: aaoZm1yHCxw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/aaoZm1yHCxw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: gDlpECfuOc0</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/gDlpECfuOc0.jpg`
+</details>
+
+<details>
+<summary>Видео ID: lP82yJRujLM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/lP82yJRujLM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 0fPH7mhlSGg</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/0fPH7mhlSGg.jpg`
+</details>
+
+<details>
+<summary>Видео ID: P7HqGHJ94AI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/P7HqGHJ94AI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Rk79CNSQuWQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Rk79CNSQuWQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: YOpSqoidvwA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/YOpSqoidvwA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: v0fpyOKCREQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/v0fpyOKCREQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ono0TAEE95Q</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ono0TAEE95Q.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 98mOkxRFHYA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/98mOkxRFHYA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: F9mPBBevqUE</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/F9mPBBevqUE.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 2JYATSfmsAs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/2JYATSfmsAs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: kIjm6ZEbkiU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/kIjm6ZEbkiU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: m0FfqI2zB4U</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/m0FfqI2zB4U.jpg`
+</details>
+
+<details>
+<summary>Видео ID: OkVgzONhpiU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/OkVgzONhpiU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KnW-lwIwrBoyhg217c5WVAf.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Dtgo9uB1fxU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Dtgo9uB1fxU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ii4uyl61xns</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ii4uyl61xns.jpg`
+</details>
+
+<details>
+<summary>Видео ID: z1COvf7QFOs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/z1COvf7QFOs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: JcrguEFkW0k</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/JcrguEFkW0k.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KlBWNwhUB9glFnICVO3bqIZ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: biy50-ssgVQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/biy50-ssgVQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: qe3NQ2lL2V4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/qe3NQ2lL2V4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 7b3Qc0Q7bQ8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/7b3Qc0Q7bQ8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: zXITWw0ctDM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/zXITWw0ctDM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: oDUPhZuyam0</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/oDUPhZuyam0.jpg`
+</details>
+
+<details>
+<summary>Видео ID: n79z4l2Qrp4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/n79z4l2Qrp4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Tfr4vXlc1sw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Tfr4vXlc1sw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: CcwkAS1v0bA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/CcwkAS1v0bA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: _On4jSu1vUQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/_On4jSu1vUQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: tHOS3zlr9jU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/tHOS3zlr9jU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: jVoNLKT1pfc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/jVoNLKT1pfc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: aEWXtdgusR8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/aEWXtdgusR8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: jJq6jxuKm28</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/jJq6jxuKm28.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7Kkbccana_Yev9XccUGXJSAc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 8G0qxh4HabA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/8G0qxh4HabA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: fsgT-1KDqpI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/fsgT-1KDqpI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KmrKkxa0UDUo76EszgjSdr4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: FOYIf5UBD9Q</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/FOYIf5UBD9Q.jpg`
+</details>
+
+<details>
+<summary>Видео ID: P3KQkLUvFFw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/P3KQkLUvFFw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: aPzY-1aLQ8c</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/aPzY-1aLQ8c.jpg`
+</details>
+
+<details>
+<summary>Видео ID: LIn-vq1y9m0</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/LIn-vq1y9m0.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KmJo-QbCvhj57cVW5JF5Nyx.jpg`
+</details>
+
+<details>
+<summary>Видео ID: AbHf_k9ydcU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/AbHf_k9ydcU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: LMzNx-QHudU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/LMzNx-QHudU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: KMrVKtVrJ3Q</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/KMrVKtVrJ3Q.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 196yyub_Kro</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/196yyub_Kro.jpg`
+</details>
+
+<details>
+<summary>Видео ID: yGjqZeTVq24</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/yGjqZeTVq24.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ZFjo4Zs2YYA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ZFjo4Zs2YYA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: z6m6FT-Tj90</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/z6m6FT-Tj90.jpg`
+</details>
+
+<details>
+<summary>Видео ID: fy8raIuNewE</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/fy8raIuNewE.jpg`
+</details>
+
+<details>
+<summary>Видео ID: e0DKj6JGDVQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/e0DKj6JGDVQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: atBBDQXDSGk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/atBBDQXDSGk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: FeLs8aJF2wk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/FeLs8aJF2wk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: DUaKtpc1zK8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/DUaKtpc1zK8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: GZ0id4HE8ls</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/GZ0id4HE8ls.jpg`
+</details>
+
+<details>
+<summary>Видео ID: JUDPQLb7QnQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/JUDPQLb7QnQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: U5BN_lFE5d8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/U5BN_lFE5d8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: OjAWVXB6_F0</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/OjAWVXB6_F0.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KlmntXO7FlDs91GSzBL3L2l.jpg`
+</details>
+
+<details>
+<summary>Видео ID: sj1VEnlEtQw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/sj1VEnlEtQw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 2HPK0dh0_K8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/2HPK0dh0_K8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: QgssEu9y_Rc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/QgssEu9y_Rc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: cbuWLCCs1nQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/cbuWLCCs1nQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: eULXuxZZuPw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/eULXuxZZuPw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: f6NZZ3z27Mk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/f6NZZ3z27Mk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ES2NPqlDnek</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ES2NPqlDnek.jpg`
+</details>
+
+<details>
+<summary>Видео ID: vgHNERQGcPk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/vgHNERQGcPk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: XAqIpGU8ZZk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/XAqIpGU8ZZk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: hX0w6efA-oo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/hX0w6efA-oo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 4Pt0pLcebVk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/4Pt0pLcebVk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: MHNKeEo0HOQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/MHNKeEo0HOQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: iOV8Aeo-xiw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/iOV8Aeo-xiw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 663CqugApf4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/663CqugApf4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: cYxohlw4mV0</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/cYxohlw4mV0.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 1F-8pn30bOI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/1F-8pn30bOI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: RvYq-wt_GEU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/RvYq-wt_GEU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: A6zgTaxo3R4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/A6zgTaxo3R4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 3r4X5OSQMFs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/3r4X5OSQMFs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Qfi0_0w0dsM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Qfi0_0w0dsM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: IcWSZQEdQMQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/IcWSZQEdQMQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ij_PCCZVTEs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ij_PCCZVTEs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: slTxpJIbhAM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/slTxpJIbhAM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: KtC3pm4q5vk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/KtC3pm4q5vk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KnTjFmZv1PvGTr1trS-dq37.jpg`
+</details>
+
+<details>
+<summary>Видео ID: X1XXsk79ZE8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/X1XXsk79ZE8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Gz5PeNKkxwA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Gz5PeNKkxwA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: NYs1pHJIZQA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/NYs1pHJIZQA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: QxmS2ny5o3s</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/QxmS2ny5o3s.jpg`
+</details>
+
+<details>
+<summary>Видео ID: s2U6LYGO67o</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/s2U6LYGO67o.jpg`
+</details>
+
+<details>
+<summary>Видео ID: _P2YmY3sxhY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/_P2YmY3sxhY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: kWBHCtJwCR8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/kWBHCtJwCR8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 4eyGrFv7pzM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/4eyGrFv7pzM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7Kn3epE38VpdI7i-amTV99Cy.jpg`
+</details>
+
+<details>
+<summary>Видео ID: wn4O3Pq6zYE</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/wn4O3Pq6zYE.jpg`
+</details>
+
+<details>
+<summary>Видео ID: _36Z4U07o3g</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/_36Z4U07o3g.jpg`
+</details>
+
+<details>
+<summary>Видео ID: bxSpi3AEshk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/bxSpi3AEshk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: kz6TmnP9U5s</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/kz6TmnP9U5s.jpg`
+</details>
+
+<details>
+<summary>Видео ID: rvt2EdYoCq4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/rvt2EdYoCq4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: LyQzyrZRNXs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/LyQzyrZRNXs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ZzxhnWf4HNc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ZzxhnWf4HNc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: BAEqGUm_wxs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/BAEqGUm_wxs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: wm2p5Cksh8k</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/wm2p5Cksh8k.jpg`
+</details>
+
+<details>
+<summary>Видео ID: IIzaj6TtYEA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/IIzaj6TtYEA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 0_D2ox_N6hw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/0_D2ox_N6hw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 8MPsmik4h_Y</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/8MPsmik4h_Y.jpg`
+</details>
+
+<details>
+<summary>Видео ID: vGm-FPhPwcs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/vGm-FPhPwcs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: fQ7_GT8_zeM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/fQ7_GT8_zeM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: ZU0St05ifyQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/ZU0St05ifyQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: IvlpOQfKi9U</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/IvlpOQfKi9U.jpg`
+</details>
+
+<details>
+<summary>Видео ID: awoFe_9kbuU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/awoFe_9kbuU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: wkwgWbIdMrQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/wkwgWbIdMrQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KmjS0pl_LKnhEf3H4-2dS96.jpg`
+</details>
+
+<details>
+<summary>Видео ID: YHo7sh-TY_8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/YHo7sh-TY_8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: pvfM_oWFs-o</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/pvfM_oWFs-o.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 9h60U429efA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/9h60U429efA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KkajyvG_N_ZyHA8sA2rtdph.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH.jpg`
+</details>
+
+<details>
+<summary>Видео ID: dsrPYivNgXc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/dsrPYivNgXc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Bz7pIC4h-7U</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Bz7pIC4h-7U.jpg`
+</details>
+
+<details>
+<summary>Видео ID: yfJ475DYo2w</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/yfJ475DYo2w.jpg`
+</details>
+
+<details>
+<summary>Видео ID: xLMdNk4DGOc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/xLMdNk4DGOc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: r4fhata7xe0</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/r4fhata7xe0.jpg`
+</details>
+
+<details>
+<summary>Видео ID: t1JY_MMPyhU</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/t1JY_MMPyhU.jpg`
+</details>
+
+<details>
+<summary>Видео ID: OQ3yaWfOfQs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/OQ3yaWfOfQs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: VvdllDzxYtw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/VvdllDzxYtw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 6im5CxBQ5t8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/6im5CxBQ5t8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: MxL04wXIyBQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/MxL04wXIyBQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: -kBKbg6QWug</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/-kBKbg6QWug.jpg`
+</details>
+
+<details>
+<summary>Видео ID: CE0BhheYFQk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/CE0BhheYFQk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: NC5HMquGn4s</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/NC5HMquGn4s.jpg`
+</details>
+
+<details>
+<summary>Видео ID: VfQiG2jATgQ</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/VfQiG2jATgQ.jpg`
+</details>
+
+<details>
+<summary>Видео ID: jWiHMeYR1R4</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/jWiHMeYR1R4.jpg`
+</details>
+
+<details>
+<summary>Видео ID: Wz0Lh0dEyyc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/Wz0Lh0dEyyc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: _su4lhLXwfk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/_su4lhLXwfk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: wYHO3UcHyBY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/wYHO3UcHyBY.jpg`
+</details>
+
+<details>
+<summary>Видео ID: bPy9h7m6NzA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/bPy9h7m6NzA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: k9lpuV9UlBc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/k9lpuV9UlBc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: DjuK8h7-ep8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/DjuK8h7-ep8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: u_bsXuBOO74</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/u_bsXuBOO74.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 02KDxt_u2To</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/02KDxt_u2To.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 8c88s8dawxw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/8c88s8dawxw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PL3ziSA8uO7KnHLg-IVIrS9gt8zuS-0_eS.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 7BwsPaFDl9E</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/7BwsPaFDl9E.jpg`
+</details>
+
+<details>
+<summary>Видео ID: nCM2-bsdnKI</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/nCM2-bsdnKI.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 6H0e4c-SPgo</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/6H0e4c-SPgo.jpg`
+</details>
+
+<details>
+<summary>Видео ID: IKB61INTyrs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/IKB61INTyrs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 6yd_m64mlv8</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/6yd_m64mlv8.jpg`
+</details>
+
+<details>
+<summary>Видео ID: neqdcpPz1Ic</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/neqdcpPz1Ic.jpg`
+</details>
+
+<details>
+<summary>Видео ID: tgTsW_lUtsc</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/tgTsW_lUtsc.jpg`
+</details>
+
+<details>
+<summary>Видео ID: lq5vi6DmEpA</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/lq5vi6DmEpA.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 1hkPcXEE7to</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/1hkPcXEE7to.jpg`
+</details>
+
+<details>
+<summary>Видео ID: yV6Mtpy44dk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/yV6Mtpy44dk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: 5o5kv-4TyYw</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/5o5kv-4TyYw.jpg`
+</details>
+
+<details>
+<summary>Видео ID: kk8tzKB45Sk</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/kk8tzKB45Sk.jpg`
+</details>
+
+<details>
+<summary>Видео ID: dgZG-OHOyUs</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/dgZG-OHOyUs.jpg`
+</details>
+
+<details>
+<summary>Видео ID: PNODfPg44tE</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/PNODfPg44tE.jpg`
+</details>
+
+<details>
+<summary>Видео ID: eghLLFbTDYM</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/eghLLFbTDYM.jpg`
+</details>
+
+<details>
+<summary>Видео ID: SzH2G0yFBHY</summary>
+
+- **Каталог:** `/`
+- **Обложка:** `media/thumbnails/SzH2G0yFBHY.jpg`
+</details>
 

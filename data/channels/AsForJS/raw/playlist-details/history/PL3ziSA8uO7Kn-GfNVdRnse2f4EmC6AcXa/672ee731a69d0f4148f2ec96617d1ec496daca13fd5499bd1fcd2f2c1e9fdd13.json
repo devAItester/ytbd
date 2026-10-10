@@ -1,0 +1,149 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Видео, которые я бы очень рекомендовал самому себе к просмотру.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Google for Developers",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "channel_url": "https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "creators": null,
+      "duration": 3734,
+      "id": "XAqIpGU8ZZk",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/XAqIpGU8ZZk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFQgSihlMA8=&rs=AOn4CLAWpCTk9NzBG0sRRlO8oXnlVYPbEQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/XAqIpGU8ZZk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFQgSihlMA8=&rs=AOn4CLD8526mte7npgkawB6QiFQ9YrRogw",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/XAqIpGU8ZZk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIEooZTAP&rs=AOn4CLCvQkwk-8ThjqoxHDIM8BoMVT1Z-w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/XAqIpGU8ZZk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIEooZTAP&rs=AOn4CLAWpUyvvkx-ez1bmnlsPFu8LGjyIA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "GDC 2012: From Console to Chrome",
+      "uploader": "Google for Developers",
+      "uploader_id": "@GoogleDevelopers",
+      "uploader_url": "https://www.youtube.com/@GoogleDevelopers",
+      "url": "https://www.youtube.com/watch?v=XAqIpGU8ZZk",
+      "view_count": 66000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3078,
+      "id": "vGm-FPhPwcs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKsAsykyzzGVykrTw-81R1lF5fgg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDvBU7EMjtAy1EPfMq_NLKbFW18fg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIT-7NRPCE_-ruJLanmatUs30hag",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/vGm-FPhPwcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEmQlAZzjuRV1wBlCyhMUUGBf-QQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Watching together YT: Performance and Clean Code",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=vGm-FPhPwcs",
+      "view_count": 5600
+    }
+  ],
+  "epoch": 1791672657,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7Kn-GfNVdRnse2f4EmC6AcXa",
+  "modified_date": "20240619",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn-GfNVdRnse2f4EmC6AcXa",
+  "playlist_count": 2,
+  "release_year": null,
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 94,
+      "id": "0",
+      "resolution": "168x94",
+      "url": "https://i.ytimg.com/vi/XAqIpGU8ZZk/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhUIEooZTAP&rs=AOn4CLBQufNMkx03BbIHcXptkAAXfJ42cA",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "id": "1",
+      "resolution": "196x110",
+      "url": "https://i.ytimg.com/vi/XAqIpGU8ZZk/hqdefault.jpg?sqp=-oaymwEwCMQBEG5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhUIEooZTAP&rs=AOn4CLA_RkH8vtaiAkHNhqvsC0QKIgfCyg",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "id": "2",
+      "resolution": "246x138",
+      "url": "https://i.ytimg.com/vi/XAqIpGU8ZZk/hqdefault.jpg?sqp=-oaymwExCPYBEIoBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYVCBKKGUwDw==&rs=AOn4CLBBw9Jr0NjCjDg1WHJgDo4LDOC1UA",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "id": "3",
+      "resolution": "336x188",
+      "url": "https://i.ytimg.com/vi/XAqIpGU8ZZk/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYVCBKKGUwDw==&rs=AOn4CLD75d8fQpVZLfWA1TzLYKu-1dVgkw",
+      "width": 336
+    }
+  ],
+  "title": "Mast see [ performance ]",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 1295,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn-GfNVdRnse2f4EmC6AcXa",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

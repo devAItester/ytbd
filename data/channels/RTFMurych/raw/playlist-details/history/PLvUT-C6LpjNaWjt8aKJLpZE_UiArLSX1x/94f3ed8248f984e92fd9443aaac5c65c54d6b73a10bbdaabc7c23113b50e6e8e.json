@@ -1,0 +1,275 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "@RTFMurych",
+  "channel_follower_count": null,
+  "channel_id": "UC3NVT782r84UDLdx9JXtbow",
+  "channel_url": "https://www.youtube.com/channel/UC3NVT782r84UDLdx9JXtbow",
+  "description": "Мурыч рекомендует:",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "SPC",
+      "channel_id": "UC6Jli3lX-oOFYh4wNF9rXFA",
+      "channel_url": "https://www.youtube.com/channel/UC6Jli3lX-oOFYh4wNF9rXFA",
+      "creators": null,
+      "duration": 4292,
+      "id": "4Hhogj6NjbE",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/4Hhogj6NjbE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVShPMA8=&rs=AOn4CLBL-Wjqng3mETQoVRy84_tO3f6vLw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/4Hhogj6NjbE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVShPMA8=&rs=AOn4CLAl50Fm-k4zxSNvlHUDPK_QwEpxwQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/4Hhogj6NjbE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFUoTzAP&rs=AOn4CLCVNZsL69Fn6Lw49HnivuMAT0FfZA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/4Hhogj6NjbE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFUoTzAP&rs=AOn4CLCUaw7IHglxkjiMqblcd4zZuQwZyA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[Клуб \"Думай!\"] Кто такой программист?",
+      "uploader": "SPC",
+      "uploader_id": "@SciProgCentre",
+      "uploader_url": "https://www.youtube.com/@SciProgCentre",
+      "url": "https://www.youtube.com/watch?v=4Hhogj6NjbE",
+      "view_count": 608
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Mobile Channel",
+      "channel_id": "UCP8MtCo2ZcrJc7_Zhcjym9g",
+      "channel_url": "https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g",
+      "creators": null,
+      "duration": 3107,
+      "id": "mmvHC3UgYmg",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/mmvHC3UgYmg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDs9xNhKbH69e-4jFB2HquD_e8GeQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/mmvHC3UgYmg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBE3kIIn1YTGrMkNg3H8GMKd9cTHA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/mmvHC3UgYmg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWKsUTD6DM1tWiBFl2dO0fk0RRSA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/mmvHC3UgYmg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTcs8ddD8vASxdp3qarZPeTZ4VJw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Stop Bothering Me with Your Functional Programming / Vitaly Bragilevsky",
+      "uploader": "Mobile Channel",
+      "uploader_id": "@MobileChannelRussia",
+      "uploader_url": "https://www.youtube.com/@MobileChannelRussia",
+      "url": "https://www.youtube.com/watch?v=mmvHC3UgYmg",
+      "view_count": 38000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "TverIO",
+      "channel_id": "UCl5UjDgC4_SOjiLnIRznkEg",
+      "channel_url": "https://www.youtube.com/channel/UCl5UjDgC4_SOjiLnIRznkEg",
+      "creators": null,
+      "duration": 2859,
+      "id": "IkXg_mjNgG4",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnZNir5OERsG2mn0PxYaXBGuLSeg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJojdKmW3hKLJA2QZpYw28a6pvig",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCehYrosZmoRyBWxOrhZjAUo49x9w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANN4o3gmf5LXhl45aHStMmWR25yg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Виталий Брагилевский — Монады - не приговор",
+      "uploader": "TverIO",
+      "uploader_id": "@TverIO",
+      "uploader_url": "https://www.youtube.com/@TverIO",
+      "url": "https://www.youtube.com/watch?v=IkXg_mjNgG4",
+      "view_count": 28000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "Мы обречены",
+      "channel_id": "UCUSbYJK87rpBUJ5KGQd7oHA",
+      "channel_url": "https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA",
+      "creators": null,
+      "duration": 6921,
+      "id": "Fm4kcaqOvm4",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Fm4kcaqOvm4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUT-8PYNKIX5gtApKB-pVMxWFc4g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Fm4kcaqOvm4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWZ4x7AI2QpdIEut1K7gEHeVjBWg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Fm4kcaqOvm4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuaJPjVMQtQzmUbcbwno-RPcvf8w",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Fm4kcaqOvm4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd-UVf3sQYZJWeOlc5NFCZ91FOPw",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Vitaly Bragilevsky — teaching, reading, sitting — We’re Doomed #20",
+      "uploader": "Мы обречены",
+      "uploader_id": "@myobrecheny",
+      "uploader_url": "https://www.youtube.com/@myobrecheny",
+      "url": "https://www.youtube.com/watch?v=Fm4kcaqOvm4",
+      "view_count": 25000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "HolyJS — конференция для JavaScript‑разработчиков",
+      "channel_id": "UC2Jwo4Q0s-ucjGseHP8XUSQ",
+      "channel_url": "https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ",
+      "creators": null,
+      "duration": 3866,
+      "id": "T66wMYbtfNA",
+      "ie_key": "Youtube",
+      "live_status": null,
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/T66wMYbtfNA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCb4hN1jOGXRcFVeJr9Ci7axIHx7g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/T66wMYbtfNA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDQYcivr5v92p0m4PyZJgOKj7OQJQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/T66wMYbtfNA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbxVXZ3fe7rOcfL0JOOVWqgasyiw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/T66wMYbtfNA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnc3xd7vHNY64gvGM_bdGYQSeaJA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Виталий Брагилевский — JavaScript на службе у теоретической информатики",
+      "uploader": "HolyJS — конференция для JavaScript‑разработчиков",
+      "uploader_id": "@HolyJS",
+      "uploader_url": "https://www.youtube.com/@HolyJS",
+      "url": "https://www.youtube.com/watch?v=T66wMYbtfNA",
+      "view_count": 10000
+    }
+  ],
+  "epoch": 1791672562,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+  "modified_date": "20250902",
+  "original_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+  "playlist_count": 5,
+  "release_year": null,
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 94,
+      "id": "0",
+      "resolution": "168x94",
+      "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBFYJGjE9lrqsM3V6wPyTefWeLTsw",
+      "width": 168
+    },
+    {
+      "height": 110,
+      "id": "1",
+      "resolution": "196x110",
+      "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDNdSZplG1uTXk0T-Vu0Oh_RmYqsA",
+      "width": 196
+    },
+    {
+      "height": 138,
+      "id": "2",
+      "resolution": "246x138",
+      "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBlbg3fAxRxg7gSBQUVRa8Buy7nAw",
+      "width": 246
+    },
+    {
+      "height": 188,
+      "id": "3",
+      "resolution": "336x188",
+      "url": "https://i.ytimg.com/vi/IkXg_mjNgG4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNzYRyHuG4k_bntTrGFh269gN4-A",
+      "width": 336
+    }
+  ],
+  "title": "~recommend~",
+  "uploader": "@RTFMurych",
+  "uploader_id": "@RTFMurych",
+  "uploader_url": "https://www.youtube.com/@RTFMurych",
+  "view_count": 0,
+  "webpage_url": "https://www.youtube.com/playlist?list=PLvUT-C6LpjNaWjt8aKJLpZE_UiArLSX1x",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

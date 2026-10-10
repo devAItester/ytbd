@@ -1,0 +1,93 @@
+{
+  "__files_to_move": {},
+  "_type": "playlist",
+  "_version": {
+    "current_git_head": null,
+    "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+    "repository": "yt-dlp/yt-dlp",
+    "version": "2026.08.19"
+  },
+  "availability": "public",
+  "channel": "As For JS ...",
+  "channel_follower_count": null,
+  "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+  "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+  "description": "Подписчики, предоставляют Мурычу возможность, пройти JavaScript курсы.\nМурыч, предоставляет подписчикам возможность, увидеть чего эти курсы стоят.",
+  "entries": [
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": "subscriber_only",
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 2005,
+      "id": "65mxbswN1DM",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/65mxbswN1DM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBo-VSMQ7S9IejD__eaTYYxw51n2g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/65mxbswN1DM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNI2AnP3DW-gQuVztZ0YK9EdtxnA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/65mxbswN1DM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc6YAWajO0LwDr6cEaM5MyFo9EmQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/65mxbswN1DM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq1v2PFKvEw0pzca0KOuptZhOutA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡course:00⎦ Udemy курс. JavaScript Pro: Mastering Advanced Concepts and Techniques",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=65mxbswN1DM",
+      "view_count": null
+    }
+  ],
+  "epoch": 1791672646,
+  "extractor": "youtube:tab",
+  "extractor_key": "YoutubeTab",
+  "id": "PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde",
+  "modified_date": "20260201",
+  "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde",
+  "playlist_count": 1,
+  "release_year": null,
+  "tags": [],
+  "thumbnails": [
+    {
+      "height": 240,
+      "id": "0",
+      "resolution": "240x240",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CIjvqtYG-oaymwEICPABEPABSFqi85f_AwYIl6mZvQY=&rs=AOn4CLAJ-nljRLVGMPOxKxSzfeJRmftH3Q",
+      "width": 240
+    },
+    {
+      "height": 480,
+      "id": "1",
+      "resolution": "480x480",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde/studio_square_thumbnail.jpg?sqp=CIHcqtYG-oaymwEICOADEOADSFqi85f_AwYIl6mZvQY=&rs=AOn4CLCTcxWRo1oFwM-qMVaX4exyqcv1JA",
+      "width": 480
+    }
+  ],
+  "title": "Мурыч идет на курсы",
+  "uploader": "As For JS ...",
+  "uploader_id": "@AsForJS",
+  "uploader_url": "https://www.youtube.com/@AsForJS",
+  "view_count": 21,
+  "webpage_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kml9pm_52nX-sVapTbJwZde",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com"
+}

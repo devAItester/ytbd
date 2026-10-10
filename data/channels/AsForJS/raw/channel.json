@@ -76,7 +76,7 @@
             }
           ],
           "timestamp": null,
-          "title": "[Stripped] Производительность  Async Function",
+          "title": "[Stripped] Async Function Performance",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=A6zgTaxo3R4",
           "view_count": 4000
@@ -104,7 +104,7 @@
             }
           ],
           "timestamp": null,
-          "title": "[Stripped] Тип String и его две основные проблемы. Часть 2 из 3.",
+          "title": "The String Type and Its Two Main Problems. Part 2 of 3.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=IcWSZQEdQMQ",
           "view_count": 1900
@@ -132,7 +132,7 @@
             }
           ],
           "timestamp": null,
-          "title": "[Stripped] Тип String согласно официальной спецификации ECMAScript. Часть 1 из 3.",
+          "title": "[Stripped] The String type according to the official ECMAScript specification. Part 1 of 3.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=wCcVWQ9bikg",
           "view_count": 2900
@@ -189,7 +189,7 @@
           "view_count": 12000
         }
       ],
-      "epoch": 1791670091,
+      "epoch": 1791672631,
       "extractor": "youtube:tab",
       "extractor_key": "YoutubeTab",
       "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
@@ -1324,7 +1324,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Что-нибудь полезное: Крутим Google Chrome",
+          "title": "Something Useful: Tweaking Google Chrome",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=8o4QOUvjB1k",
           "view_count": 1500
@@ -2513,7 +2513,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Try to hack My JavaScript: Найти Magic Word",
+          "title": "Try to hack My JavaScript: Find the Magic Word",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=FeLs8aJF2wk",
           "view_count": 1200
@@ -2541,7 +2541,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Try to hack My JavaScript: Решения для readyState",
+          "title": "Try to Hack My JavaScript: Solutions for readyState",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=dsrPYivNgXc",
           "view_count": 2000
@@ -3506,7 +3506,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Сравнение JavaScript Array метода reduce с for statement",
+          "title": "Comparing the JavaScript Array reduce method with a for statement",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=OkVgzONhpiU",
           "view_count": 5700
@@ -3590,7 +3590,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡dlgs:6⎦ Про оптимизацию JavaScript данных в браузере",
+          "title": "⎡dlgs:6⎦ On JavaScript data optimization in the browser",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=JcrguEFkW0k",
           "view_count": 5200
@@ -4173,7 +4173,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡devices:01⎦ JavaScript инструменты: Как запускать сборку V8",
+          "title": "⎡devices:01⎦ JavaScript Tools: How to Run a V8 Build",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=0_D2ox_N6hw",
           "view_count": 3300
@@ -4201,7 +4201,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡devices:00⎦ JavaScript инструменты: что установить чтобы начать",
+          "title": "⎡devices:00⎦ JavaScript Tools: What to Install to Get Started",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=cbuWLCCs1nQ",
           "view_count": 8400
@@ -4621,7 +4621,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡talks: 10⎦ Смотрим вместе: Все о Dart с Вячеслав Егоров AKA mraleph",
+          "title": "⎡talks: 10⎦ Let's watch together: All about Dart with Vyacheslav Egorov AKA mraleph",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=5v32mDS7RjM",
           "view_count": 2100
@@ -5390,7 +5390,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡JSbook: 01.2⎦   JavaScript: От мифов к спецификации. Введение: для кого эта книга",
+          "title": "⎡JSbook: 01.2⎦ JavaScript: From Myths to Specification. Introduction: Who Is This Book For?",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=Rk79CNSQuWQ",
           "view_count": 4200
@@ -5418,7 +5418,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡JSbook: 01.1⎦   JavaScript: От мифов к спецификации. Введение: про автора",
+          "title": "⎡JSbook: 01.1⎦ JavaScript: From Myths to Specification. Introduction: About the Author",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=rvt2EdYoCq4",
           "view_count": 3800
@@ -5614,7 +5614,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦⎡sobes⎦⎡04⎦   Разбираем задачу JavaScript собеседований о приведении типов - дополнение",
+          "title": "⎡msk⎦⎡sobes⎦⎡04⎦ Analyzing the JavaScript interview task about type casting - addendum",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=AqWU1ZBPLC4",
           "view_count": 1300
@@ -5665,7 +5665,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦⎡sobes⎦⎡03⎦   Разбираем задачу JavaScript собеседований о приведении типов",
+          "title": "[msk][interview][03] Breaking down a JavaScript interview task on type coercion",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=ZzxhnWf4HNc",
           "view_count": 1700
@@ -5823,7 +5823,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦ ⎡talks⎦ JavaScript и передача по ссылке и по значению, через призму статьи Dmitry Soshnikov",
+          "title": "[msk] [talks] JavaScript: Pass-by-Reference and Pass-by-Value through the lens of Dmitry Soshniko...",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=GZ0id4HE8ls",
           "view_count": 1900
@@ -6004,7 +6004,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦⎡04⎦ Производительность JavaScript и типы данных: Числа / Number.",
+          "title": "⎡msk⎦⎡04⎦ JavaScript Performance and Data Types: Numbers / Number.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=YntHgxlmKy4",
           "view_count": 2700
@@ -6032,7 +6032,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦⎡03⎦ Производительность JavaScript \"переменных\" / идентификаторов",
+          "title": "⎡msk⎦⎡03⎦ Performance of JavaScript \"variables\" / identifiers",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=IvlpOQfKi9U",
           "view_count": 2800
@@ -6195,7 +6195,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦⎡RegExp⎦⎡01⎦ Регулярные 5ти минутки. Или введение в Regular Epressions",
+          "title": "⎡msk⎦⎡RegExp⎦⎡01⎦ Regular 5 Minutes. Or Introduction to Regular Epressions",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=kWBHCtJwCR8",
           "view_count": 2000
@@ -6251,7 +6251,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦ Как JavaScript - код, на этапе его подготовки к выполнению, влияет на производительность",
+          "title": "[msk] How JavaScript code impacts performance during the preparation stage for execution",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=VZlhhFDVa24",
           "view_count": 4900
@@ -6353,7 +6353,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦ Review of the video: \"New JavaScript!\"",
+          "title": "⎡msk⎦ Обзор на видео: \"Новый JavaScript!\"",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=VvdllDzxYtw",
           "view_count": 3600
@@ -6432,7 +6432,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦ JavaScript Array и значения по умолчанию",
+          "title": "[msk] JavaScript Arrays and Default Values",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=yxziSZb2Ogg",
           "view_count": 1600
@@ -6506,7 +6506,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦ Почему в JavaScript прибавить число к обьекту - это круто, а не ошибка архитектуры",
+          "title": "⎡msk⎦ Why adding a number to an object in JavaScript is cool, not an architectural flaw",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=wkwgWbIdMrQ",
           "view_count": 4000
@@ -6529,7 +6529,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦ JavaScript JSON как эффективный прием оптимизации холодного старта JS кода.",
+          "title": "[msk] JavaScript JSON as an effective technique for optimizing JS cold starts.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=P3KQkLUvFFw",
           "view_count": 1900
@@ -6552,7 +6552,7 @@
             }
           ],
           "timestamp": null,
-          "title": "⎡msk⎦ JavaScript Destructuring Assignment или не все то золото что коротко пишется.",
+          "title": "⎡msk⎦ JavaScript Destructuring Assignment or not all that is written is gold.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=98mOkxRFHYA",
           "view_count": 2100
@@ -6598,7 +6598,7 @@
             }
           ],
           "timestamp": null,
-          "title": "JavaScript и идентификаторы. В рамках подкаста Tips and Tricks [Msk] [JavaScript шорты]",
+          "title": "JavaScript and identifiers. Part of the Tips and Tricks podcast [Msk] [JavaScript shorts]",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=biy50-ssgVQ",
           "view_count": 3300
@@ -6644,7 +6644,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Logical Expression в javascript.  Разберемся на примерах. [RU] [JavaScript шорты]",
+          "title": "Logical Expressions in JavaScript. Let's break them down with examples. [EN] [JavaScript Shorts]",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=aaoZm1yHCxw",
           "view_count": 2700
@@ -6871,7 +6871,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Семнатична верстка або Розбір відео де чоловік і гадки не має про те що каже",
+          "title": "Semantic layout or A breakdown of a video where a man has no idea what he's talking about",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=v0fpyOKCREQ",
           "view_count": 1600
@@ -7062,7 +7062,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Разбираемся с Мурой: JavaScript толчек, эпизод 5, Ignition vs TuroFan",
+          "title": "Sorting Out Mura: JavaScript Push, Episode 5, Ignition vs TurboFan",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=IivYJj4w9wA",
           "view_count": 1900
@@ -7085,7 +7085,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Эффективные приемы оптимизации JavaScript кода: числа.",
+          "title": "Effective JavaScript Code Optimization Techniques: Numbers.",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=esgflGn1rvA",
           "view_count": 2700
@@ -7187,7 +7187,7 @@
             }
           ],
           "timestamp": null,
-          "title": "Вторая часть про Зюзьку с перезаписью куска про Array",
+          "title": "The second part about Zyuzka with a rewrite of the piece about Array",
           "uploader_url": null,
           "url": "https://www.youtube.com/watch?v=tgTsW_lUtsc",
           "view_count": 2000
@@ -7249,7 +7249,7 @@
           "view_count": 28000
         }
       ],
-      "epoch": 1791670094,
+      "epoch": 1791672634,
       "extractor": "youtube:tab",
       "extractor_key": "YoutubeTab",
       "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
@@ -7366,12 +7366,12 @@
           "thumbnails": [
             {
               "height": 720,
-              "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLClm4K6DvaSLfD_J8aUK9LdwCyZRQ&usqp=CCk",
+              "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar3.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA9dB8KMguMfa0anrmA5Hn1gcwh4w&usqp=CCk",
               "width": 405
             },
             {
               "height": 608,
-              "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar2.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLDHqywPEAWjD4TO_UaUzIsMR-9q4g&usqp=CCk",
+              "url": "https://i.ytimg.com/vi/aEWXtdgusR8/oar3.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLA935_eovQw3y1mtO44kbbOUHEb-Q&usqp=CCk",
               "width": 405
             }
           ],
@@ -7387,12 +7387,12 @@
           "thumbnails": [
             {
               "height": 720,
-              "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar3.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC5AT7COU4sAc-iU0oo1nkRIRHj1Q&usqp=CCk",
+              "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCXyt8ayxrOjoYMeUztzsM6YhCR9g&usqp=CCk",
               "width": 405
             },
             {
               "height": 608,
-              "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar3.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBON0PAhXQEDSekAuoUeNaWtMomqA&usqp=CCk",
+              "url": "https://i.ytimg.com/vi/YHo7sh-TY_8/oar2.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLBwMIpVP1iqngWq5FDRLz1OV0HZmw&usqp=CCk",
               "width": 405
             }
           ],
@@ -7408,12 +7408,12 @@
           "thumbnails": [
             {
               "height": 720,
-              "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar1.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAH87OXqJiYU-qfjeoJcXe3Dp5wEg&usqp=CCk",
+              "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar3.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAornayO2cMMSCutyy2kZQcVX925Q&usqp=CCk",
               "width": 405
             },
             {
               "height": 608,
-              "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar1.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAUqzT-8P94Wa71rBxXRagkEX_hdA&usqp=CCk",
+              "url": "https://i.ytimg.com/vi/cRRytPpV1sM/oar3.jpg?sqp=-oaymwEgCJUDEOAESFWQAgHyq4qpAw8IARUAAIhCcAHAAQbIAQE=&rs=AOn4CLAP1QxFLkSBNKt5awcicgnvaMDsnA&usqp=CCk",
               "width": 405
             }
           ],
@@ -7443,7 +7443,7 @@
           "view_count": 5300
         }
       ],
-      "epoch": 1791670094,
+      "epoch": 1791672634,
       "extractor": "youtube:tab",
       "extractor_key": "YoutubeTab",
       "id": "UC8aUxVCtAmBtKXmYdPmzjeA",
@@ -7542,7 +7542,7 @@
       "webpage_url": "https://www.youtube.com/@AsForJS/shorts"
     }
   ],
-  "epoch": 1791670094,
+  "epoch": 1791672634,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "@AsForJS",

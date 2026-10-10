@@ -223,9 +223,51 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=dsrPYivNgXc",
       "view_count": 2000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 455,
+      "id": "sj1VEnlEtQw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxaTnpA5Tx4TxYOW8B86Isqwvixg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdSgQEQ6Uft9wsTL_5aw5mnWX8hg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDihwhzCecSOlS1FlRHQtUjUV8iNw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/sj1VEnlEtQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6KeZ-y5wulIA5H0poPl3hRquy5w",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "Try to hack My JavaScript: readyState",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=sj1VEnlEtQw",
+      "view_count": 5000
     }
   ],
-  "epoch": 1791670106,
+  "epoch": 1791672645,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH",
@@ -233,27 +275,20 @@
   "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH",
   "playlist_count": 6,
   "release_year": null,
-  "requested_entries": [
-    1,
-    2,
-    3,
-    4,
-    5
-  ],
   "tags": [],
   "thumbnails": [
     {
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CMq8qtYG-oaymwEICPABEPABSFqi85f_AwYIv6ifvQY=&rs=AOn4CLDC52aebBWHNKrccBdqeUCNhepDpw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CNz7qtYG-oaymwEICPABEPABSFqi85f_AwYIv6ifvQY=&rs=AOn4CLCIOVJ7_qc_M8qCyfnYix3ftk22lg",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CKC2qtYG-oaymwEICOADEOADSFqi85f_AwYIv6ifvQY=&rs=AOn4CLDSBvwwqeGx6AhoUNZMBpysTDm9oA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KlXZlChcnlc0eX6eluUhuRH/studio_square_thumbnail.jpg?sqp=CM6Bq9YG-oaymwEICOADEOADSFqi85f_AwYIv6ifvQY=&rs=AOn4CLB0gjJ7otSMI_qu4-H2ivoRbml72w",
       "width": 480
     }
   ],

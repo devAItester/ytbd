@@ -219,9 +219,219 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=lq5vi6DmEpA",
       "view_count": 8600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 10545,
+      "id": "-FmCm-Wjdok",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCW3vADfnG8nq0zLznD8nlBHISg7g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJ9V-szPVPHQSAqZEfH1WNW25nkA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIYBksbXk7gRQg_aSrHK549FJHbA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/-FmCm-Wjdok/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDH0McgNxKW3NsjQ1dqos63rJRUeA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡JSbook: 02.2⎦   JavaScript: От мифов к спецификации. Структурирование информации",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=-FmCm-Wjdok",
+      "view_count": 8800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3371,
+      "id": "1F-8pn30bOI",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0GB-t6TOLJ_zPEBjdUB_DgLq1Pg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDTqu3ur6PtFmShRy5XyrYWHtf-xg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANmtzCDH9AAFwKgCmRf9RgPrcCJA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/1F-8pn30bOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8Fem8iN7VfSiWhFKhu2xGEPSQ4g",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡JSbook: 02.0⎦   JavaScript: От мифов к спецификации. Три JS кита.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=1F-8pn30bOI",
+      "view_count": 5400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 7196,
+      "id": "Rk79CNSQuWQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJZUgt29JGMIOWlNtnUil5Qjwoig",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5q4CAI_AJFZiTbeVgGw8z6d-cbQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9vYGXJ0jKaxD7DCV6lFbExWfuJw",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/Rk79CNSQuWQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9YNz51j9Tc_Kot4fTug8ugpr1oQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡JSbook: 01.2⎦ JavaScript: From Myths to Specification. Introduction: Who Is This Book For?",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=Rk79CNSQuWQ",
+      "view_count": 4200
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 4600,
+      "id": "rvt2EdYoCq4",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPy3bVFz30arPaDEAeUHLETOQfIg",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD78rMCnTW83mFI57YISeNw6k4zXg",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLGTxRSy7tUicDHCIlj7OW2NizcA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/rvt2EdYoCq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqEt3esACQnfoGgWKnFDqMM7VtSA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡JSbook: 01.1⎦ JavaScript: From Myths to Specification. Introduction: About the Author",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=rvt2EdYoCq4",
+      "view_count": 3800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 5655,
+      "id": "2JYATSfmsAs",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBKKAHeMF90vU3JyYeCChSx_ijy-A",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlhzTQoaIOirzzuoioP75K851fpQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMetLESsYyLBwenqzjyUiRudzThQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/2JYATSfmsAs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxRwumhZ9x32bApIc8kE7myJSuyA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡JSbook: 01.0⎦   JavaScript: От мифов к спецификации. Введение.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=2JYATSfmsAs",
+      "view_count": 6200
     }
   ],
-  "epoch": 1791670110,
+  "epoch": 1791672649,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg",
@@ -229,34 +439,27 @@
   "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg",
   "playlist_count": 10,
   "release_year": null,
-  "requested_entries": [
-    1,
-    2,
-    3,
-    4,
-    5
-  ],
   "tags": [],
   "thumbnails": [
     {
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CIjhqtYG-oaymwEICPABEPABSFqi85f_AwYIsJGSpwY=&rs=AOn4CLDdKwHytDo99upNbmAR_A35FSw0Dw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CJ28qtYG-oaymwEICPABEPABSFqi85f_AwYIsJGSpwY=&rs=AOn4CLAnl0TsQAXlje2izRRs2DEtpq3z0A",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CK-2qtYG-oaymwEICOADEOADSFqi85f_AwYIsJGSpwY=&rs=AOn4CLAAGvUFKSw-ySd8T9qSIAzplQK0QA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CLDQqtYG-oaymwEICOADEOADSFqi85f_AwYIsJGSpwY=&rs=AOn4CLAEG1Gen57-TiznZq520nfwVmVeeA",
       "width": 480
     },
     {
       "height": 720,
       "id": "2",
       "resolution": "720x720",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CJ7nqtYG-oaymwEICNAFENAFSFqi85f_AwYIsJGSpwY=&rs=AOn4CLAuAAppElXDrnqA69WcdSg_JqYyXA",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KnIt1JQS1FIq6WNoh7UaMhg/studio_square_thumbnail.jpg?sqp=CM3dqtYG-oaymwEICNAFENAFSFqi85f_AwYIsJGSpwY=&rs=AOn4CLBdQSfcO5sHDnVfDjvZYrJNxLPCEw",
       "width": 720
     }
   ],

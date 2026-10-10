@@ -223,9 +223,51 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=vZyyFMaprIY",
       "view_count": 2500
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1105,
+      "id": "kWBHCtJwCR8",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOkHuf8_nEWPixUzAglo-LbeOitQ",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnWLyOEBmdbexQ9WeLrD47G2CTlQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp5mVnHKkehg74wtwDXcHJZiu9nA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/kWBHCtJwCR8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtMvsYPyjYGTKhgW7ghTJSw551GA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦⎡RegExp⎦⎡01⎦ Regular 5 Minutes. Or Introduction to Regular Epressions",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=kWBHCtJwCR8",
+      "view_count": 2000
     }
   ],
-  "epoch": 1791670113,
+  "epoch": 1791672652,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9",
@@ -233,27 +275,20 @@
   "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9",
   "playlist_count": 6,
   "release_year": null,
-  "requested_entries": [
-    1,
-    2,
-    3,
-    4,
-    5
-  ],
   "tags": [],
   "thumbnails": [
     {
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CIzqqtYG-oaymwEICPABEPABSFqi85f_AwYIwLufvQY=&rs=AOn4CLCyrAnbGgtqnMjNktg4fnFoqp-qtw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CPTgqtYG-oaymwEICPABEPABSFqi85f_AwYIwLufvQY=&rs=AOn4CLCylKbt8fbAnxyxA2SNpPpWC_3cYQ",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CNC5qtYG-oaymwEICOADEOADSFqi85f_AwYIwLufvQY=&rs=AOn4CLC3_pels63DhvvaOwv-Hsd19O2agg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7Kn58DVfrX21oVBhghkS9XS9/studio_square_thumbnail.jpg?sqp=CIn8qtYG-oaymwEICOADEOADSFqi85f_AwYIwLufvQY=&rs=AOn4CLBQ6zbhY2jqrrS4JBRqwAqRbtisLg",
       "width": 480
     }
   ],

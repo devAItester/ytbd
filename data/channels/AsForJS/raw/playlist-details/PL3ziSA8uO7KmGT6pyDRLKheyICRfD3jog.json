@@ -223,9 +223,303 @@
       "uploader_url": "https://www.youtube.com/@AsForJS",
       "url": "https://www.youtube.com/watch?v=tHOS3zlr9jU",
       "view_count": 1800
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 3221,
+      "id": "k9lpuV9UlBc",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6xPneWYr-QAInXw67AuETMhr-vA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-zaka9SIL4vu_bK85uFXnoJ9ZEA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfEFwuwYyMSwcZFOfUc3x93kSFLg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/k9lpuV9UlBc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu__po6gwIfrbLK3kutqcNzYtTFA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦ JavaScript посрамил chat GPT",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=k9lpuV9UlBc",
+      "view_count": 1700
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 749,
+      "id": "yxziSZb2Ogg",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjxzgZ-bc3sS6ZcX3lPacetuc7eA",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBafmM8WRyKuPmtF0Tn9B2aXdJ36A",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuyAgc9AHLEBU2fEyEgun7DNxFLA",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/yxziSZb2Ogg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhFydyKLfia-0k-c4s31HFP6ACQQ",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[msk] JavaScript Arrays and Default Values",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=yxziSZb2Ogg",
+      "view_count": 1600
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 4955,
+      "id": "awoFe_9kbuU",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBB9Gutgk5XvEYjp11q2Zl4N0zbtw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1YsFOy0l4wdOKgTKDpNnk4dqP8w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT52nBG5HkM9whnCTAszMk45G7GQ",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/awoFe_9kbuU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2vb13ZAjsf8WnGmY3kE8_lBUheA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦ JavaScript expressions",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=awoFe_9kbuU",
+      "view_count": 2400
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 2934,
+      "id": "wkwgWbIdMrQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCDByr6E6FX3dFPl8qgK7AYqBL8Aw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASLCIkFHYdW-U6kjQDz8tWuLZnVQ",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKaHPxD928mJ4lxogt6ekVsRVo9A",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/wkwgWbIdMrQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtTMyABoDltP7c2RrUSQm80FqSaA",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦ Why adding a number to an object in JavaScript is cool, not an architectural flaw",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=wkwgWbIdMrQ",
+      "view_count": 4000
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 1495,
+      "id": "P3KQkLUvFFw",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAB33ckFtrtAM4jxDZwaULJJ47U7g",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAIEdMEimzRpoEM4c6XobCEYyH66w",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwytnM3ZZbonNax34kA1UV0E7r8Q",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/P3KQkLUvFFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCKJr03MOwRKtldejKa_EakFytZg",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "[msk] JavaScript JSON as an effective technique for optimizing JS cold starts.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=P3KQkLUvFFw",
+      "view_count": 1900
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 961,
+      "id": "98mOkxRFHYA",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAz4QJ7b8K-TkaQR4iDmnowLEaOTw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBz6c02PkNLBJbcuU6ZkAnWYOV2OA",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0aNVNHIyFDPSAYO8-nEjlGTr-yg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/98mOkxRFHYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5tBaIEvnaUo-F2CM9JMd1oQ0I9Q",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "⎡msk⎦ JavaScript Destructuring Assignment or not all that is written is gold.",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=98mOkxRFHYA",
+      "view_count": 2100
+    },
+    {
+      "__x_forwarded_for_ip": null,
+      "_type": "url",
+      "availability": null,
+      "channel": "As For JS",
+      "channel_id": "UC8aUxVCtAmBtKXmYdPmzjeA",
+      "channel_url": "https://www.youtube.com/channel/UC8aUxVCtAmBtKXmYdPmzjeA",
+      "creators": null,
+      "duration": 908,
+      "id": "biy50-ssgVQ",
+      "ie_key": "Youtube",
+      "live_status": "was_live",
+      "thumbnails": [
+        {
+          "height": 94,
+          "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4F7zEykz22LW-oMPzd_w_CPD0Jw",
+          "width": 168
+        },
+        {
+          "height": 110,
+          "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkEZvG-5XegKrbLok_AmJgKmUTww",
+          "width": 196
+        },
+        {
+          "height": 138,
+          "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDcqqPtX6EVgMHeTCt92XxdWHupg",
+          "width": 246
+        },
+        {
+          "height": 188,
+          "url": "https://i.ytimg.com/vi/biy50-ssgVQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_Z_vFhOAKOvofu3cUuthzaCtA4A",
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "title": "JavaScript and identifiers. Part of the Tips and Tricks podcast [Msk] [JavaScript shorts]",
+      "uploader": "As For JS",
+      "uploader_id": "@AsForJS",
+      "uploader_url": "https://www.youtube.com/@AsForJS",
+      "url": "https://www.youtube.com/watch?v=biy50-ssgVQ",
+      "view_count": 3300
     }
   ],
-  "epoch": 1791670115,
+  "epoch": 1791672655,
   "extractor": "youtube:tab",
   "extractor_key": "YoutubeTab",
   "id": "PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog",
@@ -233,27 +527,20 @@
   "original_url": "https://www.youtube.com/playlist?list=PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog",
   "playlist_count": 12,
   "release_year": null,
-  "requested_entries": [
-    1,
-    2,
-    3,
-    4,
-    5
-  ],
   "tags": [],
   "thumbnails": [
     {
       "height": 240,
       "id": "0",
       "resolution": "240x240",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CIrWqtYG-oaymwEICPABEPABSFqi85f_AwYIj_iVvQY=&rs=AOn4CLBPhG4ypvPdQqhAjCDptBVFZwDzTw",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CNbZqtYG-oaymwEICPABEPABSFqi85f_AwYIj_iVvQY=&rs=AOn4CLDj57qYI1FoDe-SzMIQmOFNaOq6lw",
       "width": 240
     },
     {
       "height": 480,
       "id": "1",
       "resolution": "480x480",
-      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CLHfqtYG-oaymwEICOADEOADSFqi85f_AwYIj_iVvQY=&rs=AOn4CLAB-rnS806XaYsBWsj8s9d3SWsgfg",
+      "url": "https://i.ytimg.com/pl_c/PL3ziSA8uO7KmGT6pyDRLKheyICRfD3jog/studio_square_thumbnail.jpg?sqp=CMjkqtYG-oaymwEICOADEOADSFqi85f_AwYIj_iVvQY=&rs=AOn4CLB9X5gH8YEbyFwAusHynwZL8fSuMA",
       "width": 480
     }
   ],
