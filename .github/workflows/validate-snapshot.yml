@@ -7,9 +7,11 @@ on:
       - "examples/AsForJS/**"
       - "scripts/validate_snapshot.py"
       - "scripts/collect.py"
+      - "scripts/process_channels.py"
       - "tests/**"
       - ".github/workflows/validate-snapshot.yml"
       - "README.md"
+      - "templates/**"
 
 permissions:
   contents: read
@@ -24,6 +26,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+      - name: Установить библиотеку шаблонов
+        run: python -m pip install --upgrade Jinja2
       - name: Проверить сохранённый снимок
         run: python scripts/validate_snapshot.py
       - name: Проверить тесты сборщика без сетевых запросов
