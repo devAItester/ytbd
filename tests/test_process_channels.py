@@ -95,6 +95,7 @@ class TemplateTests(unittest.TestCase):
             "checked_at": "2026-10-10 12:00:00 UTC",
             "template_name": "outline.md",
             "channel_data": {"id": "UC1", "title": "Test <channel>", "_type": "channel"},
+            "local_media": {},
             "errors": ["temporary <error>"],
             "sections": [{
                 "key": "videos",
