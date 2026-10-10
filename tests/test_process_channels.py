@@ -8,6 +8,7 @@ from unittest.mock import patch
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from scripts.process_channels import (
+    build_command,
     discover_tabs,
     folder_name,
     merge_archive,
@@ -154,6 +155,12 @@ class ArchiveTests(unittest.TestCase):
             )
             subtitle_to_text(source, target)
             self.assertEqual(target.read_text(encoding="utf-8"), "Привет\nМир\n")
+
+    def test_playlist_command_can_limit_entries_for_smoke_test(self):
+        command = build_command("https://www.youtube.com/playlist?list=PL123", playlist_items=5)
+        self.assertIn("--playlist-items", command)
+        self.assertIn("1-5", command)
+        self.assertEqual(command[-1], "https://www.youtube.com/playlist?list=PL123")
 
     def test_prepare_items_adds_watch_url(self):
         items = prepare_items({"entries": [{"id": "abc123", "title": "Example video"}]})
