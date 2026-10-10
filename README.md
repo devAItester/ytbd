@@ -70,4 +70,4 @@ Workflow обрабатывает все каналы из списка. Ник�
 
 [examples/AsForJS/](examples/AsForJS/) — сохранённые материалы AsForJS для анализа и регрессионных проверок. Это пример и тестовый снимок, а не ограничение списка каналов.
 
-Методика и устройство данных: [метод сбора](docs/collection-method.md), [жизненный цикл данных](docs/data-lifecycle.md), [оценка инструментов](docs/tool-evaluation.md).
+Методика и устройство данных: [метод сбора](docs/collection-method.md), [жизненный цикл данных](docs/data-lifecycle.md), [оценка инструментов](docs/tool-evaluation.md), [текущее состояние и следующий этап](docs/current-state.md), [контекст для ИИ](AI_CONTEXT.md), [сравнение YouTube Data API v3 с проектом](docs/youtube-data-api-comparison.md).
