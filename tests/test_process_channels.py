@@ -10,6 +10,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from scripts.process_channels import (
     build_command,
     discover_tabs,
+    fetch_video_details,
     folder_name,
     merge_archive,
     normalize_channel_url,
@@ -155,6 +156,28 @@ class ArchiveTests(unittest.TestCase):
             )
             subtitle_to_text(source, target)
             self.assertEqual(target.read_text(encoding="utf-8"), "Привет\nМир\n")
+
+    def test_video_details_download_only_russian_and_english_media_without_video(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            media_dir = Path(tmp) / "media"
+            completed = __import__("subprocess").CompletedProcess(
+                args=[], returncode=0, stdout='{"id":"video1"}', stderr=""
+            )
+            with patch("scripts.process_channels.subprocess.run", return_value=completed) as run:
+                metadata, error, diagnostic = fetch_video_details(
+                    "https://www.youtube.com/watch?v=video1", media_dir=media_dir
+                )
+            self.assertEqual(metadata["id"], "video1")
+            self.assertIsNone(error)
+            self.assertEqual(diagnostic, "")
+            command = run.call_args.args[0]
+            self.assertIn("--no-simulate", command)
+            self.assertIn("--write-thumbnail", command)
+            self.assertIn("--write-subs", command)
+            self.assertIn("--write-auto-subs", command)
+            self.assertEqual(command[command.index("--sub-langs") + 1], "ru,en")
+            self.assertIn("--skip-download", command)
+            self.assertNotIn("all", command[command.index("--sub-langs") + 1:])
 
     def test_playlist_command_can_limit_entries_for_smoke_test(self):
         command = build_command("https://www.youtube.com/playlist?list=PL123", playlist_items=5)
