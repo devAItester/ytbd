@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CHANNEL_URL = "https://www.youtube.com/@RTFMurych"
-TEMPLATES = ("outline.md", "archive.md", "index.md")
+TEMPLATES = ("outline.md", "archive.md", "index.md", "full.md")
 
 
 def copy_evidence(temp: Path, artifacts: Path | None, template_name: str) -> None:
@@ -44,6 +44,8 @@ def check_output(template_name: str, output: str, tabs: list[dict]) -> list[str]
         title = tab["title"]
         if template_name == "outline.md":
             marker = f"<summary>{title} —"
+        elif template_name == "full.md":
+            marker = f"## {title} —"
         else:
             marker = f"## {title}"
         if marker not in output:
@@ -55,6 +57,13 @@ def check_output(template_name: str, output: str, tabs: list[dict]) -> list[str]
         failures.append("соседние пункты списка склеены")
     if any(line.strip() != "</details>" for line in output.splitlines() if "</details>" in line):
         failures.append("закрывающий тег details приклеен к содержимому карточки")
+    if template_name == "full.md":
+        if "Метаданные канала" not in output:
+            failures.append("в полном представлении отсутствуют метаданные канала")
+        if '"_type"' not in output and '"id"' not in output:
+            failures.append("в полном представлении не обнаружены поля JSON-метаданных")
+        if "Локальные файлы" not in output:
+            failures.append("в полном представлении отсутствует раздел о локальных файлах")
     if template_name == "outline.md" and "<details>" not in output:
         failures.append("в обзоре отсутствуют раскрывающиеся разделы")
     if template_name == "archive.md" and "<details>" not in output:
