@@ -11,6 +11,9 @@
 
 Архив: **{{ section.archive_count|e }}** · Сейчас в источнике: **{{ section.current_count|e }}**
 
+{% if section.collection_error and not section["items"] %}
+Сбор этого раздела завершился ошибкой; отсутствие записей не подтверждено.
+{% endif %}
 {% for item in section["items"] %}
 <details>
 <summary>{% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %} · ID: {{ item.id|e }}</summary>
