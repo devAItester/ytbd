@@ -17,7 +17,10 @@ from urllib.request import Request, urlopen
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from scripts.media import download_video_subtitles, download_video_thumbnail
+try:
+    from scripts.media import download_video_subtitles, download_video_thumbnail
+except ModuleNotFoundError:
+    from media import download_video_subtitles, download_video_thumbnail
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_INPUT = ROOT / "config/channels.txt"
