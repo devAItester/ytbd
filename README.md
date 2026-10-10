@@ -1,4 +1,4 @@
-# ytbd — YouTube-архив и HTML-представления
+# ytbd — YouTube-архив и Markdown-представления
 
 Добавь URL каналов, выбери шаблон представления и нажми **Run workflow**. Проект проверит актуальность открытых списков YouTube, обновит локальный архив и сформирует читабельные Markdown-страницы со сворачивающимися разделами. Для обычного запуска локальный терминал не нужен.
 
@@ -25,7 +25,7 @@
 
 ## 3. Запустить обновление
 
-Открой [workflow «Обновить архив YouTube и HTML-представления»](https://github.com/devAItester/ytbd/actions/workflows/process-channels.yml), нажми **Run workflow**, выбери шаблон и снова нажми **Run workflow**.
+Открой [workflow «Обновить архив YouTube и представления»](https://github.com/devAItester/ytbd/actions/workflows/process-channels.yml), нажми **Run workflow**, выбери шаблон и снова нажми **Run workflow**.
 
 Workflow обрабатывает все каналы из списка. Никакие URL не нужно передавать в форме запуска.
 
@@ -57,7 +57,7 @@ Workflow обрабатывает все каналы из списка. Ник�
 - **История разных исходных снимков:** data/channels/<канал>/raw/history/; одинаковые ответы не дублируются.
 - **Накопленный архив записей:** data/channels/<канал>/archive/.
 - **Статус последней проверки и ошибки:** data/channels/<канал>/status.json.
-- **страницы Markdown:** data/output/<канал>/<шаблон>.html.
+- **Страницы Markdown:** data/output/<канал>/<шаблон>.md.
 
 Открой [каталог исходных данных](data/channels/) или [каталог представлений](data/output/). Результаты появятся после первого успешного запуска сбора.
 
