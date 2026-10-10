@@ -17,6 +17,8 @@ from urllib.request import Request, urlopen
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from scripts.media import download_video_thumbnail
+
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_INPUT = ROOT / "config/channels.txt"
 DEFAULT_TEMPLATES = ROOT / "templates"
@@ -191,7 +193,6 @@ def fetch_video_details(
         command.extend([
             "--no-simulate",
             "--write-info-json",
-            "--write-thumbnail",
             "--write-subs",
             "--write-auto-subs",
             "--sub-langs", "ru,en",
@@ -355,6 +356,18 @@ def collect_video_details(
 
     local_root = channel_output_dir / "media" / "videos"
     details_root = channel_dir / "raw" / "video-details"
+    local_thumbnails: dict[str, str] = {}
+    media_ids = list(references)[:detail_limit] if detail_limit else list(references)
+    if download_media:
+        for video_id in media_ids:
+            thumbnail_path, thumbnail_error = download_video_thumbnail(
+                video_id, references[video_id][0], channel_output_dir
+            )
+            if thumbnail_path:
+                local_thumbnails[video_id] = thumbnail_path
+            if thumbnail_error:
+                errors.append(f"thumbnail {video_id}: {thumbnail_error}")
+
     attempted = 0
     for video_id, items in references.items():
         # A prior successful detail extraction remains useful if a later run is limited.
@@ -435,6 +448,12 @@ def collect_video_details(
                 "subtitles": subtitles,
                 "transcripts": sorted(set(transcripts)),
             }
+    for video_id, path in local_thumbnails.items():
+        entry = local_media.setdefault(video_id, {
+            "directory": "", "metadata": "", "thumbnails": [], "subtitles": [], "transcripts": []
+        })
+        if path not in entry["thumbnails"]:
+            entry["thumbnails"].append(path)
     return local_media, errors
 
 
