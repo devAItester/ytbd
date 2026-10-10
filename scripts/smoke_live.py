@@ -90,6 +90,7 @@ def main() -> int:
         args.artifacts.mkdir(parents=True, exist_ok=True)
 
     failures: list[str] = []
+    detail_skipped = False
     with tempfile.TemporaryDirectory(prefix="ytbd-live-smoke-") as temporary:
         root = Path(temporary)
         input_path = root / "channels.txt"
@@ -152,6 +153,7 @@ def main() -> int:
                 blocked_by_youtube = any("not a bot" in str(error).lower() for error in detail_errors)
                 if not detailed:
                     if blocked_by_youtube:
+                        detail_skipped = True
                         print(
                             "ПРОПУСК подробного сбора: YouTube блокирует IP GitHub Actions "
                             "проверкой «Sign in to confirm you're not a bot»."
@@ -177,7 +179,14 @@ def main() -> int:
             print(f"- {failure}", file=sys.stderr)
         return 1
 
-    print("УСПЕХ: все четыре шаблона прошли live-сбор; full.md дополнительно проверил подробные метаданные трёх видео и локальные материалы.")
+    if detail_skipped:
+        print(
+            "УСПЕХ: базовый live-сбор и все четыре шаблона проверены. "
+            "Подробное извлечение видео пропущено из-за антибот-блокировки GitHub Actions; "
+            "его нужно проверить локально."
+        )
+    else:
+        print("УСПЕХ: все четыре шаблона прошли live-сбор; full.md проверил подробные метаданные и локальные материалы.")
     return 0
 
 
