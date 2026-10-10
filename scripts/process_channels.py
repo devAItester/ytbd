@@ -108,7 +108,7 @@ def read_json(path: Path, fallback):
 
 
 def write_json_if_changed(path: Path, payload) -> bool:
-    encoded = json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\\n"
+    encoded = json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
     if path.exists() and path.read_text(encoding="utf-8") == encoded:
         return False
     path.parent.mkdir(parents=True, exist_ok=True)
