@@ -195,6 +195,8 @@ def fetch_video_details(url: str, media_dir: Path | None = None) -> tuple[dict |
         payload = json.loads(result.stdout)
     except json.JSONDecodeError as exc:
         return None, f"Некорректный JSON видео: {exc}", diagnostic
+    if payload is None:
+        return None, "yt-dlp вернул null; это бывает у предстоящих трансляций или видео, недоступных экстрактору.", diagnostic
     if not isinstance(payload, dict):
         return None, f"yt-dlp вернул JSON типа {type(payload).__name__}: {payload!r}.", diagnostic
     if not payload.get("id"):
@@ -331,16 +333,6 @@ def collect_video_details(
         else:
             url = f"https://www.youtube.com/watch?v={video_id}"
         metadata, error, diagnostic = fetch_video_details(url)
-        processed += 1
-        if metadata is not None and download_media:
-            video_dir = local_root / video_folder_name(metadata)
-            media_metadata, media_error, media_diagnostic = fetch_video_details(url, video_dir)
-            if media_metadata is not None:
-                metadata = media_metadata
-            elif media_error:
-                errors.append(f"video media {video_id}: {media_error}")
-            if media_diagnostic:
-                diagnostic = "\n".join(value for value in (diagnostic, media_diagnostic) if value)
         if metadata is None:
             errors.append(f"video {video_id}: {error}")
             if diagnostic:
@@ -351,6 +343,16 @@ def collect_video_details(
                 metadata = cached
             else:
                 continue
+        processed += 1
+        if download_media:
+            video_dir = local_root / video_folder_name(metadata)
+            media_metadata, media_error, media_diagnostic = fetch_video_details(url, video_dir)
+            if media_metadata is not None:
+                metadata = media_metadata
+            elif media_error:
+                errors.append(f"video media {video_id}: {media_error}")
+            if media_diagnostic:
+                diagnostic = "\n".join(value for value in (diagnostic, media_diagnostic) if value)
         save_raw_snapshot(details_root, video_id, metadata)
         for item in items:
             item.update(metadata)
@@ -599,15 +601,16 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     write_json_if_changed(channel_dir / "status.json", status)
 
     local_media: dict[str, dict] = {}
+    detail_errors: list[str] = []
     channel_data = read_json(channel_dir / "channel.json", {})
     if template_name == "full.md":
         local_media, detail_errors = collect_video_details(
             channel_dir, output_root / handle, active_tabs, detail_limit, download_media
         )
-        errors.extend(detail_errors)
         if download_media and isinstance(channel_data, dict):
             local_media["_channel"] = download_channel_images(channel_data, output_root / handle)
         status["errors"] = errors
+        status["detail_errors"] = detail_errors
         write_json_if_changed(channel_dir / "status.json", status)
     title = str(channel_data.get("title") or channel_data.get("channel") or handle)
     channel_id = str(channel_data.get("channel_id") or channel_data.get("id") or "")
@@ -624,6 +627,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         channel_id=channel_id,
         channel_data=channel_data,
         local_media=local_media,
+        detail_errors=detail_errors,
         checked_at=checked_at,
         sections=make_sections(
             channel_dir,
