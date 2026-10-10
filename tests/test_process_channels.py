@@ -1,3 +1,5 @@
+import io
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -6,6 +8,7 @@ from unittest.mock import patch
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from scripts.process_channels import (
+    discover_tabs,
     folder_name,
     merge_archive,
     normalize_channel_url,
@@ -55,6 +58,24 @@ class ChannelInputTests(unittest.TestCase):
     def test_folder_name_uses_handle(self):
         self.assertEqual(folder_name("https://www.youtube.com/@AsForJS"), "AsForJS")
 
+    def test_discovers_only_channel_navigation_links(self):
+        html = b"""
+        <a href="/@Example/videos">Videos</a>
+        <a href="/@Example/shorts">Shorts</a>
+        <a href="/@Example/playlists">Playlists</a>
+        <a href="/@Example/watch?v=not-a-tab">Video content</a>
+        <a href="/@Other/videos">Other channel</a>
+        """
+        with patch("scripts.process_channels.urlopen", return_value=io.BytesIO(html)):
+            tabs = discover_tabs("https://www.youtube.com/@Example")
+        self.assertEqual([tab[0] for tab in tabs], ["videos", "shorts", "playlists"])
+
+    def test_discovers_tabs_embedded_in_initial_data(self):
+        html = b'<script>var ytInitialData = {"url":"/@Example/videos","other":"/@Example/shorts"};</script>'
+        with patch("scripts.process_channels.urlopen", return_value=io.BytesIO(html)):
+            tabs = discover_tabs("https://www.youtube.com/@Example")
+        self.assertEqual([tab[0] for tab in tabs], ["videos", "shorts"])
+
 
 class TemplateTests(unittest.TestCase):
     def test_all_repository_templates_render_without_network(self):
@@ -96,6 +117,10 @@ class TemplateTests(unittest.TestCase):
             self.assertIn("video1", rendered)
         self.assertIn("<details>", env.get_template("outline.md").render(**context))
         self.assertIn("<details>", env.get_template("archive.md").render(**context))
+        outline = env.get_template("outline.md").render(**context)
+        archive = env.get_template("archive.md").render(**context)
+        self.assertIn("- **ID:** UC1\n- **Последняя проверка:**", outline)
+        self.assertIn("- **ID:** UC1\n- **Последняя проверка:**", archive)
 
 
 class ArchiveTests(unittest.TestCase):
@@ -155,7 +180,7 @@ class ArchiveTests(unittest.TestCase):
             templates.mkdir()
             (templates / "outline.md").write_text(
                 "<h1>{{ title }}</h1>{% for section in sections %}"
-                "<details><summary>{{ section.title }}</summary>"
+                "<details><summary>{{ section.title }}</summary>{% if section.collection_error %}сохранённый архив может быть устаревшим{% endif %}"
                 "{% for item in section[\"items\"] %}<a href=\"{{ item.display_url }}\">{{ item.title }}</a>"
                 "{% endfor %}</details>{% endfor %}"
                 "{% for error in errors %}<p>{{ error }}</p>{% endfor %}",
@@ -168,7 +193,15 @@ class ArchiveTests(unittest.TestCase):
                 ({"entries": [{"id": "podcast1", "title": "Podcast one"}]}, None, ""),
                 ({"entries": [{"id": "playlist1", "title": "Playlist one"}]}, None, ""),
             ]
-            with patch("scripts.process_channels.fetch_json", side_effect=success_responses):
+            discovered_tabs = [
+                ("videos", "Видео", "videos"),
+                ("streams", "Трансляции", "streams"),
+                ("podcasts", "Подкасты", "podcasts"),
+                ("playlists", "Плейлисты", "playlists"),
+            ]
+            with patch("scripts.process_channels.discover_tabs", return_value=discovered_tabs), patch(
+                "scripts.process_channels.fetch_json", side_effect=success_responses
+            ):
                 ok, errors = process_channel(
                     url, "outline.md", templates, root / "data/channels", root / "data/output"
                 )
@@ -187,7 +220,9 @@ class ArchiveTests(unittest.TestCase):
                 ({"entries": [{"id": "podcast1", "title": "Podcast one"}]}, None, ""),
                 ({"entries": [{"id": "playlist1", "title": "Playlist one"}]}, None, ""),
             ]
-            with patch("scripts.process_channels.fetch_json", side_effect=second_responses):
+            with patch("scripts.process_channels.discover_tabs", return_value=discovered_tabs), patch(
+                "scripts.process_channels.fetch_json", side_effect=second_responses
+            ):
                 ok, errors = process_channel(
                     url, "outline.md", templates, root / "data/channels", root / "data/output"
                 )
@@ -198,6 +233,9 @@ class ArchiveTests(unittest.TestCase):
                 old_archive,
             )
             self.assertIn("source temporarily unavailable", output_path.read_text(encoding="utf-8"))
+            self.assertIn("сохранённый архив может быть устаревшим", output_path.read_text(encoding="utf-8"))
+            status = json.loads((channel_dir / "status.json").read_text(encoding="utf-8"))
+            self.assertEqual(status["tabs"]["streams"]["status"], "error-or-not-yet-collected")
 
 
 if __name__ == "__main__":

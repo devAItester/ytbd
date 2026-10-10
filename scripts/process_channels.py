@@ -6,12 +6,14 @@ import argparse
 import json
 import hashlib
 import re
+from html.parser import HTMLParser
 import shutil
 import subprocess
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
+from urllib.request import Request, urlopen
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
@@ -21,12 +23,75 @@ DEFAULT_TEMPLATES = ROOT / "templates"
 DEFAULT_DATA = ROOT / "data/channels"
 DEFAULT_OUTPUT = ROOT / "data/output"
 ALLOWED_HOSTS = {"youtube.com", "www.youtube.com", "m.youtube.com"}
+# Recognized tab types; the active list is discovered from the channel page.
 TABS = {
-    "videos": ("Видео", "/videos"),
-    "streams": ("Трансляции", "/streams"),
-    "podcasts": ("Подкасты", "/podcasts"),
-    "playlists": ("Плейлисты", "/playlists"),
+    "videos": ("Видео", "videos"),
+    "shorts": ("Shorts", "shorts"),
+    "streams": ("Трансляции", "streams"),
+    "podcasts": ("Подкасты", "podcasts"),
+    "playlists": ("Плейлисты", "playlists"),
+    "community": ("Сообщество", "community"),
+    "channels": ("Каналы", "channels"),
+    "about": ("О канале", "about"),
 }
+
+
+class _NavigationParser(HTMLParser):
+    def __init__(self, base_path: str):
+        super().__init__(convert_charrefs=True)
+        self.base_path = base_path.rstrip("/")
+        self.found: list[str] = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() != "a":
+            return
+        href = dict(attrs).get("href")
+        if not href:
+            return
+        path = urlsplit(href).path.rstrip("/")
+        prefix = self.base_path + "/"
+        if not path.startswith(prefix):
+            return
+        suffix = path[len(prefix):]
+        if "/" in suffix or suffix not in TABS:
+            return
+        key = suffix
+        if key not in self.found:
+            self.found.append(key)
+
+
+def discover_tabs(url: str) -> list[tuple[str, str, str]]:
+    """Read only channel-navigation links from public HTML; do not crawl page content."""
+    request = Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0 (compatible; ytbd metadata collector)"},
+    )
+    with urlopen(request, timeout=20) as response:
+        html = response.read().decode("utf-8", errors="replace")
+    parser = _NavigationParser(urlsplit(url).path)
+    parser.feed(html)
+
+    # YouTube often serializes navigation endpoints inside ytInitialData rather
+    # than emitting ordinary <a href="..."> elements in the initial HTML.
+    # Inspect only exact paths for this channel and known tab suffixes.
+    normalized_html = html.replace("\\/", "/")
+    tab_pattern = re.compile(
+        re.escape(parser.base_path)
+        + r"/(videos|shorts|streams|podcasts|playlists|community|channels|about)"
+        + r"(?=[/?#\"'\\])"
+    )
+    for match in tab_pattern.finditer(normalized_html):
+        suffix = match.group(1)
+        key = "streams" if suffix == "live" else suffix
+        if key not in parser.found:
+            parser.found.append(key)
+
+    if not parser.found:
+        raise ValueError(
+            "В HTML канала не найдены распознаваемые вкладки навигации; "
+            "возможно, YouTube вернул страницу согласия, блокировку или изменил формат."
+        )
+    return [(key, TABS[key][0], TABS[key][1]) for key in parser.found]
 
 
 def utc_now() -> str:
@@ -193,9 +258,11 @@ def merge_archive(previous: dict, incoming: list[dict], tab: str, checked_at: st
     }
 
 
-def make_sections(channel_dir: Path) -> list[dict]:
+def make_sections(channel_dir: Path, active_tabs: list[tuple[str, str, str]],
+                  failed_tabs: set[str] | None = None) -> list[dict]:
     sections = []
-    for key, (title, _suffix) in TABS.items():
+    failed_tabs = failed_tabs or set()
+    for key, title, _suffix in active_tabs:
         archive = read_json(channel_dir / "archive" / f"{key}.json", {})
         items = archive.get("items", []) if isinstance(archive, dict) else []
         sections.append({
@@ -204,6 +271,7 @@ def make_sections(channel_dir: Path) -> list[dict]:
             "items": items if isinstance(items, list) else [],
             "current_count": archive.get("current_count", 0) if isinstance(archive, dict) else 0,
             "archive_count": len(items) if isinstance(items, list) else 0,
+            "collection_error": key in failed_tabs,
         })
     return sections
 
@@ -218,6 +286,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     archive_dir.mkdir(parents=True, exist_ok=True)
     checked_at = utc_now()
     errors: list[str] = []
+    failed_tabs: set[str] = set()
 
     channel_data, error, diagnostic = fetch_json(url)
     if channel_data is not None:
@@ -231,10 +300,33 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         if diagnostic:
             write_json_if_changed(channel_dir / "logs" / "channel.txt", diagnostic + "\n")
 
-    for key, (title, suffix) in TABS.items():
-        source_url = url + suffix
+    navigation_path = channel_dir / "tabs.json"
+    try:
+        active_tabs = discover_tabs(url)
+        write_json_if_changed(navigation_path, [
+            {"key": key, "title": title, "suffix": suffix}
+            for key, title, suffix in active_tabs
+        ])
+    except (OSError, ValueError) as exc:
+        errors.append(f"navigation: {exc}")
+        previous_tabs = read_json(navigation_path, [])
+        if isinstance(previous_tabs, list) and previous_tabs:
+            active_tabs = [
+                (entry["key"], entry["title"], entry["suffix"])
+                for entry in previous_tabs
+                if isinstance(entry, dict)
+                and entry.get("key") in TABS
+                and all(entry.get(field) for field in ("title", "suffix"))
+            ]
+        else:
+            # Do not invent tabs when navigation has never been discovered.
+            active_tabs = []
+
+    for key, _title, suffix in active_tabs:
+        source_url = url + "/" + suffix
         payload, error, diagnostic = fetch_json(source_url)
         if payload is None:
+            failed_tabs.add(key)
             errors.append(f"{key}: {error}")
             if diagnostic:
                 write_json_if_changed(channel_dir / "logs" / f"{key}.txt", diagnostic + "\n")
@@ -242,6 +334,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         try:
             incoming = prepare_items(payload)
         except ValueError as exc:
+            failed_tabs.add(key)
             errors.append(f"{key}: {exc}")
             continue
 
@@ -255,7 +348,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         if error_log.exists():
             error_log.unlink()
 
-    if channel_data is None and not any((archive_dir / f"{key}.json").exists() for key in TABS):
+    if channel_data is None and not any((archive_dir / f"{key}.json").exists() for key, _title, _suffix in active_tabs):
         status_ok = False
     else:
         status_ok = True
@@ -267,11 +360,11 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         "tabs": {},
         "errors": errors,
     }
-    for key, (title, _suffix) in TABS.items():
+    for key, _title, _suffix in active_tabs:
         raw_path = raw_dir / f"{key}.json"
         archive = read_json(archive_dir / f"{key}.json", {})
         status["tabs"][key] = {
-            "status": "ok" if raw_path.exists() and key not in {e.split(":", 1)[0] for e in errors} else "error-or-not-yet-collected",
+            "status": "ok" if raw_path.exists() and key not in failed_tabs else "error-or-not-yet-collected",
             "current_count": archive.get("current_count", 0) if isinstance(archive, dict) else 0,
             "archive_count": archive.get("archive_count", 0) if isinstance(archive, dict) else 0,
         }
@@ -292,7 +385,11 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         channel_url=url,
         channel_id=channel_id,
         checked_at=checked_at,
-        sections=make_sections(channel_dir),
+        sections=make_sections(
+            channel_dir,
+            active_tabs,
+            failed_tabs,
+        ),
         errors=errors,
         template_name=template_name,
     )

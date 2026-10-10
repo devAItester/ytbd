@@ -7,10 +7,12 @@ _Краткий индекс · проверено: {{ checked_at|e }}_
 {% for section in sections %}
 ## {{ section.title|e }} ({{ section.archive_count|e }})
 
+{% if section.collection_error %}
+Последняя попытка сбора завершилась ошибкой; данные могут быть устаревшими.
+{% endif %}
 {% for item in section["items"] %}
-- {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}
-{% endfor %}
-{% endfor %}
+- {% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %}{% if item.upload_date %} — {{ item.upload_date|e }}{% endif %}{{ "\n" }}{% endfor %}
+{{ "\n" }}{% endfor %}
 {% if errors %}
 ## Предупреждения
 
