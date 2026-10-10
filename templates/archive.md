@@ -11,8 +11,8 @@
 
 Архив: **{{ section.archive_count|e }}** · Сейчас в источнике: **{{ section.current_count|e }}**
 
-{% if section.collection_error and not section["items"] %}
-Сбор этого раздела завершился ошибкой; отсутствие записей не подтверждено.
+{% if section.collection_error %}
+Последняя попытка сбора завершилась ошибкой; сохранённый архив может быть устаревшим, а отсутствие новых записей не подтверждено.
 {% endif %}
 {% for item in section["items"] %}
 <details>
