@@ -279,7 +279,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     channel_id = str(channel_data.get("channel_id") or channel_data.get("id") or "")
     env = Environment(
         loader=FileSystemLoader(str(templates_dir)),
-        autoescape=select_autoescape(enabled_extensions=("html", "htm", "xml")),
+        autoescape=select_autoescape(enabled_extensions=("html", "htm", "xml", "md")),
         trim_blocks=True,
         lstrip_blocks=True,
     )
@@ -293,7 +293,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
         errors=errors,
         template_name=template_name,
     )
-    output_path = output_root / handle / template_name
+    output_path = output_root / handle / (Path(template_name).stem + ".md")
     output_path.parent.mkdir(parents=True, exist_ok=True)
     if not output_path.exists() or output_path.read_text(encoding="utf-8") != html:
         output_path.write_text(html, encoding="utf-8")
