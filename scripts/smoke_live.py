@@ -53,14 +53,21 @@ def check_output(template_name: str, output: str, tabs: list[dict]) -> list[str]
         failures.append("ID канала склеен с датой проверки")
     if "</a>- <a" in output:
         failures.append("соседние пункты списка склеены")
-    if "</details>- " in output or "</details>## " in output:
-        failures.append("закрывающий тег details склеен со следующим элементом")
+    if any(line.strip() != "</details>" for line in output.splitlines() if "</details>" in line):
+        failures.append("закрывающий тег details приклеен к содержимому карточки")
     if template_name == "outline.md" and "<details>" not in output:
         failures.append("в обзоре отсутствуют раскрывающиеся разделы")
     if template_name == "archive.md" and "<details>" not in output:
         failures.append("в архиве отсутствуют карточки записей")
-    if template_name == "index.md" and "<details>" in output:
-        failures.append("в индексе неожиданно появились раскрывающиеся карточки")
+    if template_name == "index.md":
+        if "<details>" in output:
+            failures.append("в индексе неожиданно появились раскрывающиеся карточки")
+        lines = output.splitlines()
+        if any(
+            line.startswith("## ") and index > 0 and lines[index - 1].startswith("- ")
+            for index, line in enumerate(lines)
+        ):
+            failures.append("заголовок раздела индекса не отделён пустой строкой от предыдущего списка")
     return failures
 
 
@@ -97,8 +104,7 @@ def main() -> int:
             if result.stderr:
                 print(result.stderr, file=sys.stderr, end="")
 
-            evidence_root = template_root
-            copy_evidence(evidence_root, args.artifacts, template_name)
+            copy_evidence(template_root, args.artifacts, template_name)
             if result.returncode:
                 failures.append(f"{template_name}: сборщик завершился с кодом {result.returncode}")
                 continue
