@@ -109,7 +109,7 @@ class ArchiveTests(unittest.TestCase):
             root = Path(tmp)
             templates = root / "templates"
             templates.mkdir()
-            (templates / "outline.html").write_text(
+            (templates / "outline.md").write_text(
                 "<h1>{{ title }}</h1>{% for section in sections %}"
                 "<details><summary>{{ section.title }}</summary>"
                 "{% for item in section.items %}<a href=\"{{ item.display_url }}\">{{ item.title }}</a>"
@@ -126,13 +126,13 @@ class ArchiveTests(unittest.TestCase):
             ]
             with patch("scripts.process_channels.fetch_json", side_effect=success_responses):
                 ok, errors = process_channel(
-                    url, "outline.html", templates, root / "data/channels", root / "data/output"
+                    url, "outline.md", templates, root / "data/channels", root / "data/output"
                 )
             self.assertTrue(ok)
             self.assertEqual(errors, [])
             channel_dir = root / "data/channels/Example"
             old_archive = (channel_dir / "archive/streams.json").read_text(encoding="utf-8")
-            html_path = root / "data/output/Example/outline.html"
+            html_path = root / "data/output/Example/outline.md"
             self.assertIn("<details>", html_path.read_text(encoding="utf-8"))
             self.assertIn("Video one", html_path.read_text(encoding="utf-8"))
 
@@ -145,7 +145,7 @@ class ArchiveTests(unittest.TestCase):
             ]
             with patch("scripts.process_channels.fetch_json", side_effect=second_responses):
                 ok, errors = process_channel(
-                    url, "outline.html", templates, root / "data/channels", root / "data/output"
+                    url, "outline.md", templates, root / "data/channels", root / "data/output"
                 )
             self.assertTrue(ok)
             self.assertTrue(any("streams:" in error for error in errors))
