@@ -26,7 +26,7 @@
 
 {{ item.description|e }}
 {% endif %}
-</details>
+</details>{{ '\n' }}
 
 {% endfor %}
 {% endfor %}
