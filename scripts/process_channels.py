@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import hashlib
 import re
 import shutil
 import subprocess
@@ -107,7 +108,7 @@ def read_json(path: Path, fallback):
 
 
 def write_json_if_changed(path: Path, payload) -> bool:
-    encoded = json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+    encoded = json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\\n"
     if path.exists() and path.read_text(encoding="utf-8") == encoded:
         return False
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -115,6 +116,14 @@ def write_json_if_changed(path: Path, payload) -> bool:
     temporary.write_text(encoded, encoding="utf-8")
     temporary.replace(path)
     return True
+
+
+def save_raw_snapshot(raw_dir: Path, name: str, payload: dict) -> None:
+    """Keep the latest successful response and a content-addressed history copy."""
+    canonical = json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    digest = hashlib.sha256(canonical.encode("utf-8")).hexdigest()
+    write_json_if_changed(raw_dir / f"{name}.json", payload)
+    write_json_if_changed(raw_dir / "history" / name / f"{digest}.json", payload)
 
 
 def item_key(item: dict) -> str | None:
@@ -213,6 +222,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     channel_data, error, diagnostic = fetch_json(url)
     if channel_data is not None:
         write_json_if_changed(channel_dir / "channel.json", channel_data)
+        save_raw_snapshot(raw_dir, "channel", channel_data)
     else:
         errors.append(f"channel: {error}")
         if diagnostic:
@@ -233,7 +243,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
             continue
 
         # Keep the latest successful raw response, but do not touch it on a failed request.
-        write_json_if_changed(raw_dir / f"{key}.json", payload)
+        save_raw_snapshot(raw_dir, key, payload)
         previous = read_json(archive_dir / f"{key}.json", {})
         merged = merge_archive(previous, incoming, key, checked_at)
         write_json_if_changed(archive_dir / f"{key}.json", merged)
