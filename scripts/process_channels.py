@@ -307,7 +307,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Обновить YouTube-архив и сформировать HTML из шаблона.")
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT, help="Файл со списком URL каналов")
-    parser.add_argument("--template", default="outline.html", help="Имя HTML-шаблона из templates/")
+    parser.add_argument("--template", default="outline.md", help="Имя HTML-шаблона из templates/")
     parser.add_argument("--templates", type=Path, default=DEFAULT_TEMPLATES, help="Каталог HTML-шаблонов")
     parser.add_argument("--data", type=Path, default=DEFAULT_DATA, help="Каталог сырых данных и архива")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Каталог HTML-результатов")
