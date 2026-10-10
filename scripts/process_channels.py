@@ -223,6 +223,9 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     if channel_data is not None:
         write_json_if_changed(channel_dir / "channel.json", channel_data)
         save_raw_snapshot(raw_dir, "channel", channel_data)
+        channel_error_log = channel_dir / "logs" / "channel.txt"
+        if channel_error_log.exists():
+            channel_error_log.unlink()
     else:
         errors.append(f"channel: {error}")
         if diagnostic:
@@ -297,7 +300,7 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     output_path.parent.mkdir(parents=True, exist_ok=True)
     if not output_path.exists() or output_path.read_text(encoding="utf-8") != html:
         output_path.write_text(html, encoding="utf-8")
-    print(f"{'УСПЕХ' if status_ok else 'ЧАСТИЧНО'}: {url} -> {output_path}; ошибок вкладок: {len(errors)}")
+    print(f"{'УСПЕХ' if not errors else 'ЧАСТИЧНО'}: {url} -> {output_path}; ошибок: {len(errors)}")
     return status_ok, errors
 
 
