@@ -28,7 +28,6 @@ TABS = {
     "videos": ("Видео", "videos"),
     "shorts": ("Shorts", "shorts"),
     "streams": ("Трансляции", "streams"),
-    "live": ("Трансляции", "live"),
     "podcasts": ("Подкасты", "podcasts"),
     "playlists": ("Плейлисты", "playlists"),
     "community": ("Сообщество", "community"),
@@ -56,7 +55,7 @@ class _NavigationParser(HTMLParser):
         suffix = path[len(prefix):]
         if "/" in suffix or suffix not in TABS:
             return
-        key = "streams" if suffix == "live" else suffix
+        key = suffix
         if key not in self.found:
             self.found.append(key)
 
@@ -78,7 +77,7 @@ def discover_tabs(url: str) -> list[tuple[str, str, str]]:
     normalized_html = html.replace("\\/", "/")
     tab_pattern = re.compile(
         re.escape(parser.base_path)
-        + r"/(videos|shorts|streams|live|podcasts|playlists|community|channels|about)"
+        + r"/(videos|shorts|streams|podcasts|playlists|community|channels|about)"
         + r"(?=[/?#\"'\\])"
     )
     for match in tab_pattern.finditer(normalized_html):
