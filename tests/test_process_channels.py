@@ -103,7 +103,7 @@ class ArchiveTests(unittest.TestCase):
             self.assertFalse(write_json_if_changed(path, {"value": 1}))
             self.assertEqual(path.stat().st_mtime_ns, before)
 
-    def test_html_template_renders_and_failed_tab_keeps_previous_archive(self):
+    def test_markdown_template_renders_and_failed_tab_keeps_previous_archive(self):
         url = "https://www.youtube.com/@Example"
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
@@ -132,9 +132,9 @@ class ArchiveTests(unittest.TestCase):
             self.assertEqual(errors, [])
             channel_dir = root / "data/channels/Example"
             old_archive = (channel_dir / "archive/streams.json").read_text(encoding="utf-8")
-            html_path = root / "data/output/Example/outline.md"
-            self.assertIn("<details>", html_path.read_text(encoding="utf-8"))
-            self.assertIn("Video one", html_path.read_text(encoding="utf-8"))
+            output_path = root / "data/output/Example/outline.md"
+            self.assertIn("<details>", output_path.read_text(encoding="utf-8"))
+            self.assertIn("Video one", output_path.read_text(encoding="utf-8"))
 
             second_responses = [
                 ({"title": "Example channel", "id": "UC1"}, None, ""),
@@ -153,7 +153,7 @@ class ArchiveTests(unittest.TestCase):
                 (channel_dir / "archive/streams.json").read_text(encoding="utf-8"),
                 old_archive,
             )
-            self.assertIn("source temporarily unavailable", html_path.read_text(encoding="utf-8"))
+            self.assertIn("source temporarily unavailable", output_path.read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":
