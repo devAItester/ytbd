@@ -44,7 +44,6 @@ jobs:
         run: python -m unittest discover -s tests -v
   live-navigation-smoke:
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
       - name: Получить файлы репозитория
         uses: actions/checkout@v4
