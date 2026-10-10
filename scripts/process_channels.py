@@ -355,17 +355,19 @@ def collect_video_details(
 
     local_root = channel_output_dir / "media" / "videos"
     details_root = channel_dir / "raw" / "video-details"
-    processed = 0
+    attempted = 0
     for video_id, items in references.items():
         # A prior successful detail extraction remains useful if a later run is limited.
         cached = read_json(details_root / f"{video_id}.json", None)
         already_detailed = isinstance(cached, dict) and cached.get("id")
-        if detail_limit and processed >= detail_limit and not already_detailed:
+        if detail_limit and attempted >= detail_limit:
             continue
-        if already_detailed and detail_limit and processed >= detail_limit:
-            for item in items:
-                item.update(cached)
+        if detail_limit and attempted >= detail_limit:
+            if already_detailed:
+                for item in items:
+                    item.update(cached)
             continue
+        attempted += 1
 
         source_item = items[0]
         candidate_url = str(source_item.get("display_url") or source_item.get("webpage_url") or "")
@@ -390,7 +392,6 @@ def collect_video_details(
                 if pending_dir is not None and pending_dir.is_dir():
                     shutil.rmtree(pending_dir, ignore_errors=True)
                 continue
-        processed += 1
         if download_media and pending_dir is not None and pending_dir.is_dir():
             video_dir = local_root / video_folder_name(metadata)
             video_dir.mkdir(parents=True, exist_ok=True)
@@ -699,8 +700,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--data", type=Path, default=DEFAULT_DATA, help="Каталог сырых данных и архива")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT, help="Каталог Markdown-результатов")
     parser.add_argument(
-        "--detail-limit", type=int, default=0,
-        help="Максимум уникальных видео для подробного сбора при full.md; 0 означает все видео",
+        "--test-detail-limit", type=int, default=0,
+        help="ТЕСТ: максимум уникальных видео для подробного сбора на канал; 0 означает все видео",
     )
     parser.add_argument(
         "--download-media", action="store_true",
@@ -713,8 +714,8 @@ def main(argv: list[str] | None = None) -> int:
         help="Локальный браузер для извлечения cookies, например firefox или chrome",
     )
     args = parser.parse_args(argv)
-    if args.detail_limit < 0:
-        print("ОШИБКА настроек: --detail-limit не может быть отрицательным.", file=sys.stderr)
+    if args.test_detail_limit < 0:
+        print("ОШИБКА настроек: --test-detail-limit не может быть отрицательным.", file=sys.stderr)
         return 2
 
     if shutil.which("yt-dlp") is None:
