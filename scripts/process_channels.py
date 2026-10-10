@@ -172,11 +172,20 @@ def fetch_json(url: str, playlist_items: int = 0) -> tuple[dict | None, str | No
 
 
 
-def fetch_video_details(url: str, media_dir: Path | None = None) -> tuple[dict | None, str | None, str]:
+def fetch_video_details(
+    url: str,
+    media_dir: Path | None = None,
+    cookies_file: Path | None = None,
+    cookies_from_browser: str | None = None,
+) -> tuple[dict | None, str | None, str]:
     """Fetch one video's full yt-dlp metadata; optionally save thumbnail and subtitles, never the video."""
     command = [
         "yt-dlp", "--skip-download", "--no-playlist", "--dump-json",
     ]
+    if cookies_file is not None:
+        command.extend(["--cookies", str(cookies_file)])
+    elif cookies_from_browser:
+        command.extend(["--cookies-from-browser", cookies_from_browser])
     if media_dir is not None:
         media_dir.mkdir(parents=True, exist_ok=True)
         command.extend([
@@ -302,6 +311,8 @@ def collect_video_details(
     active_tabs: list[tuple[str, str, str]],
     detail_limit: int,
     download_media: bool,
+    cookies_file: Path | None = None,
+    cookies_from_browser: str | None = None,
 ) -> tuple[dict[str, dict], list[str]]:
     """Enrich flat archive records with full video JSON and return local-file links by video ID."""
     video_tabs = {"videos", "shorts", "streams", "podcasts"}
@@ -362,7 +373,10 @@ def collect_video_details(
         else:
             url = f"https://www.youtube.com/watch?v={video_id}"
         pending_dir = local_root / f".pending-{video_id}" if download_media else None
-        metadata, error, diagnostic = fetch_video_details(url, pending_dir)
+        metadata, error, diagnostic = fetch_video_details(
+            url, pending_dir, cookies_file=cookies_file,
+            cookies_from_browser=cookies_from_browser,
+        )
         if metadata is None:
             errors.append(f"video {video_id}: {error}" + (f" ({diagnostic[-500:]})" if diagnostic else ""))
             if diagnostic:
@@ -536,7 +550,8 @@ def make_sections(channel_dir: Path, active_tabs: list[tuple[str, str, str]],
 
 def process_channel(url: str, template_name: str, templates_dir: Path,
                     data_root: Path, output_root: Path, detail_limit: int = 0,
-                    download_media: bool = False) -> tuple[bool, list[str]]:
+                    download_media: bool = False, cookies_file: Path | None = None,
+                    cookies_from_browser: str | None = None) -> tuple[bool, list[str]]:
     handle = folder_name(url)
     channel_dir = data_root / handle
     raw_dir = channel_dir / "raw"
@@ -634,7 +649,8 @@ def process_channel(url: str, template_name: str, templates_dir: Path,
     channel_data = read_json(channel_dir / "channel.json", {})
     if template_name == "full.md":
         local_media, detail_errors = collect_video_details(
-            channel_dir, output_root / handle, active_tabs, detail_limit, download_media
+            channel_dir, output_root / handle, active_tabs, detail_limit, download_media,
+            cookies_file=cookies_file, cookies_from_browser=cookies_from_browser,
         )
         if download_media and isinstance(channel_data, dict):
             local_media["_channel"] = download_channel_images(channel_data, output_root / handle)
@@ -689,6 +705,12 @@ def main(argv: list[str] | None = None) -> int:
         "--download-media", action="store_true",
         help="Для подробных видео сохранять обложки, субтитры и текстовые транскрипты (без видеофайлов)",
     )
+    cookies = parser.add_mutually_exclusive_group()
+    cookies.add_argument("--cookies", type=Path, help="Локальный файл cookies.txt для yt-dlp; не добавляй его в Git")
+    cookies.add_argument(
+        "--cookies-from-browser",
+        help="Локальный браузер для извлечения cookies, например firefox или chrome",
+    )
     args = parser.parse_args(argv)
     if args.detail_limit < 0:
         print("ОШИБКА настроек: --detail-limit не может быть отрицательным.", file=sys.stderr)
@@ -712,6 +734,7 @@ def main(argv: list[str] | None = None) -> int:
             process_channel(
                 url, args.template, args.templates, args.data, args.output,
                 detail_limit=args.detail_limit, download_media=args.download_media,
+                cookies_file=args.cookies, cookies_from_browser=args.cookies_from_browser,
             )
         except (OSError, ValueError, RuntimeError) as exc:
             # Isolate failures: one channel must not stop the rest.
