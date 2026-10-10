@@ -15,6 +15,8 @@ from scripts.process_channels import (
     prepare_items,
     process_channel,
     read_channel_urls,
+    subtitle_to_text,
+    video_folder_name,
     write_json_if_changed,
 )
 
@@ -130,6 +132,27 @@ class TemplateTests(unittest.TestCase):
 
 
 class ArchiveTests(unittest.TestCase):
+    def test_video_folder_name_uses_utc_timestamp_and_title(self):
+        from datetime import datetime, timezone
+
+        timestamp = int(datetime(2026, 3, 8, 14, 25, tzinfo=timezone.utc).timestamp())
+        self.assertEqual(
+            video_folder_name({"id": "abc", "title": "Название видео", "timestamp": timestamp}),
+            "20260308-1425-Название-видео",
+        )
+
+    def test_subtitle_to_text_removes_timestamps_and_markup(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "captions.srt"
+            target = Path(tmp) / "transcript.txt"
+            source.write_text(
+                "1\\n00:00:01,000 --> 00:00:02,000\\n<v Speaker>Привет</v>\\n\\n"
+                "2\\n00:00:03,000 --> 00:00:04,000\\nМир\\n",
+                encoding="utf-8",
+            )
+            subtitle_to_text(source, target)
+            self.assertEqual(target.read_text(encoding="utf-8"), "Привет\\nМир\\n")
+
     def test_prepare_items_adds_watch_url(self):
         items = prepare_items({"entries": [{"id": "abc123", "title": "Example video"}]})
         self.assertEqual(items[0]["display_url"], "https://www.youtube.com/watch?v=abc123")
