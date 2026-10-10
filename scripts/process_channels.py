@@ -374,8 +374,6 @@ def collect_video_details(
         cached = read_json(details_root / f"{video_id}.json", None)
         already_detailed = isinstance(cached, dict) and cached.get("id")
         if detail_limit and attempted >= detail_limit:
-            continue
-        if detail_limit and attempted >= detail_limit:
             if already_detailed:
                 for item in items:
                     item.update(cached)
