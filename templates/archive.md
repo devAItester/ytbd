@@ -18,13 +18,13 @@
 <details>
 <summary>{% if item.display_url %}<a href="{{ item.display_url|e }}">{{ item.title|e }}</a>{% else %}{{ item.title|e }}{% endif %} · ID: {{ item.id|e }}</summary>
 
-{% if item.upload_date or item.release_date %}- **Дата:** {{ (item.upload_date or item.release_date)|e }}{% endif %}
-{% if item.duration %}- **Длительность (сек.):** {{ item.duration|e }}{% endif %}
+{% if item.upload_date or item.release_date %}- **Дата:** {{ (item.upload_date or item.release_date)|e }}{{ "\n" }}{% endif %}
+{% if item.duration %}- **Длительность (сек.):** {{ item.duration|e }}{{ "\n" }}{% endif %}
 {% if item.description %}
 
 **Описание**
 
-{{ item.description|e }}
+{{ item.description|e }}{{ "\n" }}
 {% endif %}
 </details>{{ '\n' }}
 
