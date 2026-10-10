@@ -152,7 +152,7 @@ def build_command(url: str, playlist_items: int = 0) -> list[str]:
 
 def fetch_json(url: str, playlist_items: int = 0) -> tuple[dict | None, str | None, str]:
     result = subprocess.run(
-        build_command(url, playlist_items), capture_output=True, text=
+        build_command(url, playlist_items), capture_output=True, text=True,
         encoding="utf-8", errors="replace", check=False,
     )
     diagnostic = result.stderr.strip()
