@@ -173,7 +173,8 @@ def merge_archive(previous: dict, incoming: list[dict], tab: str, checked_at: st
     items = [by_key[key] for key in merged_order]
     current_count = len(incoming)
     previous_items = previous.get("items", []) if isinstance(previous, dict) else []
-    changed = items != previous_items or current_count != previous.get("current_count")
+    previous_current_count = previous.get("current_count") if isinstance(previous, dict) else None
+    changed = items != previous_items or current_count != previous_current_count
     return {
         "tab": tab,
         "updated_at": checked_at if changed or not previous else previous.get("updated_at", checked_at),
