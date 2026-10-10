@@ -109,7 +109,7 @@ def main() -> int:
                 "--output", str(output_root),
             ]
             if template_name == "full.md":
-                command.extend(["--detail-limit", "3", "--download-media"])
+                command.extend(["--test-detail-limit", "3", "--download-media"])
             result = subprocess.run(
                 command, cwd=ROOT, capture_output=True, text=True, check=False
             )
@@ -163,7 +163,7 @@ def main() -> int:
                             "full.md: подробный JSON ни одного видео не сохранён; "
                             f"ошибки: detail_errors[:10]={detail_errors[:10]!r}"
                         )
-                if "--detail-limit" not in command or "Локальные файлы" not in output:
+                if "--test-detail-limit" not in command or "Локальные файлы" not in output:
                     failures.append("full.md: параметры подробного сбора или раздел локальных файлов отсутствуют")
                 if not (output_root / "RTFMurych" / "media" / "videos").is_dir() and not blocked_by_youtube:
                     failures.append("full.md: каталог локальных материалов не создан")

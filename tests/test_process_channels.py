@@ -9,6 +9,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from scripts.process_channels import (
     build_command,
+    collect_video_details,
     discover_tabs,
     fetch_video_details,
     folder_name,
@@ -165,19 +166,18 @@ class ArchiveTests(unittest.TestCase):
             )
             with patch("scripts.process_channels.subprocess.run", return_value=completed) as run:
                 metadata, error, diagnostic = fetch_video_details(
-                    "https://www.youtube.com/watch?v=video1", media_dir=media_dir
+                    "https://www.youtube.com/watch?v=video1"
                 )
             self.assertEqual(metadata["id"], "video1")
             self.assertIsNone(error)
             self.assertEqual(diagnostic, "")
             command = run.call_args.args[0]
-            self.assertIn("--no-simulate", command)
-            self.assertIn("--write-thumbnail", command)
-            self.assertIn("--write-subs", command)
-            self.assertIn("--write-auto-subs", command)
-            self.assertEqual(command[command.index("--sub-langs") + 1], "ru,en")
+            self.assertNotIn("--no-simulate", command)
+            self.assertNotIn("--write-thumbnail", command)
+            self.assertNotIn("--write-subs", command)
+            self.assertNotIn("--write-auto-subs", command)
             self.assertIn("--skip-download", command)
-            self.assertNotIn("all", command[command.index("--sub-langs") + 1:])
+            self.assertIn("--dump-json", command)
 
     def test_playlist_command_can_limit_entries_for_smoke_test(self):
         command = build_command("https://www.youtube.com/playlist?list=PL123", playlist_items=5)
@@ -298,6 +298,27 @@ class ArchiveTests(unittest.TestCase):
             status = json.loads((channel_dir / "status.json").read_text(encoding="utf-8"))
             self.assertEqual(status["tabs"]["streams"]["status"], "error-or-not-yet-collected")
 
+
+    def test_video_thumbnail_download_uses_archive_url_without_metadata(self):
+        from scripts.media import download_video_thumbnail
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            with patch("scripts.media.urlopen", return_value=io.BytesIO(b"fake-image")):
+                path, error = download_video_thumbnail("video1", {"thumbnails": [{"url": "https://i.ytimg.com/vi/video1/hq720.jpg", "width": 720, "height": 404}]}, root)
+            self.assertIsNone(error)
+            self.assertEqual(path, "media/thumbnails/video1.jpg")
+            self.assertEqual((root / path).read_bytes(), b"fake-image")
+
+    def test_detail_attempt_limit_counts_failures(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            channel = root / "channels" / "Example"
+            archive = channel / "archive"
+            archive.mkdir(parents=True)
+            (archive / "videos.json").write_text(json.dumps({"items": [{"id": "v1"}, {"id": "v2"}, {"id": "v3"}]}), encoding="utf-8")
+            with patch("scripts.process_channels.fetch_video_details", return_value=(None, "blocked", "blocked")) as fetch:
+                collect_video_details(channel, root / "output" / "Example", [("videos", "Videos", "videos")], 2, False)
+            self.assertEqual(fetch.call_count, 2)
 
 if __name__ == "__main__":
     unittest.main()
