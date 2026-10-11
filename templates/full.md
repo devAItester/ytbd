@@ -6,6 +6,67 @@
 
 Это представление показывает JSON-метаданные, фактически сохранённые сборщиком yt-dlp. Структура полей не подменяется схемой YouTube Data API; отсутствующие у источника поля не выдумываются.
 
+========================
+
+это блок ограниченный === в котором я пытаюсь тебе объяснить что в него добавить, а ты вносишь изменения  ТОЛЬКО в такой же блок ниже , я его смотрю и пишу тут пожелания за прделами блока ниже ничего править не надо - когда будет готово в блоке нижк - просто удалим лишний вывод - это файл человекочитаемого вывода рав - не более.
+--
+<details>
+<summary>meta</summary>
+<ul>
+<li>one</li>
+<li>two</li>
+<li>
+<!-- <details> -->
+<summary>twos</summary>
+<ul>
+<li>one</li>
+<li>two</li>
+</ul>
+</details>
+<details>
+<summary>local</summary>
+<ul>
+<li>one</li>
+<li>two</li>
+</ul>
+</details>
+</li>
+</ul>
+<summary>1</summary>
+<ul>
+<li>one</li>
+<li>two</li>
+</ul>
+</details>
+<details>
+<summary>2</summary>
+<ul>
+<li>one</li>
+<li>two</li>
+</ul>
+</details>
+</li>
+</ul>
+</details>
+
+
+
+--
+
+поехали
+# {{ title|e }}
+
+_update: {{ checked_at|e }}_
+<details>
+<summary>meta</summary>
+
+
+
+========================
+
+
+
+
 ## Метаданные канала
 
 <details>
